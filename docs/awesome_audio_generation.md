@@ -44,7 +44,9 @@
 - **UniAudio: An Audio Foundation Model Toward Universal Audio Generation**, `arXiv, 2310.00704`, [arxiv](http://arxiv.org/abs/2310.00704v5), [pdf](http://arxiv.org/pdf/2310.00704v5.pdf), cication: [**-1**](None)
 
 	 *Dongchao Yang, Jinchuan Tian, Xu Tan, Rongjie Huang, Songxiang Liu, Xuankai Chang, Jiatong Shi, Sheng Zhao, Jiang Bian, Xixin Wu* · ([UniAudio](https://github.com/yangdongchao/UniAudio) - yangdongchao) ![Star](https://img.shields.io/github/stars/yangdongchao/UniAudio.svg?style=social&label=Star)
-- [[2309.10537] FoleyGen: Visually-Guided Audio Generation](https://arxiv.org/abs/2309.10537)
+- **FoleyGen: Visually-Guided Audio Generation**, `arXiv, 2309.10537`, [arxiv](http://arxiv.org/abs/2309.10537v1), [pdf](http://arxiv.org/pdf/2309.10537v1.pdf), cication: [**-1**](None)
+
+	 *Xinhao Mei, Varun Nagaraja, Gael Le Lan, Zhaoheng Ni, Ernie Chang, Yangyang Shi, Vikas Chandra*
 - **Enhance audio generation controllability through representation
   similarity regularization**, `arXiv, 2309.08773`, [arxiv](http://arxiv.org/abs/2309.08773v1), [pdf](http://arxiv.org/pdf/2309.08773v1.pdf), cication: [**-1**](None)
 
@@ -108,17 +110,14 @@
 - **SpeechPrompt v2: Prompt Tuning for Speech Classification Tasks**, `arXiv, 2303.00733`, [arxiv](http://arxiv.org/abs/2303.00733v1), [pdf](http://arxiv.org/pdf/2303.00733v1.pdf), cication: [**-1**](None)
 
 	 *Kai-Wei Chang, Yu-Kai Wang, Hua Shen, Iu-thing Kang, Wei-Cheng Tseng, Shang-Wen Li, Hung-yi Lee*
-![](media/Pasted%20image%2020230615140208.png)
 - [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale - Meta Research](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)
-    - [语音领域的GPT时刻：Meta 发布「突破性」生成式语音系统，一个通用模型解决多项任务 | 机器之心](https://www.jiqizhixin.com/articles/2023-06-18)
-    - [Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-18)) · ([ai.facebook](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/))
 - **SpeechGen: Unlocking the Generative Power of Speech Language Models with
   Prompts**, `arXiv, 2306.02207`, [arxiv](http://arxiv.org/abs/2306.02207v3), [pdf](http://arxiv.org/pdf/2306.02207v3.pdf), cication: [**-1**](None)
 
 	 *Haibin Wu, Kai-Wei Chang, Yuan-Kuei Wu, Hung-yi Lee*
 - [SpeechPrompt](https://ga642381.github.io/SpeechPrompt/speechgen.html
-
 	 · ([SpeechGen](https://github.com/ga642381/SpeechGen) - ga642381) ![Star](https://img.shields.io/github/stars/ga642381/SpeechGen.svg?style=social&label=Star)
 
 - **Textually Pretrained Speech Language Models**, `arXiv, 2305.13009`, [arxiv](http://arxiv.org/abs/2305.13009v3), [pdf](http://arxiv.org/pdf/2305.13009v3.pdf), cication: [**-1**](None)
@@ -159,8 +158,8 @@
 - [**SALMONN**](https://github.com/bytedance/SALMONN/) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
 
 	 *SALMONN: Speech Audio Language Music Open Neural Network*
-	- 解锁通用听觉人工智能！清华电子[系联合火山语音，开源全新认知导向听觉大语言模型
-](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652368752&idx=2&sn=c3c4463725a2c13869d9b887c1f54b62)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652368752&idx=2&sn=c3c4463725a2c13869d9b887c1f54b62))
 - **Any-to-Any Generation via Composable Diffusion**, `arXiv, 2305.11846`, [arxiv](http://arxiv.org/abs/2305.11846v1), [pdf](http://arxiv.org/pdf/2305.11846v1.pdf), cication: [**-1**](None)
 
 	 *Zineng Tang, Ziyi Yang, Chenguang Zhu, Michael Zeng, Mohit Bansal*
