@@ -1,14 +1,32 @@
-# Awesome audio plaza ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Awesome Audio Plaza ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 Daily tracking of awesome audio papers, projects, and resources. 
 Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitter(X)](https://twitter.com/_akhaliq?lang=en), [github trending](https://github.com/trending), [paper with code](https://github.com/ml-feeds/pwc-feeds), weixin, etc.
 
-- [Awesome audio plaza ](#awesome-audio-plaza-)
-  - [Awesome music generation](#awesome-music-generation)
+- [Awesome Audio Plaza ](#awesome-audio-plaza-)
+  - [Awesome Natural TTS](#awesome-natural-tts)
+  - [Awesome Music Generation](#awesome-music-generation)
+  - [Awesome ASR](#awesome-asr)
+  - [Awesome VITS](#awesome-vits)
+  - [Awesome Audio Gallery](#awesome-audio-gallery)
+  - [Awesome Audio Encoding](#awesome-audio-encoding)
+  - [Awesome Audio Generation and Understanding](#awesome-audio-generation-and-understanding)
+  - [Awesome Voice Conversion](#awesome-voice-conversion)
 
 ---
 
-## Awesome music generation
+## Awesome Natural TTS
+
+- [Awesome Natural TTS](./docs/awesome_natural_tts.md#awesome-natural-tts)
+  - [Vocoder](./docs/awesome_natural_tts.md#vocoder)
+  - [Emotional TTS](./docs/awesome_natural_tts.md#emotional-tts)
+  - [Natural TTS](./docs/awesome_natural_tts.md#natural-tts)
+  - [MultiLingual TTS](./docs/awesome_natural_tts.md#multilingual-tts)
+  - [Unsupervised TTS](./docs/awesome_natural_tts.md#unsupervised-tts)
+  - [Prompt TTS](./docs/awesome_natural_tts.md#prompt-tts)
+  - [Misc](./docs/awesome_natural_tts.md#misc)
+
+## Awesome Music Generation
 
 - [Awesome music generation](./docs/awesome_music_generation.md#awesome-music-generation)
 	- [Papers](./docs/awesome_music_generation.md#papers)
@@ -18,3 +36,52 @@ Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitt
 	- [Other](./docs/awesome_music_generation.md#other)
 	- [Extra reference](./docs/awesome_music_generation.md#extra-reference)
 
+## Awesome ASR
+
+- [Awesome ASR](./docs/awesome_asr.md#awesome-asr)
+  - [Papers](./docs/awesome_asr.md#papers)
+  - [Models](./docs/awesome_asr.md#models)
+  - [Whisper](./docs/awesome_asr.md#whisper)
+  - [Toolkits](./docs/awesome_asr.md#toolkits)
+
+## Awesome VITS
+
+- [Awesome VITS](./docs/awesome_vits.md#awesome-vits)
+  - [Projects](./docs/awesome_vits.md#projects)
+  - [Papers](./docs/awesome_vits.md#papers)
+  - [Reference](./docs/awesome_vits.md#reference)
+
+## Awesome Audio Gallery
+
+- [Awesome Audio Gallery](./docs/awesome_audio_gallery.md#awesome-audio-gallery)
+  - [Courses and Tutorials](./docs/awesome_audio_gallery.md#courses-and-tutorials)
+    - [DLHLP 2020 Spring](./docs/awesome_audio_gallery.md#dlhlp-2020-spring)
+    - [Large Audio Model](./docs/awesome_audio_gallery.md#large-audio-model)
+  - [Speech Translation](./docs/awesome_audio_gallery.md#speech-translation)
+  - [Toolkits](./docs/awesome_audio_gallery.md#toolkits)
+  - [Dataset](./docs/awesome_audio_gallery.md#dataset)
+    - [TTS](./docs/awesome_audio_gallery.md#tts)
+  - [Audio Techs](./docs/awesome_audio_gallery.md#audio-techs)
+
+## Awesome Audio Encoding
+
+- [Audio Encoding](./docs/awesome_audio_encoding.md#audio-encoding)
+  - [Papers and Projects](./docs/awesome_audio_encoding.md#papers-and-projects)
+  - [References](./docs/awesome_audio_encoding.md#references)
+
+## Awesome Audio Generation and Understanding
+
+- [Awesome Audio Generation and Understanding](./docs/awesome_audio_generation.md#awesome-audio-generation-and-understanding)
+  - [Audio Generation](./docs/awesome_audio_generation.md#audio-generation)
+  - [Speech Generation](./docs/awesome_audio_generation.md#speech-generation)
+  - [Audio Understanding](./docs/awesome_audio_generation.md#audio-understanding)
+  - [Image Generation With Audio](./docs/awesome_audio_generation.md#image-generation-with-audio)
+  - [Toolkits](./docs/awesome_audio_generation.md#toolkits)
+  - [Other](./docs/awesome_audio_generation.md#other)
+
+
+## Awesome Voice Conversion
+
+- [Awesome Voice Conversion](./docs/awesome_voice_conversion.md#awesome-voice-conversion)
+  - [Papers](./docs/awesome_voice_conversion.md#papers)
+  - [Projects](./docs/awesome_voice_conversion.md#projects)
