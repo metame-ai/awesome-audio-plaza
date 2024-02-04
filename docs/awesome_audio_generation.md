@@ -10,6 +10,9 @@
 
 
 ## Audio Generation
+- **BATON: Aligning Text-to-Audio Model with Human Preference Feedback**, `arXiv, 2402.00744`, [arxiv](http://arxiv.org/abs/2402.00744v1), [pdf](http://arxiv.org/pdf/2402.00744v1.pdf), cication: [**-1**](None)
+
+	 *Huan Liao, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li* · ([baton2024.github](https://baton2024.github.io/))
 - **SonicVisionLM: Playing Sound with Vision Language Models**, `arXiv, 2401.04394`, [arxiv](http://arxiv.org/abs/2401.04394v2), [pdf](http://arxiv.org/pdf/2401.04394v2.pdf), cication: [**-1**](None)
 
 	 *Zhifeng Xie, Shengye Yu, Qile He, Mengtian Li* · ([yusiissy.github](https://yusiissy.github.io/SonicVisionLM.github.io/))
