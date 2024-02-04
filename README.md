@@ -12,6 +12,7 @@ Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitt
   - [Awesome Audio Encoding](#awesome-audio-encoding)
   - [Awesome Audio Generation and Understanding](#awesome-audio-generation-and-understanding)
   - [Awesome Voice Conversion](#awesome-voice-conversion)
+  - [Awesome Zero Shot TTS](#awesome-zero-shot-tts)
 
 ---
 
@@ -79,9 +80,14 @@ Source: arxiv, [huggingface daily papers](https://huggingface.co/papers), [twitt
   - [Toolkits](./docs/awesome_audio_generation.md#toolkits)
   - [Other](./docs/awesome_audio_generation.md#other)
 
-
 ## Awesome Voice Conversion
 
 - [Awesome Voice Conversion](./docs/awesome_voice_conversion.md#awesome-voice-conversion)
   - [Papers](./docs/awesome_voice_conversion.md#papers)
   - [Projects](./docs/awesome_voice_conversion.md#projects)
+
+## Awesome Zero Shot TTS
+
+- [Awesome Zero Shot TTS](./docs/awesome_zeroshot_tts.md#awesome-zero-shot-tts)
+  - [Gallery](./docs/awesome_zeroshot_tts.md#gallery)
+  - [References](./docs/awesome_zeroshot_tts.md#references)
