@@ -51,7 +51,10 @@
 - **Pheme: Efficient and Conversational Speech Generation**, `arXiv, 2401.02839`, [arxiv](http://arxiv.org/abs/2401.02839v1), [pdf](http://arxiv.org/pdf/2401.02839v1.pdf), cication: [**-1**](None)
 
 	 *Paweł Budzianowski, Taras Sereda, Tomasz Cichy, Ivan Vulić* · ([arxiv](https://arxiv.org/pdf/2401.02839.pdf)) · ([pheme](https://github.com/PolyAI-LDN/pheme?tab=readme-ov-file) - PolyAI-LDN) ![Star](https://img.shields.io/github/stars/PolyAI-LDN/pheme.svg?style=social&label=Star) · ([polyai-ldn.github](https://polyai-ldn.github.io/pheme/#fn1))
-- [[2302.04215] A Vector Quantized Approach for Text to Speech Synthesis on Real-World Spontaneous Speech](https://arxiv.org/abs/2302.04215)
+- **A Vector Quantized Approach for Text to Speech Synthesis on Real-World
+  Spontaneous Speech**, `arXiv, 2302.04215`, [arxiv](http://arxiv.org/abs/2302.04215v1), [pdf](http://arxiv.org/pdf/2302.04215v1.pdf), cication: [**14**](https://scholar.google.com/scholar?cites=1779712084933914260&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Li-Wei Chen, Shinji Watanabe, Alexander Rudnicky*
 
 	 · ([MQTTS](https://github.com/b04901014/MQTTS) - b04901014) ![Star](https://img.shields.io/github/stars/b04901014/MQTTS.svg?style=social&label=Star)
 - [**SC-CNN**](https://github.com/hcy71o/SC-CNN) - hcy71o ![Star](https://img.shields.io/github/stars/hcy71o/SC-CNN.svg?style=social&label=Star)
@@ -69,10 +72,8 @@
 - **Make-A-Voice: Unified Voice Synthesis With Discrete Representation**, `arXiv, 2305.19269`, [arxiv](http://arxiv.org/abs/2305.19269v1), [pdf](http://arxiv.org/pdf/2305.19269v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=12763739973148023166&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Rongjie Huang, Chunlei Zhang, Yongqi Wang, Dongchao Yang, Luping Liu, Zhenhui Ye, Ziyue Jiang, Chao Weng, Zhou Zhao, Dong Yu*
-- [Make-A-Voice](https://make-a-voice.github.io/)
-
-- **Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive
-  Bias**, `arXiv, 2306.03509`, [arxiv](http://arxiv.org/abs/2306.03509v1), [pdf](http://arxiv.org/pdf/2306.03509v1.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=15692405188854768212&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+    - [Make-A-Voice](https://make-a-voice.github.io/)
+- **Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias**, `arXiv, 2306.03509`, [arxiv](http://arxiv.org/abs/2306.03509v1), [pdf](http://arxiv.org/pdf/2306.03509v1.pdf), cication: [**12**](https://scholar.google.com/scholar?cites=15692405188854768212&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Ziyue Jiang, Yi Ren, Zhenhui Ye, Jinglin Liu, Chen Zhang, Qian Yang, Shengpeng Ji, Rongjie Huang, Chunfeng Wang, Xiang Yin*
     - [Mega-TTS | demo-page](https://mega-tts.github.io/demo-page)
@@ -127,9 +128,8 @@
 
 ## References
 - [**open-tts-tracker**](https://github.com/Vaibhavs10/open-tts-tracker) - Vaibhavs10 ![Star](https://img.shields.io/github/stars/Vaibhavs10/open-tts-tracker.svg?style=social&label=Star)
+    - [open_tts_tracker](https://www.reddit.com/r/LocalLLaMA/comments/19fegt5/open_tts_tracker/)
 - [AR-NAR-TTS.pdf](https://tan-xu.github.io/AR-NAR-TTS.pdf)
 - [【機器學習2023】語音基石模型 (助教張凱為講授) (1/2) - YouTube](https://www.youtube.com/watch?v=m7Be7ppR6q0&ab_channel=Hung-yiLee)
 - [【機器學習2023】語音基石模型 (助教張凱為講授) (2/2) - YouTube](https://www.youtube.com/watch?v=HTAq-CPrU5s&ab_channel=Hung-yiLee)
-- [https://speech.ee.ntu.edu.tw/\~hylee/ml/ml2023-course-data/張凱爲-x-機器學習-x-語音基石模型.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)
-
-- [Fetching Title#0s87](https://www.reddit.com/r/LocalLLaMA/comments/19fegt5/open_tts_tracker/)
+- [ml2023-course-data/張凱爲-x-機器學習-x-語音基石模型.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)
