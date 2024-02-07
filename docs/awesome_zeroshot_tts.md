@@ -6,6 +6,9 @@
 
 
 ## Gallery
+- [**metavoice-src**](https://github.com/metavoiceio/metavoice-src) - metavoiceio ![Star](https://img.shields.io/github/stars/metavoiceio/metavoice-src.svg?style=social&label=Star)
+
+	 *AI for human-level speech intelligence* · ([huggingface](https://huggingface.co/metavoiceio/metavoice-1B-v0.1)) · ([ttsdemo.themetavoice](https://ttsdemo.themetavoice.xyz/))
 - [**WhisperSpeech**](https://github.com/collabora/WhisperSpeech) - collabora ![Star](https://img.shields.io/github/stars/collabora/WhisperSpeech.svg?style=social&label=Star)
 
 	 *An Open Source text-to-speech system built by inverting Whisper.* · ([collabora.github](https://collabora.github.io/WhisperSpeech/))

@@ -10,6 +10,10 @@
 
 
 ## Audio Generation
+- **Natural language guidance of high-fidelity text-to-speech with synthetic
+  annotations**, `arXiv, 2402.01912`, [arxiv](http://arxiv.org/abs/2402.01912v1), [pdf](http://arxiv.org/pdf/2402.01912v1.pdf), cication: [**-1**](None)
+
+	 *Dan Lyth, Simon King* · ([text-description-to-speech](https://www.text-description-to-speech.com/))
 - **BATON: Aligning Text-to-Audio Model with Human Preference Feedback**, `arXiv, 2402.00744`, [arxiv](http://arxiv.org/abs/2402.00744v1), [pdf](http://arxiv.org/pdf/2402.00744v1.pdf), cication: [**-1**](None)
 
 	 *Huan Liao, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li* · ([baton2024.github](https://baton2024.github.io/))
@@ -26,7 +30,8 @@
 - **Audiobox: Unified Audio Generation with Natural Language Prompts**, `arXiv, 2312.15821`, [arxiv](http://arxiv.org/abs/2312.15821v1), [pdf](http://arxiv.org/pdf/2312.15821v1.pdf), cication: [**-1**](None)
 
 	 *Apoorv Vyas, Bowen Shi, Matthew Le, Andros Tjandra, Yi-Chiao Wu, Baishan Guo, Jiemin Zhang, Xinyue Zhang, Robert Adkins, William Ngan* · ([ai.meta](https://ai.meta.com/research/publications/audiobox-unified-audio-generation-with-natural-language-prompts/))
-- [Audiobox: Generating audio from voice and natural language prompts](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/?utm_source=twitter&utm_medium=organic_social&utm_campaign=fair10&utm_content=thread)
+
+	 · ([ai.meta](https://ai.meta.com/blog/audiobox-generating-audio-voice-natural-language-prompts/?utm_source=twitter&utm_medium=organic_social&utm_campaign=fair10&utm_content=thread))
 - **EDMSound: Spectrogram Based Diffusion Models for Efficient and
   High-Quality Audio Synthesis**, `arXiv, 2311.08667`, [arxiv](http://arxiv.org/abs/2311.08667v2), [pdf](http://arxiv.org/pdf/2311.08667v2.pdf), cication: [**-1**](None)
 
@@ -139,6 +144,10 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and
+  Dialogue Abilities**, `arXiv, 2402.01831`, [arxiv](http://arxiv.org/abs/2402.01831v1), [pdf](http://arxiv.org/pdf/2402.01831v1.pdf), cication: [**-1**](None)
+
+	 *Zhifeng Kong, Arushi Goel, Rohan Badlani, Wei Ping, Rafael Valle, Bryan Catanzaro*
 - [**Qwen-Audio**](https://github.com/QwenLM/Qwen-Audio) - QwenLM ![Star](https://img.shields.io/github/stars/QwenLM/Qwen-Audio.svg?style=social&label=Star)
 
 	 *The official repo of Qwen-Audio (通义千问-Audio) chat & pretrained large audio language model proposed by Alibaba Cloud.*

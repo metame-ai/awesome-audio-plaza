@@ -11,6 +11,10 @@
 
 
 ## Vocoder
+- **EVA-GAN: Enhanced Various Audio Generation via Scalable Generative
+  Adversarial Networks**, `arXiv, 2402.00892`, [arxiv](http://arxiv.org/abs/2402.00892v1), [pdf](http://arxiv.org/pdf/2402.00892v1.pdf), cication: [**-1**](None)
+
+	 *Shijia Liao, Shiyi Lan, Arun George Zachariah* · ([double-blind-eva-gan](https://double-blind-eva-gan.cc/))
 - **Multi-Scale Sub-Band Constant-Q Transform Discriminator for
   High-Fidelity Vocoder**, `arXiv, 2311.14957`, [arxiv](http://arxiv.org/abs/2311.14957v1), [pdf](http://arxiv.org/pdf/2311.14957v1.pdf), cication: [**-1**](None)
 

@@ -8,8 +8,10 @@
 	- [Other](#other)
 	- [Extra reference](#extra-reference)
 
-
 ## Papers
+- **MusicRL: Aligning Music Generation to Human Preferences**, `arXiv, 2402.04229`, [arxiv](http://arxiv.org/abs/2402.04229v1), [pdf](http://arxiv.org/pdf/2402.04229v1.pdf), cication: [**-1**](None)
+
+	 *Geoffrey Cideron, Sertan Girgin, Mauro Verzetti, Damien Vincent, Matej Kastelic, Zalán Borsos, Brian McWilliams, Victor Ungureanu, Olivier Bachem, Olivier Pietquin* · ([google-research.github](https://google-research.github.io/seanet/musiclm/rlhf/))
 - **DITTO: Diffusion Inference-Time T-Optimization for Music Generation**, `arXiv, 2401.12179`, [arxiv](http://arxiv.org/abs/2401.12179v1), [pdf](http://arxiv.org/pdf/2401.12179v1.pdf), cication: [**-1**](None)
 
 	 *Zachary Novack, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J. Bryan* · ([ditto-music.github](https://ditto-music.github.io/web/))
