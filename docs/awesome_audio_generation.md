@@ -10,6 +10,12 @@
 
 
 ## Audio Generation
+- **Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**, `arXiv, 2402.10009`, [arxiv](http://arxiv.org/abs/2402.10009v1), [pdf](http://arxiv.org/pdf/2402.10009v1.pdf), cication: [**-1**](None)
+
+	 *Hila Manor, Tomer Michaeli* · ([AudioEditing](https://github.com/hilamanor/AudioEditing) - hilamanor) ![Star](https://img.shields.io/github/stars/hilamanor/AudioEditing.svg?style=social&label=Star)
+- [Fetching Title#vjkh](https://huggingface.co/papers/2402.04825)
+
+	 · ([stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Stability-AI) ![Star](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools.svg?style=social&label=Star) · ([stability-ai.github](https://stability-ai.github.io/stable-audio-demo))
 - **Natural language guidance of high-fidelity text-to-speech with synthetic
   annotations**, `arXiv, 2402.01912`, [arxiv](http://arxiv.org/abs/2402.01912v1), [pdf](http://arxiv.org/pdf/2402.01912v1.pdf), cication: [**-1**](None)
 
@@ -110,7 +116,9 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like**, `arXiv, 2402.07383`, [arxiv](http://arxiv.org/abs/2402.07383v1), [pdf](http://arxiv.org/pdf/2402.07383v1.pdf), cication: [**-1**](None)
 
+	 *Naoyuki Kanda, Xiaofei Wang, Sefik Emre Eskimez, Manthan Thakker, Hemin Yang, Zirun Zhu, Min Tang, Canrun Li, Steven Tsai, Zhen Xiao* · ([aka](https://aka.ms/elate/))
 - **SpeechPrompt: An Exploration of Prompt Tuning on Generative Spoken
   Language Model for Speech Processing Tasks**, `arXiv, 2203.16773`, [arxiv](http://arxiv.org/abs/2203.16773v3), [pdf](http://arxiv.org/pdf/2203.16773v3.pdf), cication: [**-1**](None)
 

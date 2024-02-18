@@ -32,7 +32,9 @@
 - [https://speech.ee.ntu.edu.tw/\~hylee/ml/ml2023-course-data/張凱爲-x-機器學習-x-語音基石模型.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)
 
 ## Speech Translation
+- [**gentranslate**](https://github.com/yuchen005/gentranslate) - yuchen005 ![Star](https://img.shields.io/github/stars/yuchen005/gentranslate.svg?style=social&label=Star)
 
+	 *Code for paper "GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators"*
 - **PolyVoice: Language Models for Speech to Speech Translation**, `arXiv, 2306.02982`, [arxiv](http://arxiv.org/abs/2306.02982v2), [pdf](http://arxiv.org/pdf/2306.02982v2.pdf), cication: [**-1**](None)
 
 	 *Qianqian Dong, Zhiying Huang, Qiao Tian, Chen Xu, Tom Ko, Yunlong Zhao, Siyuan Feng, Tang Li, Kexin Wang, Xuxin Cheng* · ([speechtranslation.github](https://speechtranslation.github.io/polyvoice/))
