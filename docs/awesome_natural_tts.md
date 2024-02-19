@@ -43,6 +43,8 @@
   on 100K hours of data**, `arXiv, 2402.08093`, [arxiv](http://arxiv.org/abs/2402.08093v2), [pdf](http://arxiv.org/pdf/2402.08093v2.pdf), cication: [**-1**](None)
 
 	 *Mateusz Łajszczak, Guillermo Cámbara, Yang Li, Fatih Beyhan, Arent van Korlaar, Fan Yang, Arnaud Joly, Álvaro Martín-Cortinas, Ammar Abbas, Adam Michalski* · ([amazon-ltts-paper](https://amazon-ltts-paper.com))
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-02-16-4))
 - **Pheme: Efficient and Conversational Speech Generation**, `arXiv, 2401.02839`, [arxiv](http://arxiv.org/abs/2401.02839v1), [pdf](http://arxiv.org/pdf/2401.02839v1.pdf), cication: [**-1**](None)
 
 	 *Paweł Budzianowski, Taras Sereda, Tomasz Cichy, Ivan Vulić* · ([polyai-ldn.github](https://polyai-ldn.github.io/pheme/)) · ([pheme](https://github.com/PolyAI-LDN/pheme) - PolyAI-LDN) ![Star](https://img.shields.io/github/stars/PolyAI-LDN/pheme.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/PolyAI/pheme))
