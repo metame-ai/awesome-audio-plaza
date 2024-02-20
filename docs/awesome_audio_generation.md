@@ -147,6 +147,10 @@
     - [SpeechGPT](https://0nutation.github.io/SpeechGPT.github.io/)
     - [GitHub - 0nutation/SpeechGPT: SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.](https://github.com/0nutation/SpeechGPT)
 
+- **Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion
+  Models**, `NeurIPS, 2024`, [arxiv](http://arxiv.org/abs/2306.17203v1), [pdf](http://arxiv.org/pdf/2306.17203v1.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=4465076046329977447&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Simian Luo, Chuanhao Yan, Chenxu Hu, Hang Zhao* · ([diff-foley.github](https://diff-foley.github.io/)) · ([Diff-Foley](https://github.com/luosiallen/Diff-Foley) - luosiallen) ![Star](https://img.shields.io/github/stars/luosiallen/Diff-Foley.svg?style=social&label=Star)
 - [**bark**](https://github.com/suno-ai/bark) - suno-ai ![Star](https://img.shields.io/github/stars/suno-ai/bark.svg?style=social&label=Star)
 
 	 *🔊 Text-Prompted Generative Audio Model*
