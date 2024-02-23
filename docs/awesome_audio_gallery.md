@@ -41,7 +41,9 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**nendo**](https://github.com/okio-ai/nendo) - okio-ai ![Star](https://img.shields.io/github/stars/okio-ai/nendo.svg?style=social&label=Star)
 
+	 *The Nendo AI Audio Tool Suite*
 - [**deepfilternet**](https://github.com/rikorose/deepfilternet) - rikorose ![Star](https://img.shields.io/github/stars/rikorose/deepfilternet.svg?style=social&label=Star)
 
 	 *Noise supression using deep filtering*
