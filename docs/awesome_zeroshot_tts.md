@@ -6,6 +6,9 @@
 
 
 ## Gallery
+- [[2402.09378] MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech](https://arxiv.org/abs/2402.09378)
+
+	 · ([mobilespeech.github](https://mobilespeech.github.io/))
 - [**metavoice-src**](https://github.com/metavoiceio/metavoice-src) - metavoiceio ![Star](https://img.shields.io/github/stars/metavoiceio/metavoice-src.svg?style=social&label=Star)
 
 	 *AI for human-level speech intelligence* · ([huggingface](https://huggingface.co/metavoiceio/metavoice-1B-v0.1)) · ([ttsdemo.themetavoice](https://ttsdemo.themetavoice.xyz/))
@@ -34,6 +37,9 @@
 - [**xtts**](https://huggingface.co/spaces/coqui/xtts) - coqui 🤗
 
 	 · ([huggingface](https://huggingface.co/spaces/coqui/xtts)) · ([tts.readthedocs](https://tts.readthedocs.io/en/dev/models/xtts.html))
+- [P-Flow: A Fast and Data-Efficient Zero-Shot TTS through Speech Prompting - NVIDIA ADLR](https://research.nvidia.com/labs/adlr/projects/pflow/)
+
+	 · ([openreview](https://openreview.net/pdf?id=zNA7u7wtIN))
 - **PromptTTS 2: Describing and Generating Voices with Text Prompt**, `arXiv, 2309.02285`, [arxiv](http://arxiv.org/abs/2309.02285v2), [pdf](http://arxiv.org/pdf/2309.02285v2.pdf), cication: [**3**](https://scholar.google.com/scholar?cites=2491055882531395348&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Yichong Leng, Zhifang Guo, Kai Shen, Xu Tan, Zeqian Ju, Yanqing Liu, Yufei Liu, Dongchao Yang, Leying Zhang, Kaitao Song* · ([speechresearch.github](https://speechresearch.github.io/prompttts2))

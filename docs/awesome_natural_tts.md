@@ -9,6 +9,8 @@
   - [Prompt TTS](#prompt-tts)
   - [Misc](#misc)
 
+## Evaluation
+- [**TTS-Arena**](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) - TTS-AGI 🤗
 
 ## Vocoder
 - **EVA-GAN: Enhanced Various Audio Generation via Scalable Generative
@@ -165,6 +167,8 @@
     - [PromptTTS: controllable text-to-speech with text descriptions - Speech Research](https://speechresearch.github.io/prompttts/#promptspeech)
 
 
+## Efficient TTS
+
 ## Misc
 - **Expressive TTS Driven by Natural Language Prompts Using Few Human
   Annotations**, `arXiv, 2311.01260`, [arxiv](http://arxiv.org/abs/2311.01260v1), [pdf](http://arxiv.org/pdf/2311.01260v1.pdf), cication: [**-1**](None)
@@ -189,3 +193,8 @@
 - **Controllable Speaking Styles Using a Large Language Model**, `arXiv, 2305.10321`, [arxiv](http://arxiv.org/abs/2305.10321v2), [pdf](http://arxiv.org/pdf/2305.10321v2.pdf), cication: [**-1**](None)
 
 	 *Atli Thor Sigurgeirsson, Simon King*
+
+## OpenTTS
+- [**piper**](https://github.com/rhasspy/piper) - rhasspy ![Star](https://img.shields.io/github/stars/rhasspy/piper.svg?style=social&label=Star)
+
+	 *A fast, local neural text to speech system*

@@ -129,6 +129,8 @@
 - [Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale - Meta Research](https://research.facebook.com/publications/voicebox-text-guided-multilingual-universal-speech-generation-at-scale/)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2023-06-18)) · ([ai.facebook](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/))
+
+	 · ([voicebox.metademolab](https://voicebox.metademolab.com/zs_tts.html))
 - **SpeechGen: Unlocking the Generative Power of Speech Language Models with
   Prompts**, `arXiv, 2306.02207`, [arxiv](http://arxiv.org/abs/2306.02207v3), [pdf](http://arxiv.org/pdf/2306.02207v3.pdf), cication: [**-1**](None)
 

@@ -6,6 +6,10 @@
 
 
 ## Papers and Projects
+- **Language-Codec: Reducing the Gaps Between Discrete Codec Representation
+  and Speech Language Models**, `arXiv, 2402.12208`, [arxiv](http://arxiv.org/abs/2402.12208v2), [pdf](http://arxiv.org/pdf/2402.12208v2.pdf), cication: [**-1**](None)
+
+	 *Shengpeng Ji, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialung Zuo, Shulei Wang, Zhou Zhao* · ([languagecodec](https://github.com/jishengpeng/languagecodec?tab=readme-ov-file) - jishengpeng) ![Star](https://img.shields.io/github/stars/jishengpeng/languagecodec.svg?style=social&label=Star) · ([languagecodec.github](https://languagecodec.github.io/))
 - [**funcodec**](https://github.com/alibaba-damo-academy/funcodec) - alibaba-damo-academy ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/funcodec.svg?style=social&label=Star)
 - [**sonar**](https://github.com/facebookresearch/sonar) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/sonar.svg?style=social&label=Star)
 
