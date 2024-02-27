@@ -195,6 +195,9 @@
 	 *Atli Thor Sigurgeirsson, Simon King*
 
 ## OpenTTS
+- [**MeloTTS**](https://github.com/myshell-ai/MeloTTS) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/MeloTTS.svg?style=social&label=Star)
+
+	 *High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.*
 - [**piper**](https://github.com/rhasspy/piper) - rhasspy ![Star](https://img.shields.io/github/stars/rhasspy/piper.svg?style=social&label=Star)
 
 	 *A fast, local neural text to speech system*

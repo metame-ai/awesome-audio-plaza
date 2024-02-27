@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **ChatMusician: Understanding and Generating Music Intrinsically with LLM**, `arXiv, 2402.16153`, [arxiv](http://arxiv.org/abs/2402.16153v1), [pdf](http://arxiv.org/pdf/2402.16153v1.pdf), cication: [**-1**](None)
+
+	 *Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou*
 - **MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models**, `arXiv, 2402.06178`, [arxiv](http://arxiv.org/abs/2402.06178v1), [pdf](http://arxiv.org/pdf/2402.06178v1.pdf), cication: [**-1**](None)
 
 	 *Yixiao Zhang, Yukara Ikemiya, Gus Xia, Naoki Murata, Marco Martínez, Wei-Hsiang Liao, Yuki Mitsufuji, Simon Dixon* · ([wry-neighbor-173.notion](https://wry-neighbor-173.notion.site/MusicMagus-Zero-Shot-Text-to-Music-Editing-via-Diffusion-Models-8f55a82f34944eb9a4028ca56c546d9d))

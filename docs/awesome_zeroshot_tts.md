@@ -6,7 +6,10 @@
 
 
 ## Gallery
-- [[2402.09378] MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech](https://arxiv.org/abs/2402.09378)
+- **MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot
+  Text-to-Speech**, `arXiv, 2402.09378`, [arxiv](http://arxiv.org/abs/2402.09378v1), [pdf](http://arxiv.org/pdf/2402.09378v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=15185926768577512217&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Shengpeng Ji, Ziyue Jiang, Hanting Wang, Jialong Zuo, Zhou Zhao*
 
 	 · ([mobilespeech.github](https://mobilespeech.github.io/))
 - [**metavoice-src**](https://github.com/metavoiceio/metavoice-src) - metavoiceio ![Star](https://img.shields.io/github/stars/metavoiceio/metavoice-src.svg?style=social&label=Star)
