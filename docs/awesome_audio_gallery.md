@@ -81,7 +81,10 @@
 - [**autocut**](https://github.com/mli/autocut/blob/main/autocut/transcribe.py) - mli ![Star](https://img.shields.io/github/stars/mli/autocut.svg?style=social&label=Star)
 
 ## Dataset
+- **An Automated End-to-End Open-Source Software for High-Quality
+  Text-to-Speech Dataset Generation**, `arXiv, 2402.16380`, [arxiv](http://arxiv.org/abs/2402.16380v1), [pdf](http://arxiv.org/pdf/2402.16380v1.pdf), cication: [**-1**](None)
 
+	 *Ahmet Gunduz, Kamer Ali Yuksel, Kareem Darwish, Golara Javadi, Fabio Minazzi, Nicola Sobieski, Sebastien Bratieres*
 - [**common_voice_16_0**](https://huggingface.co/datasets/mozilla-foundation/common_voice_16_0) - mozilla-foundation 🤗
 - [**GigaSpeech**](https://github.com/SpeechColab/GigaSpeech) - SpeechColab ![Star](https://img.shields.io/github/stars/SpeechColab/GigaSpeech.svg?style=social&label=Star)
 
@@ -125,3 +128,10 @@
 - **AudioSR: Versatile Audio Super-resolution at Scale**, `arXiv, 2309.07314`, [arxiv](http://arxiv.org/abs/2309.07314v1), [pdf](http://arxiv.org/pdf/2309.07314v1.pdf), cication: [**-1**](None)
 
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
+
+## Audio Visual
+- **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion
+  Latent Aligners**, `arXiv, 2402.17723`, [arxiv](http://arxiv.org/abs/2402.17723v1), [pdf](http://arxiv.org/pdf/2402.17723v1.pdf), cication: [**-1**](None)
+
+	 *Yazhou Xing, Yingqing He, Zeyue Tian, Xintao Wang, Qifeng Chen* · ([yzxing87.github](https://yzxing87.github.io/Seeing-and-Hearing/))
+- [**vsp-llm**](https://github.com/sally-sh/vsp-llm) - sally-sh ![Star](https://img.shields.io/github/stars/sally-sh/vsp-llm.svg?style=social&label=Star)

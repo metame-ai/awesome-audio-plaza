@@ -10,6 +10,7 @@
   - [Misc](#misc)
 
 ## Evaluation
+- [TTS Arena: Benchmarking Text-to-Speech Models in the Wild](https://huggingface.co/blog/arena-tts)
 - [**TTS-Arena**](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) - TTS-AGI 🤗
 
 ## Vocoder
