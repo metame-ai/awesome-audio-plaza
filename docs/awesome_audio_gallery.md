@@ -31,6 +31,18 @@
 - [【機器學習2023】語音基石模型 (助教張凱為講授) (2/2) - YouTube](https://www.youtube.com/watch?v=HTAq-CPrU5s&ab_channel=Hung-yiLee)
 - [https://speech.ee.ntu.edu.tw/\~hylee/ml/ml2023-course-data/張凱爲-x-機器學習-x-語音基石模型.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)
 
+### Other
+- [**awesome-speech-recognition-speech-synthesis-papers**](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - zzw922cn ![Star](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers.svg?style=social&label=Star)
+- [**Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion**](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) - guan-yuan ![Star](https://img.shields.io/github/stars/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion.svg?style=social&label=Star)
+- [**survey**](https://github.com/tts-tutorial/survey) - tts-tutorial ![Star](https://img.shields.io/github/stars/tts-tutorial/survey.svg?style=social&label=Star)
+
+	 *A Survey on Neural Speech Synthesis*
+- [**interspeech2022**](https://github.com/tts-tutorial/interspeech2022) - tts-tutorial ![Star](https://img.shields.io/github/stars/tts-tutorial/interspeech2022.svg?style=social&label=Star)
+- [INTERSPEECH\_Tutorial\_TTS.pdf](https://tts-tutorial.github.io/interspeech2022/INTERSPEECH_Tutorial_TTS.pdf)
+- [INTERSPEECH\_Tutorial\_VC.pdf](https://tts-tutorial.github.io/interspeech2022/INTERSPEECH_Tutorial_VC.pdf)
+- [https://www.microsoft.com/en-us/research/uploads/prod/2022/12/Generative-Models-for-TTS.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2022/12/Generative-Models-for-TTS.pdf)
+- [**AudioGPT**](https://github.com/AIGC-Audio/AudioGPT) - AIGC-Audio ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
+
 ## Speech Translation
 - [**gentranslate**](https://github.com/yuchen005/gentranslate) - yuchen005 ![Star](https://img.shields.io/github/stars/yuchen005/gentranslate.svg?style=social&label=Star)
 
@@ -79,6 +91,43 @@
 
 	 *Python script that slices audio with silence detection*
 - [**autocut**](https://github.com/mli/autocut/blob/main/autocut/transcribe.py) - mli ![Star](https://img.shields.io/github/stars/mli/autocut.svg?style=social&label=Star)
+- [**phonemizer**](https://github.com/bootphon/phonemizer) - bootphon ![Star](https://img.shields.io/github/stars/bootphon/phonemizer.svg?style=social&label=Star)
+
+	 *Simple text to phones converter for multiple languages*
+- [**g2pM**](https://github.com/kakaobrain/g2pM) - kakaobrain ![Star](https://img.shields.io/github/stars/kakaobrain/g2pM.svg?style=social&label=Star)
+
+	 *A Neural Grapheme-to-Phoneme Conversion Package for Mandarin Chinese Based on a New Open Benchmark Dataset*
+- [**g2pC**](https://github.com/Kyubyong/g2pC) - Kyubyong ![Star](https://img.shields.io/github/stars/Kyubyong/g2pC.svg?style=social&label=Star)
+
+	 *g2pC: A Context-aware Grapheme-to-Phoneme Conversion module for Chinese*
+- [**AcademiCodec**](https://github.com/yangdongchao/AcademiCodec) - yangdongchao ![Star](https://img.shields.io/github/stars/yangdongchao/AcademiCodec.svg?style=social&label=Star)
+
+	 *AcademiCodec: An Open Source Audio Codec Model for Academic Research*
+- [**Python-Wrapper-for-World-Vocoder**](https://github.com/JeremyCCHsu/Python-Wrapper-for-World-Vocoder) - JeremyCCHsu ![Star](https://img.shields.io/github/stars/JeremyCCHsu/Python-Wrapper-for-World-Vocoder.svg?style=social&label=Star)
+
+	 *A Python wrapper for the high-quality vocoder "World"*
+- [**g2p-kd**](https://github.com/sigmeta/g2p-kd) - sigmeta ![Star](https://img.shields.io/github/stars/sigmeta/g2p-kd.svg?style=social&label=Star)
+
+	 *Token-Level Ensemble Distillation for Grapheme-to-Phoneme Conversion*
+- [**speechbrain**](https://github.com/speechbrain/speechbrain) - speechbrain ![Star](https://img.shields.io/github/stars/speechbrain/speechbrain.svg?style=social&label=Star)
+
+	 *A PyTorch-based Speech Toolkit*
+- [**ffmpeg-normalize**](https://github.com/slhck/ffmpeg-normalize) - slhck ![Star](https://img.shields.io/github/stars/slhck/ffmpeg-normalize.svg?style=social&label=Star)
+
+	 *Audio Normalization for Python/ffmpeg*
+- [**Montreal-Forced-Aligner**](https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner) - MontrealCorpusTools ![Star](https://img.shields.io/github/stars/MontrealCorpusTools/Montreal-Forced-Aligner.svg?style=social&label=Star)
+
+	 *Command line utility for forced alignment using Kaldi*
+- [**WeTextProcessing**](https://github.com/wenet-e2e/WeTextProcessing) - wenet-e2e ![Star](https://img.shields.io/github/stars/wenet-e2e/WeTextProcessing.svg?style=social&label=Star)
+
+	 *Text Normalization & Inverse Text Normalization*
+- [**python-pinyin**](https://github.com/mozillazg/python-pinyin) - mozillazg ![Star](https://img.shields.io/github/stars/mozillazg/python-pinyin.svg?style=social&label=Star)
+
+	 *汉字转拼音(pypinyin)*
+- [**pypinyin-g2pW**](https://github.com/mozillazg/pypinyin-g2pW) - mozillazg ![Star](https://img.shields.io/github/stars/mozillazg/pypinyin-g2pW.svg?style=social&label=Star)
+
+	 *基于 g2pW 提升 pypinyin 的准确性*
+
 
 ## Dataset
 - **An Automated End-to-End Open-Source Software for High-Quality
@@ -91,6 +140,9 @@
 	 *Large, modern dataset for speech recognition*
 ![](media/Pasted%20image%2020230726185138.png)
 - [中英文数据收集](https://yqli.tech/page/data.html)
+- [**voice_datasets**](https://github.com/jim-schwoebel/voice_datasets) - jim-schwoebel ![Star](https://img.shields.io/github/stars/jim-schwoebel/voice_datasets.svg?style=social&label=Star)
+
+	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
 - **LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus**, `arXiv, 2305.18802`, [arxiv](http://arxiv.org/abs/2305.18802v1), [pdf](http://arxiv.org/pdf/2305.18802v1.pdf), cication: [**-1**](None)
