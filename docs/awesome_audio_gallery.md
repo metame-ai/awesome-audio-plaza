@@ -130,6 +130,7 @@
 
 
 ## Dataset
+- [**yodas**](https://huggingface.co/datasets/espnet/yodas) - espnet 🤗
 - **An Automated End-to-End Open-Source Software for High-Quality
   Text-to-Speech Dataset Generation**, `arXiv, 2402.16380`, [arxiv](http://arxiv.org/abs/2402.16380v1), [pdf](http://arxiv.org/pdf/2402.16380v1.pdf), cication: [**-1**](None)
 
@@ -138,7 +139,6 @@
 - [**GigaSpeech**](https://github.com/SpeechColab/GigaSpeech) - SpeechColab ![Star](https://img.shields.io/github/stars/SpeechColab/GigaSpeech.svg?style=social&label=Star)
 
 	 *Large, modern dataset for speech recognition*
-![](media/Pasted%20image%2020230726185138.png)
 - [中英文数据收集](https://yqli.tech/page/data.html)
 - [**voice_datasets**](https://github.com/jim-schwoebel/voice_datasets) - jim-schwoebel ![Star](https://img.shields.io/github/stars/jim-schwoebel/voice_datasets.svg?style=social&label=Star)
 

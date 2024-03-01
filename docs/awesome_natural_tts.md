@@ -112,6 +112,10 @@
 	 *A Non-Autoregressive Text-to-Speech (NAR-TTS) framework, including official PyTorch implementation of PortaSpeech (NeurIPS 2021) and DiffSpeech (AAAI 2022)*
 
 ## MultiLingual TTS
+- **Extending Multilingual Speech Synthesis to 100+ Languages without
+  Transcribed Data**, `arXiv, 2402.18932`, [arxiv](http://arxiv.org/abs/2402.18932v1), [pdf](http://arxiv.org/pdf/2402.18932v1.pdf), cication: [**-1**](None)
+
+	 *Takaaki Saeki, Gary Wang, Nobuyuki Morioka, Isaac Elias, Kyle Kastner, Andrew Rosenberg, Bhuvana Ramabhadran, Heiga Zen, Françoise Beaufays, Hadar Shemtov*
 - **XPhoneBERT: A Pre-trained Multilingual Model for Phoneme Representations
   for Text-to-Speech**, `arXiv, 2305.19709`, [arxiv](http://arxiv.org/abs/2305.19709v1), [pdf](http://arxiv.org/pdf/2305.19709v1.pdf), cication: [**-1**](None)
 
