@@ -238,7 +238,10 @@
 
 
 ## Retrieval
-- [Fetching Title#hcmx](https://arxiv.org/abs/2402.19106)
+- **A SOUND APPROACH: Using Large Language Models to generate audio
+  descriptions for egocentric text-audio retrieval**, `arXiv, 2402.19106`, [arxiv](http://arxiv.org/abs/2402.19106v1), [pdf](http://arxiv.org/pdf/2402.19106v1.pdf), cication: [**-1**](None)
+
+	 *Andreea-Maria Oncescu, João F. Henriques, Andrew Zisserman, Samuel Albanie, A. Sophia Koepke*
 
 ## Other
 - [能听懂语音的ChatGPT来了：10小时录音扔进去，想问什么问什么 | 机器之心](https://www.jiqizhixin.com/articles/2023-06-02-4)
