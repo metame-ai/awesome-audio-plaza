@@ -187,3 +187,7 @@
 
 	 *Yazhou Xing, Yingqing He, Zeyue Tian, Xintao Wang, Qifeng Chen* · ([yzxing87.github](https://yzxing87.github.io/Seeing-and-Hearing/))
 - [**vsp-llm**](https://github.com/sally-sh/vsp-llm) - sally-sh ![Star](https://img.shields.io/github/stars/sally-sh/vsp-llm.svg?style=social&label=Star)
+- **RTFS-Net: Recurrent time-frequency modelling for efficient audio-visual
+  speech separation**, `arXiv, 2309.17189`, [arxiv](http://arxiv.org/abs/2309.17189v3), [pdf](http://arxiv.org/pdf/2309.17189v3.pdf), cication: [**-1**](None)
+
+	 *Samuel Pegg, Kai Li, Xiaolin Hu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-06)) · ([cslikai](https://cslikai.cn/RTFS-Net/AV-Model-Demo.html)) · ([RTFS-Net](https://github.com/spkgyk/RTFS-Net) - spkgyk) ![Star](https://img.shields.io/github/stars/spkgyk/RTFS-Net.svg?style=social&label=Star)

@@ -6,6 +6,9 @@
 
 
 ## Gallery
+- [[2403.03100] NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100)
+
+	 · ([speechresearch.github](https://speechresearch.github.io/naturalspeech3/))
 - **MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot
   Text-to-Speech**, `arXiv, 2402.09378`, [arxiv](http://arxiv.org/abs/2402.09378v1), [pdf](http://arxiv.org/pdf/2402.09378v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=15185926768577512217&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
