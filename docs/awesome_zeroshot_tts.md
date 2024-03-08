@@ -6,7 +6,10 @@
 
 
 ## Gallery
-- [[2403.03100] NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100)
+- **NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and
+  Diffusion Models**, `arXiv, 2403.03100`, [arxiv](http://arxiv.org/abs/2403.03100v1), [pdf](http://arxiv.org/pdf/2403.03100v1.pdf), cication: [**-1**](None)
+
+	 *Zeqian Ju, Yuancheng Wang, Kai Shen, Xu Tan, Detai Xin, Dongchao Yang, Yanqing Liu, Yichong Leng, Kaitao Song, Siliang Tang*
 
 	 · ([speechresearch.github](https://speechresearch.github.io/naturalspeech3/))
 - **MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot

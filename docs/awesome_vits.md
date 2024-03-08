@@ -12,6 +12,10 @@
 	 *text to speech using autoregressive transformer and VITS*
 
 ## Papers
+- **PAVITS: Exploring Prosody-aware VITS for End-to-End Emotional Voice
+  Conversion**, `arXiv, 2403.01494`, [arxiv](http://arxiv.org/abs/2403.01494v1), [pdf](http://arxiv.org/pdf/2403.01494v1.pdf), cication: [**-1**](None)
+
+	 *Tianhua Qi, Wenming Zheng, Cheng Lu, Yuan Zong, Hailun Lian* · ([jeremychee4.github](https://jeremychee4.github.io/pavits4EVC/))
 - **VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech
   with Adversarial Learning and Architecture Design**, `arXiv, 2307.16430`, [arxiv](http://arxiv.org/abs/2307.16430v1), [pdf](http://arxiv.org/pdf/2307.16430v1.pdf), cication: [**-1**](None)
 

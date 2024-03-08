@@ -24,7 +24,9 @@
 	 *Yicheng Gu, Xueyao Zhang, Liumeng Xue, Zhizheng Wu* · ([Amphion](https://github.com/open-mmlab/Amphion/blob/main/models/vocoders/gan/discriminator/mssbcqtd.py) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star) · ([vocodexelysium.github](https://vocodexelysium.github.io/MS-SB-CQTD/))
 
 ## Emotional TTS
+- **Fine-Grained Quantitative Emotion Editing for Speech Generation**, `arXiv, 2403.02002`, [arxiv](http://arxiv.org/abs/2403.02002v1), [pdf](http://arxiv.org/pdf/2403.02002v1.pdf), cication: [**-1**](None)
 
+	 *Sho Inoue, Kun Zhou, Shuai Wang, Haizhou Li*
 - **ED-TTS: Multi-Scale Emotion Modeling using Cross-Domain Emotion
   Diarization for Emotional Speech Synthesis**, `arXiv, 2401.08166`, [arxiv](http://arxiv.org/abs/2401.08166v1), [pdf](http://arxiv.org/pdf/2401.08166v1.pdf), cication: [**-1**](None)
 
@@ -206,3 +208,6 @@
 - [**piper**](https://github.com/rhasspy/piper) - rhasspy ![Star](https://img.shields.io/github/stars/rhasspy/piper.svg?style=social&label=Star)
 
 	 *A fast, local neural text to speech system*
+- [**xVA-Synth**](https://github.com/DanRuta/xVA-Synth) - DanRuta ![Star](https://img.shields.io/github/stars/DanRuta/xVA-Synth.svg?style=social&label=Star)
+
+	 *Machine learning based speech synthesis Electron app, with voices from specific characters from video games* · ([huggingface](https://huggingface.co/spaces/Pendrokar/xVASynth))
