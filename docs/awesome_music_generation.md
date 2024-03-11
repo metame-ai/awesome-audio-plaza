@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- [**musiclang_predict**](https://github.com/MusicLang/musiclang_predict) - MusicLang ![Star](https://img.shields.io/github/stars/MusicLang/musiclang_predict.svg?style=social&label=Star)
+
+	 *AI Prediction api of the MusicLang package* · ([huggingface](https://huggingface.co/musiclang/musiclang-v2))
 - **ChatMusician: Understanding and Generating Music Intrinsically with LLM**, `arXiv, 2402.16153`, [arxiv](http://arxiv.org/abs/2402.16153v1), [pdf](http://arxiv.org/pdf/2402.16153v1.pdf), cication: [**-1**](None)
 
 	 *Ruibin Yuan, Hanfeng Lin, Yi Wang, Zeyue Tian, Shangda Wu, Tianhao Shen, Ge Zhang, Yuhang Wu, Cong Liu, Ziya Zhou*
