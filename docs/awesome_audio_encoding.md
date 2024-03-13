@@ -6,6 +6,9 @@
 
 
 ## Papers and Projects
+- [**Amphion**](https://github.com/open-mmlab/Amphion/blob/main/models/codec/ns3_codec/README.md) - open-mmlab ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star)
+
+	 *Speech Codec with Attribute Factorization used for NaturalSpeech 3*
 - **Language-Codec: Reducing the Gaps Between Discrete Codec Representation
   and Speech Language Models**, `arXiv, 2402.12208`, [arxiv](http://arxiv.org/abs/2402.12208v2), [pdf](http://arxiv.org/pdf/2402.12208v2.pdf), cication: [**-1**](None)
 

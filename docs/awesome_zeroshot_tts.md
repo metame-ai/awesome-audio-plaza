@@ -6,6 +6,10 @@
 
 
 ## Gallery
+- **HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot
+  Text-to-Speech with Model and Data Scaling**, `arXiv, 2403.05989`, [arxiv](http://arxiv.org/abs/2403.05989v1), [pdf](http://arxiv.org/pdf/2403.05989v1.pdf), cication: [**-1**](None)
+
+	 *Chunhui Wang, Chang Zeng, Bowen Zhang, Ziyang Ma, Yefan Zhu, Zifeng Cai, Jian Zhao, Zhonglin Jiang, Yong Chen* · ([anonymous.4open](https://anonymous.4open.science/w/ham-tts/))
 - **NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and
   Diffusion Models**, `arXiv, 2403.03100`, [arxiv](http://arxiv.org/abs/2403.03100v1), [pdf](http://arxiv.org/pdf/2403.03100v1.pdf), cication: [**-1**](None)
 

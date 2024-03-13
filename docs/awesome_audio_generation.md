@@ -13,7 +13,9 @@
 - **Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**, `arXiv, 2402.10009`, [arxiv](http://arxiv.org/abs/2402.10009v1), [pdf](http://arxiv.org/pdf/2402.10009v1.pdf), cication: [**-1**](None)
 
 	 *Hila Manor, Tomer Michaeli* · ([AudioEditing](https://github.com/hilamanor/AudioEditing) - hilamanor) ![Star](https://img.shields.io/github/stars/hilamanor/AudioEditing.svg?style=social&label=Star)
-- [Fetching Title#vjkh](https://huggingface.co/papers/2402.04825)
+- **Fast Timing-Conditioned Latent Audio Diffusion**, `arXiv, 2402.04825`, [arxiv](http://arxiv.org/abs/2402.04825v2), [pdf](http://arxiv.org/pdf/2402.04825v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5599278197106168575&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zach Evans, CJ Carr, Josiah Taylor, Scott H. Hawley, Jordi Pons*
 
 	 · ([stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools) - Stability-AI) ![Star](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools.svg?style=social&label=Star) · ([stability-ai.github](https://stability-ai.github.io/stable-audio-demo))
 - **Natural language guidance of high-fidelity text-to-speech with synthetic

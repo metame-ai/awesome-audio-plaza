@@ -53,6 +53,9 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**fullstop-deep-punctuation-prediction**](https://github.com/oliverguhr/fullstop-deep-punctuation-prediction) - oliverguhr ![Star](https://img.shields.io/github/stars/oliverguhr/fullstop-deep-punctuation-prediction.svg?style=social&label=Star)
+
+	 *A model that predicts the punctuation of English, Italian, French and German texts.* · ([huggingface](https://huggingface.co/oliverguhr/fullstop-punctuation-multilang-large))
 - [**nendo**](https://github.com/okio-ai/nendo) - okio-ai ![Star](https://img.shields.io/github/stars/okio-ai/nendo.svg?style=social&label=Star)
 
 	 *The Nendo AI Audio Tool Suite*
@@ -128,7 +131,6 @@
 
 	 *基于 g2pW 提升 pypinyin 的准确性*
 
-
 ## Dataset
 - [**yodas**](https://huggingface.co/datasets/espnet/yodas) - espnet 🤗
 - **An Automated End-to-End Open-Source Software for High-Quality
@@ -148,6 +150,9 @@
 - **LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus**, `arXiv, 2305.18802`, [arxiv](http://arxiv.org/abs/2305.18802v1), [pdf](http://arxiv.org/pdf/2305.18802v1.pdf), cication: [**-1**](None)
 
 	 *Yuma Koizumi, Heiga Zen, Shigeki Karita, Yifan Ding, Kohei Yatabe, Nobuyuki Morioka, Michiel Bacchiani, Yu Zhang, Wei Han, Ankur Bapna* · ([openslr](http://www.openslr.org/141/)) · ([google.github](https://google.github.io/df-conformer/librittsr/))
+- **Libri-Light: A Benchmark for ASR with Limited or No Supervision**, `icassp 2020-2020 ieee international conference on acoustics …, 2020`, [arxiv](http://arxiv.org/abs/1912.07875v1), [pdf](http://arxiv.org/pdf/1912.07875v1.pdf), cication: [**483**](https://scholar.google.com/scholar?cites=596221056952134740&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jacob Kahn, Morgane Rivière, Weiyi Zheng, Evgeny Kharitonov, Qiantong Xu, Pierre-Emmanuel Mazaré, Julien Karadayi, Vitaliy Liptchinsky, Ronan Collobert, Christian Fuegen* · ([libri-light](https://github.com/facebookresearch/libri-light/tree/main) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/libri-light.svg?style=social&label=Star)
 - **MLS: A Large-Scale Multilingual Dataset for Speech Research**, `arXiv, 2012.03411`, [arxiv](http://arxiv.org/abs/2012.03411v2), [pdf](http://arxiv.org/pdf/2012.03411v2.pdf), cication: [**-1**](None)
 
 	 *Vineel Pratap, Qiantong Xu, Anuroop Sriram, Gabriel Synnaeve, Ronan Collobert* · ([openslr](http://www.openslr.org/94/))
