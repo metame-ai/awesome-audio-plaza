@@ -4,7 +4,6 @@
   - [Papers and Projects](#papers-and-projects)
   - [References](#references)
 
-
 ## Papers and Projects
 - [**Amphion**](https://github.com/open-mmlab/Amphion/blob/main/models/codec/ns3_codec/README.md) - open-mmlab ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star)
 
