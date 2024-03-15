@@ -210,7 +210,6 @@
 
 	 *Contrastive Language-Audio Pretraining*
 
-
 - **CLAP: Learning Audio Concepts From Natural Language Supervision**, `arXiv, 2206.04769`, [arxiv](http://arxiv.org/abs/2206.04769v1), [pdf](http://arxiv.org/pdf/2206.04769v1.pdf), cication: [**-1**](None)
 
 	 *Benjamin Elizalde, Soham Deshmukh, Mahmoud Al Ismail, Huaming Wang*
@@ -219,7 +218,6 @@
 
 
 ## Image Generation With Audio
-
 - **AudioToken: Adaptation of Text-Conditioned Diffusion Models for
   Audio-to-Image Generation**, `arXiv, 2305.13050`, [arxiv](http://arxiv.org/abs/2305.13050v1), [pdf](http://arxiv.org/pdf/2305.13050v1.pdf), cication: [**-1**](None)
 
@@ -244,6 +242,11 @@
   descriptions for egocentric text-audio retrieval**, `arXiv, 2402.19106`, [arxiv](http://arxiv.org/abs/2402.19106v1), [pdf](http://arxiv.org/pdf/2402.19106v1.pdf), cication: [**-1**](None)
 
 	 *Andreea-Maria Oncescu, João F. Henriques, Andrew Zisserman, Samuel Albanie, A. Sophia Koepke*
+
+## Audio Agent
+- [[2403.09527] WavCraft: Audio Editing and Generation with Natural Language Prompts](https://arxiv.org/abs/2403.09527)
+
+	 · ([WavCraft](https://github.com/JinhuaLiang/WavCraft) - JinhuaLiang) ![Star](https://img.shields.io/github/stars/JinhuaLiang/WavCraft.svg?style=social&label=Star)
 
 ## Other
 - [能听懂语音的ChatGPT来了：10小时录音扔进去，想问什么问什么 | 机器之心](https://www.jiqizhixin.com/articles/2023-06-02-4)
