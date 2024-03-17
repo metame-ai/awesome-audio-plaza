@@ -244,7 +244,9 @@
 	 *Andreea-Maria Oncescu, João F. Henriques, Andrew Zisserman, Samuel Albanie, A. Sophia Koepke*
 
 ## Audio Agent
-- [[2403.09527] WavCraft: Audio Editing and Generation with Natural Language Prompts](https://arxiv.org/abs/2403.09527)
+- **WavCraft: Audio Editing and Generation with Natural Language Prompts**, `arXiv, 2403.09527`, [arxiv](http://arxiv.org/abs/2403.09527v1), [pdf](http://arxiv.org/pdf/2403.09527v1.pdf), cication: [**-1**](None)
+
+	 *Jinhua Liang, Huan Zhang, Haohe Liu, Yin Cao, Qiuqiang Kong, Xubo Liu, Wenwu Wang, Mark D. Plumbley, Huy Phan, Emmanouil Benetos*
 
 	 · ([WavCraft](https://github.com/JinhuaLiang/WavCraft) - JinhuaLiang) ![Star](https://img.shields.io/github/stars/JinhuaLiang/WavCraft.svg?style=social&label=Star)
 

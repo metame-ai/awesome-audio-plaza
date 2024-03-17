@@ -187,7 +187,9 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
-- [[2403.07938] Text-to-Audio Generation Synchronized with Videos](https://arxiv.org/abs/2403.07938)
+- **Text-to-Audio Generation Synchronized with Videos**, `arXiv, 2403.07938`, [arxiv](http://arxiv.org/abs/2403.07938v1), [pdf](http://arxiv.org/pdf/2403.07938v1.pdf), cication: [**-1**](None)
+
+	 *Shentong Mo, Jing Shi, Yapeng Tian*
 - **Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion
   Latent Aligners**, `arXiv, 2402.17723`, [arxiv](http://arxiv.org/abs/2402.17723v1), [pdf](http://arxiv.org/pdf/2402.17723v1.pdf), cication: [**-1**](None)
 
