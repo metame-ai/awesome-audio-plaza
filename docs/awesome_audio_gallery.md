@@ -53,6 +53,9 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**OpenPhonemizer**](https://github.com/NeuralVox/OpenPhonemizer) - NeuralVox ![Star](https://img.shields.io/github/stars/NeuralVox/OpenPhonemizer.svg?style=social&label=Star)
+
+	 *Permissively licensed, open sourced, local IPA Phonemizer (G2P) powered by deep learning.*
 - [**fullstop-deep-punctuation-prediction**](https://github.com/oliverguhr/fullstop-deep-punctuation-prediction) - oliverguhr ![Star](https://img.shields.io/github/stars/oliverguhr/fullstop-deep-punctuation-prediction.svg?style=social&label=Star)
 
 	 *A model that predicts the punctuation of English, Italian, French and German texts.* · ([huggingface](https://huggingface.co/oliverguhr/fullstop-punctuation-multilang-large))

@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- [[2403.10493] MusicHiFi: Fast High-Fidelity Stereo Vocoding](https://arxiv.org/abs/2403.10493)
+
+	 · ([musichifi.github](https://musichifi.github.io/web/))
 - [**musiclang_predict**](https://github.com/MusicLang/musiclang_predict) - MusicLang ![Star](https://img.shields.io/github/stars/MusicLang/musiclang_predict.svg?style=social&label=Star)
 
 	 *AI Prediction api of the MusicLang package* · ([huggingface](https://huggingface.co/musiclang/musiclang-v2))
@@ -121,6 +124,7 @@
 - [**MusicBench**](https://huggingface.co/datasets/amaai-lab/MusicBench) - amaai-lab 🤗
 
 ## Products
+- [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx?isMusicFxLive=true)
 - [AIVA, the AI Music Generation Assistant](https://www.aiva.ai/)
 - [Musicfy AI](https://musicfy.lol/)
 - [Transforming the future of music creation - Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)

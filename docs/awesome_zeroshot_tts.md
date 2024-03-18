@@ -44,7 +44,8 @@
   Speech Synthesis**, `arXiv, 2311.12454`, [arxiv](http://arxiv.org/abs/2311.12454v2), [pdf](http://arxiv.org/pdf/2311.12454v2.pdf), cication: [**-1**](None)
 
 	 *Sang-Hoon Lee, Ha-Yeong Choi, Seung-Bin Kim, Seong-Whan Lee* · ([HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - sh-lee-prml) ![Star](https://img.shields.io/github/stars/sh-lee-prml/HierSpeechpp.svg?style=social&label=Star)
--  [[2308.16692] SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models](https://arxiv.org/abs/2308.16692)
+	 
+- [[2308.16692] SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models](https://arxiv.org/abs/2308.16692)
 
 	 · ([speechtokenizer](https://github.com/zhangxinfd/speechtokenizer) - zhangxinfd) ![Star](https://img.shields.io/github/stars/zhangxinfd/speechtokenizer.svg?style=social&label=Star)
 - [**xtts**](https://huggingface.co/spaces/coqui/xtts) - coqui 🤗
