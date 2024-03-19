@@ -45,7 +45,10 @@
 
 	 *Sang-Hoon Lee, Ha-Yeong Choi, Seung-Bin Kim, Seong-Whan Lee* · ([HierSpeechpp](https://github.com/sh-lee-prml/HierSpeechpp) - sh-lee-prml) ![Star](https://img.shields.io/github/stars/sh-lee-prml/HierSpeechpp.svg?style=social&label=Star)
 	 
-- [[2308.16692] SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models](https://arxiv.org/abs/2308.16692)
+- **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language
+  Models**, `arXiv, 2308.16692`, [arxiv](http://arxiv.org/abs/2308.16692v2), [pdf](http://arxiv.org/pdf/2308.16692v2.pdf), cication: [**13**](https://scholar.google.com/scholar?cites=10604890170283513348&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xin Zhang, Dong Zhang, Shimin Li, Yaqian Zhou, Xipeng Qiu*
 
 	 · ([speechtokenizer](https://github.com/zhangxinfd/speechtokenizer) - zhangxinfd) ![Star](https://img.shields.io/github/stars/zhangxinfd/speechtokenizer.svg?style=social&label=Star)
 - [**xtts**](https://huggingface.co/spaces/coqui/xtts) - coqui 🤗

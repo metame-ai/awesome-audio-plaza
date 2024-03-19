@@ -9,7 +9,12 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
-- [[2403.10493] MusicHiFi: Fast High-Fidelity Stereo Vocoding](https://arxiv.org/abs/2403.10493)
+- [[2403.11780] Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt](https://arxiv.org/abs/2403.11780)
+
+	 · ([prompt-singer.github](https://prompt-singer.github.io/))
+- **MusicHiFi: Fast High-Fidelity Stereo Vocoding**, `arXiv, 2403.10493`, [arxiv](http://arxiv.org/abs/2403.10493v1), [pdf](http://arxiv.org/pdf/2403.10493v1.pdf), cication: [**-1**](None)
+
+	 *Ge Zhu, Juan-Pablo Caceres, Zhiyao Duan, Nicholas J. Bryan*
 
 	 · ([musichifi.github](https://musichifi.github.io/web/))
 - [**musiclang_predict**](https://github.com/MusicLang/musiclang_predict) - MusicLang ![Star](https://img.shields.io/github/stars/MusicLang/musiclang_predict.svg?style=social&label=Star)
