@@ -9,7 +9,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
-- [[2403.11780] Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural Language Prompt](https://arxiv.org/abs/2403.11780)
+- **Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural
+  Language Prompt**, `arXiv, 2403.11780`, [arxiv](http://arxiv.org/abs/2403.11780v1), [pdf](http://arxiv.org/pdf/2403.11780v1.pdf), cication: [**-1**](None)
+
+	 *Yongqi Wang, Ruofan Hu, Rongjie Huang, Zhiqing Hong, Ruiqi Li, Wenrui Liu, Fuming You, Tao Jin, Zhou Zhao*
 
 	 · ([prompt-singer.github](https://prompt-singer.github.io/))
 - **MusicHiFi: Fast High-Fidelity Stereo Vocoding**, `arXiv, 2403.10493`, [arxiv](http://arxiv.org/abs/2403.10493v1), [pdf](http://arxiv.org/pdf/2403.10493v1.pdf), cication: [**-1**](None)
@@ -80,6 +83,9 @@
 - **VampNet: Music Generation via Masked Acoustic Token Modeling**, `arXiv, 2307.04686`, [arxiv](http://arxiv.org/abs/2307.04686v2), [pdf](http://arxiv.org/pdf/2307.04686v2.pdf), cication: [**13**](https://scholar.google.com/scholar?cites=4599642694858157010&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hugo Flores Garcia, Prem Seetharaman, Rithesh Kumar, Bryan Pardo* · ([vampnet](https://github.com/hugofloresgarcia/vampnet) - hugofloresgarcia) ![Star](https://img.shields.io/github/stars/hugofloresgarcia/vampnet.svg?style=social&label=Star)
+- **Anticipatory Music Transformer**, `arXiv, 2306.08620`, [arxiv](http://arxiv.org/abs/2306.08620v1), [pdf](http://arxiv.org/pdf/2306.08620v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=13816719672975791572&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *John Thickstun, David Hall, Chris Donahue, Percy Liang* · ([anticipation](https://github.com/jthickstun/anticipation) - jthickstun) ![Star](https://img.shields.io/github/stars/jthickstun/anticipation.svg?style=social&label=Star)
 - **Efficient Neural Music Generation**, `arXiv, 2305.15719`, [arxiv](http://arxiv.org/abs/2305.15719v1), [pdf](http://arxiv.org/pdf/2305.15719v1.pdf), cication: [**10**](https://scholar.google.com/scholar?cites=13987278157292993267&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Max W. Y. Lam, Qiao Tian, Tang Li, Zongyu Yin, Siyuan Feng, Ming Tu, Yuliang Ji, Rui Xia, Mingbo Ma, Xuchen Song* · ([efficient-melody.github](https://efficient-melody.github.io/))
