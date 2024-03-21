@@ -6,6 +6,12 @@
 
 
 ## Gallery
+- [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis | OpenReview](https://openreview.net/forum?id=mvMI3N4AvD)
+
+	 · ([boostprompt.github](https://boostprompt.github.io/boostprompt/))
+- [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech | OpenReview](https://openreview.net/forum?id=ofzeypWosV)
+
+	 · ([scholar-inbox](https://www.scholar-inbox.com/papers/Kim2024ICLR_CLaM_TTS_Improving_Neural.pdf)) · ([clam-tts.github](https://clam-tts.github.io/))
 - **HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot
   Text-to-Speech with Model and Data Scaling**, `arXiv, 2403.05989`, [arxiv](http://arxiv.org/abs/2403.05989v1), [pdf](http://arxiv.org/pdf/2403.05989v1.pdf), cication: [**-1**](None)
 
