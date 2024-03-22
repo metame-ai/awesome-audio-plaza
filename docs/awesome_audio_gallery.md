@@ -190,6 +190,10 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
+- **M$^3$AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual
+  Academic Lecture Dataset**, `arXiv, 2403.14168`, [arxiv](http://arxiv.org/abs/2403.14168v1), [pdf](http://arxiv.org/pdf/2403.14168v1.pdf), cication: [**-1**](None)
+
+	 *Zhe Chen, Heyang Liu, Wenyi Yu, Guangzhi Sun, Hongcheng Liu, Ji Wu, Chao Zhang, Yu Wang, Yanfeng Wang*
 - **Text-to-Audio Generation Synchronized with Videos**, `arXiv, 2403.07938`, [arxiv](http://arxiv.org/abs/2403.07938v1), [pdf](http://arxiv.org/pdf/2403.07938v1.pdf), cication: [**-1**](None)
 
 	 *Shentong Mo, Jing Shi, Yapeng Tian*

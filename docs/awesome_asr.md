@@ -22,6 +22,7 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**distil-large-v3**](https://huggingface.co/distil-whisper/distil-large-v3) - distil-whisper 🤗
 - **OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on
   E-Branchformer**, `arXiv, 2401.16658`, [arxiv](http://arxiv.org/abs/2401.16658v1), [pdf](http://arxiv.org/pdf/2401.16658v1.pdf), cication: [**-1**](None)
 
@@ -48,6 +49,9 @@
 
 	 *A Web UI for easy subtitle using whisper model.*
 - [Speculative Decoding for 2x Faster Whisper Inference](https://huggingface.co/blog/whisper-speculative-decoding)
+
+---
+- [**ratchet-whisper**](https://huggingface.co/spaces/FL33TW00D-HF/ratchet-whisper) - FL33TW00D-HF 🤗
 
 ## Toolkits
 - [**NeMo**](https://github.com/NVIDIA/NeMo) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/NeMo.svg?style=social&label=Star)
