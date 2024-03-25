@@ -135,6 +135,9 @@
 - [**MusicBench**](https://huggingface.co/datasets/amaai-lab/MusicBench) - amaai-lab 🤗
 
 ## Products
+- [Introducing v3 – Suno](https://www.suno.ai/blog/v3)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652459759&idx=1&sn=df9abda1de52e47bfeda3835387b6918))
 - [MusicFX](https://aitestkitchen.withgoogle.com/tools/music-fx?isMusicFxLive=true)
 - [AIVA, the AI Music Generation Assistant](https://www.aiva.ai/)
 - [Musicfy AI](https://musicfy.lol/)
