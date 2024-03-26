@@ -5,11 +5,10 @@
   - [References](#references)
 
 ## Gallery
-- [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://jasonppy.github.io/assets/pdfs/VoiceCraft.pdf)
+- [[2403.16973] VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973)
 
+	 · ([jasonppy.github](https://jasonppy.github.io/assets/pdfs/VoiceCraft.pdf))
 	 · ([VoiceCraft](https://github.com/jasonppy/VoiceCraft) - jasonppy) ![Star](https://img.shields.io/github/stars/jasonppy/VoiceCraft.svg?style=social&label=Star) · ([jasonppy.github](https://jasonppy.github.io/VoiceCraft_web/))
-
-	 · ([VoiceCraft](https://github.com/jasonppy/VoiceCraft) - jasonppy) ![Star](https://img.shields.io/github/stars/jasonppy/VoiceCraft.svg?style=social&label=Star)
 - [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis | OpenReview](https://openreview.net/forum?id=mvMI3N4AvD)
 
 	 · ([boostprompt.github](https://boostprompt.github.io/boostprompt/))

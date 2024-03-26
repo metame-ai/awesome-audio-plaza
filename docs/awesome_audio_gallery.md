@@ -53,6 +53,9 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**NeMo-text-processing**](https://github.com/NVIDIA/NeMo-text-processing?tab=readme-ov-file) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/NeMo-text-processing.svg?style=social&label=Star)
+
+	 *NeMo text processing for ASR and TTS*
 - [**OpenPhonemizer**](https://github.com/NeuralVox/OpenPhonemizer) - NeuralVox ![Star](https://img.shields.io/github/stars/NeuralVox/OpenPhonemizer.svg?style=social&label=Star)
 
 	 *Permissively licensed, open sourced, local IPA Phonemizer (G2P) powered by deep learning.*
@@ -190,6 +193,7 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
+- [Fetching Title#8iex](https://arxiv.org/abs/2403.16276)
 - **M$^3$AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual
   Academic Lecture Dataset**, `arXiv, 2403.14168`, [arxiv](http://arxiv.org/abs/2403.14168v1), [pdf](http://arxiv.org/pdf/2403.14168v1.pdf), cication: [**-1**](None)
 
