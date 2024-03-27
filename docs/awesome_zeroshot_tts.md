@@ -5,7 +5,9 @@
   - [References](#references)
 
 ## Gallery
-- [[2403.16973] VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973)
+- **VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild**, `arXiv, 2403.16973`, [arxiv](http://arxiv.org/abs/2403.16973v1), [pdf](http://arxiv.org/pdf/2403.16973v1.pdf), cication: [**-1**](None)
+
+	 *Puyuan Peng, Po-Yao Huang, Daniel Li, Abdelrahman Mohamed, David Harwath*
 
 	 · ([jasonppy.github](https://jasonppy.github.io/assets/pdfs/VoiceCraft.pdf))
 	 · ([VoiceCraft](https://github.com/jasonppy/VoiceCraft) - jasonppy) ![Star](https://img.shields.io/github/stars/jasonppy/VoiceCraft.svg?style=social&label=Star) · ([jasonppy.github](https://jasonppy.github.io/VoiceCraft_web/))

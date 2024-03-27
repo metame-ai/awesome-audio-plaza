@@ -193,7 +193,10 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
-- [Fetching Title#8iex](https://arxiv.org/abs/2403.16276)
+- **AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary
+  Alignment for Temporal Referential Dialogue**, `arXiv, 2403.16276`, [arxiv](http://arxiv.org/abs/2403.16276v1), [pdf](http://arxiv.org/pdf/2403.16276v1.pdf), cication: [**-1**](None)
+
+	 *Yunlong Tang, Daiki Shimada, Jing Bi, Chenliang Xu*
 - **M$^3$AV: A Multimodal, Multigenre, and Multipurpose Audio-Visual
   Academic Lecture Dataset**, `arXiv, 2403.14168`, [arxiv](http://arxiv.org/abs/2403.14168v1), [pdf](http://arxiv.org/pdf/2403.14168v1.pdf), cication: [**-1**](None)
 
