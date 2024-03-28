@@ -8,6 +8,9 @@
 
 
 ## Papers
+- **Towards a World-English Language Model for On-Device Virtual Assistants**, `arXiv, 2403.18783`, [arxiv](http://arxiv.org/abs/2403.18783v1), [pdf](http://arxiv.org/pdf/2403.18783v1.pdf), cication: [**-1**](None)
+
+	 *Rricha Jalota, Lyan Verwimp, Markus Nussbaum-Thom, Amr Mousa, Arturo Argueta, Youssef Oualil*
 - **Multilingual and Fully Non-Autoregressive ASR with Large Language Model
   Fusion: A Comprehensive Study**, `arXiv, 2401.12789`, [arxiv](http://arxiv.org/abs/2401.12789v1), [pdf](http://arxiv.org/pdf/2401.12789v1.pdf), cication: [**-1**](None)
 
