@@ -213,3 +213,13 @@
   speech separation**, `arXiv, 2309.17189`, [arxiv](http://arxiv.org/abs/2309.17189v3), [pdf](http://arxiv.org/pdf/2309.17189v3.pdf), cication: [**-1**](None)
 
 	 *Samuel Pegg, Kai Li, Xiaolin Hu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-06)) · ([cslikai](https://cslikai.cn/RTFS-Net/AV-Model-Demo.html)) · ([RTFS-Net](https://github.com/spkgyk/RTFS-Net) - spkgyk) ![Star](https://img.shields.io/github/stars/spkgyk/RTFS-Net.svg?style=social&label=Star)
+
+## Emotion Recognition 
+- **Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition**, `arXiv, 2403.19224`, [arxiv](http://arxiv.org/abs/2403.19224v1), [pdf](http://arxiv.org/pdf/2403.19224v1.pdf), cication: [**-1**](None)
+
+	 *Siyuan Shen, Yu Gao, Feng Liu, Hanyang Wang, Aimin Zhou* · ([ENT](https://github.com/ECNU-Cross-Innovation-Lab/ENT) - ECNU-Cross-Innovation-Lab) ![Star](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ENT.svg?style=social&label=Star)
+
+## Products
+- [Meet Hume’s Empathic Voice Interface (EVI), the first conversational AI with emotional intelligence.](https://demo.hume.ai/)
+
+	 · ([t](https://twitter.com/hume_ai/status/1773017055974789176))
