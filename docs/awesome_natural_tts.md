@@ -175,6 +175,9 @@
 
 
 ## Efficient TTS
+- [Fetching Title#e0qp](https://arxiv.org/abs/2404.00569)
+
+	 · ([CM-TTS](https://github.com/XiangLi2022/CM-TTS) - XiangLi2022) ![Star](https://img.shields.io/github/stars/XiangLi2022/CM-TTS.svg?style=social&label=Star)
 
 ## Misc
 - **Expressive TTS Driven by Natural Language Prompts Using Few Human

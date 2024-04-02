@@ -118,6 +118,9 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- [[2404.00656] WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656)
+
+	 · ([aka](http://aka.ms/wavllm))
 - **Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like**, `arXiv, 2402.07383`, [arxiv](http://arxiv.org/abs/2402.07383v1), [pdf](http://arxiv.org/pdf/2402.07383v1.pdf), cication: [**-1**](None)
 
 	 *Naoyuki Kanda, Xiaofei Wang, Sefik Emre Eskimez, Manthan Thakker, Hemin Yang, Zirun Zhu, Min Tang, Canrun Li, Steven Tsai, Zhen Xiao* · ([aka](https://aka.ms/elate/))
@@ -160,6 +163,7 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- [[2404.00685] Scaling Properties of Speech Language Models](https://arxiv.org/abs/2404.00685)
 - **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and
   Dialogue Abilities**, `arXiv, 2402.01831`, [arxiv](http://arxiv.org/abs/2402.01831v1), [pdf](http://arxiv.org/pdf/2402.01831v1.pdf), cication: [**-1**](None)
 
