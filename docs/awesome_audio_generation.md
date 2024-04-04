@@ -118,7 +118,9 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
-- [[2404.00656] WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656)
+- **WavLLM: Towards Robust and Adaptive Speech Large Language Model**, `arXiv, 2404.00656`, [arxiv](http://arxiv.org/abs/2404.00656v1), [pdf](http://arxiv.org/pdf/2404.00656v1.pdf), cication: [**-1**](None)
+
+	 *Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, Hongkun Hao, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu*
 
 	 · ([aka](http://aka.ms/wavllm))
 - **Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like**, `arXiv, 2402.07383`, [arxiv](http://arxiv.org/abs/2402.07383v1), [pdf](http://arxiv.org/pdf/2402.07383v1.pdf), cication: [**-1**](None)
@@ -163,7 +165,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
-- [[2404.00685] Scaling Properties of Speech Language Models](https://arxiv.org/abs/2404.00685)
+- **Scaling Properties of Speech Language Models**, `arXiv, 2404.00685`, [arxiv](http://arxiv.org/abs/2404.00685v1), [pdf](http://arxiv.org/pdf/2404.00685v1.pdf), cication: [**-1**](None)
+
+	 *Santiago Cuervo, Ricard Marxer*
 - **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and
   Dialogue Abilities**, `arXiv, 2402.01831`, [arxiv](http://arxiv.org/abs/2402.01831v1), [pdf](http://arxiv.org/pdf/2402.01831v1.pdf), cication: [**-1**](None)
 

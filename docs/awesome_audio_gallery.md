@@ -219,7 +219,12 @@
 
 	 *Siyuan Shen, Yu Gao, Feng Liu, Hanyang Wang, Aimin Zhou* · ([ENT](https://github.com/ECNU-Cross-Innovation-Lab/ENT) - ECNU-Cross-Innovation-Lab) ![Star](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ENT.svg?style=social&label=Star)
 
+## Speech Separation
+- **SPMamba: State-space model is all you need in speech separation**, `arXiv, 2404.02063`, [arxiv](http://arxiv.org/abs/2404.02063v1), [pdf](http://arxiv.org/pdf/2404.02063v1.pdf), cication: [**-1**](None)
+
+	 *Kai Li, Guo Chen* · ([SPMamba](https://github.com/JusperLee/SPMamba) - JusperLee) ![Star](https://img.shields.io/github/stars/JusperLee/SPMamba.svg?style=social&label=Star)
+
 ## Products
 - [Meet Hume’s Empathic Voice Interface (EVI), the first conversational AI with emotional intelligence.](https://demo.hume.ai/)
 
-	 · ([t](https://twitter.com/hume_ai/status/1773017055974789176))
+	 · ([twitter](https://twitter.com/hume_ai/status/1773017055974789176))

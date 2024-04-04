@@ -143,6 +143,7 @@
 - [Musicfy AI](https://musicfy.lol/)
 - [Transforming the future of music creation - Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 
+- [音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://mp.weixin.qq.com/s/LFuZ0EIPkLrM342JB1EF_A)
 ## Other
 - [**Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/AI-Music-Generation-Audiocraft-Tutorial.md#more-info-about-top-k-top-p-temperature-and-classifier-free-guidance-from-chatgpt) - FurkanGozukara ![Star](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion.svg?style=social&label=Star)
 

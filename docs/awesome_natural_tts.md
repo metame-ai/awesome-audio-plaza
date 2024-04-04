@@ -175,7 +175,10 @@
 
 
 ## Efficient TTS
-- [Fetching Title#e0qp](https://arxiv.org/abs/2404.00569)
+- **CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through
+  Weighted Samplers and Consistency Models**, `arXiv, 2404.00569`, [arxiv](http://arxiv.org/abs/2404.00569v1), [pdf](http://arxiv.org/pdf/2404.00569v1.pdf), cication: [**-1**](None)
+
+	 *Xiang Li, Fan Bu, Ambuj Mehrish, Yingting Li, Jiale Han, Bo Cheng, Soujanya Poria*
 
 	 · ([CM-TTS](https://github.com/XiangLi2022/CM-TTS) - XiangLi2022) ![Star](https://img.shields.io/github/stars/XiangLi2022/CM-TTS.svg?style=social&label=Star)
 
