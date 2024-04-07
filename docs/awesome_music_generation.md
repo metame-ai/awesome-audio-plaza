@@ -135,6 +135,9 @@
 - [**MusicBench**](https://huggingface.co/datasets/amaai-lab/MusicBench) - amaai-lab 🤗
 
 ## Products
+- [Fetching Title#4iex](https://stability.ai/news/stable-audio-2-0)
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652463642&idx=1&sn=b1d50966d4a834b4e81d9635ccb4cd96))
 - [Introducing v3 – Suno](https://www.suno.ai/blog/v3)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652459759&idx=1&sn=df9abda1de52e47bfeda3835387b6918))
@@ -144,6 +147,7 @@
 - [Transforming the future of music creation - Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 
 - [音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://mp.weixin.qq.com/s/LFuZ0EIPkLrM342JB1EF_A)
+
 ## Other
 - [**Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/AI-Music-Generation-Audiocraft-Tutorial.md#more-info-about-top-k-top-p-temperature-and-classifier-free-guidance-from-chatgpt) - FurkanGozukara ![Star](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion.svg?style=social&label=Star)
 

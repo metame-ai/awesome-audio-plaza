@@ -228,3 +228,5 @@
 - [Meet Hume’s Empathic Voice Interface (EVI), the first conversational AI with emotional intelligence.](https://demo.hume.ai/)
 
 	 · ([twitter](https://twitter.com/hume_ai/status/1773017055974789176))
+
+	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652463844&idx=2&sn=fbaea2bd4a0ea1f270ffbae67c406e92))

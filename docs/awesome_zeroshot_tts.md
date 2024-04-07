@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Gallery
+- **RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting
+  for Text-to-Speech Synthesis**, `arXiv, 2404.03204`, [arxiv](http://arxiv.org/abs/2404.03204v1), [pdf](http://arxiv.org/pdf/2404.03204v1.pdf), cication: [**-1**](None)
+
+	 *Detai Xin, Xu Tan, Kai Shen, Zeqian Ju, Dongchao Yang, Yuancheng Wang, Shinnosuke Takamichi, Hiroshi Saruwatari, Shujie Liu, Jinyu Li* · ([ralle-demo.github](https://ralle-demo.github.io/RALL-E/))
 - **VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild**, `arXiv, 2403.16973`, [arxiv](http://arxiv.org/abs/2403.16973v1), [pdf](http://arxiv.org/pdf/2403.16973v1.pdf), cication: [**-1**](None)
 
 	 *Puyuan Peng, Po-Yao Huang, Daniel Li, Abdelrahman Mohamed, David Harwath*
@@ -162,6 +166,9 @@
 	 *Edresson Casanova, Julian Weber, Christopher Shulby, Arnaldo Candido Junior, Eren Gölge, Moacir Antonelli Ponti*
     - [YourTTS](https://edresson.github.io/YourTTS/)
 
+
+## Products
+- [Introducing Rapid Voice Cloning: Create AI Voices in Seconds](https://www.resemble.ai/introducing-rapid-voice-cloning-create-voice-clones-in-seconds/)
 
 ## References
 - [**open-tts-tracker**](https://github.com/Vaibhavs10/open-tts-tracker) - Vaibhavs10 ![Star](https://img.shields.io/github/stars/Vaibhavs10/open-tts-tracker.svg?style=social&label=Star)

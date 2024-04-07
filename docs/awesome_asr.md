@@ -64,3 +64,6 @@
 
 	 *A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.*
 - [**automatic-speech-recognition**](https://huggingface.co/spaces/k2-fsa/automatic-speech-recognition) - k2-fsa 🤗
+
+## Products
+- [AssemblyAI Research | Building the world's leading Speech AI models](https://www.assemblyai.com/research/universal-1)

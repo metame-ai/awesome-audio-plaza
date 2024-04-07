@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Papers and Projects
+- **PromptCodec: High-Fidelity Neural Speech Codec using Disentangled
+  Representation Learning based Adaptive Feature-aware Prompt Encoders**, `arXiv, 2404.02702`, [arxiv](http://arxiv.org/abs/2404.02702v1), [pdf](http://arxiv.org/pdf/2404.02702v1.pdf), cication: [**-1**](None)
+
+	 *Yu Pan, Lei Ma, Jianjun Zhao*
 - [**Amphion**](https://github.com/open-mmlab/Amphion/blob/main/models/codec/ns3_codec/README.md) - open-mmlab ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star)
 
 	 *Speech Codec with Attribute Factorization used for NaturalSpeech 3*
