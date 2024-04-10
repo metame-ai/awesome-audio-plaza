@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **MuPT: A Generative Symbolic Music Pretrained Transformer**, `arXiv, 2404.06393`, [arxiv](http://arxiv.org/abs/2404.06393v1), [pdf](http://arxiv.org/pdf/2404.06393v1.pdf), cication: [**-1**](None)
+
+	 *Xingwei Qu, Yuelin Bai, Yinghao Ma, Ziya Zhou, Ka Man Lo, Jiaheng Liu, Ruibin Yuan, Lejun Min, Xueling Liu, Tianyu Zhang* · ([map-mupt.github](https://map-mupt.github.io/))
 - **Prompt-Singer: Controllable Singing-Voice-Synthesis with Natural
   Language Prompt**, `arXiv, 2403.11780`, [arxiv](http://arxiv.org/abs/2403.11780v1), [pdf](http://arxiv.org/pdf/2403.11780v1.pdf), cication: [**-1**](None)
 

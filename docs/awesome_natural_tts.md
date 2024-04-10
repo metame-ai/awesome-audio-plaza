@@ -208,6 +208,9 @@
 	 *Atli Thor Sigurgeirsson, Simon King*
 
 ## OpenTTS
+- [**StableTTS**](https://github.com/KdaiP/StableTTS) - KdaiP ![Star](https://img.shields.io/github/stars/KdaiP/StableTTS.svg?style=social&label=Star)
+
+	 *Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3*
 - [**MeloTTS**](https://github.com/myshell-ai/MeloTTS) - myshell-ai ![Star](https://img.shields.io/github/stars/myshell-ai/MeloTTS.svg?style=social&label=Star)
 
 	 *High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.*

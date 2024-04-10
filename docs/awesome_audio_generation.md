@@ -118,6 +118,10 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v3), [pdf](http://arxiv.org/pdf/2402.12226v3.pdf), cication: [**-1**](None)
+
+	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([SpeechGPT](https://github.com/0nutation/SpeechGPT) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)
+- [Fetching Title#i7hm](https://www.nature.com/articles/s42256-024-00824-8)
 - **WavLLM: Towards Robust and Adaptive Speech Large Language Model**, `arXiv, 2404.00656`, [arxiv](http://arxiv.org/abs/2404.00656v1), [pdf](http://arxiv.org/pdf/2404.00656v1.pdf), cication: [**-1**](None)
 
 	 *Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, Hongkun Hao, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu*
@@ -126,6 +130,9 @@
 - **Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like**, `arXiv, 2402.07383`, [arxiv](http://arxiv.org/abs/2402.07383v1), [pdf](http://arxiv.org/pdf/2402.07383v1.pdf), cication: [**-1**](None)
 
 	 *Naoyuki Kanda, Xiaofei Wang, Sefik Emre Eskimez, Manthan Thakker, Hemin Yang, Zirun Zhu, Min Tang, Canrun Li, Steven Tsai, Zhen Xiao* · ([aka](https://aka.ms/elate/))
+- **SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation**, `arXiv, 2401.13527`, [arxiv](http://arxiv.org/abs/2401.13527v2), [pdf](http://arxiv.org/pdf/2401.13527v2.pdf), cication: [**-1**](None)
+
+	 *Dong Zhang, Xin Zhang, Jun Zhan, Shimin Li, Yaqian Zhou, Xipeng Qiu*
 - **SpeechPrompt: An Exploration of Prompt Tuning on Generative Spoken
   Language Model for Speech Processing Tasks**, `arXiv, 2203.16773`, [arxiv](http://arxiv.org/abs/2203.16773v3), [pdf](http://arxiv.org/pdf/2203.16773v3.pdf), cication: [**-1**](None)
 
