@@ -138,6 +138,7 @@
 - [**MusicBench**](https://huggingface.co/datasets/amaai-lab/MusicBench) - amaai-lab 🤗
 
 ## Products
+- [Udio | Make your music](https://www.udio.com/)
 - [网易天音 - 一站式AI音乐创作工具 - 官网](https://tianyin.music.163.com/#/)
 - [Introducing Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0)
 
