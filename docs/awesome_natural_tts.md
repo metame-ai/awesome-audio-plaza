@@ -208,6 +208,9 @@
 	 *Atli Thor Sigurgeirsson, Simon King*
 
 ## OpenTTS
+- [**parler-tts**](https://github.com/huggingface/parler-tts?tab=readme-ov-file) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/parler-tts.svg?style=social&label=Star)
+
+	 *Inference and training library for high-quality TTS models.*
 - [**StableTTS**](https://github.com/KdaiP/StableTTS) - KdaiP ![Star](https://img.shields.io/github/stars/KdaiP/StableTTS.svg?style=social&label=Star)
 
 	 *Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3*

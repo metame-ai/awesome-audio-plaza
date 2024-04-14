@@ -8,6 +8,9 @@
 
 
 ## Papers
+- **Conformer-1: Robust ASR via Large-Scale Semisupervised Bootstrapping**, `arXiv, 2404.07341`, [arxiv](http://arxiv.org/abs/2404.07341v1), [pdf](http://arxiv.org/pdf/2404.07341v1.pdf), cication: [**-1**](None)
+
+	 *Kevin Zhang, Luka Chkhetiani, Francis McCann Ramirez, Yash Khare, Andrea Vanzo, Michael Liang, Sergio Ramirez Martin, Gabriel Oexle, Ruben Bousbib, Taufiquzzaman Peyash*
 - **Towards a World-English Language Model for On-Device Virtual Assistants**, `arXiv, 2403.18783`, [arxiv](http://arxiv.org/abs/2403.18783v1), [pdf](http://arxiv.org/pdf/2403.18783v1.pdf), cication: [**-1**](None)
 
 	 *Rricha Jalota, Lyan Verwimp, Markus Nussbaum-Thom, Amr Mousa, Arturo Argueta, Youssef Oualil*

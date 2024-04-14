@@ -22,6 +22,8 @@
   annotations**, `arXiv, 2402.01912`, [arxiv](http://arxiv.org/abs/2402.01912v1), [pdf](http://arxiv.org/pdf/2402.01912v1.pdf), cication: [**-1**](None)
 
 	 *Dan Lyth, Simon King* · ([text-description-to-speech](https://www.text-description-to-speech.com/))
+
+	 · ([parler-tts](https://github.com/huggingface/parler-tts?tab=readme-ov-file) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/parler-tts.svg?style=social&label=Star)
 - **BATON: Aligning Text-to-Audio Model with Human Preference Feedback**, `arXiv, 2402.00744`, [arxiv](http://arxiv.org/abs/2402.00744v1), [pdf](http://arxiv.org/pdf/2402.00744v1.pdf), cication: [**-1**](None)
 
 	 *Huan Liao, Haonan Han, Kai Yang, Tianjiao Du, Rui Yang, Zunnan Xu, Qinmei Xu, Jingquan Liu, Jiasheng Lu, Xiu Li* · ([baton2024.github](https://baton2024.github.io/))

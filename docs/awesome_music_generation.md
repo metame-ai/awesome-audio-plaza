@@ -103,6 +103,7 @@
 	 *Lei Wang, Ziyi Zhao, Hanwei Liu, Junwei Pang, Yi Qin, Qidi Wu*
 
 ## Misc
+- [Site Unreachable](https://huggingface.co/spaces/artificialguybr/musicgen-songstarter-demo)
 - [**rwkv-music**](https://huggingface.co/spaces/mrfakename/rwkv-music) - mrfakename 🤗
 - **Video2Music: Suitable Music Generation from Videos using an Affective
   Multimodal Transformer model**, `arXiv, 2311.00968`, [arxiv](http://arxiv.org/abs/2311.00968v1), [pdf](http://arxiv.org/pdf/2311.00968v1.pdf), cication: [**-1**](None)
