@@ -141,6 +141,9 @@
 	 *基于 g2pW 提升 pypinyin 的准确性*
 
 ## Dataset
+- **Audio Dialogues: Dialogues dataset for audio and music understanding**, `arXiv, 2404.07616`, [arxiv](http://arxiv.org/abs/2404.07616v1), [pdf](http://arxiv.org/pdf/2404.07616v1.pdf), cication: [**-1**](None)
+
+	 *Arushi Goel, Zhifeng Kong, Rafael Valle, Bryan Catanzaro* · ([audiodialogues.github](https://audiodialogues.github.io/))
 - [**yodas**](https://huggingface.co/datasets/espnet/yodas) - espnet 🤗
 - **An Automated End-to-End Open-Source Software for High-Quality
   Text-to-Speech Dataset Generation**, `arXiv, 2402.16380`, [arxiv](http://arxiv.org/abs/2402.16380v1), [pdf](http://arxiv.org/pdf/2402.16380v1.pdf), cication: [**-1**](None)
