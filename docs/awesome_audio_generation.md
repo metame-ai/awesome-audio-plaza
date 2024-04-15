@@ -120,6 +120,10 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **CoVoMix: Advancing Zero-Shot Speech Generation for Human-like
+  Multi-talker Conversations**, `arXiv, 2404.06690`, [arxiv](http://arxiv.org/abs/2404.06690v1), [pdf](http://arxiv.org/pdf/2404.06690v1.pdf), cication: [**-1**](None)
+
+	 *Leying Zhang, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He* · ([microsoft](https://www.microsoft.com/en-us/research/project/covomix/))
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v3), [pdf](http://arxiv.org/pdf/2402.12226v3.pdf), cication: [**-1**](None)
 
 	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([SpeechGPT](https://github.com/0nutation/SpeechGPT) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)

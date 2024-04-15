@@ -167,6 +167,9 @@
     - [YourTTS](https://edresson.github.io/YourTTS/)
 
 
+## Projects
+- [Fetching Title#bmo1](https://huggingface.co/ShoukanLabs/Vokan)
+
 ## Products
 - [Introducing Rapid Voice Cloning: Create AI Voices in Seconds](https://www.resemble.ai/introducing-rapid-voice-cloning-create-voice-clones-in-seconds/)
 

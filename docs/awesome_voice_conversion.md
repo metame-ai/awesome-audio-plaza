@@ -6,6 +6,10 @@
 
 
 ## Papers
+- **VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving
+  Zero-Shot Voice Editing**, `arXiv, 2404.06674`, [arxiv](http://arxiv.org/abs/2404.06674v2), [pdf](http://arxiv.org/pdf/2404.06674v2.pdf), cication: [**-1**](None)
+
+	 *Philip Anastassiou, Zhenyu Tang, Kainan Peng, Dongya Jia, Jiaxin Li, Ming Tu, Yuping Wang, Yuxuan Wang, Mingbo Ma* · ([voiceshopai.github](https://voiceshopai.github.io/))
 - **StreamVoice: Streamable Context-Aware Language Modeling for Real-time
   Zero-Shot Voice Conversion**, `arXiv, 2401.11053`, [arxiv](http://arxiv.org/abs/2401.11053v2), [pdf](http://arxiv.org/pdf/2401.11053v2.pdf), cication: [**-1**](None)
 

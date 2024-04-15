@@ -12,6 +12,9 @@
 	 *text to speech using autoregressive transformer and VITS*
 
 ## Papers
+- **Llama-VITS: Enhancing TTS Synthesis with Semantic Awareness**, `arXiv, 2404.06714`, [arxiv](http://arxiv.org/abs/2404.06714v2), [pdf](http://arxiv.org/pdf/2404.06714v2.pdf), cication: [**-1**](None)
+
+	 *Xincan Feng, Akifumi Yoshimoto*
 - **PAVITS: Exploring Prosody-aware VITS for End-to-End Emotional Voice
   Conversion**, `arXiv, 2403.01494`, [arxiv](http://arxiv.org/abs/2403.01494v1), [pdf](http://arxiv.org/pdf/2403.01494v1.pdf), cication: [**-1**](None)
 
