@@ -10,6 +10,9 @@
 
 
 ## Audio Generation
+- [[2404.09956] Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization](https://arxiv.org/abs/2404.09956)
+
+	 · ([tango](https://github.com/declare-lab/tango) - declare-lab) ![Star](https://img.shields.io/github/stars/declare-lab/tango.svg?style=social&label=Star)
 - **Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**, `arXiv, 2402.10009`, [arxiv](http://arxiv.org/abs/2402.10009v1), [pdf](http://arxiv.org/pdf/2402.10009v1.pdf), cication: [**-1**](None)
 
 	 *Hila Manor, Tomer Michaeli* · ([AudioEditing](https://github.com/hilamanor/AudioEditing) - hilamanor) ![Star](https://img.shields.io/github/stars/hilamanor/AudioEditing.svg?style=social&label=Star)
@@ -253,6 +256,7 @@
 
 
 ## Toolkits
+- [**dataspeech**](https://github.com/huggingface/dataspeech) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/dataspeech.svg?style=social&label=Star)
 - [**stable-audio-tools**](https://github.com/Stability-AI/stable-audio-tools) - Stability-AI ![Star](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools.svg?style=social&label=Star)
 
 	 *Generative models for conditional audio generation*

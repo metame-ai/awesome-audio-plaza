@@ -159,6 +159,7 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- [**mls_eng_10k**](https://huggingface.co/datasets/parler-tts/mls_eng_10k) - parler-tts 🤗
 - **LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus**, `arXiv, 2305.18802`, [arxiv](http://arxiv.org/abs/2305.18802v1), [pdf](http://arxiv.org/pdf/2305.18802v1.pdf), cication: [**-1**](None)
 
 	 *Yuma Koizumi, Heiga Zen, Shigeki Karita, Yifan Ding, Kohei Yatabe, Nobuyuki Morioka, Michiel Bacchiani, Yu Zhang, Wei Han, Ankur Bapna* · ([openslr](http://www.openslr.org/141/)) · ([google.github](https://google.github.io/df-conformer/librittsr/))

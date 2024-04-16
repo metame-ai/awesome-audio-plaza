@@ -9,6 +9,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Text-to-Song: Towards Controllable Music Generation Incorporating Vocals
+  and Accompaniment**, `arXiv, 2404.09313`, [arxiv](http://arxiv.org/abs/2404.09313v1), [pdf](http://arxiv.org/pdf/2404.09313v1.pdf), cication: [**-1**](None)
+
+	 *Hong Zhiqing, Huang Rongjie, Cheng Xize, Wang Yongqi, Li Ruiqi, You Fuming, Zhao Zhou, Zhang Zhimeng* · ([text2songmelodist.github](https://text2songmelodist.github.io/Sample/))
 - **MuPT: A Generative Symbolic Music Pretrained Transformer**, `arXiv, 2404.06393`, [arxiv](http://arxiv.org/abs/2404.06393v1), [pdf](http://arxiv.org/pdf/2404.06393v1.pdf), cication: [**-1**](None)
 
 	 *Xingwei Qu, Yuelin Bai, Yinghao Ma, Ziya Zhou, Ka Man Lo, Jiaheng Liu, Ruibin Yuan, Lejun Min, Xueling Liu, Tianyu Zhang* · ([map-mupt.github](https://map-mupt.github.io/))
