@@ -15,7 +15,9 @@
 
 	 · ([jasonppy.github](https://jasonppy.github.io/assets/pdfs/VoiceCraft.pdf))
 	 · ([VoiceCraft](https://github.com/jasonppy/VoiceCraft) - jasonppy) ![Star](https://img.shields.io/github/stars/jasonppy/VoiceCraft.svg?style=social&label=Star) · ([jasonppy.github](https://jasonppy.github.io/VoiceCraft_web/))
-- [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis | OpenReview](https://openreview.net/forum?id=mvMI3N4AvD)
+- **Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis**, `arXiv, 2307.07218`, [arxiv](http://arxiv.org/abs/2307.07218v4), [pdf](http://arxiv.org/pdf/2307.07218v4.pdf), cication: [**-1**](None)
+
+	 *Ziyue Jiang, Jinglin Liu, Yi Ren, Jinzheng He, Zhenhui Ye, Shengpeng Ji, Qian Yang, Chen Zhang, Pengfei Wei, Chunfeng Wang*
 
 	 · ([boostprompt.github](https://boostprompt.github.io/boostprompt/))
 - [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech | OpenReview](https://openreview.net/forum?id=ofzeypWosV)

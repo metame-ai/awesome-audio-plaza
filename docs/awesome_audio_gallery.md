@@ -56,6 +56,9 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**seewav**](https://github.com/adefossez/seewav) - adefossez ![Star](https://img.shields.io/github/stars/adefossez/seewav.svg?style=social&label=Star)
+
+	 *Audio waveform visualisation, converts any audio to a nice video* · ([huggingface](https://huggingface.co/spaces/mrfakename/seewav-gui))
 - [**NeMo-text-processing**](https://github.com/NVIDIA/NeMo-text-processing?tab=readme-ov-file) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/NeMo-text-processing.svg?style=social&label=Star)
 
 	 *NeMo text processing for ASR and TTS*

@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Long-form music generation with latent diffusion**, `arXiv, 2404.10301`, [arxiv](http://arxiv.org/abs/2404.10301v1), [pdf](http://arxiv.org/pdf/2404.10301v1.pdf), cication: [**-1**](None)
+
+	 *Zach Evans, Julian D. Parker, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons*
 - **Text-to-Song: Towards Controllable Music Generation Incorporating Vocals
   and Accompaniment**, `arXiv, 2404.09313`, [arxiv](http://arxiv.org/abs/2404.09313v1), [pdf](http://arxiv.org/pdf/2404.09313v1.pdf), cication: [**-1**](None)
 
@@ -107,7 +110,7 @@
 	 *Lei Wang, Ziyi Zhao, Hanwei Liu, Junwei Pang, Yi Qin, Qidi Wu*
 
 ## Misc
-- [Site Unreachable](https://huggingface.co/spaces/artificialguybr/musicgen-songstarter-demo)
+- [**musicgen-songstarter-demo**](https://huggingface.co/spaces/artificialguybr/musicgen-songstarter-demo) - artificialguybr 🤗
 - [**rwkv-music**](https://huggingface.co/spaces/mrfakename/rwkv-music) - mrfakename 🤗
 - **Video2Music: Suitable Music Generation from Videos using an Affective
   Multimodal Transformer model**, `arXiv, 2311.00968`, [arxiv](http://arxiv.org/abs/2311.00968v1), [pdf](http://arxiv.org/pdf/2311.00968v1.pdf), cication: [**-1**](None)

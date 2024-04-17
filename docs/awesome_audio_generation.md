@@ -10,7 +10,10 @@
 
 
 ## Audio Generation
-- [[2404.09956] Tango 2: Aligning Diffusion-based Text-to-Audio Generations through Direct Preference Optimization](https://arxiv.org/abs/2404.09956)
+- **Tango 2: Aligning Diffusion-based Text-to-Audio Generations through
+  Direct Preference Optimization**, `arXiv, 2404.09956`, [arxiv](http://arxiv.org/abs/2404.09956v2), [pdf](http://arxiv.org/pdf/2404.09956v2.pdf), cication: [**-1**](None)
+
+	 *Navonil Majumder, Chia-Yu Hung, Deepanway Ghosal, Wei-Ning Hsu, Rada Mihalcea, Soujanya Poria*
 
 	 · ([tango](https://github.com/declare-lab/tango) - declare-lab) ![Star](https://img.shields.io/github/stars/declare-lab/tango.svg?style=social&label=Star)
 - **Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**, `arXiv, 2402.10009`, [arxiv](http://arxiv.org/abs/2402.10009v1), [pdf](http://arxiv.org/pdf/2402.10009v1.pdf), cication: [**-1**](None)
