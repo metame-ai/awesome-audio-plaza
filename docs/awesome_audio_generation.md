@@ -133,7 +133,7 @@
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v3), [pdf](http://arxiv.org/pdf/2402.12226v3.pdf), cication: [**-1**](None)
 
 	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([SpeechGPT](https://github.com/0nutation/SpeechGPT) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)
-- [Fetching Title#i7hm](https://www.nature.com/articles/s42256-024-00824-8)
+- [A neural speech decoding framework leveraging deep learning and speech synthesis | Nature Machine Intelligence](https://www.nature.com/articles/s42256-024-00824-8)
 - **WavLLM: Towards Robust and Adaptive Speech Large Language Model**, `arXiv, 2404.00656`, [arxiv](http://arxiv.org/abs/2404.00656v1), [pdf](http://arxiv.org/pdf/2404.00656v1.pdf), cication: [**-1**](None)
 
 	 *Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, Hongkun Hao, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu*
