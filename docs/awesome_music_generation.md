@@ -147,7 +147,6 @@
 
 ## Products
 - [Udio | Make your music](https://www.udio.com/)
-- [网易天音 - 一站式AI音乐创作工具 - 官网](https://tianyin.music.163.com/#/)
 - [Introducing Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0)
 
 	 · ([mp.weixin.qq](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652463642&idx=1&sn=b1d50966d4a834b4e81d9635ccb4cd96))
@@ -159,6 +158,7 @@
 - [Musicfy AI](https://musicfy.lol/)
 - [Transforming the future of music creation - Google DeepMind](https://deepmind.google/discover/blog/transforming-the-future-of-music-creation/)
 
+- [网易天音 - 一站式AI音乐创作工具 - 官网](https://tianyin.music.163.com/#/)
 - [音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://mp.weixin.qq.com/s/LFuZ0EIPkLrM342JB1EF_A)
 
 ## Other
