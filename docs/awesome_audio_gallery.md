@@ -11,6 +11,9 @@
   - [Audio Techs](#audio-techs)
 
 ## Detection
+- **Retrieval-Augmented Audio Deepfake Detection**, `arXiv, 2404.13892`, [arxiv](http://arxiv.org/abs/2404.13892v1), [pdf](http://arxiv.org/pdf/2404.13892v1.pdf), cication: [**-1**](None)
+
+	 *Zuheng Kang, Yayun He, Botao Zhao, Xiaoyang Qu, Junqing Peng, Jing Xiao, Jianzong Wang*
 - **Cross-Domain Audio Deepfake Detection: Dataset and Analysis**, `arXiv, 2404.04904`, [arxiv](http://arxiv.org/abs/2404.04904v1), [pdf](http://arxiv.org/pdf/2404.04904v1.pdf), cication: [**-1**](None)
 
 	 *Yuang Li, Min Zhang, Mengxin Ren, Miaomiao Ma, Daimeng Wei, Hao Yang*
@@ -235,6 +238,7 @@
 	 *Kai Li, Guo Chen* · ([SPMamba](https://github.com/JusperLee/SPMamba) - JusperLee) ![Star](https://img.shields.io/github/stars/JusperLee/SPMamba.svg?style=social&label=Star)
 
 ## Products
+- [PlayAI](https://play.ai/)
 - [Meet Hume’s Empathic Voice Interface (EVI), the first conversational AI with emotional intelligence.](https://demo.hume.ai/)
 
 	 · ([twitter](https://twitter.com/hume_ai/status/1773017055974789176))

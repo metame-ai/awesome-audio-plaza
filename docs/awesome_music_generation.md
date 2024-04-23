@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Music Consistency Models**, `arXiv, 2404.13358`, [arxiv](http://arxiv.org/abs/2404.13358v1), [pdf](http://arxiv.org/pdf/2404.13358v1.pdf), cication: [**-1**](None)
+
+	 *Zhengcong Fei, Mingyuan Fan, Junshi Huang*
 - **Long-form music generation with latent diffusion**, `arXiv, 2404.10301`, [arxiv](http://arxiv.org/abs/2404.10301v1), [pdf](http://arxiv.org/pdf/2404.10301v1.pdf), cication: [**-1**](None)
 
 	 *Zach Evans, Julian D. Parker, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons*
@@ -162,6 +165,7 @@
 - [音乐ChatGPT时刻来临！「天工SkyMusic」音乐大模型今日启动邀测](https://mp.weixin.qq.com/s/LFuZ0EIPkLrM342JB1EF_A)
 
 ## Other
+- [Site Unreachable](https://huggingface.co/spaces/enzostvs/ai-jukebox)
 - [**Stable-Diffusion**](https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Tutorials/AI-Music-Generation-Audiocraft-Tutorial.md#more-info-about-top-k-top-p-temperature-and-classifier-free-guidance-from-chatgpt) - FurkanGozukara ![Star](https://img.shields.io/github/stars/FurkanGozukara/Stable-Diffusion.svg?style=social&label=Star)
 
 ## Extra reference
