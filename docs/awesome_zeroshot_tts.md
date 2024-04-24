@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Gallery
+- **FlashSpeech: Efficient Zero-Shot Speech Synthesis**, `arXiv, 2404.14700`, [arxiv](http://arxiv.org/abs/2404.14700v1), [pdf](http://arxiv.org/pdf/2404.14700v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Ye, Zeqian Ju, Haohe Liu, Xu Tan, Jianyi Chen, Yiwen Lu, Peiwen Sun, Jiahao Pan, Weizhen Bian, Shulin He* · ([flashspeech.github](https://flashspeech.github.io/))
 - **RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting
   for Text-to-Speech Synthesis**, `arXiv, 2404.03204`, [arxiv](http://arxiv.org/abs/2404.03204v1), [pdf](http://arxiv.org/pdf/2404.03204v1.pdf), cication: [**-1**](None)
 
@@ -170,7 +173,7 @@
 
 
 ## Projects
-- [Fetching Title#bmo1](https://huggingface.co/ShoukanLabs/Vokan)
+- [**Vokan**](https://huggingface.co/ShoukanLabs/Vokan) - ShoukanLabs 🤗
 
 ## Products
 - [Introducing Rapid Voice Cloning: Create AI Voices in Seconds](https://www.resemble.ai/introducing-rapid-voice-cloning-create-voice-clones-in-seconds/)

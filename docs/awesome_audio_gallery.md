@@ -165,6 +165,10 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual
+  Expressiveness Annotations**, `arXiv, 2404.14946`, [arxiv](http://arxiv.org/abs/2404.14946v1), [pdf](http://arxiv.org/pdf/2404.14946v1.pdf), cication: [**-1**](None)
+
+	 *Sen Liu, Yiwei Guo, Xie Chen, Kai Yu* · ([goarsenal.github](https://goarsenal.github.io/StoryTTS/))
 - [**mls_eng_10k**](https://huggingface.co/datasets/parler-tts/mls_eng_10k) - parler-tts 🤗
 - **LibriTTS-R: A Restored Multi-Speaker Text-to-Speech Corpus**, `arXiv, 2305.18802`, [arxiv](http://arxiv.org/abs/2305.18802v1), [pdf](http://arxiv.org/pdf/2305.18802v1.pdf), cication: [**-1**](None)
 
