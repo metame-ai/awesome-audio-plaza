@@ -38,6 +38,7 @@
 - [https://speech.ee.ntu.edu.tw/\~hylee/ml/ml2023-course-data/張凱爲-x-機器學習-x-語音基石模型.pdf](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/%E5%BC%B5%E5%87%B1%E7%88%B2-x-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-x-%E8%AA%9E%E9%9F%B3%E5%9F%BA%E7%9F%B3%E6%A8%A1%E5%9E%8B.pdf)
 
 ### Other
+- [scaling law for multimodality](https://twitter.com/xutan_tx/status/1783154647903113453)
 - [**awesome-speech-recognition-speech-synthesis-papers**](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) - zzw922cn ![Star](https://img.shields.io/github/stars/zzw922cn/awesome-speech-recognition-speech-synthesis-papers.svg?style=social&label=Star)
 - [**Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion**](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) - guan-yuan ![Star](https://img.shields.io/github/stars/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion.svg?style=social&label=Star)
 - [**survey**](https://github.com/tts-tutorial/survey) - tts-tutorial ![Star](https://img.shields.io/github/stars/tts-tutorial/survey.svg?style=social&label=Star)
