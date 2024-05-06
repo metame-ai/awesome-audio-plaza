@@ -10,6 +10,9 @@
 
 
 ## Audio Generation
+- [**WavCraft**](https://github.com/JinhuaLiang/WavCraft/blob/main) - JinhuaLiang ![Star](https://img.shields.io/github/stars/JinhuaLiang/WavCraft.svg?style=social&label=Star)
+
+	 *Official repo for WavCraft, an AI agent for audio creation and editing*
 - **Tango 2: Aligning Diffusion-based Text-to-Audio Generations through
   Direct Preference Optimization**, `arXiv, 2404.09956`, [arxiv](http://arxiv.org/abs/2404.09956v2), [pdf](http://arxiv.org/pdf/2404.09956v2.pdf), cication: [**-1**](None)
 

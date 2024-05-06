@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Papers and Projects
+- **SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General
+  Sound**, `arXiv, 2405.00233`, [arxiv](http://arxiv.org/abs/2405.00233v1), [pdf](http://arxiv.org/pdf/2405.00233v1.pdf), cication: [**-1**](None)
+
+	 *Haohe Liu, Xuenan Xu, Yi Yuan, Mengyue Wu, Wenwu Wang, Mark D. Plumbley* · ([haoheliu.github](https://haoheliu.github.io/SemantiCodec/))
 - **PromptCodec: High-Fidelity Neural Speech Codec using Disentangled
   Representation Learning based Adaptive Feature-aware Prompt Encoders**, `arXiv, 2404.02702`, [arxiv](http://arxiv.org/abs/2404.02702v1), [pdf](http://arxiv.org/pdf/2404.02702v1.pdf), cication: [**-1**](None)
 

@@ -28,6 +28,7 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**asr-diarization**](https://huggingface.co/blog/asr-diarization) -  🤗
 - [**distil-large-v3**](https://huggingface.co/distil-whisper/distil-large-v3) - distil-whisper 🤗
 - **OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on
   E-Branchformer**, `arXiv, 2401.16658`, [arxiv](http://arxiv.org/abs/2401.16658v1), [pdf](http://arxiv.org/pdf/2401.16658v1.pdf), cication: [**-1**](None)
