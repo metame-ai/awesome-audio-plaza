@@ -60,6 +60,7 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+
 - [**seewav**](https://github.com/adefossez/seewav) - adefossez ![Star](https://img.shields.io/github/stars/adefossez/seewav.svg?style=social&label=Star)
 
 	 *Audio waveform visualisation, converts any audio to a nice video* · ([huggingface](https://huggingface.co/spaces/mrfakename/seewav-gui))
@@ -146,7 +147,10 @@
 - [**pypinyin-g2pW**](https://github.com/mozillazg/pypinyin-g2pW) - mozillazg ![Star](https://img.shields.io/github/stars/mozillazg/pypinyin-g2pW.svg?style=social&label=Star)
 
 	 *基于 g2pW 提升 pypinyin 的准确性*
+- **MP-SENet: A Speech Enhancement Model with Parallel Denoising of
+  Magnitude and Phase Spectra**, `arXiv, 2305.13686`, [arxiv](http://arxiv.org/abs/2305.13686v1), [pdf](http://arxiv.org/pdf/2305.13686v1.pdf), cication: [**-1**](None)
 
+	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
 - **Audio Dialogues: Dialogues dataset for audio and music understanding**, `arXiv, 2404.07616`, [arxiv](http://arxiv.org/abs/2404.07616v1), [pdf](http://arxiv.org/pdf/2404.07616v1.pdf), cication: [**-1**](None)
 
@@ -156,7 +160,7 @@
   Text-to-Speech Dataset Generation**, `arXiv, 2402.16380`, [arxiv](http://arxiv.org/abs/2402.16380v1), [pdf](http://arxiv.org/pdf/2402.16380v1.pdf), cication: [**-1**](None)
 
 	 *Ahmet Gunduz, Kamer Ali Yuksel, Kareem Darwish, Golara Javadi, Fabio Minazzi, Nicola Sobieski, Sebastien Bratieres*
-- [Fetching Title#ynm2](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0)
+- [**common_voice_17_0**](https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0) - mozilla-foundation 🤗
 - [**common_voice_16_0**](https://huggingface.co/datasets/mozilla-foundation/common_voice_16_0) - mozilla-foundation 🤗
 - [**GigaSpeech**](https://github.com/SpeechColab/GigaSpeech) - SpeechColab ![Star](https://img.shields.io/github/stars/SpeechColab/GigaSpeech.svg?style=social&label=Star)
 
