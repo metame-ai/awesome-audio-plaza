@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Papers and Projects
+- **ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized
+  Transformers**, `arXiv, 2404.19441`, [arxiv](http://arxiv.org/abs/2404.19441v1), [pdf](http://arxiv.org/pdf/2404.19441v1.pdf), cication: [**-1**](None)
+
+	 *Yuzhe Gu, Enmao Diao* · ([efficient-speech-codec](https://github.com/yzGuu830/efficient-speech-codec) - yzGuu830) ![Star](https://img.shields.io/github/stars/yzGuu830/efficient-speech-codec.svg?style=social&label=Star)
 - **SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General
   Sound**, `arXiv, 2405.00233`, [arxiv](http://arxiv.org/abs/2405.00233v1), [pdf](http://arxiv.org/pdf/2405.00233v1.pdf), cication: [**-1**](None)
 
