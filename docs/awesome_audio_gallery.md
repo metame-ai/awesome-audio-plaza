@@ -60,7 +60,16 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**speechbrain**](https://github.com/speechbrain/speechbrain/) - speechbrain ![Star](https://img.shields.io/github/stars/speechbrain/speechbrain.svg?style=social&label=Star)
 
+	 *A PyTorch-based Speech Toolkit* · ([huggingface](https://huggingface.co/speechbrain/sepformer-wham16k-enhancement))
+- [**demucs**](https://github.com/facebookresearch/demucs) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/demucs.svg?style=social&label=Star)
+
+	 *Code for the paper Hybrid Spectrogram and Waveform Source Separation*
+- [**Resemblyzer**](https://github.com/resemble-ai/Resemblyzer) - resemble-ai ![Star](https://img.shields.io/github/stars/resemble-ai/Resemblyzer.svg?style=social&label=Star)
+
+	 *A python package to analyze and compare voices with deep learning*
+- [**FRCRN**](https://github.com/alibabasglab/FRCRN) - alibabasglab ![Star](https://img.shields.io/github/stars/alibabasglab/FRCRN.svg?style=social&label=Star)
 - [**seewav**](https://github.com/adefossez/seewav) - adefossez ![Star](https://img.shields.io/github/stars/adefossez/seewav.svg?style=social&label=Star)
 
 	 *Audio waveform visualisation, converts any audio to a nice video* · ([huggingface](https://huggingface.co/spaces/mrfakename/seewav-gui))

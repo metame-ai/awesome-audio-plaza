@@ -10,6 +10,10 @@
 
 
 ## Audio Generation
+- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and
+  Duration via Flow-based Large Diffusion Transformers**, `arXiv, 2405.05945`, [arxiv](http://arxiv.org/abs/2405.05945v1), [pdf](http://arxiv.org/pdf/2405.05945v1.pdf), cication: [**-1**](None)
+
+	 *Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang* · ([Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X?tab=readme-ov-file) - Alpha-VLLM) ![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)
 - [**WavCraft**](https://github.com/JinhuaLiang/WavCraft/blob/main) - JinhuaLiang ![Star](https://img.shields.io/github/stars/JinhuaLiang/WavCraft.svg?style=social&label=Star)
 
 	 *Official repo for WavCraft, an AI agent for audio creation and editing*

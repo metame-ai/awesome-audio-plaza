@@ -149,6 +149,7 @@
 - [**MusicBench**](https://huggingface.co/datasets/amaai-lab/MusicBench) - amaai-lab 🤗
 
 ## Products
+- [X](https://twitter.com/elevenlabsio/status/1788628171044053386)
 - [Udio | Make your music](https://www.udio.com/)
 - [Introducing Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0)
 
