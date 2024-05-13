@@ -94,6 +94,8 @@
 - [**fish-speech**](https://github.com/fishaudio/fish-speech) - fishaudio ![Star](https://img.shields.io/github/stars/fishaudio/fish-speech.svg?style=social&label=Star)
 
 	 *Brand new TTS solution* · ([speech.fish](https://speech.fish.audio/))
+
+	 · ([bilibili](https://www.bilibili.com/video/BV1zJ4m1K7cj))
 - **Pheme: Efficient and Conversational Speech Generation**, `arXiv, 2401.02839`, [arxiv](http://arxiv.org/abs/2401.02839v1), [pdf](http://arxiv.org/pdf/2401.02839v1.pdf), cication: [**-1**](None)
 
 	 *Paweł Budzianowski, Taras Sereda, Tomasz Cichy, Ivan Vulić* · ([arxiv](https://arxiv.org/pdf/2401.02839.pdf)) · ([pheme](https://github.com/PolyAI-LDN/pheme?tab=readme-ov-file) - PolyAI-LDN) ![Star](https://img.shields.io/github/stars/PolyAI-LDN/pheme.svg?style=social&label=Star) · ([polyai-ldn.github](https://polyai-ldn.github.io/pheme/#fn1))
