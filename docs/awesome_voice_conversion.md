@@ -40,7 +40,9 @@
 	 *Matthew Baas, Benjamin van Niekerk, Herman Kamper* · ([knn-vc](https://github.com/interspeech2023blind/knn-vc) - interspeech2023blind) ![Star](https://img.shields.io/github/stars/interspeech2023blind/knn-vc.svg?style=social&label=Star) · ([bshall.github](https://bshall.github.io/knn-vc/))
 
 ## Projects
+- [**Applio**](https://github.com/IAHispano/Applio) - IAHispano ![Star](https://img.shields.io/github/stars/IAHispano/Applio.svg?style=social&label=Star)
 
+	 *VITS-based Voice Conversion focused on simplicity, quality and performance.*
 - [**Retrieval-based-Voice-Conversion-WebUI**](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - RVC-Project ![Star](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.svg?style=social&label=Star)
 
 	 *Voice data <= 10 mins can also be used to train a good VC model!*
