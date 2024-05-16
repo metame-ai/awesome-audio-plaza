@@ -180,6 +180,10 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **EXPRESSO: A Benchmark and Analysis of Discrete Expressive Speech
+  Resynthesis**, `arXiv, 2308.05725`, [arxiv](http://arxiv.org/abs/2308.05725v1), [pdf](http://arxiv.org/pdf/2308.05725v1.pdf), cication: [**-1**](None)
+
+	 *Tu Anh Nguyen, Wei-Ning Hsu, Antony D'Avirro, Bowen Shi, Itai Gat, Maryam Fazel-Zarani, Tal Remez, Jade Copet, Gabriel Synnaeve, Michael Hassid* · ([huggingface](https://huggingface.co/datasets/ylacombe/expresso)) · ([textlesslib](https://github.com/facebookresearch/textlesslib/tree/main/examples/expresso/dataset) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/textlesslib.svg?style=social&label=Star)
 - **StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual
   Expressiveness Annotations**, `arXiv, 2404.14946`, [arxiv](http://arxiv.org/abs/2404.14946v1), [pdf](http://arxiv.org/pdf/2404.14946v1.pdf), cication: [**-1**](None)
 

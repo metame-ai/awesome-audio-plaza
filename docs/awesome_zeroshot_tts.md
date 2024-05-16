@@ -175,6 +175,7 @@
 
 
 ## Projects
+- [**ai-voice-cloning**](https://github.com/JarodMica/ai-voice-cloning) - JarodMica ![Star](https://img.shields.io/github/stars/JarodMica/ai-voice-cloning.svg?style=social&label=Star)
 - [**Vokan**](https://huggingface.co/ShoukanLabs/Vokan) - ShoukanLabs 🤗
 
 ## Products

@@ -213,6 +213,7 @@
 	 *Inference and training library for high-quality TTS models.*
 
 	 · ([huggingface](https://huggingface.co/parler-tts/parler_tts_mini_v0.1))
+	 - [parler-tts/parler-tts-mini-expresso · Hugging Face](https://huggingface.co/parler-tts/parler-tts-mini-expresso)
 - [**StableTTS**](https://github.com/KdaiP/StableTTS) - KdaiP ![Star](https://img.shields.io/github/stars/KdaiP/StableTTS.svg?style=social&label=Star)
 
 	 *Next-generation TTS model using flow-matching and DiT, inspired by Stable Diffusion 3*
