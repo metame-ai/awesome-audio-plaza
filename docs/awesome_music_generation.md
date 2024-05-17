@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Naturalistic Music Decoding from EEG Data via Latent Diffusion Models**, `arXiv, 2405.09062`, [arxiv](http://arxiv.org/abs/2405.09062v1), [pdf](http://arxiv.org/pdf/2405.09062v1.pdf), cication: [**-1**](None)
+
+	 *Emilian Postolache, Natalia Polouliakh, Hiroaki Kitano, Akima Connelly, Emanuele Rodolà, Taketo Akama*
 - **Music Consistency Models**, `arXiv, 2404.13358`, [arxiv](http://arxiv.org/abs/2404.13358v1), [pdf](http://arxiv.org/pdf/2404.13358v1.pdf), cication: [**-1**](None)
 
 	 *Zhengcong Fei, Mingyuan Fan, Junshi Huang*
