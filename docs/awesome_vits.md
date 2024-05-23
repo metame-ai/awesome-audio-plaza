@@ -7,6 +7,9 @@
 
 
 ## Projects
+- [**ttts**](https://github.com/adelacvg/ttts) - adelacvg ![Star](https://img.shields.io/github/stars/adelacvg/ttts.svg?style=social&label=Star)
+
+	 *Train the next generation of TTS systems.*
 - [**ar-vits**](https://github.com/innnky/ar-vits?tab=readme-ov-file) - innnky ![Star](https://img.shields.io/github/stars/innnky/ar-vits.svg?style=social&label=Star)
 
 	 *text to speech using autoregressive transformer and VITS*

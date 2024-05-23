@@ -10,6 +10,9 @@
 
 
 ## Audio Generation
+- **Images that Sound: Composing Images and Sounds on a Single Canvas**, `arXiv, 2405.12221`, [arxiv](http://arxiv.org/abs/2405.12221v1), [pdf](http://arxiv.org/pdf/2405.12221v1.pdf), cication: [**-1**](None)
+
+	 *Ziyang Chen, Daniel Geng, Andrew Owens* · ([ificl.github](https://ificl.github.io/images-that-sound/)) · ([images-that-sound](https://github.com/IFICL/images-that-sound) - IFICL) ![Star](https://img.shields.io/github/stars/IFICL/images-that-sound.svg?style=social&label=Star)
 - **Lumina-T2X: Transforming Text into Any Modality, Resolution, and
   Duration via Flow-based Large Diffusion Transformers**, `arXiv, 2405.05945`, [arxiv](http://arxiv.org/abs/2405.05945v1), [pdf](http://arxiv.org/pdf/2405.05945v1.pdf), cication: [**-1**](None)
 
@@ -191,6 +194,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **SpeechVerse: A Large-scale Generalizable Audio Language Model**, `arXiv, 2405.08295`, [arxiv](http://arxiv.org/abs/2405.08295v1), [pdf](http://arxiv.org/pdf/2405.08295v1.pdf), cication: [**-1**](None)
+
+	 *Nilaksh Das, Saket Dingliwal, Srikanth Ronanki, Rohit Paturi, David Huang, Prashant Mathur, Jie Yuan, Dhanush Bekal, Xing Niu, Sai Muralidhar Jayanthi*
 - **Scaling Properties of Speech Language Models**, `arXiv, 2404.00685`, [arxiv](http://arxiv.org/abs/2404.00685v1), [pdf](http://arxiv.org/pdf/2404.00685v1.pdf), cication: [**-1**](None)
 
 	 *Santiago Cuervo, Ricard Marxer*
