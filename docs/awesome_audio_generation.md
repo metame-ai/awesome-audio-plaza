@@ -10,6 +10,9 @@
 
 
 ## Audio Generation
+- **Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**, `arXiv, 2405.14598`, [arxiv](http://arxiv.org/abs/2405.14598v1), [pdf](http://arxiv.org/pdf/2405.14598v1.pdf), cication: [**-1**](None)
+
+	 *Shiqi Yang, Zhi Zhong, Mengjie Zhao, Shusuke Takahashi, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji* · ([docs.google](https://docs.google.com/presentation/d/1ZtC0SeblKkut4XJcRaDsSTuCRIXB3ypxmSi7HTY3IyQ))
 - **Images that Sound: Composing Images and Sounds on a Single Canvas**, `arXiv, 2405.12221`, [arxiv](http://arxiv.org/abs/2405.12221v1), [pdf](http://arxiv.org/pdf/2405.12221v1.pdf), cication: [**-1**](None)
 
 	 *Ziyang Chen, Daniel Geng, Andrew Owens* · ([ificl.github](https://ificl.github.io/images-that-sound/)) · ([images-that-sound](https://github.com/IFICL/images-that-sound) - IFICL) ![Star](https://img.shields.io/github/stars/IFICL/images-that-sound.svg?style=social&label=Star)
