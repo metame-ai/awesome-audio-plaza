@@ -8,6 +8,10 @@
 
 
 ## Papers
+- **Denoising LM: Pushing the Limits of Error Correction Models for Speech
+  Recognition**, `arXiv, 2405.15216`, [arxiv](http://arxiv.org/abs/2405.15216v1), [pdf](http://arxiv.org/pdf/2405.15216v1.pdf), cication: [**-1**](None)
+
+	 *Zijin Gu, Tatiana Likhomanenko, He Bai, Erik McDermott, Ronan Collobert, Navdeep Jaitly*
 - **Conformer-1: Robust ASR via Large-Scale Semisupervised Bootstrapping**, `arXiv, 2404.07341`, [arxiv](http://arxiv.org/abs/2404.07341v1), [pdf](http://arxiv.org/pdf/2404.07341v1.pdf), cication: [**-1**](None)
 
 	 *Kevin Zhang, Luka Chkhetiani, Francis McCann Ramirez, Yash Khare, Andrea Vanzo, Michael Liang, Sergio Ramirez Martin, Gabriel Oexle, Ruben Bousbib, Taufiquzzaman Peyash*
@@ -28,6 +32,9 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**whisper-diarization**](https://github.com/MahmoudAshraf97/whisper-diarization) - MahmoudAshraf97 ![Star](https://img.shields.io/github/stars/MahmoudAshraf97/whisper-diarization.svg?style=social&label=Star)
+
+	 *Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper*
 - [**asr-diarization**](https://huggingface.co/blog/asr-diarization) -  🤗
 - [**distil-large-v3**](https://huggingface.co/distil-whisper/distil-large-v3) - distil-whisper 🤗
 - **OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on
@@ -45,6 +52,9 @@
   Labelling**, `arXiv, 2311.00430`, [arxiv](http://arxiv.org/abs/2311.00430v1), [pdf](http://arxiv.org/pdf/2311.00430v1.pdf), cication: [**-1**](None)
 
 	 *Sanchit Gandhi, Patrick von Platen, Alexander M. Rush* · ([distil-whisper](https://github.com/huggingface/distil-whisper) - huggingface) ![Star](https://img.shields.io/github/stars/huggingface/distil-whisper.svg?style=social&label=Star)
+- [**whisperX**](https://github.com/m-bain/whisperX) - m-bain ![Star](https://img.shields.io/github/stars/m-bain/whisperX.svg?style=social&label=Star)
+
+	 *WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)*
 - [**insanely-fast-whisper**](https://github.com/Vaibhavs10/insanely-fast-whisper/) - Vaibhavs10 ![Star](https://img.shields.io/github/stars/Vaibhavs10/insanely-fast-whisper.svg?style=social&label=Star)
 - [**faster-whisper**](https://github.com/guillaumekln/faster-whisper) - guillaumekln ![Star](https://img.shields.io/github/stars/guillaumekln/faster-whisper.svg?style=social&label=Star)
 
