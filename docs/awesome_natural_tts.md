@@ -212,6 +212,12 @@
 	 *Atli Thor Sigurgeirsson, Simon King*
 
 ## OpenTTS
+- [**ChatTTS**](https://github.com/2noise/ChatTTS) - 2noise ![Star](https://img.shields.io/github/stars/2noise/ChatTTS.svg?style=social&label=Star)
+
+	 *TTS*
+- [**MassTTS**](https://github.com/anyvoiceai/MassTTS) - anyvoiceai ![Star](https://img.shields.io/github/stars/anyvoiceai/MassTTS.svg?style=social&label=Star)
+
+	 *a TTS demo for training new characters.*
 - [**parler-tts**](https://github.com/huggingface/parler-tts?tab=readme-ov-file) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/parler-tts.svg?style=social&label=Star)
 
 	 *Inference and training library for high-quality TTS models.*

@@ -32,6 +32,7 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**faster-whisper-server**](https://github.com/fedirz/faster-whisper-server) - fedirz ![Star](https://img.shields.io/github/stars/fedirz/faster-whisper-server.svg?style=social&label=Star)
 - [**whisper-diarization**](https://github.com/MahmoudAshraf97/whisper-diarization) - MahmoudAshraf97 ![Star](https://img.shields.io/github/stars/MahmoudAshraf97/whisper-diarization.svg?style=social&label=Star)
 
 	 *Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper*
