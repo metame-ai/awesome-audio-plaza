@@ -9,6 +9,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language
+  Models via Instruction Tuning**, `arXiv, 2405.18386`, [arxiv](http://arxiv.org/abs/2405.18386v1), [pdf](http://arxiv.org/pdf/2405.18386v1.pdf), cication: [**-1**](None)
+
+	 *Yixiao Zhang, Yukara Ikemiya, Woosung Choi, Naoki Murata, Marco A. Martínez-Ramírez, Liwei Lin, Gus Xia, Wei-Hsiang Liao, Yuki Mitsufuji, Simon Dixon*
 - **Naturalistic Music Decoding from EEG Data via Latent Diffusion Models**, `arXiv, 2405.09062`, [arxiv](http://arxiv.org/abs/2405.09062v1), [pdf](http://arxiv.org/pdf/2405.09062v1.pdf), cication: [**-1**](None)
 
 	 *Emilian Postolache, Natalia Polouliakh, Hiroaki Kitano, Akima Connelly, Emanuele Rodolà, Taketo Akama*
