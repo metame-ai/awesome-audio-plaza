@@ -179,6 +179,7 @@
 - [**Vokan**](https://huggingface.co/ShoukanLabs/Vokan) - ShoukanLabs 🤗
 
 ## Products
+- [Cartesia](https://play.cartesia.ai/)
 - [Introducing Rapid Voice Cloning: Create AI Voices in Seconds](https://www.resemble.ai/introducing-rapid-voice-cloning-create-voice-clones-in-seconds/)
 
 ## References

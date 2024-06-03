@@ -161,6 +161,7 @@
 
 	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
+- [**links_to_pocasts_lecture_and_shows_for_tts**](https://huggingface.co/datasets/laion/links_to_pocasts_lecture_and_shows_for_tts) - laion 🤗
 - **Audio Dialogues: Dialogues dataset for audio and music understanding**, `arXiv, 2404.07616`, [arxiv](http://arxiv.org/abs/2404.07616v1), [pdf](http://arxiv.org/pdf/2404.07616v1.pdf), cication: [**-1**](None)
 
 	 *Arushi Goel, Zhifeng Kong, Rafael Valle, Bryan Catanzaro* · ([audiodialogues.github](https://audiodialogues.github.io/))
@@ -180,6 +181,7 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- [Fetching Title#v3ug](https://huggingface.co/datasets/blanchon/snac_llm_parler_tts)
 - **EXPRESSO: A Benchmark and Analysis of Discrete Expressive Speech
   Resynthesis**, `arXiv, 2308.05725`, [arxiv](http://arxiv.org/abs/2308.05725v1), [pdf](http://arxiv.org/pdf/2308.05725v1.pdf), cication: [**-1**](None)
 

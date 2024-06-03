@@ -177,7 +177,6 @@
 	 *Zhifang Guo, Yichong Leng, Yihan Wu, Sheng Zhao, Xu Tan*
     - [PromptTTS: controllable text-to-speech with text descriptions - Speech Research](https://speechresearch.github.io/prompttts/#promptspeech)
 
-
 ## Efficient TTS
 - **CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through
   Weighted Samplers and Consistency Models**, `arXiv, 2404.00569`, [arxiv](http://arxiv.org/abs/2404.00569v1), [pdf](http://arxiv.org/pdf/2404.00569v1.pdf), cication: [**-1**](None)
@@ -187,6 +186,7 @@
 	 · ([CM-TTS](https://github.com/XiangLi2022/CM-TTS) - XiangLi2022) ![Star](https://img.shields.io/github/stars/XiangLi2022/CM-TTS.svg?style=social&label=Star)
 
 ## Misc
+- [Fetching Title#d04h](https://laion.ai/notes/open-gpt-4-o/)
 - **Expressive TTS Driven by Natural Language Prompts Using Few Human
   Annotations**, `arXiv, 2311.01260`, [arxiv](http://arxiv.org/abs/2311.01260v1), [pdf](http://arxiv.org/pdf/2311.01260v1.pdf), cication: [**-1**](None)
 

@@ -10,6 +10,10 @@
 
 
 ## Audio Generation
+- **SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound
+  Generation**, `arXiv, 2405.18503`, [arxiv](http://arxiv.org/abs/2405.18503v1), [pdf](http://arxiv.org/pdf/2405.18503v1.pdf), cication: [**-1**](None)
+
+	 *Koichi Saito, Dongjun Kim, Takashi Shibuya, Chieh-Hsin Lai, Zhi Zhong, Yuhta Takida, Yuki Mitsufuji*
 - **Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation**, `arXiv, 2405.14598`, [arxiv](http://arxiv.org/abs/2405.14598v1), [pdf](http://arxiv.org/pdf/2405.14598v1.pdf), cication: [**-1**](None)
 
 	 *Shiqi Yang, Zhi Zhong, Mengjie Zhao, Shusuke Takahashi, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji* · ([docs.google](https://docs.google.com/presentation/d/1ZtC0SeblKkut4XJcRaDsSTuCRIXB3ypxmSi7HTY3IyQ))
@@ -143,6 +147,9 @@
   Multi-talker Conversations**, `arXiv, 2404.06690`, [arxiv](http://arxiv.org/abs/2404.06690v1), [pdf](http://arxiv.org/pdf/2404.06690v1.pdf), cication: [**-1**](None)
 
 	 *Leying Zhang, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He* · ([microsoft](https://www.microsoft.com/en-us/research/project/covomix/))
+- **SpiRit-LM: Interleaved Spoken and Written Language Model**, `arXiv, 2402.05755`, [arxiv](http://arxiv.org/abs/2402.05755v1), [pdf](http://arxiv.org/pdf/2402.05755v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=7368374930715826231&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat*
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v3), [pdf](http://arxiv.org/pdf/2402.12226v3.pdf), cication: [**-1**](None)
 
 	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([SpeechGPT](https://github.com/0nutation/SpeechGPT) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)

@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Papers and Projects
+- [**snac**](https://github.com/hubertsiuzdak/snac/) - hubertsiuzdak ![Star](https://img.shields.io/github/stars/hubertsiuzdak/snac.svg?style=social&label=Star)
+
+	 *Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate* · ([huggingface](https://huggingface.co/datasets/blanchon/snac_llm_parler_tts))
 - **ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized
   Transformers**, `arXiv, 2404.19441`, [arxiv](http://arxiv.org/abs/2404.19441v1), [pdf](http://arxiv.org/pdf/2404.19441v1.pdf), cication: [**-1**](None)
 
