@@ -215,6 +215,7 @@
 - [**ChatTTS**](https://github.com/2noise/ChatTTS) - 2noise ![Star](https://img.shields.io/github/stars/2noise/ChatTTS.svg?style=social&label=Star)
 
 	 *TTS*
+	 - [GitHub - jianchang512/ChatTTS-ui: 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。](https://github.com/jianchang512/ChatTTS-ui)
 - [**MassTTS**](https://github.com/anyvoiceai/MassTTS) - anyvoiceai ![Star](https://img.shields.io/github/stars/anyvoiceai/MassTTS.svg?style=social&label=Star)
 
 	 *a TTS demo for training new characters.*
