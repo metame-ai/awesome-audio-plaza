@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Gallery
+- **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**, `arXiv, 2406.02430`, [arxiv](http://arxiv.org/abs/2406.02430v1), [pdf](http://arxiv.org/pdf/2406.02430v1.pdf), cication: [**-1**](None)
+
+	 *Philip Anastassiou, Jiawei Chen, Jitong Chen, Yuanzhe Chen, Zhuo Chen, Ziyi Chen, Jian Cong, Lelai Deng, Chuang Ding, Lu Gao* · ([bytedancespeech.github](https://bytedancespeech.github.io/seedtts_tech_report/))
 - **FlashSpeech: Efficient Zero-Shot Speech Synthesis**, `arXiv, 2404.14700`, [arxiv](http://arxiv.org/abs/2404.14700v1), [pdf](http://arxiv.org/pdf/2404.14700v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Ye, Zeqian Ju, Haohe Liu, Xu Tan, Jianyi Chen, Yiwen Lu, Peiwen Sun, Jiahao Pan, Weizhen Bian, Shulin He* · ([flashspeech.github](https://flashspeech.github.io/))
