@@ -48,6 +48,9 @@
 	 *Minki Kang, Wooseok Han, Sung Ju Hwang, Eunho Yang*
 
 ## Natural TTS
+- **Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback**, `arXiv, 2406.00654`, [arxiv](http://arxiv.org/abs/2406.00654v1), [pdf](http://arxiv.org/pdf/2406.00654v1.pdf), cication: [**-1**](None)
+
+	 *Chen Chen, Yuchen Hu, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang*
 - **BASE TTS: Lessons from building a billion-parameter Text-to-Speech model
   on 100K hours of data**, `arXiv, 2402.08093`, [arxiv](http://arxiv.org/abs/2402.08093v2), [pdf](http://arxiv.org/pdf/2402.08093v2.pdf), cication: [**-1**](None)
 

@@ -8,8 +8,19 @@
   - [Toolkits](#toolkits)
   - [Other](#other)
 
+## Survey
+- **A Survey of Deep Learning Audio Generation Methods**, `arXiv, 2406.00146`, [arxiv](http://arxiv.org/abs/2406.00146v1), [pdf](http://arxiv.org/pdf/2406.00146v1.pdf), cication: [**-1**](None)
+
+	 *Matej Božić, Marko Horvat*
 
 ## Audio Generation
+- **Creative Text-to-Audio Generation via Synthesizer Programming**, `arXiv, 2406.00294`, [arxiv](http://arxiv.org/abs/2406.00294v1), [pdf](http://arxiv.org/pdf/2406.00294v1.pdf), cication: [**-1**](None)
+
+	 *Manuel Cherep, Nikhil Singh, Jessica Shand*
+- **AudioLCM: Text-to-Audio Generation with Latent Consistency Models**, `arXiv, 2406.00356`, [arxiv](http://arxiv.org/abs/2406.00356v1), [pdf](http://arxiv.org/pdf/2406.00356v1.pdf), cication: [**-1**](None)
+
+	 *Huadai Liu, Rongjie Huang, Yang Liu, Hengyuan Cao, Jialei Wang, Xize Cheng, Siqi Zheng, Zhou Zhao*
+- [**stable-audio-open-1.0**](https://huggingface.co/stabilityai/stable-audio-open-1.0) - stabilityai 🤗
 - **SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound
   Generation**, `arXiv, 2405.18503`, [arxiv](http://arxiv.org/abs/2405.18503v1), [pdf](http://arxiv.org/pdf/2405.18503v1.pdf), cication: [**-1**](None)
 

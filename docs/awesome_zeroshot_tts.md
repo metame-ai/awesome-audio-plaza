@@ -5,6 +5,14 @@
   - [References](#references)
 
 ## Gallery
+- **Generative Pre-trained Speech Language Model with Efficient Hierarchical
+  Transformer**, `arXiv, 2406.00976`, [arxiv](http://arxiv.org/abs/2406.00976v1), [pdf](http://arxiv.org/pdf/2406.00976v1.pdf), cication: [**-1**](None)
+
+	 *Yongxin Zhu, Dan Su, Liqiang He, Linli Xu, Dong Yu* · ([youngsheen.github](https://youngsheen.github.io/GPST/demo/)) · ([GPST](https://github.com/youngsheen/GPST) - youngsheen) ![Star](https://img.shields.io/github/stars/youngsheen/GPST.svg?style=social&label=Star)
+- **ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and
+  Zero-shot Language Style Control With Decoupled Codec**, `arXiv, 2406.01205`, [arxiv](http://arxiv.org/abs/2406.01205v1), [pdf](http://arxiv.org/pdf/2406.01205v1.pdf), cication: [**-1**](None)
+
+	 *Shengpeng Ji, Jialong Zuo, Minghui Fang, Siqi Zheng, Qian Chen, Wen Wang, Ziyue Jiang, Hai Huang, Xize Cheng, Rongjie Huang* · ([ControlSpeech](https://github.com/jishengpeng/ControlSpeech) - jishengpeng) ![Star](https://img.shields.io/github/stars/jishengpeng/ControlSpeech.svg?style=social&label=Star) · ([controlspeech.github](https://controlspeech.github.io/))
 - **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**, `arXiv, 2406.02430`, [arxiv](http://arxiv.org/abs/2406.02430v1), [pdf](http://arxiv.org/pdf/2406.02430v1.pdf), cication: [**-1**](None)
 
 	 *Philip Anastassiou, Jiawei Chen, Jitong Chen, Yuanzhe Chen, Zhuo Chen, Ziyi Chen, Jian Cong, Lelai Deng, Chuang Ding, Lu Gao* · ([bytedancespeech.github](https://bytedancespeech.github.io/seedtts_tech_report/))
