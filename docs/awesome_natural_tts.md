@@ -181,7 +181,9 @@
     - [PromptTTS: controllable text-to-speech with text descriptions - Speech Research](https://speechresearch.github.io/prompttts/#promptspeech)
 
 ## Efficient TTS
-- [[2309.11210] Speak While You Think: Streaming Speech Synthesis During Text Generation](https://arxiv.org/abs/2309.11210)
+- **Speak While You Think: Streaming Speech Synthesis During Text Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.11210v1), [pdf](http://arxiv.org/pdf/2309.11210v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2989454037175742919&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
 - **CM-TTS: Enhancing Real Time Text-to-Speech Synthesis Efficiency through
   Weighted Samplers and Consistency Models**, `arXiv, 2404.00569`, [arxiv](http://arxiv.org/abs/2404.00569v1), [pdf](http://arxiv.org/pdf/2404.00569v1.pdf), cication: [**-1**](None)
 

@@ -55,7 +55,9 @@
 	 *Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat*
 
 	 · ([speechbot.github](https://speechbot.github.io/spiritlm/index.html))
-- [[2309.11210] Speak While You Think: Streaming Speech Synthesis During Text Generation](https://arxiv.org/abs/2309.11210)
+- **Speak While You Think: Streaming Speech Synthesis During Text Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.11210v1), [pdf](http://arxiv.org/pdf/2309.11210v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2989454037175742919&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
 
 ## Projects
 - [**natural_voice_assistant**](https://github.com/LAION-AI/natural_voice_assistant) - LAION-AI ![Star](https://img.shields.io/github/stars/LAION-AI/natural_voice_assistant.svg?style=social&label=Star)
@@ -76,7 +78,10 @@
 - [**predictivechat**](https://github.com/yoheinakajima/predictivechat?tab=readme-ov-file) - yoheinakajima ![Star](https://img.shields.io/github/stars/yoheinakajima/predictivechat.svg?style=social&label=Star)
 
 	 *Demo of AI chatbot that predicts user message to generate response quickly.*
-- [[2010.10874] TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog](https://arxiv.org/abs/2010.10874)
+- **TurnGPT: a Transformer-based Language Model for Predicting Turn-taking
+  in Spoken Dialog**, `arXiv, 2010.10874`, [arxiv](http://arxiv.org/abs/2010.10874v1), [pdf](http://arxiv.org/pdf/2010.10874v1.pdf), cication: [**45**](https://scholar.google.com/scholar?cites=4498969182199038561&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Erik Ekstedt, Gabriel Skantze*
 
 
 ## Tutorials
