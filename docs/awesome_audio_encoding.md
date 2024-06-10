@@ -5,6 +5,8 @@
   - [References](#references)
 
 ## Papers and Projects
+
+- [[2406.03344] Audio Mamba: Bidirectional State Space Model for Audio Representation Learning](https://arxiv.org/abs/2406.03344)
 - [**snac**](https://github.com/hubertsiuzdak/snac/) - hubertsiuzdak ![Star](https://img.shields.io/github/stars/hubertsiuzdak/snac.svg?style=social&label=Star)
 
 	 *Multi-Scale Neural Audio Codec (SNAC) compresses audio into discrete codes at a low bitrate* · ([huggingface](https://huggingface.co/datasets/blanchon/snac_llm_parler_tts))
@@ -23,14 +25,27 @@
 - [**Amphion**](https://github.com/open-mmlab/Amphion/blob/main/models/codec/ns3_codec/README.md) - open-mmlab ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star)
 
 	 *Speech Codec with Attribute Factorization used for NaturalSpeech 3*
+- [[2309.00169] RepCodec: A Speech Representation Codec for Speech Tokenization](https://arxiv.org/abs/2309.00169)
+
+	 · ([RepCodec](https://github.com/mct10/RepCodec) - mct10) ![Star](https://img.shields.io/github/stars/mct10/RepCodec.svg?style=social&label=Star)
+- [[2405.04752] HILCodec: High Fidelity and Lightweight Neural Audio Codec](https://arxiv.org/abs/2405.04752)
+
+	 · ([hilcodec](https://github.com/aask1357/hilcodec) - aask1357) ![Star](https://img.shields.io/github/stars/aask1357/hilcodec.svg?style=social&label=Star)
 - **Language-Codec: Reducing the Gaps Between Discrete Codec Representation
   and Speech Language Models**, `arXiv, 2402.12208`, [arxiv](http://arxiv.org/abs/2402.12208v2), [pdf](http://arxiv.org/pdf/2402.12208v2.pdf), cication: [**-1**](None)
 
 	 *Shengpeng Ji, Minghui Fang, Ziyue Jiang, Rongjie Huang, Jialung Zuo, Shulei Wang, Zhou Zhao* · ([languagecodec](https://github.com/jishengpeng/languagecodec?tab=readme-ov-file) - jishengpeng) ![Star](https://img.shields.io/github/stars/jishengpeng/languagecodec.svg?style=social&label=Star) · ([languagecodec.github](https://languagecodec.github.io/))
+- [[2310.08715] Toward Joint Language Modeling for Speech Units and Text](https://arxiv.org/abs/2310.08715)
+- [[2310.00014] Fewer-token Neural Speech Codec with Time-invariant Codes](https://arxiv.org/abs/2310.00014)
+
+	 · ([TiCodec](https://github.com/y-ren16/TiCodec) - y-ren16) ![Star](https://img.shields.io/github/stars/y-ren16/TiCodec.svg?style=social&label=Star)
 - [**funcodec**](https://github.com/alibaba-damo-academy/funcodec) - alibaba-damo-academy ![Star](https://img.shields.io/github/stars/alibaba-damo-academy/funcodec.svg?style=social&label=Star)
 - [**sonar**](https://github.com/facebookresearch/sonar) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/sonar.svg?style=social&label=Star)
 
 	 *SONAR, a new multilingual and multimodal fixed-size sentence embedding space, with a full suite of speech and text encoders and decoders.*
+- [arxiv.org/pdf/2305.02765](https://arxiv.org/pdf/2305.02765.pdf)
+
+	 · ([AcademiCodec](https://github.com/yangdongchao/AcademiCodec) - yangdongchao) ![Star](https://img.shields.io/github/stars/yangdongchao/AcademiCodec.svg?style=social&label=Star)
 - **High-Fidelity Audio Compression with Improved RVQGAN**, `arXiv, 2306.06546`, [arxiv](http://arxiv.org/abs/2306.06546v2), [pdf](http://arxiv.org/pdf/2306.06546v2.pdf), cication: [**-1**](None)
 
 	 *Rithesh Kumar, Prem Seetharaman, Alejandro Luebs, Ishaan Kumar, Kundan Kumar* · ([descript-audio-codec](https://github.com/descriptinc/descript-audio-codec) - descriptinc) ![Star](https://img.shields.io/github/stars/descriptinc/descript-audio-codec.svg?style=social&label=Star)

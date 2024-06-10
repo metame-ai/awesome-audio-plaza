@@ -46,3 +46,66 @@
 - [**Retrieval-based-Voice-Conversion-WebUI**](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - RVC-Project ![Star](https://img.shields.io/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.svg?style=social&label=Star)
 
 	 *Voice data <= 10 mins can also be used to train a good VC model!*
+
+# Voice-Omni
+
+## Papers
+- **SpiRit-LM: Interleaved Spoken and Written Language Model**, `arXiv, 2402.05755`, [arxiv](http://arxiv.org/abs/2402.05755v1), [pdf](http://arxiv.org/pdf/2402.05755v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=7368374930715826231&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat*
+
+	 · ([speechbot.github](https://speechbot.github.io/spiritlm/index.html))
+- [[2309.11210] Speak While You Think: Streaming Speech Synthesis During Text Generation](https://arxiv.org/abs/2309.11210)
+
+## Projects
+- [**natural_voice_assistant**](https://github.com/LAION-AI/natural_voice_assistant) - LAION-AI ![Star](https://img.shields.io/github/stars/LAION-AI/natural_voice_assistant.svg?style=social&label=Star)
+
+	 · ([laion](https://laion.ai/blog/bud-e/))
+- [**WhisperFusion**](https://github.com/collabora/WhisperFusion) - collabora ![Star](https://img.shields.io/github/stars/collabora/WhisperFusion.svg?style=social&label=Star)
+
+	 *WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.*
+- [**natural_voice_assistant**](https://github.com/LAION-AI/natural_voice_assistant) - LAION-AI ![Star](https://img.shields.io/github/stars/LAION-AI/natural_voice_assistant.svg?style=social&label=Star)
+- [**pipecat**](https://github.com/pipecat-ai/pipecat) - pipecat-ai ![Star](https://img.shields.io/github/stars/pipecat-ai/pipecat.svg?style=social&label=Star)
+
+	 *Open Source framework for voice and multimodal conversational AI*
+- [Audio Text GPT - Google Docs](https://docs.google.com/document/d/1nfngl0lv3XAWLQg5z-euYcE6NGGaoH7BdyoujVf7tEc/edit)
+- [**gazelle**](https://github.com/tincans-ai/gazelle/tree/main?tab=readme-ov-file) - tincans-ai ![Star](https://img.shields.io/github/stars/tincans-ai/gazelle.svg?style=social&label=Star)
+
+	 *Joint speech-language model - respond directly to audio!* · ([tincans](https://tincans.ai/slm)) · ([x](https://x.com/hingeloss/status/1765440068452331898)) · ([x](https://x.com/hingeloss/status/1770157984745656743))
+## End of Speech 
+- [**predictivechat**](https://github.com/yoheinakajima/predictivechat?tab=readme-ov-file) - yoheinakajima ![Star](https://img.shields.io/github/stars/yoheinakajima/predictivechat.svg?style=social&label=Star)
+
+	 *Demo of AI chatbot that predicts user message to generate response quickly.*
+- [[2010.10874] TurnGPT: a Transformer-based Language Model for Predicting Turn-taking in Spoken Dialog](https://arxiv.org/abs/2010.10874)
+
+
+## Tutorials
+- [SNAC with flattening & reconstruction - YouTube](https://www.youtube.com/watch?v=NwZufAJxmMA&ab_channel=DemocratizingAI)
+
+
+## Datasets
+- https://huggingface.co/datasets/TwoAbove/the-project-gutenberg-open-audiobook-collection
+- https://huggingface.co/datasets/EQ4You/Emotional_Speech ( gender labels are broken → “Male” and “female” need to be removed from all the captions, man and Woman need to be replaced with Person )
+- https://huggingface.co/datasets/speechcolab/gigaspeech
+- https://huggingface.co/datasets/parler-tts/mls-eng-10k-tags_tagged_10k_generated/viewer/default/train
+- https://huggingface.co/datasets/krishnakalyan3/emo_300k 
+- https://huggingface.co/datasets/mozilla-foundation/common_voice_17_0
+- https://huggingface.co/datasets/facebook/multilingual_librispeech 
+- https://huggingface.co/datasets/librispeech_asr 
+- https://huggingface.co/collections/marianna13/laion-audio-630k-65aff8bbaa335c2842f3a730 
+- https://huggingface.co/datasets/blanchon/udio_dataset 
+
+
+- https://huggingface.co/datasets/ChristophSchuhmann/yt-urls-for-emotional-tts
+- https://huggingface.co/datasets/ChristophSchuhmann/docu-clips
+- https://huggingface.co/datasets/ChristophSchuhmann/movie-clips
+
+- [collabora/librilight-processed-webdataset at main](https://huggingface.co/datasets/collabora/librilight-processed-webdataset/tree/main)
+- [LAION-Audio-630k - a marianna13 Collection](https://huggingface.co/collections/marianna13/laion-audio-630k-65aff8bbaa335c2842f3a730)
+
+### LLM
+- [**SlimOrca-Dedup**](https://huggingface.co/datasets/Open-Orca/SlimOrca-Dedup?row=0) - Open-Orca 🤗
+
+## Products
+- [Sindarin — Build your own Conversational Speech AI.](https://www.sindarin.tech/)
+- [Introducing Deepgram Aura: Lightning Fast Text-to-Speech for Voice AI Agents | Deepgram](https://deepgram.com/learn/aura-text-to-speech-tts-api-voice-ai-agents-launch)

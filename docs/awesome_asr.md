@@ -32,6 +32,10 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**WhisperLive**](https://github.com/collabora/WhisperLive) - collabora ![Star](https://img.shields.io/github/stars/collabora/WhisperLive.svg?style=social&label=Star)
+
+	 *A nearly-live implementation of OpenAI's Whisper.*
+- [Faster and Smaller Whisper: A Deep Dive into Quantization and Torch Compilation](https://mobiusml.github.io/whisper-static-cache-blog/)
 - [**faster-whisper-server**](https://github.com/fedirz/faster-whisper-server) - fedirz ![Star](https://img.shields.io/github/stars/fedirz/faster-whisper-server.svg?style=social&label=Star)
 - [**whisper-diarization**](https://github.com/MahmoudAshraf97/whisper-diarization) - MahmoudAshraf97 ![Star](https://img.shields.io/github/stars/MahmoudAshraf97/whisper-diarization.svg?style=social&label=Star)
 

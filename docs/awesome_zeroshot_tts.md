@@ -5,6 +5,7 @@
   - [References](#references)
 
 ## Gallery
+- [[2406.02897] LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive Modeling of Audio Discrete Codes](https://arxiv.org/abs/2406.02897)
 - **Generative Pre-trained Speech Language Model with Efficient Hierarchical
   Transformer**, `arXiv, 2406.00976`, [arxiv](http://arxiv.org/abs/2406.00976v1), [pdf](http://arxiv.org/pdf/2406.00976v1.pdf), cication: [**-1**](None)
 
