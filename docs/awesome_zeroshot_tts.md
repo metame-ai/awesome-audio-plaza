@@ -5,6 +5,20 @@
   - [References](#references)
 
 ## Gallery
+- [**MARS5-TTS**](https://github.com/Camb-ai/MARS5-TTS/tree/master) - Camb-ai ![Star](https://img.shields.io/github/stars/Camb-ai/MARS5-TTS.svg?style=social&label=Star)
+
+	 *MARS5 speech model (TTS) from CAMB.AI*
+- **Towards Expressive Zero-Shot Speech Synthesis with Hierarchical Prosody
+  Modeling**, `arXiv, 2406.05681`, [arxiv](http://arxiv.org/abs/2406.05681v2), [pdf](http://arxiv.org/pdf/2406.05681v2.pdf), cication: [**-1**](None)
+
+	 *Yuepeng Jiang, Tao Li, Fengyu Yang, Lei Xie, Meng Meng, Yujun Wang*
+- **XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model**, `arXiv, 2406.04904`, [arxiv](http://arxiv.org/abs/2406.04904v1), [pdf](http://arxiv.org/pdf/2406.04904v1.pdf), cication: [**-1**](None)
+
+	 *Edresson Casanova, Kelly Davis, Eren Gölge, Görkem Göknar, Iulian Gulea, Logan Hart, Aya Aljafari, Joshua Meyer, Reuben Morais, Samuel Olayemi*
+- **VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text
+  to Speech Synthesizers**, `arXiv, 2406.05370`, [arxiv](http://arxiv.org/abs/2406.05370v1), [pdf](http://arxiv.org/pdf/2406.05370v1.pdf), cication: [**-1**](None)
+
+	 *Sanyuan Chen, Shujie Liu, Long Zhou, Yanqing Liu, Xu Tan, Jinyu Li, Sheng Zhao, Yao Qian, Furu Wei* · ([aka](https://aka.ms/valle2))
 - **LiveSpeech: Low-Latency Zero-shot Text-to-Speech via Autoregressive
   Modeling of Audio Discrete Codes**, `arXiv, 2406.02897`, [arxiv](http://arxiv.org/abs/2406.02897v1), [pdf](http://arxiv.org/pdf/2406.02897v1.pdf), cication: [**-1**](None)
 
@@ -20,6 +34,8 @@
 - **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**, `arXiv, 2406.02430`, [arxiv](http://arxiv.org/abs/2406.02430v1), [pdf](http://arxiv.org/pdf/2406.02430v1.pdf), cication: [**-1**](None)
 
 	 *Philip Anastassiou, Jiawei Chen, Jitong Chen, Yuanzhe Chen, Zhuo Chen, Ziyi Chen, Jian Cong, Lelai Deng, Chuang Ding, Lu Gao* · ([bytedancespeech.github](https://bytedancespeech.github.io/seedtts_tech_report/))
+
+	 · ([seed-tts-eval](https://github.com/BytedanceSpeech/seed-tts-eval) - BytedanceSpeech) ![Star](https://img.shields.io/github/stars/BytedanceSpeech/seed-tts-eval.svg?style=social&label=Star)
 - **FlashSpeech: Efficient Zero-Shot Speech Synthesis**, `arXiv, 2404.14700`, [arxiv](http://arxiv.org/abs/2404.14700v1), [pdf](http://arxiv.org/pdf/2404.14700v1.pdf), cication: [**-1**](None)
 
 	 *Zhen Ye, Zeqian Ju, Haohe Liu, Xu Tan, Jianyi Chen, Yiwen Lu, Peiwen Sun, Jiahao Pan, Weizhen Bian, Shulin He* · ([flashspeech.github](https://flashspeech.github.io/))

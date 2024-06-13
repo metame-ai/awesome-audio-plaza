@@ -5,7 +5,9 @@
   - [References](#references)
 
 ## Papers and Projects
+- **mHuBERT-147: A Compact Multilingual HuBERT Model**, `arXiv, 2406.06371`, [arxiv](http://arxiv.org/abs/2406.06371v2), [pdf](http://arxiv.org/pdf/2406.06371v2.pdf), cication: [**-1**](None)
 
+	 *Marcely Zanon Boito, Vivek Iyer, Nikolaos Lagos, Laurent Besacier, Ioan Calapodescu* · ([huggingface](https://huggingface.co/utter-project/mHuBERT-147))
 - **Audio Mamba: Bidirectional State Space Model for Audio Representation
   Learning**, `arXiv, 2406.03344`, [arxiv](http://arxiv.org/abs/2406.03344v1), [pdf](http://arxiv.org/pdf/2406.03344v1.pdf), cication: [**-1**](None)
 

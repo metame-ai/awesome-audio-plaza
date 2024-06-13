@@ -51,6 +51,10 @@
 - [**AudioGPT**](https://github.com/AIGC-Audio/AudioGPT) - AIGC-Audio ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
 
 ## Speech Translation
+- **StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task
+  Learning**, `arXiv, 2406.03049`, [arxiv](http://arxiv.org/abs/2406.03049v1), [pdf](http://arxiv.org/pdf/2406.03049v1.pdf), cication: [**-1**](None)
+
+	 *Shaolei Zhang, Qingkai Fang, Shoutao Guo, Zhengrui Ma, Min Zhang, Yang Feng* · ([streamspeech](https://github.com/ictnlp/streamspeech) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/streamspeech.svg?style=social&label=Star)
 - [**gentranslate**](https://github.com/yuchen005/gentranslate) - yuchen005 ![Star](https://img.shields.io/github/stars/yuchen005/gentranslate.svg?style=social&label=Star)
 
 	 *Code for paper "GenTranslate: Large Language Models are Generative Multilingual Speech and Machine Translators"*
@@ -181,7 +185,12 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
-- [Fetching Title#v3ug](https://huggingface.co/datasets/blanchon/snac_llm_parler_tts)
+- **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech
+  Generation Model Benchmark**, `arXiv, 2406.05763`, [arxiv](http://arxiv.org/abs/2406.05763v2), [pdf](http://arxiv.org/pdf/2406.05763v2.pdf), cication: [**-1**](None)
+
+	 *Linhan Ma, Dake Guo, Kun Song, Yuepeng Jiang, Shuai Wang, Liumeng Xue, Weiming Xu, Huan Zhao, Binbin Zhang, Lei Xie*
+	- https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS
+- [**snac_llm_parler_tts**](https://huggingface.co/datasets/blanchon/snac_llm_parler_tts) - blanchon 🤗
 - **EXPRESSO: A Benchmark and Analysis of Discrete Expressive Speech
   Resynthesis**, `arXiv, 2308.05725`, [arxiv](http://arxiv.org/abs/2308.05725v1), [pdf](http://arxiv.org/pdf/2308.05725v1.pdf), cication: [**-1**](None)
 
@@ -231,6 +240,11 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
+- **Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding
+  of Sound and Language**, `arXiv, 2406.05629`, [arxiv](http://arxiv.org/abs/2406.05629v1), [pdf](http://arxiv.org/pdf/2406.05629v1.pdf), cication: [**-1**](None)
+
+	 *Mark Hamilton, Andrew Zisserman, John R. Hershey, William T. Freeman*
+
 - **AVicuna: Audio-Visual LLM with Interleaver and Context-Boundary
   Alignment for Temporal Referential Dialogue**, `arXiv, 2403.16276`, [arxiv](http://arxiv.org/abs/2403.16276v1), [pdf](http://arxiv.org/pdf/2403.16276v1.pdf), cication: [**-1**](None)
 

@@ -181,6 +181,10 @@
     - [PromptTTS: controllable text-to-speech with text descriptions - Speech Research](https://speechresearch.github.io/prompttts/#promptspeech)
 
 ## Efficient TTS
+- **SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar
+  Latent Transformer Diffusion Models**, `arXiv, 2406.02328`, [arxiv](http://arxiv.org/abs/2406.02328v2), [pdf](http://arxiv.org/pdf/2406.02328v2.pdf), cication: [**-1**](None)
+
+	 *Dongchao Yang, Dingdong Wang, Haohan Guo, Xueyuan Chen, Xixin Wu, Helen Meng*
 - **Speak While You Think: Streaming Speech Synthesis During Text Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.11210v1), [pdf](http://arxiv.org/pdf/2309.11210v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2989454037175742919&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*

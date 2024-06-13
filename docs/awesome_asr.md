@@ -32,6 +32,7 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**whisper-web**](https://github.com/xenova/whisper-web/tree/experimental-webgpu) - xenova ![Star](https://img.shields.io/github/stars/xenova/whisper-web.svg?style=social&label=Star)
 - [**WhisperLive**](https://github.com/collabora/WhisperLive) - collabora ![Star](https://img.shields.io/github/stars/collabora/WhisperLive.svg?style=social&label=Star)
 
 	 *A nearly-live implementation of OpenAI's Whisper.*
