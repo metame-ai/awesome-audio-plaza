@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Gallery
+- **VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via
+  Monotonic Alignment**, `arXiv, 2406.07855`, [arxiv](http://arxiv.org/abs/2406.07855v1), [pdf](http://arxiv.org/pdf/2406.07855v1.pdf), cication: [**-1**](None)
+
+	 *Bing Han, Long Zhou, Shujie Liu, Sanyuan Chen, Lingwei Meng, Yanming Qian, Yanqing Liu, Sheng Zhao, Jinyu Li, Furu Wei*
 - [**MARS5-TTS**](https://github.com/Camb-ai/MARS5-TTS/tree/master) - Camb-ai ![Star](https://img.shields.io/github/stars/Camb-ai/MARS5-TTS.svg?style=social&label=Star)
 
 	 *MARS5 speech model (TTS) from CAMB.AI*

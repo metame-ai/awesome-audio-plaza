@@ -14,6 +14,9 @@
 	 *Matej Božić, Marko Horvat*
 
 ## Audio Generation
+- **LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**, `arXiv, 2406.08203`, [arxiv](http://arxiv.org/abs/2406.08203v1), [pdf](http://arxiv.org/pdf/2406.08203v1.pdf), cication: [**-1**](None)
+
+	 *Wenhao Guan, Kaidi Wang, Wangjin Zhou, Yang Wang, Feng Deng, Hui Wang, Lin Li, Qingyang Hong, Yong Qin*
 - **SEE-2-SOUND: Zero-Shot Spatial Environment-to-Spatial Sound**, `arXiv, 2406.06612`, [arxiv](http://arxiv.org/abs/2406.06612v1), [pdf](http://arxiv.org/pdf/2406.06612v1.pdf), cication: [**-1**](None)
 
 	 *Rishit Dagli, Shivesh Prakash, Robert Wu, Houman Khosravani* · ([see2sound.github](https://see2sound.github.io/)) · ([see2sound](https://github.com/see2sound/see2sound) - see2sound) ![Star](https://img.shields.io/github/stars/see2sound/see2sound.svg?style=social&label=Star)

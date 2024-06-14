@@ -24,6 +24,10 @@
 	 *Yicheng Gu, Xueyao Zhang, Liumeng Xue, Zhizheng Wu* · ([Amphion](https://github.com/open-mmlab/Amphion/blob/main/models/vocoders/gan/discriminator/mssbcqtd.py) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star) · ([vocodexelysium.github](https://vocodexelysium.github.io/MS-SB-CQTD/))
 
 ## Emotional TTS
+- **EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical
+  Emotion Vector for Controllable Emotional Text-to-Speech**, `arXiv, 2406.07803`, [arxiv](http://arxiv.org/abs/2406.07803v1), [pdf](http://arxiv.org/pdf/2406.07803v1.pdf), cication: [**-1**](None)
+
+	 *Deok-Hyeon Cho, Hyung-Seok Oh, Seung-Bin Kim, Sang-Hoon Lee, Seong-Whan Lee*
 - **Exploring speech style spaces with language models: Emotional TTS
   without emotion labels**, `arXiv, 2405.11413`, [arxiv](http://arxiv.org/abs/2405.11413v1), [pdf](http://arxiv.org/pdf/2405.11413v1.pdf), cication: [**-1**](None)
 

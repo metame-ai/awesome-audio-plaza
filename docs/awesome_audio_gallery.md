@@ -11,6 +11,9 @@
   - [Audio Techs](#audio-techs)
 
 ## Detection
+- **FakeSound: Deepfake General Audio Detection**, `arXiv, 2406.08052`, [arxiv](http://arxiv.org/abs/2406.08052v1), [pdf](http://arxiv.org/pdf/2406.08052v1.pdf), cication: [**-1**](None)
+
+	 *Zeyu Xie, Baihan Li, Xuenan Xu, Zheng Liang, Kai Yu, Mengyue Wu* · ([fakesounddata.github](https://fakesounddata.github.io/))
 - **Retrieval-Augmented Audio Deepfake Detection**, `arXiv, 2404.13892`, [arxiv](http://arxiv.org/abs/2404.13892v1), [pdf](http://arxiv.org/pdf/2404.13892v1.pdf), cication: [**-1**](None)
 
 	 *Zuheng Kang, Yayun He, Botao Zhao, Xiaoyang Qu, Junqing Peng, Jing Xiao, Jianzong Wang*
@@ -185,6 +188,10 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts
+  for Text-to-Speech and Style Captioning**, `arXiv, 2406.07969`, [arxiv](http://arxiv.org/abs/2406.07969v1), [pdf](http://arxiv.org/pdf/2406.07969v1.pdf), cication: [**-1**](None)
+
+	 *Masaya Kawamura, Ryuichi Yamamoto, Yuma Shirahata, Takuya Hasumi, Kentaro Tachibana* · ([masayakawamura.github](https://masayakawamura.github.io/libritts-p/)) · ([LibriTTS-P](https://github.com/line/LibriTTS-P) - line) ![Star](https://img.shields.io/github/stars/line/LibriTTS-P.svg?style=social&label=Star)
 - **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech
   Generation Model Benchmark**, `arXiv, 2406.05763`, [arxiv](http://arxiv.org/abs/2406.05763v2), [pdf](http://arxiv.org/pdf/2406.05763v2.pdf), cication: [**-1**](None)
 
