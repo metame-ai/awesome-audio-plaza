@@ -188,6 +188,9 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **YODAS: Youtube-Oriented Dataset for Audio and Speech**, `2023 ieee automatic speech recognition and understanding workshop …, 2023`, [arxiv](http://arxiv.org/abs/2406.00899v1), [pdf](http://arxiv.org/pdf/2406.00899v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=8882551202403401748&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Xinjian Li, Shinnosuke Takamichi, Takaaki Saeki, William Chen, Sayaka Shiota, Shinji Watanabe* · ([huggingface](https://huggingface.co/datasets/espnet/yodas)) · ([huggingface](https://huggingface.co/datasets/espnet/yodas2))
 - **LibriTTS-P: A Corpus with Speaking Style and Speaker Identity Prompts
   for Text-to-Speech and Style Captioning**, `arXiv, 2406.07969`, [arxiv](http://arxiv.org/abs/2406.07969v1), [pdf](http://arxiv.org/pdf/2406.07969v1.pdf), cication: [**-1**](None)
 

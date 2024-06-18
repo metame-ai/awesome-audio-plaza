@@ -60,6 +60,9 @@
 	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
 
 ## Projects
+- [Building GPT2o — Part 1 : Audio. code, pretrained model, colab notebook | by Srinivas Billa | Jun, 2024 | Medium](https://medium.com/@nivibilla/building-gpt2o-part-1-audio-65b66e193784)
+
+	 · ([build-nanogpt](https://github.com/nivibilla/build-nanogpt/tree/audio) - nivibilla) ![Star](https://img.shields.io/github/stars/nivibilla/build-nanogpt.svg?style=social&label=Star)
 - [**natural_voice_assistant**](https://github.com/LAION-AI/natural_voice_assistant) - LAION-AI ![Star](https://img.shields.io/github/stars/LAION-AI/natural_voice_assistant.svg?style=social&label=Star)
 
 	 · ([laion](https://laion.ai/blog/bud-e/))
