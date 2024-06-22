@@ -9,6 +9,13 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Joint Audio and Symbolic Conditioning for Temporally Controlled
+  Text-to-Music Generation**, `arXiv, 2406.10970`, [arxiv](http://arxiv.org/abs/2406.10970v1), [pdf](http://arxiv.org/pdf/2406.10970v1.pdf), cication: [**-1**](None)
+
+	 *Or Tal, Alon Ziv, Itai Gat, Felix Kreuk, Yossi Adi* · ([pages.cs.huji.ac](https://pages.cs.huji.ac.il/adiyoss-lab/JASCO/)) · ([audiocraft](https://github.com/facebookresearch/audiocraft/blob/main/docs/JASCO.md) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/audiocraft.svg?style=social&label=Star)
+- [**stable-audio-open-1.0**](https://huggingface.co/stabilityai/stable-audio-open-1.0) - stabilityai 🤗
+
+	 · ([notebooks](https://github.com/Vaibhavs10/notebooks/blob/main/stable_audio_open_colab.ipynb) - Vaibhavs10) ![Star](https://img.shields.io/github/stars/Vaibhavs10/notebooks.svg?style=social&label=Star)
 - **DITTO-2: Distilled Diffusion Inference-Time T-Optimization for Music
   Generation**, `arXiv, 2405.20289`, [arxiv](http://arxiv.org/abs/2405.20289v1), [pdf](http://arxiv.org/pdf/2405.20289v1.pdf), cication: [**-1**](None)
 

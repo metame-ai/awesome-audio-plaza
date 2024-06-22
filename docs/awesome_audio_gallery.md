@@ -188,6 +188,9 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **Meta Learning Text-to-Speech Synthesis in over 7000 Languages**, `arXiv, 2406.06403`, [arxiv](http://arxiv.org/abs/2406.06403v1), [pdf](http://arxiv.org/pdf/2406.06403v1.pdf), cication: [**-1**](None)
+
+	 *Florian Lux, Sarina Meyer, Lyonel Behringer, Frank Zalkow, Phat Do, Matt Coler, Emanuël A. P. Habets, Ngoc Thang Vu* · ([huggingface](https://huggingface.co/datasets/Flux9665/BibleMMS))
 - **YODAS: Youtube-Oriented Dataset for Audio and Speech**, `2023 ieee automatic speech recognition and understanding workshop …, 2023`, [arxiv](http://arxiv.org/abs/2406.00899v1), [pdf](http://arxiv.org/pdf/2406.00899v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=8882551202403401748&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Xinjian Li, Shinnosuke Takamichi, Takaaki Saeki, William Chen, Sayaka Shiota, Shinji Watanabe* · ([huggingface](https://huggingface.co/datasets/espnet/yodas)) · ([huggingface](https://huggingface.co/datasets/espnet/yodas2))

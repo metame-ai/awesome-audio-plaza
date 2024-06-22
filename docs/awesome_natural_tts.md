@@ -226,6 +226,12 @@
 	 *Atli Thor Sigurgeirsson, Simon King*
 
 ## OpenTTS
+- [**Awesome-ChatTTS**](https://github.com/libukai/Awesome-ChatTTS) - libukai ![Star](https://img.shields.io/github/stars/libukai/Awesome-ChatTTS.svg?style=social&label=Star)
+
+	 *官方推荐的 ChatTTS 最佳入门指南，整理和汇总了常见问题和相关资源*
+- [**IMS-Toucan**](https://github.com/DigitalPhonetics/IMS-Toucan) - DigitalPhonetics ![Star](https://img.shields.io/github/stars/DigitalPhonetics/IMS-Toucan.svg?style=social&label=Star)
+
+	 *Multilingual and Controllable Text-to-Speech Toolkit of the Speech and Language Technologies Group at the University of Stuttgart.*
 - [**ChatTTS**](https://github.com/2noise/ChatTTS) - 2noise ![Star](https://img.shields.io/github/stars/2noise/ChatTTS.svg?style=social&label=Star)
 
 	 *TTS*
