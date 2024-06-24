@@ -115,6 +115,11 @@
 ### LLM
 - [**SlimOrca-Dedup**](https://huggingface.co/datasets/Open-Orca/SlimOrca-Dedup?row=0) - Open-Orca 🤗
 
+## Evaluation
+- **SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond
+  Words**, `arXiv, 2406.13340`, [arxiv](http://arxiv.org/abs/2406.13340v1), [pdf](http://arxiv.org/pdf/2406.13340v1.pdf), cication: [**-1**](None)
+
+	 *Junyi Ao, Yuancheng Wang, Xiaohai Tian, Dekun Chen, Jun Zhang, Lu Lu, Yuxuan Wang, Haizhou Li, Zhizheng Wu* · ([SD-Eval](https://github.com/amphionspace/SD-Eval) - amphionspace) ![Star](https://img.shields.io/github/stars/amphionspace/SD-Eval.svg?style=social&label=Star)
 ## Products
 - [Sindarin — Build your own Conversational Speech AI.](https://www.sindarin.tech/)
 - [Introducing Deepgram Aura: Lightning Fast Text-to-Speech for Voice AI Agents | Deepgram](https://deepgram.com/learn/aura-text-to-speech-tts-api-voice-ai-agents-launch)

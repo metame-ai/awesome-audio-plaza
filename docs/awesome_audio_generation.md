@@ -221,6 +221,10 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and
+  Complex Reasoning Abilities**, `arXiv, 2406.11768`, [arxiv](http://arxiv.org/abs/2406.11768v1), [pdf](http://arxiv.org/pdf/2406.11768v1.pdf), cication: [**-1**](None)
+
+	 *Sreyan Ghosh, Sonal Kumar, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha*
 - **SpeechVerse: A Large-scale Generalizable Audio Language Model**, `arXiv, 2405.08295`, [arxiv](http://arxiv.org/abs/2405.08295v1), [pdf](http://arxiv.org/pdf/2405.08295v1.pdf), cication: [**-1**](None)
 
 	 *Nilaksh Das, Saket Dingliwal, Srikanth Ronanki, Rohit Paturi, David Huang, Prashant Mathur, Jie Yuan, Dhanush Bekal, Xing Niu, Sai Muralidhar Jayanthi*
