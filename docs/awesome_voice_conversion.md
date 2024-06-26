@@ -50,6 +50,10 @@
 # Voice-Omni
 
 ## Papers
+- **Talk With Human-like Agents: Empathetic Dialogue Through Perceptible
+  Acoustic Reception and Reaction**, `arXiv, 2406.12707`, [arxiv](http://arxiv.org/abs/2406.12707v1), [pdf](http://arxiv.org/pdf/2406.12707v1.pdf), cication: [**-1**](None)
+
+	 *Haoqiu Yan, Yongxin Zhu, Kai Zheng, Bing Liu, Haoyu Cao, Deqiang Jiang, Linli Xu* · ([PerceptiveAgent](https://github.com/Haoqiu-Yan/PerceptiveAgent) - Haoqiu-Yan) ![Star](https://img.shields.io/github/stars/Haoqiu-Yan/PerceptiveAgent.svg?style=social&label=Star)
 - **SpiRit-LM: Interleaved Spoken and Written Language Model**, `arXiv, 2402.05755`, [arxiv](http://arxiv.org/abs/2402.05755v1), [pdf](http://arxiv.org/pdf/2402.05755v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=7368374930715826231&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat*

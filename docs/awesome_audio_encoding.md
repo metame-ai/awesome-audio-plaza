@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Papers and Projects
+- **Towards Audio Codec-based Speech Separation**, `arXiv, 2406.12434`, [arxiv](http://arxiv.org/abs/2406.12434v1), [pdf](http://arxiv.org/pdf/2406.12434v1.pdf), cication: [**-1**](None)
+
+	 *Jia Qi Yip, Shengkui Zhao, Dianwen Ng, Eng Siong Chng, Bin Ma* · ([codecformer](https://github.com/Yip-Jia-Qi/codecformer) - Yip-Jia-Qi) ![Star](https://img.shields.io/github/stars/Yip-Jia-Qi/codecformer.svg?style=social&label=Star)
 - **mHuBERT-147: A Compact Multilingual HuBERT Model**, `arXiv, 2406.06371`, [arxiv](http://arxiv.org/abs/2406.06371v2), [pdf](http://arxiv.org/pdf/2406.06371v2.pdf), cication: [**-1**](None)
 
 	 *Marcely Zanon Boito, Vivek Iyer, Nikolaos Lagos, Laurent Besacier, Ioan Calapodescu* · ([huggingface](https://huggingface.co/utter-project/mHuBERT-147))

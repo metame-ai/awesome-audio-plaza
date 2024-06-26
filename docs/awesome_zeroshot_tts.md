@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Gallery
+- **High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer
+  and Group Masked Language Model**, `arXiv, 2406.17310`, [arxiv](http://arxiv.org/abs/2406.17310v1), [pdf](http://arxiv.org/pdf/2406.17310v1.pdf), cication: [**-1**](None)
+
+	 *Joun Yeop Lee, Myeonghun Jeong, Minchan Kim, Ji-Hyun Lee, Hoon-Young Cho, Nam Soo Kim* · ([arxiv](https://arxiv.org/pdf/2406.17310))
 - **VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via
   Monotonic Alignment**, `arXiv, 2406.07855`, [arxiv](http://arxiv.org/abs/2406.07855v1), [pdf](http://arxiv.org/pdf/2406.07855v1.pdf), cication: [**-1**](None)
 

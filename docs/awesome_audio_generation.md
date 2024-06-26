@@ -12,6 +12,10 @@
 - **A Survey of Deep Learning Audio Generation Methods**, `arXiv, 2406.00146`, [arxiv](http://arxiv.org/abs/2406.00146v1), [pdf](http://arxiv.org/pdf/2406.00146v1.pdf), cication: [**-1**](None)
 
 	 *Matej Božić, Marko Horvat*
+	 
+- **Towards audio language modeling -- an overview**, `arXiv, 2402.13236`, [arxiv](http://arxiv.org/abs/2402.13236v1), [pdf](http://arxiv.org/pdf/2402.13236v1.pdf), cication: [**5**](https://scholar.google.com/scholar?cites=17312351433545398838&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
 - **LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**, `arXiv, 2406.08203`, [arxiv](http://arxiv.org/abs/2406.08203v1), [pdf](http://arxiv.org/pdf/2406.08203v1.pdf), cication: [**-1**](None)
@@ -221,6 +225,13 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **AudioBench: A Universal Benchmark for Audio Large Language Models**, `arXiv, 2406.16020`, [arxiv](http://arxiv.org/abs/2406.16020v2), [pdf](http://arxiv.org/pdf/2406.16020v2.pdf), cication: [**-1**](None)
+
+	 *Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen* · ([AudioBench](https://github.com/AudioLLMs/AudioBench) - AudioLLMs) ![Star](https://img.shields.io/github/stars/AudioLLMs/AudioBench.svg?style=social&label=Star)
+- **Instruction Data Generation and Unsupervised Adaptation for Speech
+  Language Models**, `arXiv, 2406.12946`, [arxiv](http://arxiv.org/abs/2406.12946v1), [pdf](http://arxiv.org/pdf/2406.12946v1.pdf), cication: [**-1**](None)
+
+	 *Vahid Noroozi, Zhehuai Chen, Somshubra Majumdar, Steve Huang, Jagadeesh Balam, Boris Ginsburg*
 - **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and
   Complex Reasoning Abilities**, `arXiv, 2406.11768`, [arxiv](http://arxiv.org/abs/2406.11768v1), [pdf](http://arxiv.org/pdf/2406.11768v1.pdf), cication: [**-1**](None)
 

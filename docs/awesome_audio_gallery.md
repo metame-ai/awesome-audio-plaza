@@ -188,6 +188,10 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **GLOBE: A High-quality English Corpus with Global Accents for Zero-shot
+  Speaker Adaptive Text-to-Speech**, `arXiv, 2406.14875`, [arxiv](http://arxiv.org/abs/2406.14875v1), [pdf](http://arxiv.org/pdf/2406.14875v1.pdf), cication: [**-1**](None)
+
+	 *Wenbin Wang, Yang Song, Sanjay Jha* · ([huggingface](https://huggingface.co/datasets/MushanW/GLOBE)) · ([globecorpus.github](https://globecorpus.github.io/))
 - **Meta Learning Text-to-Speech Synthesis in over 7000 Languages**, `arXiv, 2406.06403`, [arxiv](http://arxiv.org/abs/2406.06403v1), [pdf](http://arxiv.org/pdf/2406.06403v1.pdf), cication: [**-1**](None)
 
 	 *Florian Lux, Sarina Meyer, Lyonel Behringer, Frank Zalkow, Phat Do, Matt Coler, Emanuël A. P. Habets, Ngoc Thang Vu* · ([huggingface](https://huggingface.co/datasets/Flux9665/BibleMMS))
@@ -253,6 +257,9 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
+- **video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**, `arXiv, 2406.15704`, [arxiv](http://arxiv.org/abs/2406.15704v1), [pdf](http://arxiv.org/pdf/2406.15704v1.pdf), cication: [**-1**](None)
+
+	 *Guangzhi Sun, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Yuxuan Wang, Chao Zhang* · ([SALMONN](https://github.com/bytedance/SALMONN) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
 - **Separating the "Chirp" from the "Chat": Self-supervised Visual Grounding
   of Sound and Language**, `arXiv, 2406.05629`, [arxiv](http://arxiv.org/abs/2406.05629v1), [pdf](http://arxiv.org/pdf/2406.05629v1.pdf), cication: [**-1**](None)
 
@@ -299,6 +306,7 @@
 
 
 ## Extra Reference
+- [**AudioLLM**](https://github.com/AudioLLMs/AudioLLM) - AudioLLMs ![Star](https://img.shields.io/github/stars/AudioLLMs/AudioLLM.svg?style=social&label=Star)
 - [**speech-trident**](https://github.com/ga642381/speech-trident) - ga642381 ![Star](https://img.shields.io/github/stars/ga642381/speech-trident.svg?style=social&label=Star)
 
 	 *Awesome speech/audio LLMs, representation learning, and codec models*
