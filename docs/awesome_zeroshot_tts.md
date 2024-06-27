@@ -5,6 +5,13 @@
   - [References](#references)
 
 ## Gallery
+- **Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic
+  Alignment**, `arXiv, 2406.17957`, [arxiv](http://arxiv.org/abs/2406.17957v1), [pdf](http://arxiv.org/pdf/2406.17957v1.pdf), cication: [**-1**](None)
+
+	 *Paarth Neekhara, Shehzeen Hussain, Subhankar Ghosh, Jason Li, Rafael Valle, Rohan Badlani, Boris Ginsburg* · ([t5tts.github](https://t5tts.github.io/))
+- **E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**, `arXiv, 2406.18009`, [arxiv](http://arxiv.org/abs/2406.18009v1), [pdf](http://arxiv.org/pdf/2406.18009v1.pdf), cication: [**-1**](None)
+
+	 *Sefik Emre Eskimez, Xiaofei Wang, Manthan Thakker, Canrun Li, Chung-Hsien Tsai, Zhen Xiao, Hemin Yang, Zirun Zhu, Min Tang, Xu Tan* · ([microsoft](https://www.microsoft.com/en-us/research/project/e2-tts/))
 - **High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer
   and Group Masked Language Model**, `arXiv, 2406.17310`, [arxiv](http://arxiv.org/abs/2406.17310v1), [pdf](http://arxiv.org/pdf/2406.17310v1.pdf), cication: [**-1**](None)
 
