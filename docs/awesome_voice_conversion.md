@@ -64,6 +64,10 @@
 	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
 
 ## Projects
+- [Fetching Title#kfs1](https://speechbot.github.io/)
+- [**Desktop_BUD-E**](https://github.com/christophschuhmann/Desktop_BUD-E/tree/main) - christophschuhmann ![Star](https://img.shields.io/github/stars/christophschuhmann/Desktop_BUD-E.svg?style=social&label=Star)
+
+	 *This is a voice assitant to run on you laptop*
 - [Call to Build Open Multi-Modal Models for Personal Assistants | LAION](https://laion.ai/notes/open-gpt-4-o/)
 - [Building GPT2o — Part 1 : Audio. code, pretrained model, colab notebook | by Srinivas Billa | Jun, 2024 | Medium](https://medium.com/@nivibilla/building-gpt2o-part-1-audio-65b66e193784)
 

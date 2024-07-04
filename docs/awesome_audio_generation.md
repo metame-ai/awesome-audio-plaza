@@ -18,6 +18,9 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- [[2407.01494] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](https://arxiv.org/abs/2407.01494)
+
+	 · ([foleycrafter](https://github.com/open-mmlab/foleycrafter) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/foleycrafter.svg?style=social&label=Star)
 - **LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**, `arXiv, 2406.08203`, [arxiv](http://arxiv.org/abs/2406.08203v1), [pdf](http://arxiv.org/pdf/2406.08203v1.pdf), cication: [**-1**](None)
 
 	 *Wenhao Guan, Kaidi Wang, Wangjin Zhou, Yang Wang, Feng Deng, Hui Wang, Lin Li, Qingyang Hong, Yong Qin*
