@@ -18,6 +18,7 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- [PicoAudio Demo](https://picoaudio.github.io/)
 - [[2407.01494] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](https://arxiv.org/abs/2407.01494)
 
 	 · ([foleycrafter](https://github.com/open-mmlab/foleycrafter) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/foleycrafter.svg?style=social&label=Star)

@@ -8,6 +8,10 @@
 
 
 ## Papers
+- [FunAudioLLM Homepage](https://fun-audio-llm.github.io/)
+
+	 · ([fun-audio-llm.github](https://fun-audio-llm.github.io/pdf/FunAudioLLM.pdf))
+- [FunAudioLLM · GitHub](https://github.com/FunAudioLLM)
 - **Denoising LM: Pushing the Limits of Error Correction Models for Speech
   Recognition**, `arXiv, 2405.15216`, [arxiv](http://arxiv.org/abs/2405.15216v1), [pdf](http://arxiv.org/pdf/2405.15216v1.pdf), cication: [**-1**](None)
 

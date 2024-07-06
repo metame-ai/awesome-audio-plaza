@@ -52,6 +52,9 @@
 	 *Minki Kang, Wooseok Han, Sung Ju Hwang, Eunho Yang*
 
 ## Natural TTS
+- [Fetching Title#l2yg](https://lilyn3125.github.io/flytts/)
+
+	 · ([lilyn3125.github](https://lilyn3125.github.io/flytts/))
 - **Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback**, `arXiv, 2406.00654`, [arxiv](http://arxiv.org/abs/2406.00654v1), [pdf](http://arxiv.org/pdf/2406.00654v1.pdf), cication: [**-1**](None)
 
 	 *Chen Chen, Yuchen Hu, Wen Wu, Helin Wang, Eng Siong Chng, Chao Zhang*

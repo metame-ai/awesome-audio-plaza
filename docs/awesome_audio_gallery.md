@@ -168,6 +168,9 @@
 
 	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
+- [[2407.02857] AudioTime: A Temporally-aligned Audio-text Benchmark Dataset](https://arxiv.org/abs/2407.02857)
+
+	 · ([zeyuxie29.github](https://zeyuxie29.github.io/AudioTime/)) · ([AudioTime](https://github.com/zeyuxie29/AudioTime) - zeyuxie29) ![Star](https://img.shields.io/github/stars/zeyuxie29/AudioTime.svg?style=social&label=Star)
 - [**mms_ulab_v2**](https://huggingface.co/datasets/espnet/mms_ulab_v2) - espnet 🤗
 - [**links_to_pocasts_lecture_and_shows_for_tts**](https://huggingface.co/datasets/laion/links_to_pocasts_lecture_and_shows_for_tts) - laion 🤗
 - **Audio Dialogues: Dialogues dataset for audio and music understanding**, `arXiv, 2404.07616`, [arxiv](http://arxiv.org/abs/2404.07616v1), [pdf](http://arxiv.org/pdf/2404.07616v1.pdf), cication: [**-1**](None)
