@@ -63,7 +63,9 @@
 
 	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
 - [Spoken question answering and speech continuation using a spectrogram-powered LL](https://research.google/blog/spoken-question-answering-and-speech-continuation-using-a-spectrogram-powered-llm/)
-- [[2109.03264] Text-Free Prosody-Aware Generative Spoken Language Modeling](https://arxiv.org/abs/2109.03264)
+- **Text-Free Prosody-Aware Generative Spoken Language Modeling**, `arXiv, 2109.03264`, [arxiv](http://arxiv.org/abs/2109.03264v2), [pdf](http://arxiv.org/pdf/2109.03264v2.pdf), cication: [**86**](https://scholar.google.com/scholar?cites=6860409912627023988&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
 - [Fetching Title#vyp0](https://speechbot.github.io/)

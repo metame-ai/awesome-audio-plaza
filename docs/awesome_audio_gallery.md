@@ -168,7 +168,9 @@
 
 	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
-- [[2407.02857] AudioTime: A Temporally-aligned Audio-text Benchmark Dataset](https://arxiv.org/abs/2407.02857)
+- **AudioTime: A Temporally-aligned Audio-text Benchmark Dataset**, `arXiv, 2407.02857`, [arxiv](http://arxiv.org/abs/2407.02857v1), [pdf](http://arxiv.org/pdf/2407.02857v1.pdf), cication: [**-1**](None)
+
+	 *Zeyu Xie, Xuenan Xu, Zhizheng Wu, Mengyue Wu*
 
 	 · ([zeyuxie29.github](https://zeyuxie29.github.io/AudioTime/)) · ([AudioTime](https://github.com/zeyuxie29/AudioTime) - zeyuxie29) ![Star](https://img.shields.io/github/stars/zeyuxie29/AudioTime.svg?style=social&label=Star)
 - [**mms_ulab_v2**](https://huggingface.co/datasets/espnet/mms_ulab_v2) - espnet 🤗

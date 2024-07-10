@@ -8,8 +8,14 @@
 
 
 ## Papers
-- [[2407.03169] Investigating Decoder-only Large Language Models for Speech-to-text Translation](https://arxiv.org/abs/2407.03169)
-- [[2407.04051] FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051)
+- **Investigating Decoder-only Large Language Models for Speech-to-text
+  Translation**, `arXiv, 2407.03169`, [arxiv](http://arxiv.org/abs/2407.03169v1), [pdf](http://arxiv.org/pdf/2407.03169v1.pdf), cication: [**-1**](None)
+
+	 *Chao-Wei Huang, Hui Lu, Hongyu Gong, Hirofumi Inaguma, Ilia Kulikov, Ruslan Mavlyutov, Sravya Popuri*
+- **FunAudioLLM: Voice Understanding and Generation Foundation Models for
+  Natural Interaction Between Humans and LLMs**, `arXiv, 2407.04051`, [arxiv](http://arxiv.org/abs/2407.04051v2), [pdf](http://arxiv.org/pdf/2407.04051v2.pdf), cication: [**-1**](None)
+
+	 *Keyu An, Qian Chen, Chong Deng, Zhihao Du, Changfeng Gao, Zhifu Gao, Yue Gu, Ting He, Hangrui Hu, Kai Hu*
 
 	 · ([fun-audio-llm.github](https://fun-audio-llm.github.io/))
 	 · ([fun-audio-llm.github](https://fun-audio-llm.github.io/pdf/FunAudioLLM.pdf))

@@ -19,7 +19,10 @@
 
 ## Audio Generation
 - [PicoAudio Demo](https://picoaudio.github.io/)
-- [[2407.01494] FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized Sounds](https://arxiv.org/abs/2407.01494)
+- **FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized
+  Sounds**, `arXiv, 2407.01494`, [arxiv](http://arxiv.org/abs/2407.01494v1), [pdf](http://arxiv.org/pdf/2407.01494v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Zhang, Yicheng Gu, Yanhong Zeng, Zhening Xing, Yuancheng Wang, Zhizheng Wu, Kai Chen*
 
 	 · ([foleycrafter](https://github.com/open-mmlab/foleycrafter) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/foleycrafter.svg?style=social&label=Star)
 - **LAFMA: A Latent Flow Matching Model for Text-to-Audio Generation**, `arXiv, 2406.08203`, [arxiv](http://arxiv.org/abs/2406.08203v1), [pdf](http://arxiv.org/pdf/2406.08203v1.pdf), cication: [**-1**](None)

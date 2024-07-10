@@ -5,7 +5,9 @@
   - [References](#references)
 
 ## Papers and Projects
-- [[2407.00837] Towards Robust Speech Representation Learning for Thousands of Languages](https://arxiv.org/abs/2407.00837)
+- **Towards Robust Speech Representation Learning for Thousands of Languages**, `arXiv, 2407.00837`, [arxiv](http://arxiv.org/abs/2407.00837v2), [pdf](http://arxiv.org/pdf/2407.00837v2.pdf), cication: [**-1**](None)
+
+	 *William Chen, Wangyou Zhang, Yifan Peng, Xinjian Li, Jinchuan Tian, Jiatong Shi, Xuankai Chang, Soumi Maiti, Karen Livescu, Shinji Watanabe*
 
 	 · ([huggingface](https://huggingface.co/espnet/xeus))
 	 · ([wanchichen.github](https://wanchichen.github.io/pdf/xeus.pdf))

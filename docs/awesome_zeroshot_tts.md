@@ -9,7 +9,10 @@
 
 	 *Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.* · ([fun-audio-llm.github](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf))
 - [Lightweight Zero-shot Text-to-Speech with Mixture of Adapters](https://ntt-hilab-gensp.github.io/is2024lightweightTTS/)
-- [[2407.02243] Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/abs/2407.02243)
+- **Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference
+  Optimization**, `arXiv, 2407.02243`, [arxiv](http://arxiv.org/abs/2407.02243v1), [pdf](http://arxiv.org/pdf/2407.02243v1.pdf), cication: [**-1**](None)
+
+	 *Yuchen Hu, Chen Chen, Siyin Wang, Eng Siong Chng, Chao Zhang*
 - **Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic
   Alignment**, `arXiv, 2406.17957`, [arxiv](http://arxiv.org/abs/2406.17957v1), [pdf](http://arxiv.org/pdf/2406.17957v1.pdf), cication: [**-1**](None)
 
