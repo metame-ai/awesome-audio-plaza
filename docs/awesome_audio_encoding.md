@@ -5,8 +5,9 @@
   - [References](#references)
 
 ## Papers and Projects
-- [Fetching Title#gfxr](https://huggingface.co/espnet/xeus)
+- [[2407.00837] Towards Robust Speech Representation Learning for Thousands of Languages](https://arxiv.org/abs/2407.00837)
 
+	 · ([huggingface](https://huggingface.co/espnet/xeus))
 	 · ([wanchichen.github](https://wanchichen.github.io/pdf/xeus.pdf))
 - **Towards Audio Codec-based Speech Separation**, `arXiv, 2406.12434`, [arxiv](http://arxiv.org/abs/2406.12434v1), [pdf](http://arxiv.org/pdf/2406.12434v1.pdf), cication: [**-1**](None)
 

@@ -8,10 +8,16 @@
 
 
 ## Papers
-- [FunAudioLLM Homepage](https://fun-audio-llm.github.io/)
+- [[2407.03169] Investigating Decoder-only Large Language Models for Speech-to-text Translation](https://arxiv.org/abs/2407.03169)
+- [[2407.04051] FunAudioLLM: Voice Understanding and Generation Foundation Models for Natural Interaction Between Humans and LLMs](https://arxiv.org/abs/2407.04051)
+
+	 · ([fun-audio-llm.github](https://fun-audio-llm.github.io/))
+	 · ([fun-audio-llm.github](https://fun-audio-llm.github.io/pdf/FunAudioLLM.pdf))
+
+	 · ([SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - FunAudioLLM) ![Star](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice.svg?style=social&label=Star)
+- [FunAudioLLM · GitHub](https://github.com/FunAudioLLM)
 
 	 · ([fun-audio-llm.github](https://fun-audio-llm.github.io/pdf/FunAudioLLM.pdf))
-- [FunAudioLLM · GitHub](https://github.com/FunAudioLLM)
 - **Denoising LM: Pushing the Limits of Error Correction Models for Speech
   Recognition**, `arXiv, 2405.15216`, [arxiv](http://arxiv.org/abs/2405.15216v1), [pdf](http://arxiv.org/pdf/2405.15216v1.pdf), cication: [**-1**](None)
 

@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Gallery
+- [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice?tab=readme-ov-file) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice.svg?style=social&label=Star)
+
+	 *Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.* · ([fun-audio-llm.github](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf))
 - [Lightweight Zero-shot Text-to-Speech with Mixture of Adapters](https://ntt-hilab-gensp.github.io/is2024lightweightTTS/)
 - [[2407.02243] Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/abs/2407.02243)
 - **Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic
