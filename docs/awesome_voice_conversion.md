@@ -62,7 +62,10 @@
 - **Speak While You Think: Streaming Speech Synthesis During Text Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.11210v1), [pdf](http://arxiv.org/pdf/2309.11210v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2989454037175742919&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
-- [Spoken question answering and speech continuation using a spectrogram-powered LL](https://research.google/blog/spoken-question-answering-and-speech-continuation-using-a-spectrogram-powered-llm/)
+- **Spoken Question Answering and Speech Continuation Using
+  Spectrogram-Powered LLM**, `arXiv, 2305.15255`, [arxiv](http://arxiv.org/abs/2305.15255v4), [pdf](http://arxiv.org/pdf/2305.15255v4.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2239314690427158927&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Eliya Nachmani, Alon Levkovitch, Roy Hirsch, Julian Salazar, Chulayuth Asawaroengchai, Soroosh Mariooryad, Ehud Rivlin, RJ Skerry-Ryan, Michelle Tadmor Ramanovich* · ([research](https://research.google/blog/spoken-question-answering-and-speech-continuation-using-a-spectrogram-powered-llm/)) · ([LLAMA1-Test-Set](https://github.com/google-research-datasets/LLAMA1-Test-Set) - google-research-datasets) ![Star](https://img.shields.io/github/stars/google-research-datasets/LLAMA1-Test-Set.svg?style=social&label=Star) · ([michelleramanovich.github](https://michelleramanovich.github.io/spectron/spectron))
 - **Text-Free Prosody-Aware Generative Spoken Language Modeling**, `arXiv, 2109.03264`, [arxiv](http://arxiv.org/abs/2109.03264v2), [pdf](http://arxiv.org/pdf/2109.03264v2.pdf), cication: [**86**](https://scholar.google.com/scholar?cites=6860409912627023988&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
