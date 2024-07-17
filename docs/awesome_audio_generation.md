@@ -18,6 +18,9 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- **Read, Watch and Scream! Sound Generation from Text and Video**, `arXiv, 2407.05551`, [arxiv](http://arxiv.org/abs/2407.05551v1), [pdf](http://arxiv.org/pdf/2407.05551v1.pdf), cication: [**-1**](None)
+
+	 *Yujin Jeong, Yunji Kim, Sanghyuk Chun, Jiyoung Lee* · ([rewas](https://github.com/naver-ai/rewas) - naver-ai) ![Star](https://img.shields.io/github/stars/naver-ai/rewas.svg?style=social&label=Star) · ([naver-ai.github](https://naver-ai.github.io/rewas/))
 - [PicoAudio Demo](https://picoaudio.github.io/)
 - **FoleyCrafter: Bring Silent Videos to Life with Lifelike and Synchronized
   Sounds**, `arXiv, 2407.01494`, [arxiv](http://arxiv.org/abs/2407.01494v1), [pdf](http://arxiv.org/pdf/2407.01494v1.pdf), cication: [**-1**](None)
@@ -232,6 +235,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- [[2407.10759] Qwen2-Audio Technical Report](https://arxiv.org/abs/2407.10759)
+
+	 · ([Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-Audio.svg?style=social&label=Star)
 - **AudioBench: A Universal Benchmark for Audio Large Language Models**, `arXiv, 2406.16020`, [arxiv](http://arxiv.org/abs/2406.16020v2), [pdf](http://arxiv.org/pdf/2406.16020v2.pdf), cication: [**-1**](None)
 
 	 *Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen* · ([AudioBench](https://github.com/AudioLLMs/AudioBench) - AudioLLMs) ![Star](https://img.shields.io/github/stars/AudioLLMs/AudioBench.svg?style=social&label=Star)

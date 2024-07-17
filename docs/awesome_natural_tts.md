@@ -14,6 +14,9 @@
 - [**TTS-Arena**](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) - TTS-AGI 🤗
 
 ## Vocoder
+- [**BigVGAN**](https://github.com/NVIDIA/BigVGAN) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/BigVGAN.svg?style=social&label=Star)
+
+	 *Official PyTorch implementation of BigVGAN (ICLR 2023)*
 - **EVA-GAN: Enhanced Various Audio Generation via Scalable Generative
   Adversarial Networks**, `arXiv, 2402.00892`, [arxiv](http://arxiv.org/abs/2402.00892v1), [pdf](http://arxiv.org/pdf/2402.00892v1.pdf), cication: [**-1**](None)
 

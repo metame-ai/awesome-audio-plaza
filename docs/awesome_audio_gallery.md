@@ -168,6 +168,10 @@
 
 	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
+- **LearnerVoice: A Dataset of Non-Native English Learners' Spontaneous
+  Speech**, `arXiv, 2407.04280`, [arxiv](http://arxiv.org/abs/2407.04280v1), [pdf](http://arxiv.org/pdf/2407.04280v1.pdf), cication: [**-1**](None)
+
+	 *Haechan Kim, Junho Myung, Seoyoung Kim, Sungpah Lee, Dongyeop Kang, Juho Kim*
 - **AudioTime: A Temporally-aligned Audio-text Benchmark Dataset**, `arXiv, 2407.02857`, [arxiv](http://arxiv.org/abs/2407.02857v1), [pdf](http://arxiv.org/pdf/2407.02857v1.pdf), cication: [**-1**](None)
 
 	 *Zeyu Xie, Xuenan Xu, Zhizheng Wu, Mengyue Wu*
@@ -194,6 +198,10 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- **Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for
+  Large-Scale Speech Generation**, `arXiv, 2407.05361`, [arxiv](http://arxiv.org/abs/2407.05361v2), [pdf](http://arxiv.org/pdf/2407.05361v2.pdf), cication: [**-1**](None)
+
+	 *Haorui He, Zengqiang Shang, Chaoren Wang, Xuyuan Li, Yicheng Gu, Hua Hua, Liwei Liu, Chen Yang, Jiaqi Li, Peiyang Shi* · ([huggingface](https://huggingface.co/datasets/amphion/Emilia)) · ([Amphion](https://github.com/open-mmlab/Amphion/blob/main/preprocessors/Emilia/README.md) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star)
 - **GLOBE: A High-quality English Corpus with Global Accents for Zero-shot
   Speaker Adaptive Text-to-Speech**, `arXiv, 2406.14875`, [arxiv](http://arxiv.org/abs/2406.14875v1), [pdf](http://arxiv.org/pdf/2406.14875v1.pdf), cication: [**-1**](None)
 
@@ -242,6 +250,10 @@
 	 *Evelina Bakhturina, Vitaly Lavrukhin, Boris Ginsburg, Yang Zhang* · ([openslr](https://www.openslr.org/109/))
 
 ## Audio Techs
+- **Speech Slytherin: Examining the Performance and Efficiency of Mamba for
+  Speech Separation, Recognition, and Synthesis**, `arXiv, 2407.09732`, [arxiv](http://arxiv.org/abs/2407.09732v1), [pdf](http://arxiv.org/pdf/2407.09732v1.pdf), cication: [**-1**](None)
+
+	 *Xilin Jiang, Yinghao Aaron Li, Adrian Nicolas Florea, Cong Han, Nima Mesgarani* · ([Mamba-TasNet](https://github.com/xi-j/Mamba-TasNet) - xi-j) ![Star](https://img.shields.io/github/stars/xi-j/Mamba-TasNet.svg?style=social&label=Star)
 - **EfficientSpeech: An On-Device Text to Speech Model**, `arXiv, 2305.13905`, [arxiv](http://arxiv.org/abs/2305.13905v1), [pdf](http://arxiv.org/pdf/2305.13905v1.pdf), cication: [**-1**](None)
 
 	 *Rowel Atienza*
