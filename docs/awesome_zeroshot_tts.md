@@ -5,7 +5,9 @@
   - [References](#references)
 
 ## Gallery
-- [[2407.08551] Autoregressive Speech Synthesis without Vector Quantization](https://arxiv.org/abs/2407.08551)
+- **Autoregressive Speech Synthesis without Vector Quantization**, `arXiv, 2407.08551`, [arxiv](http://arxiv.org/abs/2407.08551v1), [pdf](http://arxiv.org/pdf/2407.08551v1.pdf), cication: [**-1**](None)
+
+	 *Lingwei Meng, Long Zhou, Shujie Liu, Sanyuan Chen, Bing Han, Shujie Hu, Yanqing Liu, Jinyu Li, Sheng Zhao, Xixin Wu*
 
 	 · ([aka](https://aka.ms/melle))
 - [**CosyVoice**](https://github.com/FunAudioLLM/CosyVoice?tab=readme-ov-file) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice.svg?style=social&label=Star)

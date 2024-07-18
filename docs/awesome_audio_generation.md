@@ -235,7 +235,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
-- [[2407.10759] Qwen2-Audio Technical Report](https://arxiv.org/abs/2407.10759)
+- **Qwen2-Audio Technical Report**, `arXiv, 2407.10759`, [arxiv](http://arxiv.org/abs/2407.10759v1), [pdf](http://arxiv.org/pdf/2407.10759v1.pdf), cication: [**-1**](None)
+
+	 *Yunfei Chu, Jin Xu, Qian Yang, Haojie Wei, Xipin Wei, Zhifang Guo, Yichong Leng, Yuanjun Lv, Jinzheng He, Junyang Lin*
 
 	 · ([Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-Audio.svg?style=social&label=Star)
 - **AudioBench: A Universal Benchmark for Audio Large Language Models**, `arXiv, 2406.16020`, [arxiv](http://arxiv.org/abs/2406.16020v2), [pdf](http://arxiv.org/pdf/2406.16020v2.pdf), cication: [**-1**](None)
