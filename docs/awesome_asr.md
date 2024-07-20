@@ -6,8 +6,11 @@
   - [Whisper](#whisper)
   - [Toolkits](#toolkits)
 
-
 ## Papers
+- **Speech Slytherin: Examining the Performance and Efficiency of Mamba for
+  Speech Separation, Recognition, and Synthesis**, `arXiv, 2407.09732`, [arxiv](http://arxiv.org/abs/2407.09732v1), [pdf](http://arxiv.org/pdf/2407.09732v1.pdf), cication: [**-1**](None)
+
+	 *Xilin Jiang, Yinghao Aaron Li, Adrian Nicolas Florea, Cong Han, Nima Mesgarani* · ([Mamba-ASR](https://github.com/xi-j/Mamba-ASR) - xi-j) ![Star](https://img.shields.io/github/stars/xi-j/Mamba-ASR.svg?style=social&label=Star)
 - **Investigating Decoder-only Large Language Models for Speech-to-text
   Translation**, `arXiv, 2407.03169`, [arxiv](http://arxiv.org/abs/2407.03169v1), [pdf](http://arxiv.org/pdf/2407.03169v1.pdf), cication: [**-1**](None)
 
@@ -93,6 +96,9 @@
 - [**ratchet-whisper**](https://huggingface.co/spaces/FL33TW00D-HF/ratchet-whisper) - FL33TW00D-HF 🤗
 
 ## Toolkits
+- [**aTrain**](https://github.com/JuergenFleiss/aTrain) - JuergenFleiss ![Star](https://img.shields.io/github/stars/JuergenFleiss/aTrain.svg?style=social&label=Star)
+
+	 *A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.*
 - [**NeMo**](https://github.com/NVIDIA/NeMo) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/NeMo.svg?style=social&label=Star)
 
 	 *NeMo: a toolkit for conversational AI*

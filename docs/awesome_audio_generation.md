@@ -18,6 +18,9 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- **Video-to-Audio Generation with Hidden Alignment**, `arXiv, 2407.07464`, [arxiv](http://arxiv.org/abs/2407.07464v1), [pdf](http://arxiv.org/pdf/2407.07464v1.pdf), cication: [**-1**](None)
+
+	 *Manjie Xu, Chenxing Li, Yong Ren, Rilin Chen, Yu Gu, Wei Liang, Dong Yu* · ([sites.google](https://sites.google.com/view/vta-ldm))
 - **Read, Watch and Scream! Sound Generation from Text and Video**, `arXiv, 2407.05551`, [arxiv](http://arxiv.org/abs/2407.05551v1), [pdf](http://arxiv.org/pdf/2407.05551v1.pdf), cication: [**-1**](None)
 
 	 *Yujin Jeong, Yunji Kim, Sanghyuk Chun, Jiyoung Lee* · ([rewas](https://github.com/naver-ai/rewas) - naver-ai) ![Star](https://img.shields.io/github/stars/naver-ai/rewas.svg?style=social&label=Star) · ([naver-ai.github](https://naver-ai.github.io/rewas/))
