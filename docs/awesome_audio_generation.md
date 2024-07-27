@@ -18,6 +18,9 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- **Long-form music generation with latent diffusion**, `arXiv, 2404.10301`, [arxiv](http://arxiv.org/abs/2404.10301v1), [pdf](http://arxiv.org/pdf/2404.10301v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=17579374849381815722&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zach Evans, Julian D. Parker, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons* · ([stability-ai.github](https://stability-ai.github.io/stable-audio-open-demo/)) · ([huggingface](https://huggingface.co/stabilityai/stable-audio-open-1.0))
 - **Video-to-Audio Generation with Hidden Alignment**, `arXiv, 2407.07464`, [arxiv](http://arxiv.org/abs/2407.07464v1), [pdf](http://arxiv.org/pdf/2407.07464v1.pdf), cication: [**-1**](None)
 
 	 *Manjie Xu, Chenxing Li, Yong Ren, Rilin Chen, Yu Gu, Wei Liang, Dong Yu* · ([sites.google](https://sites.google.com/view/vta-ldm))
@@ -177,6 +180,10 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **Speech Editing -- a Summary**, `arXiv, 2407.17172`, [arxiv](http://arxiv.org/abs/2407.17172v1), [pdf](http://arxiv.org/pdf/2407.17172v1.pdf), cication: [**-1**](None)
+
+	 *Tobias Kässmann, Yining Liu, Danni Liu*
+- [Fetching Title#k8h1](https://instructspeech.github.io/)
 - **CoVoMix: Advancing Zero-Shot Speech Generation for Human-like
   Multi-talker Conversations**, `arXiv, 2404.06690`, [arxiv](http://arxiv.org/abs/2404.06690v1), [pdf](http://arxiv.org/pdf/2404.06690v1.pdf), cication: [**-1**](None)
 
@@ -332,6 +339,9 @@
 
 
 ## Toolkits
+- [**livekit**](https://github.com/livekit/livekit) - livekit ![Star](https://img.shields.io/github/stars/livekit/livekit.svg?style=social&label=Star)
+
+	 *End-to-end stack for WebRTC. SFU media server and SDKs.*
 - [**dataspeech**](https://github.com/huggingface/dataspeech) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/dataspeech.svg?style=social&label=Star)
 - [**stable-audio-tools**](https://github.com/Stability-AI/stable-audio-tools) - Stability-AI ![Star](https://img.shields.io/github/stars/Stability-AI/stable-audio-tools.svg?style=social&label=Star)
 

@@ -71,7 +71,8 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
-- [Fetching Title#vyp0](https://speechbot.github.io/)
+- [Fetching Title#qz1d](https://0nutation.github.io/SpeechGPT2.github.io/)
+- [Fetching Title#ytve](https://speechbot.github.io/)
 - [**Desktop_BUD-E**](https://github.com/christophschuhmann/Desktop_BUD-E/tree/main) - christophschuhmann ![Star](https://img.shields.io/github/stars/christophschuhmann/Desktop_BUD-E.svg?style=social&label=Star)
 
 	 *This is a voice assitant to run on you laptop*

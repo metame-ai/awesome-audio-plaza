@@ -9,6 +9,10 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music
+  Generation**, `arXiv, 2407.15060`, [arxiv](http://arxiv.org/abs/2407.15060v1), [pdf](http://arxiv.org/pdf/2407.15060v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5143147573772197272&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Yun-Han Lan, Wen-Yi Hsiao, Hao-Chung Cheng, Yi-Hsuan Yang* · ([musicongen.github](https://musicongen.github.io/musicongen_demo/))
 - [Fetching Title#wq0p](https://melodyflow.github.io/)
 - **Joint Audio and Symbolic Conditioning for Temporally Controlled
   Text-to-Music Generation**, `arXiv, 2406.10970`, [arxiv](http://arxiv.org/abs/2406.10970v1), [pdf](http://arxiv.org/pdf/2406.10970v1.pdf), cication: [**-1**](None)

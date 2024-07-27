@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Gallery
+- **Laugh Now Cry Later: Controlling Time-Varying Emotional States of
+  Flow-Matching-Based Zero-Shot Text-to-Speech**, `arXiv, 2407.12229`, [arxiv](http://arxiv.org/abs/2407.12229v1), [pdf](http://arxiv.org/pdf/2407.12229v1.pdf), cication: [**-1**](None)
+
+	 *Haibin Wu, Xiaofei Wang, Sefik Emre Eskimez, Manthan Thakker, Daniel Tompkins, Chung-Hsien Tsai, Canrun Li, Zhen Xiao, Sheng Zhao, Jinyu Li* · ([aka](https://aka.ms/emoctrl-tts))
 - **Autoregressive Speech Synthesis without Vector Quantization**, `arXiv, 2407.08551`, [arxiv](http://arxiv.org/abs/2407.08551v1), [pdf](http://arxiv.org/pdf/2407.08551v1.pdf), cication: [**-1**](None)
 
 	 *Lingwei Meng, Long Zhou, Shujie Liu, Sanyuan Chen, Bing Han, Shujie Hu, Yanqing Liu, Jinyu Li, Sheng Zhao, Xixin Wu*
