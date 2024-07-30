@@ -7,6 +7,9 @@
   - [Toolkits](#toolkits)
 
 ## Papers
+- **Scaling A Simple Approach to Zero-Shot Speech Recognition**, `arXiv, 2407.17852`, [arxiv](http://arxiv.org/abs/2407.17852v1), [pdf](http://arxiv.org/pdf/2407.17852v1.pdf), cication: [**-1**](None)
+
+	 *Jinming Zhao, Vineel Pratap, Michael Auli* · ([fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 - **Speech Slytherin: Examining the Performance and Efficiency of Mamba for
   Speech Separation, Recognition, and Synthesis**, `arXiv, 2407.09732`, [arxiv](http://arxiv.org/abs/2407.09732v1), [pdf](http://arxiv.org/pdf/2407.09732v1.pdf), cication: [**-1**](None)
 

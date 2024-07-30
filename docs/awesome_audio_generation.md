@@ -245,6 +245,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- [DiVA (Distilled Voice Assistant)](https://diva-audio.github.io/)
+
+	 · ([levanter](https://github.com/Helw150/levanter/blob/will/distill/src/levanter/models/via.py) - Helw150) ![Star](https://img.shields.io/github/stars/Helw150/levanter.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/WillHeld/DiVA-llama-3-v0-8b))
 - **Qwen2-Audio Technical Report**, `arXiv, 2407.10759`, [arxiv](http://arxiv.org/abs/2407.10759v1), [pdf](http://arxiv.org/pdf/2407.10759v1.pdf), cication: [**-1**](None)
 
 	 *Yunfei Chu, Jin Xu, Qian Yang, Haojie Wei, Xipin Wei, Zhifang Guo, Yichong Leng, Yuanjun Lv, Jinzheng He, Junyang Lin*
