@@ -198,6 +198,7 @@
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
 
 ### TTS
+- [**libritts_r**](https://huggingface.co/datasets/mythicinfinity/libritts_r) - mythicinfinity 🤗
 - **Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for
   Large-Scale Speech Generation**, `arXiv, 2407.05361`, [arxiv](http://arxiv.org/abs/2407.05361v2), [pdf](http://arxiv.org/pdf/2407.05361v2.pdf), cication: [**-1**](None)
 

@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Gallery
+- [**parler-tts**](https://github.com/huggingface/parler-tts/tree/main) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/parler-tts.svg?style=social&label=Star)
+
+	 *Inference and training library for high-quality TTS models.*
 - **Laugh Now Cry Later: Controlling Time-Varying Emotional States of
   Flow-Matching-Based Zero-Shot Text-to-Speech**, `arXiv, 2407.12229`, [arxiv](http://arxiv.org/abs/2407.12229v1), [pdf](http://arxiv.org/pdf/2407.12229v1.pdf), cication: [**-1**](None)
 

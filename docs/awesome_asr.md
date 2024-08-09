@@ -54,6 +54,10 @@
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-whisper)
+- [**whisper-medusa**](https://github.com/aiola-lab/whisper-medusa) - aiola-lab ![Star](https://img.shields.io/github/stars/aiola-lab/whisper-medusa.svg?style=social&label=Star)
+
+	 *Whisper with Medusa heads* · ([huggingface](https://huggingface.co/aiola/whisper-medusa-v1)) · ([medium](https://medium.com/@sgl.yael/whisper-medusa-using-multiple-decoding-heads-to-achieve-1-5x-speedup-7344348ef89b))
 - [**whisper-web**](https://github.com/xenova/whisper-web/tree/experimental-webgpu) - xenova ![Star](https://img.shields.io/github/stars/xenova/whisper-web.svg?style=social&label=Star)
 - [**WhisperLive**](https://github.com/collabora/WhisperLive) - collabora ![Star](https://img.shields.io/github/stars/collabora/WhisperLive.svg?style=social&label=Star)
 
