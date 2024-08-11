@@ -50,6 +50,9 @@
 # Voice-Omni
 
 ## Papers
+- **Language Model Can Listen While Speaking**, `arXiv, 2408.02622`, [arxiv](http://arxiv.org/abs/2408.02622v1), [pdf](http://arxiv.org/pdf/2408.02622v1.pdf), cication: [**-1**](None)
+
+	 *Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen* · ([ddlbojack.github](https://ddlbojack.github.io/LSLM))
 - **Talk With Human-like Agents: Empathetic Dialogue Through Perceptible
   Acoustic Reception and Reaction**, `arXiv, 2406.12707`, [arxiv](http://arxiv.org/abs/2406.12707v1), [pdf](http://arxiv.org/pdf/2406.12707v1.pdf), cication: [**-1**](None)
 
@@ -62,6 +65,13 @@
 - **Speak While You Think: Streaming Speech Synthesis During Text Generation**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.11210v1), [pdf](http://arxiv.org/pdf/2309.11210v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2989454037175742919&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Avihu Dekel, Slava Shechtman, Raul Fernandez, David Haws, Zvi Kons, Ron Hoory*
+- **LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT**, `arXiv, 2310.04673`, [arxiv](http://arxiv.org/abs/2310.04673v4), [pdf](http://arxiv.org/pdf/2310.04673v4.pdf), cication: [**-1**](None)
+
+	 *Zhihao Du, Jiaming Wang, Qian Chen, Yunfei Chu, Zhifu Gao, Zerui Li, Kai Hu, Xiaohuan Zhou, Jin Xu, Ziyang Ma*
+- **VioLA: Unified Codec Language Models for Speech Recognition, Synthesis,
+  and Translation**, `arXiv, 2305.16107`, [arxiv](http://arxiv.org/abs/2305.16107v1), [pdf](http://arxiv.org/pdf/2305.16107v1.pdf), cication: [**-1**](None)
+
+	 *Tianrui Wang, Long Zhou, Ziqiang Zhang, Yu Wu, Shujie Liu, Yashesh Gaur, Zhuo Chen, Jinyu Li, Furu Wei*
 - **Spoken Question Answering and Speech Continuation Using
   Spectrogram-Powered LLM**, `arXiv, 2305.15255`, [arxiv](http://arxiv.org/abs/2305.15255v4), [pdf](http://arxiv.org/pdf/2305.15255v4.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2239314690427158927&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -95,6 +105,13 @@
 
 	 *Joint speech-language model - respond directly to audio!* · ([tincans](https://tincans.ai/slm)) · ([x](https://x.com/hingeloss/status/1765440068452331898)) · ([x](https://x.com/hingeloss/status/1770157984745656743))
 ## End of Speech 
+- **Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex
+  Models**, `arXiv, 2406.15718`, [arxiv](http://arxiv.org/abs/2406.15718v1), [pdf](http://arxiv.org/pdf/2406.15718v1.pdf), cication: [**-1**](None)
+
+	 *Xinrong Zhang, Yingfa Chen, Shengding Hu, Xu Han, Zihang Xu, Yuanwei Xu, Weilin Zhao, Maosong Sun, Zhiyuan Liu*
+- **A Full-duplex Speech Dialogue Scheme Based On Large Language Models**, `arXiv, 2405.19487`, [arxiv](http://arxiv.org/abs/2405.19487v1), [pdf](http://arxiv.org/pdf/2405.19487v1.pdf), cication: [**-1**](None)
+
+	 *Peng Wang, Songshuo Lu, Yaohua Tang, Sijie Yan, Yuanjun Xiong, Wei Xia*
 - [**predictivechat**](https://github.com/yoheinakajima/predictivechat?tab=readme-ov-file) - yoheinakajima ![Star](https://img.shields.io/github/stars/yoheinakajima/predictivechat.svg?style=social&label=Star)
 
 	 *Demo of AI chatbot that predicts user message to generate response quickly.*
@@ -107,7 +124,6 @@
 ## Tutorials
 - [Moshi (@kyutai_labs) is an unpolished e2e *full-duplex* model](https://x.com/JulianSlzr/status/1810303916686577858)
 - [SNAC with flattening & reconstruction - YouTube](https://www.youtube.com/watch?v=NwZufAJxmMA&ab_channel=DemocratizingAI)
-
 
 ## Datasets
 - https://huggingface.co/datasets/TwoAbove/the-project-gutenberg-open-audiobook-collection

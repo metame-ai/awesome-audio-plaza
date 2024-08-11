@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Audio Conditioning for Music Generation via Discrete Bottleneck Features**, `arXiv, 2407.12563`, [arxiv](http://arxiv.org/abs/2407.12563v2), [pdf](http://arxiv.org/pdf/2407.12563v2.pdf), cication: [**-1**](None)
+
+	 *Simon Rouard, Yossi Adi, Jade Copet, Axel Roebel, Alexandre Défossez* · ([musicgenstyle.github](https://musicgenstyle.github.io/))
 - **MusiConGen: Rhythm and Chord Control for Transformer-Based Text-to-Music
   Generation**, `arXiv, 2407.15060`, [arxiv](http://arxiv.org/abs/2407.15060v1), [pdf](http://arxiv.org/pdf/2407.15060v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5143147573772197272&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

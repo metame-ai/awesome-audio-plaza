@@ -229,6 +229,9 @@
 
 	 *Michael Hassid, Tal Remez, Tu Anh Nguyen, Itai Gat, Alexis Conneau, Felix Kreuk, Jade Copet, Alexandre Defossez, Gabriel Synnaeve, Emmanuel Dupoux*
 - [Textually Pretrained Speech Language Models](https://pages.cs.huji.ac.il/adiyoss-lab/twist/)
+- **AudioPaLM: A Large Language Model That Can Speak and Listen**, `arXiv, 2306.12925`, [arxiv](http://arxiv.org/abs/2306.12925v1), [pdf](http://arxiv.org/pdf/2306.12925v1.pdf), cication: [**-1**](None)
+
+	 *Paul K. Rubenstein, Chulayuth Asawaroengchai, Duc Dung Nguyen, Ankur Bapna, Zalán Borsos, Félix de Chaumont Quitry, Peter Chen, Dalia El Badawy, Wei Han, Eugene Kharitonov*
 - **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal
   Conversational Abilities**, `arXiv, 2305.11000`, [arxiv](http://arxiv.org/abs/2305.11000v2), [pdf](http://arxiv.org/pdf/2305.11000v2.pdf), cication: [**-1**](None)
 
@@ -245,6 +248,10 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **Sentence-wise Speech Summarization: Task, Datasets, and End-to-End
+  Modeling with LM Knowledge Distillation**, `arXiv, 2408.00205`, [arxiv](http://arxiv.org/abs/2408.00205v1), [pdf](http://arxiv.org/pdf/2408.00205v1.pdf), cication: [**-1**](None)
+
+	 *Kohei Matsuura, Takanori Ashihara, Takafumi Moriya, Masato Mimura, Takatomo Kano, Atsunori Ogawa, Marc Delcroix* · ([huggingface](https://huggingface.co/datasets/komats/mega-ssum))
 - [DiVA (Distilled Voice Assistant)](https://diva-audio.github.io/)
 
 	 · ([levanter](https://github.com/Helw150/levanter/blob/will/distill/src/levanter/models/via.py) - Helw150) ![Star](https://img.shields.io/github/stars/Helw150/levanter.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/WillHeld/DiVA-llama-3-v0-8b))

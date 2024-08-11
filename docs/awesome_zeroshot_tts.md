@@ -5,6 +5,9 @@
   - [References](#references)
 
 ## Gallery
+- [Bailing-TTS](https://c9412600.github.io/bltts_tech_report/index.html)
+
+	 · ([c9412600.github](https://c9412600.github.io/bltts_tech_report/index.html))
 - [**parler-tts**](https://github.com/huggingface/parler-tts/tree/main) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/parler-tts.svg?style=social&label=Star)
 
 	 *Inference and training library for high-quality TTS models.*

@@ -276,6 +276,9 @@
 	 *Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley*
 
 ## Audio Visual
+- **Ref-AVS: Refer and Segment Objects in Audio-Visual Scenes**, `arXiv, 2407.10957`, [arxiv](http://arxiv.org/abs/2407.10957v1), [pdf](http://arxiv.org/pdf/2407.10957v1.pdf), cication: [**-1**](None)
+
+	 *Yaoting Wang, Peiwen Sun, Dongzhan Zhou, Guangyao Li, Honggang Zhang, Di Hu* · ([gewu-lab.github](https://gewu-lab.github.io/Ref-AVS))
 - **video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models**, `arXiv, 2406.15704`, [arxiv](http://arxiv.org/abs/2406.15704v1), [pdf](http://arxiv.org/pdf/2406.15704v1.pdf), cication: [**-1**](None)
 
 	 *Guangzhi Sun, Wenyi Yu, Changli Tang, Xianzhao Chen, Tian Tan, Wei Li, Lu Lu, Zejun Ma, Yuxuan Wang, Chao Zhang* · ([SALMONN](https://github.com/bytedance/SALMONN) - bytedance) ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
@@ -311,6 +314,10 @@
 	 *Siyuan Shen, Yu Gao, Feng Liu, Hanyang Wang, Aimin Zhou* · ([ENT](https://github.com/ECNU-Cross-Innovation-Lab/ENT) - ECNU-Cross-Innovation-Lab) ![Star](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ENT.svg?style=social&label=Star)
 
 ## Speech Separation
+- **Facing the Music: Tackling Singing Voice Separation in Cinematic Audio
+  Source Separation**, `arXiv, 2408.03588`, [arxiv](http://arxiv.org/abs/2408.03588v1), [pdf](http://arxiv.org/pdf/2408.03588v1.pdf), cication: [**-1**](None)
+
+	 *Karn N. Watcharasupat, Chih-Wei Wu, Iroro Orife* · ([source-separation-landing](https://github.com/kwatcharasupat/source-separation-landing) - kwatcharasupat) ![Star](https://img.shields.io/github/stars/kwatcharasupat/source-separation-landing.svg?style=social&label=Star)
 - **SPMamba: State-space model is all you need in speech separation**, `arXiv, 2404.02063`, [arxiv](http://arxiv.org/abs/2404.02063v1), [pdf](http://arxiv.org/pdf/2404.02063v1.pdf), cication: [**-1**](None)
 
 	 *Kai Li, Guo Chen* · ([SPMamba](https://github.com/JusperLee/SPMamba) - JusperLee) ![Star](https://img.shields.io/github/stars/JusperLee/SPMamba.svg?style=social&label=Star)
