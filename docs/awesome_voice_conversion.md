@@ -6,6 +6,9 @@
 
 
 ## Papers
+- **MulliVC: Multi-lingual Voice Conversion With Cycle Consistency**, `arXiv, 2408.04708`, [arxiv](http://arxiv.org/abs/2408.04708v1), [pdf](http://arxiv.org/pdf/2408.04708v1.pdf), cication: [**-1**](None)
+
+	 *Jiawei Huang, Chen Zhang, Yi Ren, Ziyue Jiang, Zhenhui Ye, Jinglin Liu, Jinzheng He, Xiang Yin, Zhou Zhao* · ([mullivc.github](https://mullivc.github.io/))
 - **VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving
   Zero-Shot Voice Editing**, `arXiv, 2404.06674`, [arxiv](http://arxiv.org/abs/2404.06674v2), [pdf](http://arxiv.org/pdf/2404.06674v2.pdf), cication: [**-1**](None)
 
@@ -50,6 +53,14 @@
 # Voice-Omni
 
 ## Papers
+- **Body of Her: A Preliminary Study on End-to-End Humanoid Agent**, `arXiv, 2408.02879`, [arxiv](http://arxiv.org/abs/2408.02879v1), [pdf](http://arxiv.org/pdf/2408.02879v1.pdf), cication: [**-1**](None)
+
+	 *Tenglong Ao*
+
+	 · ([aubrey-ao.github](https://aubrey-ao.github.io/BodyOfHer))
+- **VITA: Towards Open-Source Interactive Omni Multimodal LLM**, `arXiv, 2408.05211`, [arxiv](http://arxiv.org/abs/2408.05211v1), [pdf](http://arxiv.org/pdf/2408.05211v1.pdf), cication: [**-1**](None)
+
+	 *Chaoyou Fu, Haojia Lin, Zuwei Long, Yunhang Shen, Meng Zhao, Yifan Zhang, Xiong Wang, Di Yin, Long Ma, Xiawu Zheng* · ([vita-home.github](https://vita-home.github.io/)) · ([VITA](https://github.com/VITA-MLLM/VITA) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star)
 - **Language Model Can Listen While Speaking**, `arXiv, 2408.02622`, [arxiv](http://arxiv.org/abs/2408.02622v1), [pdf](http://arxiv.org/pdf/2408.02622v1.pdf), cication: [**-1**](None)
 
 	 *Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen* · ([ddlbojack.github](https://ddlbojack.github.io/LSLM))
@@ -81,8 +92,8 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
-- [Fetching Title#qz1d](https://0nutation.github.io/SpeechGPT2.github.io/)
-- [Fetching Title#ytve](https://speechbot.github.io/)
+- [SpeechGPT2: End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.github.io/)
+- [The Textless NLP project](https://speechbot.github.io/)
 - [**Desktop_BUD-E**](https://github.com/christophschuhmann/Desktop_BUD-E/tree/main) - christophschuhmann ![Star](https://img.shields.io/github/stars/christophschuhmann/Desktop_BUD-E.svg?style=social&label=Star)
 
 	 *This is a voice assitant to run on you laptop*

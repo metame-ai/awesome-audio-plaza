@@ -260,6 +260,8 @@
 	 *Yunfei Chu, Jin Xu, Qian Yang, Haojie Wei, Xipin Wei, Zhifang Guo, Yichong Leng, Yuanjun Lv, Jinzheng He, Junyang Lin*
 
 	 · ([Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2-Audio.svg?style=social&label=Star)
+
+	 · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2-audio/))
 - **AudioBench: A Universal Benchmark for Audio Large Language Models**, `arXiv, 2406.16020`, [arxiv](http://arxiv.org/abs/2406.16020v2), [pdf](http://arxiv.org/pdf/2406.16020v2.pdf), cication: [**-1**](None)
 
 	 *Bin Wang, Xunlong Zou, Geyu Lin, Shuo Sun, Zhuohan Liu, Wenyu Zhang, Zhengyuan Liu, AiTi Aw, Nancy F. Chen* · ([AudioBench](https://github.com/AudioLLMs/AudioBench) - AudioLLMs) ![Star](https://img.shields.io/github/stars/AudioLLMs/AudioBench.svg?style=social&label=Star)
