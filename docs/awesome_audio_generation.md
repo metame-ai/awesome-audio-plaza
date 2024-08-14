@@ -180,6 +180,9 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models**, `arXiv, 2402.12423`, [arxiv](http://arxiv.org/abs/2402.12423v2), [pdf](http://arxiv.org/pdf/2402.12423v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6873525485540791679&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Miri Varshavsky-Hassid, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* · ([latent-analysis-grad-tts.github](https://latent-analysis-grad-tts.github.io/speech-samples/))
 - **Speech Editing -- a Summary**, `arXiv, 2407.17172`, [arxiv](http://arxiv.org/abs/2407.17172v1), [pdf](http://arxiv.org/pdf/2407.17172v1.pdf), cication: [**-1**](None)
 
 	 *Tobias Kässmann, Yining Liu, Danni Liu*
@@ -248,6 +251,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- [Revisiting Voice Large Language Models as Scalable Multi-Lingual and Multi-Task Learners](https://aclanthology.org/2024.acl-long.589.pdf)
+
+	 · ([m-voice.github](https://m-voice.github.io/))
 - **Sentence-wise Speech Summarization: Task, Datasets, and End-to-End
   Modeling with LM Knowledge Distillation**, `arXiv, 2408.00205`, [arxiv](http://arxiv.org/abs/2408.00205v1), [pdf](http://arxiv.org/pdf/2408.00205v1.pdf), cication: [**-1**](None)
 
@@ -351,6 +357,9 @@
 
 
 ## Toolkits
+- [**audio-diffusion-pytorch**](https://github.com/archinetai/audio-diffusion-pytorch) - archinetai ![Star](https://img.shields.io/github/stars/archinetai/audio-diffusion-pytorch.svg?style=social&label=Star)
+
+	 *Audio generation using diffusion models, in PyTorch.*
 - [**livekit**](https://github.com/livekit/livekit) - livekit ![Star](https://img.shields.io/github/stars/livekit/livekit.svg?style=social&label=Star)
 
 	 *End-to-end stack for WebRTC. SFU media server and SDKs.*
