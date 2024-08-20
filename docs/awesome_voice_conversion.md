@@ -92,6 +92,7 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
+- [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social&label=Star)
 - [SpeechGPT2: End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.github.io/)
 - [The Textless NLP project](https://speechbot.github.io/)
 - [**Desktop_BUD-E**](https://github.com/christophschuhmann/Desktop_BUD-E/tree/main) - christophschuhmann ![Star](https://img.shields.io/github/stars/christophschuhmann/Desktop_BUD-E.svg?style=social&label=Star)
@@ -167,3 +168,6 @@
 ## Products
 - [Sindarin — Build your own Conversational Speech AI.](https://www.sindarin.tech/)
 - [Introducing Deepgram Aura: Lightning Fast Text-to-Speech for Voice AI Agents | Deepgram](https://deepgram.com/learn/aura-text-to-speech-tts-api-voice-ai-agents-launch)
+
+## Demos
+- [ChatGPT heavy breathing and shouting : r/singularity](https://www.reddit.com/r/singularity/comments/1eskpsb/chatgpt_heavy_breathing_and_shouting/?utm_source=ainews&utm_medium=email&utm_campaign=ainews-not-much-happened-today-5446)
