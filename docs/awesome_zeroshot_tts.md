@@ -5,6 +5,7 @@
   - [References](#references)
 
 ## Gallery
+- [Fetching Title#ue2q](https://jordandarefsky.com/blog/2024/parakeet/)
 - [Bailing-TTS](https://c9412600.github.io/bltts_tech_report/index.html)
 
 	 · ([c9412600.github](https://c9412600.github.io/bltts_tech_report/index.html))

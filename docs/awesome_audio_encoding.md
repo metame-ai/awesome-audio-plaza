@@ -49,6 +49,9 @@
 	 *Sunghwan Ahn, Beom Jun Woo, Min Hyun Han, Chanyeong Moon, Nam Soo Kim*
 
 	 · ([hilcodec](https://github.com/aask1357/hilcodec) - aask1357) ![Star](https://img.shields.io/github/stars/aask1357/hilcodec.svg?style=social&label=Star)
+- **Efficient Autoregressive Audio Modeling via Next-Scale Prediction**, `arXiv, 2408.09027`, [arxiv](http://arxiv.org/abs/2408.09027v1), [pdf](http://arxiv.org/pdf/2408.09027v1.pdf), cication: [**-1**](None)
+
+	 *Kai Qiu, Xiang Li, Hao Chen, Jie Sun, Jinglu Wang, Zhe Lin, Marios Savvides, Bhiksha Raj* · ([AAR](https://github.com/qiuk2/AAR?tab=readme-ov-file) - qiuk2) ![Star](https://img.shields.io/github/stars/qiuk2/AAR.svg?style=social&label=Star)
 - **Language-Codec: Reducing the Gaps Between Discrete Codec Representation
   and Speech Language Models**, `arXiv, 2402.12208`, [arxiv](http://arxiv.org/abs/2402.12208v2), [pdf](http://arxiv.org/pdf/2402.12208v2.pdf), cication: [**-1**](None)
 

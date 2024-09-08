@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **Foundation Models for Music: A Survey**, `arXiv, 2408.14340`, [arxiv](http://arxiv.org/abs/2408.14340v3), [pdf](http://arxiv.org/pdf/2408.14340v3.pdf), cication: [**-1**](None)
+
+	 *Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri* · ([FM4Music](https://github.com/nicolaus625/FM4Music) - nicolaus625) ![Star](https://img.shields.io/github/stars/nicolaus625/FM4Music.svg?style=social&label=Star)
 - **Audio Conditioning for Music Generation via Discrete Bottleneck Features**, `arXiv, 2407.12563`, [arxiv](http://arxiv.org/abs/2407.12563v2), [pdf](http://arxiv.org/pdf/2407.12563v2.pdf), cication: [**-1**](None)
 
 	 *Simon Rouard, Yossi Adi, Jade Copet, Axel Roebel, Alexandre Défossez* · ([musicgenstyle.github](https://musicgenstyle.github.io/))

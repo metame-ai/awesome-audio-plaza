@@ -54,6 +54,9 @@
 - [**AudioGPT**](https://github.com/AIGC-Audio/AudioGPT) - AIGC-Audio ![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
 
 ## Speech Translation
+- **FASST: Fast LLM-based Simultaneous Speech Translation**, `arXiv, 2408.09430`, [arxiv](http://arxiv.org/abs/2408.09430v1), [pdf](http://arxiv.org/pdf/2408.09430v1.pdf), cication: [**-1**](None)
+
+	 *Siqi Ouyang, Xi Xu, Chinmay Dandekar, Lei Li*
 - **StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task
   Learning**, `arXiv, 2406.03049`, [arxiv](http://arxiv.org/abs/2406.03049v1), [pdf](http://arxiv.org/pdf/2406.03049v1.pdf), cication: [**-1**](None)
 
@@ -168,6 +171,14 @@
 
 	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
+- **SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural
+  Language Description**, `arXiv, 2408.13608`, [arxiv](http://arxiv.org/abs/2408.13608v1), [pdf](http://arxiv.org/pdf/2408.13608v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2464243547952350028&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zeyu Jin, Jia Jia, Qixin Wang, Kehan Li, Shuoyi Zhou, Songtao Zhou, Xiaoyu Qin, Zhiyong Wu* · ([SpeechCraft](https://github.com/thuhcsi/SpeechCraft) - thuhcsi) ![Star](https://img.shields.io/github/stars/thuhcsi/SpeechCraft.svg?style=social&label=Star)
+- **Generating Data with Text-to-Speech and Large-Language Models for
+  Conversational Speech Recognition**, `arXiv, 2408.09215`, [arxiv](http://arxiv.org/abs/2408.09215v1), [pdf](http://arxiv.org/pdf/2408.09215v1.pdf), cication: [**-1**](None)
+
+	 *Samuele Cornell, Jordan Darefsky, Zhiyao Duan, Shinji Watanabe*
 - **LearnerVoice: A Dataset of Non-Native English Learners' Spontaneous
   Speech**, `arXiv, 2407.04280`, [arxiv](http://arxiv.org/abs/2407.04280v1), [pdf](http://arxiv.org/pdf/2407.04280v1.pdf), cication: [**-1**](None)
 
@@ -251,6 +262,10 @@
 	 *Evelina Bakhturina, Vitaly Lavrukhin, Boris Ginsburg, Yang Zhang* · ([openslr](https://www.openslr.org/109/))
 
 ## Audio Techs
+- **Advancing Multi-grained Alignment for Contrastive Language-Audio
+  Pre-training**, `arXiv, 2408.07919`, [arxiv](http://arxiv.org/abs/2408.07919v1), [pdf](http://arxiv.org/pdf/2408.07919v1.pdf), cication: [**-1**](None)
+
+	 *Yiming Li, Zhifang Guo, Xiangdong Wang, Hong Liu*
 - **Speech Slytherin: Examining the Performance and Efficiency of Mamba for
   Speech Separation, Recognition, and Synthesis**, `arXiv, 2407.09732`, [arxiv](http://arxiv.org/abs/2407.09732v1), [pdf](http://arxiv.org/pdf/2407.09732v1.pdf), cication: [**-1**](None)
 
@@ -307,6 +322,11 @@
   speech separation**, `arXiv, 2309.17189`, [arxiv](http://arxiv.org/abs/2309.17189v3), [pdf](http://arxiv.org/pdf/2309.17189v3.pdf), cication: [**-1**](None)
 
 	 *Samuel Pegg, Kai Li, Xiaolin Hu* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-03-06)) · ([cslikai](https://cslikai.cn/RTFS-Net/AV-Model-Demo.html)) · ([RTFS-Net](https://github.com/spkgyk/RTFS-Net) - spkgyk) ![Star](https://img.shields.io/github/stars/spkgyk/RTFS-Net.svg?style=social&label=Star)
+
+## Event Dectection
+- **SpeechEE: A Novel Benchmark for Speech Event Extraction**, `arXiv, 2408.09462`, [arxiv](http://arxiv.org/abs/2408.09462v2), [pdf](http://arxiv.org/pdf/2408.09462v2.pdf), cication: [**-1**](None)
+
+	 *Bin Wang, Meishan Zhang, Hao Fei, Yu Zhao, Bobo Li, Shengqiong Wu, Wei Ji, Min Zhang* · ([speechee.github](https://speechee.github.io/))
 
 ## Emotion Recognition 
 - **Emotion Neural Transducer for Fine-Grained Speech Emotion Recognition**, `arXiv, 2403.19224`, [arxiv](http://arxiv.org/abs/2403.19224v1), [pdf](http://arxiv.org/pdf/2403.19224v1.pdf), cication: [**-1**](None)

@@ -52,6 +52,8 @@
 
 # Voice-Omni
 
+[GitHub - gpt-omni/mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.](https://github.com/gpt-omni/mini-omni)
+
 ## Papers
 - **Body of Her: A Preliminary Study on End-to-End Humanoid Agent**, `arXiv, 2408.02879`, [arxiv](http://arxiv.org/abs/2408.02879v1), [pdf](http://arxiv.org/pdf/2408.02879v1.pdf), cication: [**-1**](None)
 
@@ -92,6 +94,12 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
+- [**flow_mirror**](https://github.com/jingzhunxue/flow_mirror/tree/main) - jingzhunxue ![Star](https://img.shields.io/github/stars/jingzhunxue/flow_mirror.svg?style=social&label=Star)
+
+	 *flow mirror models from JZX AI Labs*
+- [Llama3 just got ears - Homebrew](https://homebrew.ltd/blog/llama3-just-got-ears)
+
+	 · ([huggingface](https://huggingface.co/homebrewltd/Llama3.1-s-instruct-2024-08-19-epoch-3))
 - [**speech-to-speech**](https://github.com/huggingface/speech-to-speech) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/speech-to-speech.svg?style=social&label=Star)
 - [SpeechGPT2: End-to-End Human-Like Spoken Chatbot](https://0nutation.github.io/SpeechGPT2.github.io/)
 - [The Textless NLP project](https://speechbot.github.io/)

@@ -18,6 +18,14 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- **Accelerating High-Fidelity Waveform Generation via Adversarial Flow
+  Matching Optimization**, `arXiv, 2408.08019`, [arxiv](http://arxiv.org/abs/2408.08019v1), [pdf](http://arxiv.org/pdf/2408.08019v1.pdf), cication: [**-1**](None)
+
+	 *Sang-Hoon Lee, Ha-Yeong Choi, Seong-Whan Lee* · ([PeriodWave](https://github.com/sh-lee-prml/PeriodWave) - sh-lee-prml) ![Star](https://img.shields.io/github/stars/sh-lee-prml/PeriodWave.svg?style=social&label=Star)
+- **PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform
+  Generation**, `arXiv, 2408.07547`, [arxiv](http://arxiv.org/abs/2408.07547v1), [pdf](http://arxiv.org/pdf/2408.07547v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14553664054487650270&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Sang-Hoon Lee, Ha-Yeong Choi, Seong-Whan Lee* · ([PeriodWave](https://github.com/sh-lee-prml/PeriodWave) - sh-lee-prml) ![Star](https://img.shields.io/github/stars/sh-lee-prml/PeriodWave.svg?style=social&label=Star) · ([periodwave.github](https://periodwave.github.io/demo/))
 - **Long-form music generation with latent diffusion**, `arXiv, 2404.10301`, [arxiv](http://arxiv.org/abs/2404.10301v1), [pdf](http://arxiv.org/pdf/2404.10301v1.pdf), cication: [**6**](https://scholar.google.com/scholar?cites=17579374849381815722&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zach Evans, Julian D. Parker, CJ Carr, Zack Zukowski, Josiah Taylor, Jordi Pons* · ([stability-ai.github](https://stability-ai.github.io/stable-audio-open-demo/)) · ([huggingface](https://huggingface.co/stabilityai/stable-audio-open-1.0))
@@ -251,6 +259,14 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **SpeechPrompt: Prompting Speech Language Models for Speech Processing
+  Tasks**, `arXiv, 2408.13040`, [arxiv](http://arxiv.org/abs/2408.13040v1), [pdf](http://arxiv.org/pdf/2408.13040v1.pdf), cication: [**-1**](None)
+
+	 *Kai-Wei Chang, Haibin Wu, Yu-Kai Wang, Yuan-Kuei Wu, Hua Shen, Wei-Cheng Tseng, Iu-thing Kang, Shang-Wen Li, Hung-yi Lee*
+- **MooER: LLM-based Speech Recognition and Translation Models from Moore
+  Threads**, `arXiv, 2408.05101`, [arxiv](http://arxiv.org/abs/2408.05101v1), [pdf](http://arxiv.org/pdf/2408.05101v1.pdf), cication: [**-1**](None)
+
+	 *Junhao Xu, Zhenlin Liang, Yi Liu, Yichao Hu, Jian Li, Yajun Zheng, Meng Cai, Hua Wang* · ([mooer](https://github.com/moorethreads/mooer) - moorethreads) ![Star](https://img.shields.io/github/stars/moorethreads/mooer.svg?style=social&label=Star)
 - [Revisiting Voice Large Language Models as Scalable Multi-Lingual and Multi-Task Learners](https://aclanthology.org/2024.acl-long.589.pdf)
 
 	 · ([m-voice.github](https://m-voice.github.io/))

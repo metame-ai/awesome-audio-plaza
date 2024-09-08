@@ -7,6 +7,9 @@
   - [Toolkits](#toolkits)
 
 ## Papers
+- [Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition](https://team.doubao.com/zh/publication/seed-asr-understanding-diverse-speech-and-contexts-with-llm-based-speech-recognition?view_from=research)
+
+	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-08-22-8))
 - **Scaling A Simple Approach to Zero-Shot Speech Recognition**, `arXiv, 2407.17852`, [arxiv](http://arxiv.org/abs/2407.17852v1), [pdf](http://arxiv.org/pdf/2407.17852v1.pdf), cication: [**-1**](None)
 
 	 *Jinming Zhao, Vineel Pratap, Michael Auli* · ([fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/mms/zero_shot) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)

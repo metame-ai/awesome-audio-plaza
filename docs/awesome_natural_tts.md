@@ -14,6 +14,10 @@
 - [**TTS-Arena**](https://huggingface.co/spaces/TTS-AGI/TTS-Arena) - TTS-AGI 🤗
 
 ## Vocoder
+- **Accelerating High-Fidelity Waveform Generation via Adversarial Flow
+  Matching Optimization**, `arXiv, 2408.08019`, [arxiv](http://arxiv.org/abs/2408.08019v1), [pdf](http://arxiv.org/pdf/2408.08019v1.pdf), cication: [**-1**](None)
+
+	 *Sang-Hoon Lee, Ha-Yeong Choi, Seong-Whan Lee* · ([periodwave.github](https://periodwave.github.io/demo/)) · ([PeriodWave](https://github.com/sh-lee-prml/PeriodWave) - sh-lee-prml) ![Star](https://img.shields.io/github/stars/sh-lee-prml/PeriodWave.svg?style=social&label=Star)
 - [**BigVGAN**](https://github.com/NVIDIA/BigVGAN) - NVIDIA ![Star](https://img.shields.io/github/stars/NVIDIA/BigVGAN.svg?style=social&label=Star)
 
 	 *Official PyTorch implementation of BigVGAN (ICLR 2023)*
@@ -55,6 +59,10 @@
 	 *Minki Kang, Wooseok Han, Sung Ju Hwang, Eunho Yang*
 
 ## Natural TTS
+- **SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with
+  Flow-based Scalar Latent Transformer Diffusion Models**, `arXiv, 2408.13893`, [arxiv](http://arxiv.org/abs/2408.13893v2), [pdf](http://arxiv.org/pdf/2408.13893v2.pdf), cication: [**-1**](None)
+
+	 *Dongchao Yang, Rongjie Huang, Yuanyuan Wang, Haohan Guo, Dading Chong, Songxiang Liu, Xixin Wu, Helen Meng* · ([dongchaoyang](https://dongchaoyang.top/SimpleSpeech2\_demo))
 - [Fetching Title#l2yg](https://lilyn3125.github.io/flytts/)
 
 	 · ([lilyn3125.github](https://lilyn3125.github.io/flytts/))
