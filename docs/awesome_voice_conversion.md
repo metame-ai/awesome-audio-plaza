@@ -124,6 +124,17 @@
 - [**gazelle**](https://github.com/tincans-ai/gazelle/tree/main?tab=readme-ov-file) - tincans-ai ![Star](https://img.shields.io/github/stars/tincans-ai/gazelle.svg?style=social&label=Star)
 
 	 *Joint speech-language model - respond directly to audio!* · ([tincans](https://tincans.ai/slm)) · ([x](https://x.com/hingeloss/status/1765440068452331898)) · ([x](https://x.com/hingeloss/status/1770157984745656743))
+## Acoustic echo cancellation
+- [**NKF-AEC**](https://github.com/fjiang9/NKF-AEC?tab=readme-ov-file) - fjiang9 ![Star](https://img.shields.io/github/stars/fjiang9/NKF-AEC.svg?style=social&label=Star)
+
+	 *Acoustic Echo Cancellation with Nerual Kalman Filtering* · ([fjiang9.github](https://fjiang9.github.io/NKF-AEC/))
+- [**DTLN-aec**](https://github.com/breizhn/DTLN-aec) - breizhn ![Star](https://img.shields.io/github/stars/breizhn/DTLN-aec.svg?style=social&label=Star)
+
+	 *This Repostory contains the pretrained DTLN-aec model for real-time acoustic echo cancellation.*
+- [**TSPNN**](https://github.com/enhancer12/TSPNN) - enhancer12 ![Star](https://img.shields.io/github/stars/enhancer12/TSPNN.svg?style=social&label=Star)
+
+	 *Two-stage progressive neural network for acoustic echo cancellation*
+
 ## End of Speech 
 - **Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex
   Models**, `arXiv, 2406.15718`, [arxiv](http://arxiv.org/abs/2406.15718v1), [pdf](http://arxiv.org/pdf/2406.15718v1.pdf), cication: [**-1**](None)

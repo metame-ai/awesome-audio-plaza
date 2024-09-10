@@ -207,6 +207,9 @@
 - [**voice_datasets**](https://github.com/jim-schwoebel/voice_datasets) - jim-schwoebel ![Star](https://img.shields.io/github/stars/jim-schwoebel/voice_datasets.svg?style=social&label=Star)
 
 	 *🔊 A comprehensive list of open-source datasets for voice and sound computing (95+ datasets).*
+- **MUSAN: A Music, Speech, and Noise Corpus**, `arXiv, 1510.08484`, [arxiv](http://arxiv.org/abs/1510.08484v1), [pdf](http://arxiv.org/pdf/1510.08484v1.pdf), cication: [**1439**](https://scholar.google.com/scholar?cites=6755292572666912523&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *David Snyder, Guoguo Chen, Daniel Povey*
 
 ### TTS
 - [**libritts_r**](https://huggingface.co/datasets/mythicinfinity/libritts_r) - mythicinfinity 🤗
