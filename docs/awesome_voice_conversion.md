@@ -55,6 +55,9 @@
 [GitHub - gpt-omni/mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.](https://github.com/gpt-omni/mini-omni)
 
 ## Papers
+- **LLaMA-Omni: Seamless Speech Interaction with Large Language Models**, `arXiv, 2409.06666`, [arxiv](http://arxiv.org/abs/2409.06666v1), [pdf](http://arxiv.org/pdf/2409.06666v1.pdf), cication: [**-1**](None)
+
+	 *Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, Shaolei Zhang, Yang Feng* · ([LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni.svg?style=social&label=Star)
 - **Body of Her: A Preliminary Study on End-to-End Humanoid Agent**, `arXiv, 2408.02879`, [arxiv](http://arxiv.org/abs/2408.02879v1), [pdf](http://arxiv.org/pdf/2408.02879v1.pdf), cication: [**-1**](None)
 
 	 *Tenglong Ao*
@@ -94,6 +97,9 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
+- [**LLaMA-Omni**](https://github.com/ictnlp/LLaMA-Omni) - ictnlp ![Star](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni.svg?style=social&label=Star)
+
+	 *Low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct.*
 - [**flow_mirror**](https://github.com/jingzhunxue/flow_mirror/tree/main) - jingzhunxue ![Star](https://img.shields.io/github/stars/jingzhunxue/flow_mirror.svg?style=social&label=Star)
 
 	 *flow mirror models from JZX AI Labs*
