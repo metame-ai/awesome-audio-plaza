@@ -245,6 +245,7 @@
 
 
 ## Projects
+- [**fish-speech-1.4**](https://huggingface.co/fishaudio/fish-speech-1.4) - fishaudio 🤗
 - [**ai-voice-cloning**](https://github.com/JarodMica/ai-voice-cloning) - JarodMica ![Star](https://img.shields.io/github/stars/JarodMica/ai-voice-cloning.svg?style=social&label=Star)
 - [**Vokan**](https://huggingface.co/ShoukanLabs/Vokan) - ShoukanLabs 🤗
 

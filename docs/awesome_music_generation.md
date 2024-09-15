@@ -9,6 +9,9 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **FLUX that Plays Music**, `arXiv, 2409.00587`, [arxiv](http://arxiv.org/abs/2409.00587v1), [pdf](http://arxiv.org/pdf/2409.00587v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18093944222213983715&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang* · ([FluxMusic](https://github.com/feizc/FluxMusic) - feizc) ![Star](https://img.shields.io/github/stars/feizc/FluxMusic.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/flosstradamus/FluxMusicGUI))
 - **Foundation Models for Music: A Survey**, `arXiv, 2408.14340`, [arxiv](http://arxiv.org/abs/2408.14340v3), [pdf](http://arxiv.org/pdf/2408.14340v3.pdf), cication: [**-1**](None)
 
 	 *Yinghao Ma, Anders Øland, Anton Ragni, Bleiz MacSen Del Sette, Charalampos Saitis, Chris Donahue, Chenghua Lin, Christos Plachouras, Emmanouil Benetos, Elona Shatri* · ([FM4Music](https://github.com/nicolaus625/FM4Music) - nicolaus625) ![Star](https://img.shields.io/github/stars/nicolaus625/FM4Music.svg?style=social&label=Star)

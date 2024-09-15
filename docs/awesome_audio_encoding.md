@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Papers and Projects
+- **Investigating Neural Audio Codecs for Speech Language Model-Based Speech
+  Generation**, `arXiv, 2409.04016`, [arxiv](http://arxiv.org/abs/2409.04016v1), [pdf](http://arxiv.org/pdf/2409.04016v1.pdf), cication: [**-1**](None)
+
+	 *Jiaqi Li, Dongmei Wang, Xiaofei Wang, Yao Qian, Long Zhou, Shujie Liu, Midia Yousefi, Canrun Li, Chung-Hsien Tsai, Zhen Xiao*
 - **Towards Robust Speech Representation Learning for Thousands of Languages**, `arXiv, 2407.00837`, [arxiv](http://arxiv.org/abs/2407.00837v2), [pdf](http://arxiv.org/pdf/2407.00837v2.pdf), cication: [**-1**](None)
 
 	 *William Chen, Wangyou Zhang, Yifan Peng, Xinjian Li, Jinchuan Tian, Jiatong Shi, Xuankai Chang, Soumi Maiti, Karen Livescu, Shinji Watanabe*
