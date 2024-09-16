@@ -18,6 +18,9 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- **Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis**, `arXiv, 2409.06135`, [arxiv](http://arxiv.org/abs/2409.06135v1), [pdf](http://arxiv.org/pdf/2409.06135v1.pdf), cication: [**-1**](None)
+
+	 *Qi Yang, Binjie Mao, Zili Wang, Xing Nie, Pengfei Gao, Ying Guo, Cheng Zhen, Pengfei Yan, Shiming Xiang* · ([yannqi.github](https://yannqi.github.io/Draw-an-Audio/))
 - **Accelerating High-Fidelity Waveform Generation via Adversarial Flow
   Matching Optimization**, `arXiv, 2408.08019`, [arxiv](http://arxiv.org/abs/2408.08019v1), [pdf](http://arxiv.org/pdf/2408.08019v1.pdf), cication: [**-1**](None)
 
@@ -188,6 +191,10 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **VoxInstruct: Expressive Human Instruction-to-Speech Generation with
+  Unified Multilingual Codec Language Modelling**, `arXiv, 2408.15676`, [arxiv](http://arxiv.org/abs/2408.15676v1), [pdf](http://arxiv.org/pdf/2408.15676v1.pdf), cication: [**-1**](None)
+
+	 *Yixuan Zhou, Xiaoyu Qin, Zeyu Jin, Shuoyi Zhou, Shun Lei, Songtao Zhou, Zhiyong Wu, Jia Jia* · ([VoxInstruct](https://github.com/thuhcsi/VoxInstruct) - thuhcsi) ![Star](https://img.shields.io/github/stars/thuhcsi/VoxInstruct.svg?style=social&label=Star) · ([voxinstruct.github](https://voxinstruct.github.io/VoxInstruct/))
 - **On the Semantic Latent Space of Diffusion-Based Text-to-Speech Models**, `arXiv, 2402.12423`, [arxiv](http://arxiv.org/abs/2402.12423v2), [pdf](http://arxiv.org/pdf/2402.12423v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=6873525485540791679&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Miri Varshavsky-Hassid, Roy Hirsch, Regev Cohen, Tomer Golany, Daniel Freedman, Ehud Rivlin* · ([latent-analysis-grad-tts.github](https://latent-analysis-grad-tts.github.io/speech-samples/))
@@ -259,6 +266,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- **WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding**, `arXiv, 2408.16423`, [arxiv](http://arxiv.org/abs/2408.16423v1), [pdf](http://arxiv.org/pdf/2408.16423v1.pdf), cication: [**-1**](None)
+
+	 *Mohan Li, Cong-Thanh Do, Simon Keizer, Youmna Farag, Svetlana Stoyanchev, Rama Doddipatla*
 - **SpeechPrompt: Prompting Speech Language Models for Speech Processing
   Tasks**, `arXiv, 2408.13040`, [arxiv](http://arxiv.org/abs/2408.13040v1), [pdf](http://arxiv.org/pdf/2408.13040v1.pdf), cication: [**-1**](None)
 

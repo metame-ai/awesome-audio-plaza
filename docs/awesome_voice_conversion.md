@@ -6,6 +6,10 @@
 
 
 ## Papers
+- **FastVoiceGrad: One-step Diffusion-Based Voice Conversion with
+  Adversarial Conditional Diffusion Distillation**, `arXiv, 2409.02245`, [arxiv](http://arxiv.org/abs/2409.02245v1), [pdf](http://arxiv.org/pdf/2409.02245v1.pdf), cication: [**-1**](None)
+
+	 *Takuhiro Kaneko, Hirokazu Kameoka, Kou Tanaka, Yuto Kondo* · ([kecl.ntt.co](https://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/fastvoicegrad/))
 - [SingVisio: Visual analytics of diffusion model for singing voice conversion](https://www.sciencedirect.com/science/article/abs/pii/S0097849324001936?via%3Dihub)
 - **MulliVC: Multi-lingual Voice Conversion With Cycle Consistency**, `arXiv, 2408.04708`, [arxiv](http://arxiv.org/abs/2408.04708v1), [pdf](http://arxiv.org/pdf/2408.04708v1.pdf), cication: [**-1**](None)
 

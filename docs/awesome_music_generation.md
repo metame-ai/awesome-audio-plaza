@@ -9,6 +9,13 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- **VMAS: Video-to-Music Generation via Semantic Alignment in Web Music
+  Videos**, `arXiv, 2409.07450`, [arxiv](http://arxiv.org/abs/2409.07450v1), [pdf](http://arxiv.org/pdf/2409.07450v1.pdf), cication: [**-1**](None)
+
+	 *Yan-Bo Lin, Yu Tian, Linjie Yang, Gedas Bertasius, Heng Wang* · ([genjib.github](https://genjib.github.io/project_page/VMAs/index.html))
+- **SongCreator: Lyrics-based Universal Song Generation**, `arXiv, 2409.06029`, [arxiv](http://arxiv.org/abs/2409.06029v1), [pdf](http://arxiv.org/pdf/2409.06029v1.pdf), cication: [**-1**](None)
+
+	 *Shun Lei, Yixuan Zhou, Boshi Tang, Max W. Y. Lam, Feng Liu, Hangyu Liu, Jingcheng Wu, Shiyin Kang, Zhiyong Wu, Helen Meng* · ([songcreator.github](https://songcreator.github.io/))
 - **FLUX that Plays Music**, `arXiv, 2409.00587`, [arxiv](http://arxiv.org/abs/2409.00587v1), [pdf](http://arxiv.org/pdf/2409.00587v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=18093944222213983715&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang* · ([FluxMusic](https://github.com/feizc/FluxMusic) - feizc) ![Star](https://img.shields.io/github/stars/feizc/FluxMusic.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/flosstradamus/FluxMusicGUI))

@@ -214,7 +214,18 @@
 	 · ([CM-TTS](https://github.com/XiangLi2022/CM-TTS) - XiangLi2022) ![Star](https://img.shields.io/github/stars/XiangLi2022/CM-TTS.svg?style=social&label=Star)
 
 ## Misc
-- [Fetching Title#d04h](https://laion.ai/notes/open-gpt-4-o/)
+- **Investigating Neural Audio Codecs for Speech Language Model-Based Speech
+  Generation**, `arXiv, 2409.04016`, [arxiv](http://arxiv.org/abs/2409.04016v1), [pdf](http://arxiv.org/pdf/2409.04016v1.pdf), cication: [**-1**](None)
+
+	 *Jiaqi Li, Dongmei Wang, Xiaofei Wang, Yao Qian, Long Zhou, Shujie Liu, Midia Yousefi, Canrun Li, Chung-Hsien Tsai, Zhen Xiao*
+- **Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio
+  Language Model**, `arXiv, 2408.17175`, [arxiv](http://arxiv.org/abs/2408.17175v1), [pdf](http://arxiv.org/pdf/2408.17175v1.pdf), cication: [**-1**](None)
+
+	 *Zhen Ye, Peiwen Sun, Jiahe Lei, Hongzhan Lin, Xu Tan, Zheqi Dai, Qiuqiang Kong, Jianyi Chen, Jiahao Pan, Qifeng Liu* · ([xcodec](https://github.com/zhenye234/xcodec) - zhenye234) ![Star](https://img.shields.io/github/stars/zhenye234/xcodec.svg?style=social&label=Star)
+- **Enabling Beam Search for Language Model-Based Text-to-Speech Synthesis**, `arXiv, 2408.16373`, [arxiv](http://arxiv.org/abs/2408.16373v1), [pdf](http://arxiv.org/pdf/2408.16373v1.pdf), cication: [**-1**](None)
+
+	 *Zehai Tu, Guangyan Zhang, Yiting Lu, Adaeze Adigwe, Simon King, Yiwen Guo* · ([tuzehai.github](https://tuzehai.github.io/trad-bs.github.io/))
+- [CALL TO BUILD OPEN MULTI-MODAL MODELS FOR PERSONAL ASSISTANTS](https://laion.ai/notes/open-gpt-4-o/)
 - **Expressive TTS Driven by Natural Language Prompts Using Few Human
   Annotations**, `arXiv, 2311.01260`, [arxiv](http://arxiv.org/abs/2311.01260v1), [pdf](http://arxiv.org/pdf/2311.01260v1.pdf), cication: [**-1**](None)
 

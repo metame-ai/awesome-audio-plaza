@@ -266,6 +266,9 @@
 	 *Evelina Bakhturina, Vitaly Lavrukhin, Boris Ginsburg, Yang Zhang* · ([openslr](https://www.openslr.org/109/))
 
 ## Audio Techs
+- **The VoxCeleb Speaker Recognition Challenge: A Retrospective**, `arXiv, 2408.14886`, [arxiv](http://arxiv.org/abs/2408.14886v1), [pdf](http://arxiv.org/pdf/2408.14886v1.pdf), cication: [**-1**](None)
+
+	 *Jaesung Huh, Joon Son Chung, Arsha Nagrani, Andrew Brown, Jee-weon Jung, Daniel Garcia-Romero, Andrew Zisserman* · ([mm.kaist.ac](https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/workshop.html))
 - **Advancing Multi-grained Alignment for Contrastive Language-Audio
   Pre-training**, `arXiv, 2408.07919`, [arxiv](http://arxiv.org/abs/2408.07919v1), [pdf](http://arxiv.org/pdf/2408.07919v1.pdf), cication: [**-1**](None)
 

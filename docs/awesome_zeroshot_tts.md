@@ -5,7 +5,15 @@
   - [References](#references)
 
 ## Gallery
-- [Fetching Title#ue2q](https://jordandarefsky.com/blog/2024/parakeet/)
+- **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec
+  Transformer**, `arXiv, 2409.00750`, [arxiv](http://arxiv.org/abs/2409.00750v1), [pdf](http://arxiv.org/pdf/2409.00750v1.pdf), cication: [**-1**](None)
+
+	 *Yuancheng Wang, Haoyue Zhan, Liwei Liu, Ruihong Zeng, Haotian Guo, Jiachen Zheng, Qiang Zhang, Shunsi Zhang, Zhizheng Wu* · ([maskgct.github](https://maskgct.github.io/))
+- **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level
+  Generative Speech Applications**, `arXiv, 2409.03283`, [arxiv](http://arxiv.org/abs/2409.03283v1), [pdf](http://arxiv.org/pdf/2409.03283v1.pdf), cication: [**-1**](None)
+
+	 *Hao-Han Guo, Kun Liu, Fei-Yu Shen, Yi-Chen Wu, Feng-Long Xie, Kun Xie, Kai-Tuo Xu* · ([fireredteam.github](https://fireredteam.github.io/demos/firered_tts/))
+- [Parakeet A natural sounding, conversational text-to-speech model](https://jordandarefsky.com/blog/2024/parakeet/)
 - [Bailing-TTS](https://c9412600.github.io/bltts_tech_report/index.html)
 
 	 · ([c9412600.github](https://c9412600.github.io/bltts_tech_report/index.html))

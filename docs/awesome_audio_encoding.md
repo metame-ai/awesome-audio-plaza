@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Papers and Projects
+- **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio
+  Language Modeling**, `arXiv, 2408.16532`, [arxiv](http://arxiv.org/abs/2408.16532v1), [pdf](http://arxiv.org/pdf/2408.16532v1.pdf), cication: [**-1**](None)
+
+	 *Shengpeng Ji, Ziyue Jiang, Xize Cheng, Yifu Chen, Minghui Fang, Jialong Zuo, Qian Yang, Ruiqi Li, Ziang Zhang, Xiaoda Yang* · ([WavTokenizer](https://github.com/jishengpeng/WavTokenizer) - jishengpeng) ![Star](https://img.shields.io/github/stars/jishengpeng/WavTokenizer.svg?style=social&label=Star)
 - **Investigating Neural Audio Codecs for Speech Language Model-Based Speech
   Generation**, `arXiv, 2409.04016`, [arxiv](http://arxiv.org/abs/2409.04016v1), [pdf](http://arxiv.org/pdf/2409.04016v1.pdf), cication: [**-1**](None)
 
