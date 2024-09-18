@@ -1,6 +1,8 @@
 # Voice-Omni
 
-[GitHub - gpt-omni/mini-omni: open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.](https://github.com/gpt-omni/mini-omni)
+- [**mini-omni**](https://github.com/gpt-omni/mini-omni) - gpt-omni ![Star](https://img.shields.io/github/stars/gpt-omni/mini-omni.svg?style=social&label=Star)
+
+	 *open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.*
 
 ## Papers
 - **LLaMA-Omni: Seamless Speech Interaction with Large Language Models**, `arXiv, 2409.06666`, [arxiv](http://arxiv.org/abs/2409.06666v1), [pdf](http://arxiv.org/pdf/2409.06666v1.pdf), cication: [**-1**](None)
@@ -142,6 +144,7 @@
 
 	 *Junyi Ao, Yuancheng Wang, Xiaohai Tian, Dekun Chen, Jun Zhang, Lu Lu, Yuxuan Wang, Haizhou Li, Zhizheng Wu* · ([SD-Eval](https://github.com/amphionspace/SD-Eval) - amphionspace) ![Star](https://img.shields.io/github/stars/amphionspace/SD-Eval.svg?style=social&label=Star)
 ## Products
+- [LiveKit · GitHub](https://github.com/livekit)
 - [Introducing Empathic Voice Interface 2 (EVI 2)](https://x.com/hume_ai/status/1833906262351974483)
 - [Sindarin — Build your own Conversational Speech AI.](https://www.sindarin.tech/)
 - [Introducing Deepgram Aura: Lightning Fast Text-to-Speech for Voice AI Agents | Deepgram](https://deepgram.com/learn/aura-text-to-speech-tts-api-voice-ai-agents-launch)
