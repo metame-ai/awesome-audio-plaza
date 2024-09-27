@@ -9,6 +9,7 @@
   - [Other](#other)
 
 ## Survey
+- [[2409.09601] A Survey of Foundation Models for Music Understanding](https://arxiv.org/abs/2409.09601)
 - **A Survey of Deep Learning Audio Generation Methods**, `arXiv, 2406.00146`, [arxiv](http://arxiv.org/abs/2406.00146v1), [pdf](http://arxiv.org/pdf/2406.00146v1.pdf), cication: [**-1**](None)
 
 	 *Matej Božić, Marko Horvat*
@@ -18,6 +19,10 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- [**AudioEditor**](https://github.com/NKU-HLT/AudioEditor?tab=readme-ov-file) - NKU-HLT ![Star](https://img.shields.io/github/stars/NKU-HLT/AudioEditor.svg?style=social&label=Star)
+- [[2409.10819] EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://arxiv.org/abs/2409.10819)
+
+	 · ([haidog-yaqub.github](https://haidog-yaqub.github.io/EzAudio-Page/)) · ([EzAudio](https://github.com/haidog-yaqub/EzAudio) - haidog-yaqub) ![Star](https://img.shields.io/github/stars/haidog-yaqub/EzAudio.svg?style=social&label=Star)
 - **Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis**, `arXiv, 2409.06135`, [arxiv](http://arxiv.org/abs/2409.06135v1), [pdf](http://arxiv.org/pdf/2409.06135v1.pdf), cication: [**-1**](None)
 
 	 *Qi Yang, Binjie Mao, Zili Wang, Xing Nie, Pengfei Gao, Ying Guo, Cheng Zhen, Pengfei Yan, Shiming Xiang* · ([yannqi.github](https://yannqi.github.io/Draw-an-Audio/))
@@ -266,6 +271,7 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
+- [[2409.09401] Towards Diverse and Efficient Audio Captioning via Diffusion Models](https://arxiv.org/abs/2409.09401)
 - **WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding**, `arXiv, 2408.16423`, [arxiv](http://arxiv.org/abs/2408.16423v1), [pdf](http://arxiv.org/pdf/2408.16423v1.pdf), cication: [**-1**](None)
 
 	 *Mohan Li, Cong-Thanh Do, Simon Keizer, Youmna Farag, Svetlana Stoyanchev, Rama Doddipatla*

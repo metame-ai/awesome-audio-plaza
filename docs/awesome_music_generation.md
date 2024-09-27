@@ -9,6 +9,12 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
+- [2405.15863](https://arxiv.org/pdf/2405.15863)
+
+	 · ([huggingface](https://huggingface.co/jadechoghari/openmusic))
+- [[2409.09214] Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](https://arxiv.org/abs/2409.09214)
+
+	 · ([team.doubao](https://team.doubao.com/seed-music))
 - **VMAS: Video-to-Music Generation via Semantic Alignment in Web Music
   Videos**, `arXiv, 2409.07450`, [arxiv](http://arxiv.org/abs/2409.07450v1), [pdf](http://arxiv.org/pdf/2409.07450v1.pdf), cication: [**-1**](None)
 

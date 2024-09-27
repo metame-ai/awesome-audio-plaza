@@ -5,6 +5,16 @@
   - [References](#references)
 
 ## Gallery
+- [2404.05600](https://arxiv.org/pdf/2404.05600)
+- [[2409.12139] Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](https://arxiv.org/abs/2409.12139)
+
+	 · ([takinaudiollm.github](https://takinaudiollm.github.io/))
+- [[2409.09351] E1 TTS: Simple and Fast Non-Autoregressive TTS](https://arxiv.org/abs/2409.09351)
+
+	 · ([e1tts.github](https://e1tts.github.io/)) · ([e1tts.github.io](https://github.com/e1tts/e1tts.github.io/) - e1tts) ![Star](https://img.shields.io/github/stars/e1tts/e1tts.github.io.svg?style=social&label=Star)
+- [[2409.10058] StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion](https://arxiv.org/abs/2409.10058)
+
+	 · ([StyleTTS-ZS](https://github.com/yl4579/StyleTTS-ZS) - yl4579) ![Star](https://img.shields.io/github/stars/yl4579/StyleTTS-ZS.svg?style=social&label=Star) · ([styletts-zs.github](https://styletts-zs.github.io/))
 - **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec
   Transformer**, `arXiv, 2409.00750`, [arxiv](http://arxiv.org/abs/2409.00750v1), [pdf](http://arxiv.org/pdf/2409.00750v1.pdf), cication: [**-1**](None)
 

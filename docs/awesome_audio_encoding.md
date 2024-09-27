@@ -5,6 +5,10 @@
   - [References](#references)
 
 ## Papers and Projects
+- [[2409.12717] NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization](https://arxiv.org/abs/2409.12717)
+- [[2409.11630] Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation](https://arxiv.org/abs/2409.11630)
+- [[2409.12117] Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference](https://arxiv.org/abs/2409.12117)
+- [2409.11228](https://arxiv.org/pdf/2409.11228)
 - **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio
   Language Modeling**, `arXiv, 2408.16532`, [arxiv](http://arxiv.org/abs/2408.16532v1), [pdf](http://arxiv.org/pdf/2408.16532v1.pdf), cication: [**-1**](None)
 

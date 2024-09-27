@@ -70,6 +70,7 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**LiveKit-AI-Voice-Assitant**](https://github.com/techwithtim/LiveKit-AI-Voice-Assitant) - techwithtim ![Star](https://img.shields.io/github/stars/techwithtim/LiveKit-AI-Voice-Assitant.svg?style=social&label=Star)
 - [[2409.07704] Super Monotonic Alignment Search](https://arxiv.org/abs/2409.07704)
 
 	 · ([super-monotonic-align](https://github.com/supertone-inc/super-monotonic-align) - supertone-inc) ![Star](https://img.shields.io/github/stars/supertone-inc/super-monotonic-align.svg?style=social&label=Star)
@@ -269,6 +270,9 @@
 	 *Evelina Bakhturina, Vitaly Lavrukhin, Boris Ginsburg, Yang Zhang* · ([openslr](https://www.openslr.org/109/))
 
 ## Audio Techs
+- [[2409.08514] Apollo: Band-sequence Modeling for High-Quality Audio Restoration](https://arxiv.org/abs/2409.08514)
+
+	 · ([cslikai](https://cslikai.cn/Apollo/))
 - **The VoxCeleb Speaker Recognition Challenge: A Retrospective**, `arXiv, 2408.14886`, [arxiv](http://arxiv.org/abs/2408.14886v1), [pdf](http://arxiv.org/pdf/2408.14886v1.pdf), cication: [**-1**](None)
 
 	 *Jaesung Huh, Joon Son Chung, Arsha Nagrani, Andrew Brown, Jee-weon Jung, Daniel Garcia-Romero, Andrew Zisserman* · ([mm.kaist.ac](https://mm.kaist.ac.kr/datasets/voxceleb/voxsrc/workshop.html))
@@ -344,6 +348,9 @@
 	 *Siyuan Shen, Yu Gao, Feng Liu, Hanyang Wang, Aimin Zhou* · ([ENT](https://github.com/ECNU-Cross-Innovation-Lab/ENT) - ECNU-Cross-Innovation-Lab) ![Star](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ENT.svg?style=social&label=Star)
 
 ## Speech Separation
+- [[2409.08425] SoloAudio: Target Sound Extraction with Language-oriented Audio Diffusion Transformer](https://arxiv.org/abs/2409.08425)
+
+	 · ([SoloAudio](https://github.com/WangHelin1997/SoloAudio) - WangHelin1997) ![Star](https://img.shields.io/github/stars/WangHelin1997/SoloAudio.svg?style=social&label=Star) · ([wanghelin1997.github](https://wanghelin1997.github.io/SoloAudio-Demo/))
 - **Facing the Music: Tackling Singing Voice Separation in Cinematic Audio
   Source Separation**, `arXiv, 2408.03588`, [arxiv](http://arxiv.org/abs/2408.03588v1), [pdf](http://arxiv.org/pdf/2408.03588v1.pdf), cication: [**-1**](None)
 

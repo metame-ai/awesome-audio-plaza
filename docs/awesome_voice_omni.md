@@ -5,6 +5,10 @@
 	 *open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.*
 
 ## Papers
+- [Tincans - Final Technical Report](https://tincans.ai/report)
+- [**moshi**](https://github.com/kyutai-labs/moshi) - kyutai-labs ![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)
+
+	 · ([kyutai](https://kyutai.org/Moshi.pdf)) · ([huggingface](https://huggingface.co/collections/kyutai/moshi-v01-release-66eaeaf3302bef6bd9ad7acd))
 - **LLaMA-Omni: Seamless Speech Interaction with Large Language Models**, `arXiv, 2409.06666`, [arxiv](http://arxiv.org/abs/2409.06666v1), [pdf](http://arxiv.org/pdf/2409.06666v1.pdf), cication: [**-1**](None)
 
 	 *Qingkai Fang, Shoutao Guo, Yan Zhou, Zhengrui Ma, Shaolei Zhang, Yang Feng* · ([LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni.svg?style=social&label=Star)
@@ -47,6 +51,7 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
+- [**Westlake-Omni**](https://github.com/xinchen-ai/Westlake-Omni) - xinchen-ai ![Star](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg?style=social&label=Star)
 - [**LLaMA-Omni**](https://github.com/ictnlp/LLaMA-Omni) - ictnlp ![Star](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni.svg?style=social&label=Star)
 
 	 *Low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct.*
@@ -91,7 +96,8 @@
 
 	 *Two-stage progressive neural network for acoustic echo cancellation*
 
-## End of Speech 
+## Duplex
+- [[2409.11727] Enabling Real-Time Conversations with Minimal Training Costs](https://arxiv.org/abs/2409.11727)
 - **Language Model Can Listen While Speaking**, `arXiv, 2408.02622`, [arxiv](http://arxiv.org/abs/2408.02622v1), [pdf](http://arxiv.org/pdf/2408.02622v1.pdf), cication: [**-1**](None)
 
 	 *Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen* · ([LSLM-Listening-while-Speaking-Language-Model](https://github.com/sanowl/LSLM-Listening-while-Speaking-Language-Model) - sanowl) ![Star](https://img.shields.io/github/stars/sanowl/LSLM-Listening-while-Speaking-Language-Model.svg?style=social&label=Star) · ([fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec#vq-wav2vec) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
@@ -99,6 +105,7 @@
   Models**, `arXiv, 2406.15718`, [arxiv](http://arxiv.org/abs/2406.15718v1), [pdf](http://arxiv.org/pdf/2406.15718v1.pdf), cication: [**-1**](None)
 
 	 *Xinrong Zhang, Yingfa Chen, Shengding Hu, Xu Han, Zihang Xu, Yuanwei Xu, Weilin Zhao, Maosong Sun, Zhiyuan Liu*
+- [[2405.13203] Modeling Real-Time Interactive Conversations as Timed Diarized Transcripts](https://arxiv.org/abs/2405.13203)
 - **A Full-duplex Speech Dialogue Scheme Based On Large Language Models**, `arXiv, 2405.19487`, [arxiv](http://arxiv.org/abs/2405.19487v1), [pdf](http://arxiv.org/pdf/2405.19487v1.pdf), cication: [**-1**](None)
 
 	 *Peng Wang, Songshuo Lu, Yaohua Tang, Sijie Yan, Yuanjun Xiong, Wei Xia*
@@ -112,6 +119,7 @@
 
 
 ## Tutorials
+- [Spoken LLM (v11).pdf - Google Drive](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view)
 - [Moshi (@kyutai_labs) is an unpolished e2e *full-duplex* model](https://x.com/JulianSlzr/status/1810303916686577858)
 - [SNAC with flattening & reconstruction - YouTube](https://www.youtube.com/watch?v=NwZufAJxmMA&ab_channel=DemocratizingAI)
 
@@ -144,6 +152,7 @@
 
 	 *Junyi Ao, Yuancheng Wang, Xiaohai Tian, Dekun Chen, Jun Zhang, Lu Lu, Yuxuan Wang, Haizhou Li, Zhizheng Wu* · ([SD-Eval](https://github.com/amphionspace/SD-Eval) - amphionspace) ![Star](https://img.shields.io/github/stars/amphionspace/SD-Eval.svg?style=social&label=Star)
 ## Products
+- [Bland.ai](https://x.com/usebland/status/1838690781470822456)
 - [LiveKit · GitHub](https://github.com/livekit)
 - [Introducing Empathic Voice Interface 2 (EVI 2)](https://x.com/hume_ai/status/1833906262351974483)
 - [Sindarin — Build your own Conversational Speech AI.](https://www.sindarin.tech/)

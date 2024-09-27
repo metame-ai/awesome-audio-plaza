@@ -7,6 +7,7 @@
   - [Toolkits](#toolkits)
 
 ## Papers
+- [[2409.08597] LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation](https://arxiv.org/abs/2409.08597)
 - [Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition](https://team.doubao.com/zh/publication/seed-asr-understanding-diverse-speech-and-contexts-with-llm-based-speech-recognition?view_from=research)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-08-22-8))

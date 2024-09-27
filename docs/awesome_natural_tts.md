@@ -199,6 +199,7 @@
     - [PromptTTS: controllable text-to-speech with text descriptions - Speech Research](https://speechresearch.github.io/prompttts/#promptspeech)
 
 ## Efficient TTS
+- [[2409.11003] Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation](https://arxiv.org/abs/2409.11003)
 - **SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar
   Latent Transformer Diffusion Models**, `arXiv, 2406.02328`, [arxiv](http://arxiv.org/abs/2406.02328v2), [pdf](http://arxiv.org/pdf/2406.02328v2.pdf), cication: [**-1**](None)
 
