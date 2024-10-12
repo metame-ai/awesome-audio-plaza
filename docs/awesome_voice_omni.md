@@ -4,7 +4,27 @@
 
 	 *open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.*
 
+## Survey
+- **Recent Advances in Speech Language Models: A Survey**, `arXiv, 2410.03751`, [arxiv](http://arxiv.org/abs/2410.03751v1), [pdf](http://arxiv.org/pdf/2410.03751v1.pdf), cication: [**-1**](None)
+
+	 *Wenqian Cui, Dianzhi Yu, Xiaoqi Jiao, Ziqiao Meng, Guangyan Zhang, Qichao Wang, Yiwen Guo, Irwin King*
+
 ## Papers
+- **IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice
+  Interaction Abilities**, `arXiv, 2410.08035`, [arxiv](http://arxiv.org/abs/2410.08035v1), [pdf](http://arxiv.org/pdf/2410.08035v1.pdf), cication: [**-1**](None)
+
+	 *Xin Zhang, Xiang Lyu, Zhihao Du, Qian Chen, Dong Zhang, Hangrui Hu, Chaohong Tan, Tianyu Zhao, Yuxuan Wang, Bin Zhang*
+- **Distilling an End-to-End Voice Assistant Without Instruction Training
+  Data**, `arXiv, 2410.02678`, [arxiv](http://arxiv.org/abs/2410.02678v1), [pdf](http://arxiv.org/pdf/2410.02678v1.pdf), cication: [**-1**](None)
+
+	 *William Held, Ella Li, Michael Ryan, Weiyan Shi, Yanzhe Zhang, Diyi Yang* · ([levanter](https://github.com/Helw150/levanter/blob/will/distill/src/levanter/models/via.py) - Helw150) ![Star](https://img.shields.io/github/stars/Helw150/levanter.svg?style=social&label=Star)
+- **MIO: A Foundation Model on Multimodal Tokens**, `arXiv, 2409.17692`, [arxiv](http://arxiv.org/abs/2409.17692v1), [pdf](http://arxiv.org/pdf/2409.17692v1.pdf), cication: [**-1**](None)
+
+	 *Zekun Wang, King Zhu, Chunpu Xu, Wangchunshu Zhou, Jiaheng Liu, Yibo Zhang, Jiashuo Wang, Ning Shi, Siyu Li, Yizhi Li*
+- **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid
+  Emotions**, `arXiv, 2409.18042`, [arxiv](http://arxiv.org/abs/2409.18042v1), [pdf](http://arxiv.org/pdf/2409.18042v1.pdf), cication: [**-1**](None)
+
+	 *Kai Chen, Yunhao Gou, Runhui Huang, Zhili Liu, Daxin Tan, Jing Xu, Chunwei Wang, Yi Zhu, Yihan Zeng, Kuo Yang* · ([emova-ollm.github](https://emova-ollm.github.io/))
 - [Tincans - Final Technical Report](https://tincans.ai/report)
 - [**moshi**](https://github.com/kyutai-labs/moshi) - kyutai-labs ![Star](https://img.shields.io/github/stars/kyutai-labs/moshi.svg?style=social&label=Star)
 
@@ -97,7 +117,9 @@
 	 *Two-stage progressive neural network for acoustic echo cancellation*
 
 ## Duplex
-- [[2409.11727] Enabling Real-Time Conversations with Minimal Training Costs](https://arxiv.org/abs/2409.11727)
+- **Enabling Real-Time Conversations with Minimal Training Costs**, `arXiv, 2409.11727`, [arxiv](http://arxiv.org/abs/2409.11727v1), [pdf](http://arxiv.org/pdf/2409.11727v1.pdf), cication: [**-1**](None)
+
+	 *Wang Xu, Shuo Wang, Weilin Zhao, Xu Han, Yukun Yan, Yudi Zhang, Zhe Tao, Zhiyuan Liu, Wanxiang Che*
 - **Language Model Can Listen While Speaking**, `arXiv, 2408.02622`, [arxiv](http://arxiv.org/abs/2408.02622v1), [pdf](http://arxiv.org/pdf/2408.02622v1.pdf), cication: [**-1**](None)
 
 	 *Ziyang Ma, Yakun Song, Chenpeng Du, Jian Cong, Zhuo Chen, Yuping Wang, Yuxuan Wang, Xie Chen* · ([LSLM-Listening-while-Speaking-Language-Model](https://github.com/sanowl/LSLM-Listening-while-Speaking-Language-Model) - sanowl) ![Star](https://img.shields.io/github/stars/sanowl/LSLM-Listening-while-Speaking-Language-Model.svg?style=social&label=Star) · ([fairseq](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec#vq-wav2vec) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
@@ -105,7 +127,10 @@
   Models**, `arXiv, 2406.15718`, [arxiv](http://arxiv.org/abs/2406.15718v1), [pdf](http://arxiv.org/pdf/2406.15718v1.pdf), cication: [**-1**](None)
 
 	 *Xinrong Zhang, Yingfa Chen, Shengding Hu, Xu Han, Zihang Xu, Yuanwei Xu, Weilin Zhao, Maosong Sun, Zhiyuan Liu*
-- [[2405.13203] Modeling Real-Time Interactive Conversations as Timed Diarized Transcripts](https://arxiv.org/abs/2405.13203)
+- **Modeling Real-Time Interactive Conversations as Timed Diarized
+  Transcripts**, `arXiv, 2405.13203`, [arxiv](http://arxiv.org/abs/2405.13203v1), [pdf](http://arxiv.org/pdf/2405.13203v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=5955306685867710628&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Garrett Tanzer, Gustaf Ahdritz, Luke Melas-Kyriazi*
 - **A Full-duplex Speech Dialogue Scheme Based On Large Language Models**, `arXiv, 2405.19487`, [arxiv](http://arxiv.org/abs/2405.19487v1), [pdf](http://arxiv.org/pdf/2405.19487v1.pdf), cication: [**-1**](None)
 
 	 *Peng Wang, Songshuo Lu, Yaohua Tang, Sijie Yan, Yuanjun Xiong, Wei Xia*

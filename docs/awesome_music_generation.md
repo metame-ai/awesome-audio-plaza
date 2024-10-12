@@ -9,10 +9,19 @@
 	- [Extra reference](#extra-reference)
 
 ## Papers
-- [2405.15863](https://arxiv.org/pdf/2405.15863)
+- **Presto! Distilling Steps and Layers for Accelerating Music Generation**, `arXiv, 2410.05167`, [arxiv](http://arxiv.org/abs/2410.05167v1), [pdf](http://arxiv.org/pdf/2410.05167v1.pdf), cication: [**-1**](None)
+
+	 *Zachary Novack, Ge Zhu, Jonah Casebeer, Julian McAuley, Taylor Berg-Kirkpatrick, Nicholas J. Bryan*
+- **QA-MDT: Quality-aware Masked Diffusion Transformer for Enhanced Music
+  Generation**, `arXiv, 2405.15863`, [arxiv](http://arxiv.org/abs/2405.15863v2), [pdf](http://arxiv.org/pdf/2405.15863v2.pdf), cication: [**-1**](None)
+
+	 *Chang Li, Ruoyu Wang, Lijuan Liu, Jun Du, Yixuan Sun, Zilu Guo, Zhenrong Zhang, Yuan Jiang*
 
 	 · ([huggingface](https://huggingface.co/jadechoghari/openmusic))
-- [[2409.09214] Seed-Music: A Unified Framework for High Quality and Controlled Music Generation](https://arxiv.org/abs/2409.09214)
+- **Seed-Music: A Unified Framework for High Quality and Controlled Music
+  Generation**, `arXiv, 2409.09214`, [arxiv](http://arxiv.org/abs/2409.09214v3), [pdf](http://arxiv.org/pdf/2409.09214v3.pdf), cication: [**-1**](None)
+
+	 *Ye Bai, Haonan Chen, Jitong Chen, Zhuo Chen, Yi Deng, Xiaohong Dong, Lamtharn Hantrakul, Weituo Hao, Qingqing Huang, Zhongyi Huang*
 
 	 · ([team.doubao](https://team.doubao.com/seed-music))
 - **VMAS: Video-to-Music Generation via Semantic Alignment in Web Music

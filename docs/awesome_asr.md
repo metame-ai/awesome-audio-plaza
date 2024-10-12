@@ -7,7 +7,13 @@
   - [Toolkits](#toolkits)
 
 ## Papers
-- [[2409.08597] LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented Generation](https://arxiv.org/abs/2409.08597)
+- [Reverb Open-Source ASR and Diarization Models | Rev](https://www.rev.com/blog/speech-to-text-technology/introducing-reverb-open-source-asr-diarization)
+
+	 · ([reverb](https://github.com/revdotcom/reverb?tab=readme-ov-file) - revdotcom) ![Star](https://img.shields.io/github/stars/revdotcom/reverb.svg?style=social&label=Star)
+- **LA-RAG:Enhancing LLM-based ASR Accuracy with Retrieval-Augmented
+  Generation**, `arXiv, 2409.08597`, [arxiv](http://arxiv.org/abs/2409.08597v1), [pdf](http://arxiv.org/pdf/2409.08597v1.pdf), cication: [**-1**](None)
+
+	 *Shaojun Li, Hengchao Shang, Daimeng Wei, Jiaxin Guo, Zongyao Li, Xianghui He, Min Zhang, Hao Yang*
 - [Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition](https://team.doubao.com/zh/publication/seed-asr-understanding-diverse-speech-and-contexts-with-llm-based-speech-recognition?view_from=research)
 
 	 · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-08-22-8))
@@ -53,11 +59,19 @@
 	 *Zengwei Yao, Liyong Guo, Xiaoyu Yang, Wei Kang, Fangjun Kuang, Yifan Yang, Zengrui Jin, Long Lin, Daniel Povey* · ([jiqizhixin](https://www.jiqizhixin.com/articles/2024-01-25-11))
 
 ## Models
+- [**canary-1b**](https://huggingface.co/nvidia/canary-1b) - nvidia 🤗
 - [**parakeet-tdt-1.1b**](https://huggingface.co/nvidia/parakeet-tdt-1.1b) - nvidia 🤗
 - [**open_asr_leaderboard**](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard) - hf-audio 🤗
 - [**parakeet-ctc-0.6b**](https://huggingface.co/nvidia/parakeet-ctc-0.6b) - nvidia 🤗
 
 ## Whisper
+- [**WhisperKit**](https://github.com/argmaxinc/WhisperKit) - argmaxinc ![Star](https://img.shields.io/github/stars/argmaxinc/WhisperKit.svg?style=social&label=Star)
+
+	 *On-device Speech Recognition for Apple Silicon* · ([huggingface](https://huggingface.co/argmaxinc/whisperkit-coreml))
+- [**Youtube-Whisper**](https://github.com/danilotpnta/Youtube-Whisper) - danilotpnta ![Star](https://img.shields.io/github/stars/danilotpnta/Youtube-Whisper.svg?style=social&label=Star)
+
+	 *A Gradio app that transcribes YouTube videos using audio extraction and OpenAI’s Whisper model.*
+- [**whisper-large-v3-turbo**](https://huggingface.co/openai/whisper-large-v3-turbo) - openai 🤗
 - [Fine-Tune Whisper For Multilingual ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-whisper)
 - [**whisper-medusa**](https://github.com/aiola-lab/whisper-medusa) - aiola-lab ![Star](https://img.shields.io/github/stars/aiola-lab/whisper-medusa.svg?style=social&label=Star)
 
@@ -107,6 +121,7 @@
 - [**ratchet-whisper**](https://huggingface.co/spaces/FL33TW00D-HF/ratchet-whisper) - FL33TW00D-HF 🤗
 
 ## Toolkits
+- [Accelerating Leaderboard-Topping ASR Models 10x with NVIDIA NeMo | NVIDIA Technical Blog](https://developer.nvidia.com/blog/accelerating-leaderboard-topping-asr-models-10x-with-nvidia-nemo/)
 - [**aTrain**](https://github.com/JuergenFleiss/aTrain) - JuergenFleiss ![Star](https://img.shields.io/github/stars/JuergenFleiss/aTrain.svg?style=social&label=Star)
 
 	 *A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.*

@@ -11,6 +11,9 @@
   - [Audio Techs](#audio-techs)
 
 ## Detection
+- **SONAR: A Synthetic AI-Audio Detection Framework and Benchmark**, `arXiv, 2410.04324`, [arxiv](http://arxiv.org/abs/2410.04324v3), [pdf](http://arxiv.org/pdf/2410.04324v3.pdf), cication: [**-1**](None)
+
+	 *Xiang Li, Pin-Yu Chen, Wenqi Wei* · ([SONAR](https://github.com/Jessegator/SONAR) - Jessegator) ![Star](https://img.shields.io/github/stars/Jessegator/SONAR.svg?style=social&label=Star)
 - **FakeSound: Deepfake General Audio Detection**, `arXiv, 2406.08052`, [arxiv](http://arxiv.org/abs/2406.08052v1), [pdf](http://arxiv.org/pdf/2406.08052v1.pdf), cication: [**-1**](None)
 
 	 *Zeyu Xie, Baihan Li, Xuenan Xu, Zheng Liang, Kai Yu, Mengyue Wu* · ([fakesounddata.github](https://fakesounddata.github.io/))
@@ -70,8 +73,13 @@
 - [**fairseq**](https://github.com/facebookresearch/fairseq/tree/ust/examples/hokkien) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/fairseq.svg?style=social&label=Star)
 
 ## Toolkits
+- [**awesome-denoiser**](https://github.com/xinliu9451/awesome-denoiser) - xinliu9451 ![Star](https://img.shields.io/github/stars/xinliu9451/awesome-denoiser.svg?style=social&label=Star)
+
+	 *This is a repository that collects common audio noise reduction models, using Gradio to demonstrate the use of each model, which is very friendly for beginners.*
 - [**LiveKit-AI-Voice-Assitant**](https://github.com/techwithtim/LiveKit-AI-Voice-Assitant) - techwithtim ![Star](https://img.shields.io/github/stars/techwithtim/LiveKit-AI-Voice-Assitant.svg?style=social&label=Star)
-- [[2409.07704] Super Monotonic Alignment Search](https://arxiv.org/abs/2409.07704)
+- **Super Monotonic Alignment Search**, `arXiv, 2409.07704`, [arxiv](http://arxiv.org/abs/2409.07704v1), [pdf](http://arxiv.org/pdf/2409.07704v1.pdf), cication: [**-1**](None)
+
+	 *Junhyeok Lee, Hyeongju Kim*
 
 	 · ([super-monotonic-align](https://github.com/supertone-inc/super-monotonic-align) - supertone-inc) ![Star](https://img.shields.io/github/stars/supertone-inc/super-monotonic-align.svg?style=social&label=Star)
 - [LiveKit · GitHub](https://github.com/livekit)
@@ -176,6 +184,10 @@
 
 	 *Ye-Xin Lu, Yang Ai, Zhen-Hua Ling* · ([MP-SENet](https://github.com/yxlu-0102/MP-SENet) - yxlu-0102) ![Star](https://img.shields.io/github/stars/yxlu-0102/MP-SENet.svg?style=social&label=Star)
 ## Dataset
+- **MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation
+  Model Training on EU Languages**, `arXiv, 2410.01036`, [arxiv](http://arxiv.org/abs/2410.01036v1), [pdf](http://arxiv.org/pdf/2410.01036v1.pdf), cication: [**-1**](None)
+
+	 *Marco Gaido, Sara Papi, Luisa Bentivogli, Alessio Brutti, Mauro Cettolo, Roberto Gretter, Marco Matassoni, Mohamed Nabih, Matteo Negri* · ([mosel](https://github.com/hlt-mt/mosel) - hlt-mt) ![Star](https://img.shields.io/github/stars/hlt-mt/mosel.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/datasets/FBK-MT/mosel))
 - **SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural
   Language Description**, `arXiv, 2408.13608`, [arxiv](http://arxiv.org/abs/2408.13608v1), [pdf](http://arxiv.org/pdf/2408.13608v1.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=2464243547952350028&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
@@ -270,7 +282,12 @@
 	 *Evelina Bakhturina, Vitaly Lavrukhin, Boris Ginsburg, Yang Zhang* · ([openslr](https://www.openslr.org/109/))
 
 ## Audio Techs
-- [[2409.08514] Apollo: Band-sequence Modeling for High-Quality Audio Restoration](https://arxiv.org/abs/2409.08514)
+- [**voicerestore**](https://github.com/skirdey/voicerestore) - skirdey ![Star](https://img.shields.io/github/stars/skirdey/voicerestore.svg?style=social&label=Star)
+
+	 *VoiceRestore: Flow-Matching Transformers for Universal Speech Restoration* · ([huggingface](https://huggingface.co/spaces/jadechoghari/VoiceRestore))
+- **Apollo: Band-sequence Modeling for High-Quality Audio Restoration**, `arXiv, 2409.08514`, [arxiv](http://arxiv.org/abs/2409.08514v1), [pdf](http://arxiv.org/pdf/2409.08514v1.pdf), cication: [**-1**](None)
+
+	 *Kai Li, Yi Luo*
 
 	 · ([cslikai](https://cslikai.cn/Apollo/))
 - **The VoxCeleb Speaker Recognition Challenge: A Retrospective**, `arXiv, 2408.14886`, [arxiv](http://arxiv.org/abs/2408.14886v1), [pdf](http://arxiv.org/pdf/2408.14886v1.pdf), cication: [**-1**](None)
@@ -348,7 +365,10 @@
 	 *Siyuan Shen, Yu Gao, Feng Liu, Hanyang Wang, Aimin Zhou* · ([ENT](https://github.com/ECNU-Cross-Innovation-Lab/ENT) - ECNU-Cross-Innovation-Lab) ![Star](https://img.shields.io/github/stars/ECNU-Cross-Innovation-Lab/ENT.svg?style=social&label=Star)
 
 ## Speech Separation
-- [[2409.08425] SoloAudio: Target Sound Extraction with Language-oriented Audio Diffusion Transformer](https://arxiv.org/abs/2409.08425)
+- **SoloAudio: Target Sound Extraction with Language-oriented Audio
+  Diffusion Transformer**, `arXiv, 2409.08425`, [arxiv](http://arxiv.org/abs/2409.08425v1), [pdf](http://arxiv.org/pdf/2409.08425v1.pdf), cication: [**-1**](None)
+
+	 *Helin Wang, Jiarui Hai, Yen-Ju Lu, Karan Thakkar, Mounya Elhilali, Najim Dehak*
 
 	 · ([SoloAudio](https://github.com/WangHelin1997/SoloAudio) - WangHelin1997) ![Star](https://img.shields.io/github/stars/WangHelin1997/SoloAudio.svg?style=social&label=Star) · ([wanghelin1997.github](https://wanghelin1997.github.io/SoloAudio-Demo/))
 - **Facing the Music: Tackling Singing Voice Separation in Cinematic Audio

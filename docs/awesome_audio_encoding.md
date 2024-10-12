@@ -4,11 +4,33 @@
   - [Papers and Projects](#papers-and-projects)
   - [References](#references)
 
-## Papers and Projects
-- [[2409.12717] NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization](https://arxiv.org/abs/2409.12717)
-- [[2409.11630] Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation](https://arxiv.org/abs/2409.11630)
-- [[2409.12117] Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference](https://arxiv.org/abs/2409.12117)
-- [2409.11228](https://arxiv.org/pdf/2409.11228)
+## Papers and Projects 
+- **Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for
+  Neural Codec Language Models**, `arXiv, 2409.19283`, [arxiv](http://arxiv.org/abs/2409.19283v2), [pdf](http://arxiv.org/pdf/2409.19283v2.pdf), cication: [**-1**](None)
+
+	 *Wenrui Liu, Zhifang Guo, Jin Xu, Yuanjun Lv, Yunfei Chu, Zhou Zhao, Junyang Lin* · ([consistencyinneuralcodec.github](https://consistencyinneuralcodec.github.io/))
+- **ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for
+  Audio, Music, and Speech**, `arXiv, 2409.15897`, [arxiv](http://arxiv.org/abs/2409.15897v1), [pdf](http://arxiv.org/pdf/2409.15897v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=17046891627356359494&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Jiatong Shi, Jinchuan Tian, Yihan Wu, Jee-weon Jung, Jia Qi Yip, Yoshiki Masuyama, William Chen, Yuning Wu, Yuxun Tang, Massa Baali*
+- **MuCodec: Ultra Low-Bitrate Music Codec**, `arXiv, 2409.13216`, [arxiv](http://arxiv.org/abs/2409.13216v2), [pdf](http://arxiv.org/pdf/2409.13216v2.pdf), cication: [**-1**](None)
+
+	 *Yaoxun Xu, Hangting Chen, Jianwei Yu, Wei Tan, Rongzhi Gu, Shun Lei, Zhiwei Lin, Zhiyong Wu* · ([xuyaoxun.github](https://xuyaoxun.github.io/MuCodec_demo/))
+- **NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector
+  Quantization**, `arXiv, 2409.12717`, [arxiv](http://arxiv.org/abs/2409.12717v1), [pdf](http://arxiv.org/pdf/2409.12717v1.pdf), cication: [**-1**](None)
+
+	 *Zhikang Niu, Sanyuan Chen, Long Zhou, Ziyang Ma, Xie Chen, Shujie Liu*
+- **Speaking from Coarse to Fine: Improving Neural Codec Language Model via
+  Multi-Scale Speech Coding and Generation**, `arXiv, 2409.11630`, [arxiv](http://arxiv.org/abs/2409.11630v1), [pdf](http://arxiv.org/pdf/2409.11630v1.pdf), cication: [**-1**](None)
+
+	 *Haohan Guo, Fenglong Xie, Dongchao Yang, Xixin Wu, Helen Meng*
+- **Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality
+  Speech LLM Training and Inference**, `arXiv, 2409.12117`, [arxiv](http://arxiv.org/abs/2409.12117v1), [pdf](http://arxiv.org/pdf/2409.12117v1.pdf), cication: [**-1**](None)
+
+	 *Edresson Casanova, Ryan Langman, Paarth Neekhara, Shehzeen Hussain, Jason Li, Subhankar Ghosh, Ante Jukić, Sang-gil Lee*
+- **Learning Source Disentanglement in Neural Audio Codec**, `arXiv, 2409.11228`, [arxiv](http://arxiv.org/abs/2409.11228v1), [pdf](http://arxiv.org/pdf/2409.11228v1.pdf), cication: [**-1**](None)
+
+	 *Xiaoyu Bie, Xubo Liu, Gaël Richard*
 - **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio
   Language Modeling**, `arXiv, 2408.16532`, [arxiv](http://arxiv.org/abs/2408.16532v1), [pdf](http://arxiv.org/pdf/2408.16532v1.pdf), cication: [**-1**](None)
 

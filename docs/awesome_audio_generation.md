@@ -9,7 +9,9 @@
   - [Other](#other)
 
 ## Survey
-- [[2409.09601] A Survey of Foundation Models for Music Understanding](https://arxiv.org/abs/2409.09601)
+- **A Survey of Foundation Models for Music Understanding**, `arXiv, 2409.09601`, [arxiv](http://arxiv.org/abs/2409.09601v1), [pdf](http://arxiv.org/pdf/2409.09601v1.pdf), cication: [**-1**](None)
+
+	 *Wenjun Li, Ying Cai, Ziyang Wu, Wenyi Zhang, Yifan Chen, Rundong Qi, Mengqi Dong, Peigen Chen, Xiao Dong, Fenghao Shi*
 - **A Survey of Deep Learning Audio Generation Methods**, `arXiv, 2406.00146`, [arxiv](http://arxiv.org/abs/2406.00146v1), [pdf](http://arxiv.org/pdf/2406.00146v1.pdf), cication: [**-1**](None)
 
 	 *Matej Božić, Marko Horvat*
@@ -19,8 +21,15 @@
 	 *Haibin Wu, Xuanjun Chen, Yi-Cheng Lin, Kai-wei Chang, Ho-Lam Chung, Alexander H. Liu, Hung-yi Lee*
 
 ## Audio Generation
+- **UniMuMo: Unified Text, Music and Motion Generation**, `arXiv, 2410.04534`, [arxiv](http://arxiv.org/abs/2410.04534v1), [pdf](http://arxiv.org/pdf/2410.04534v1.pdf), cication: [**-1**](None)
+
+	 *Han Yang, Kun Su, Yutong Zhang, Jiaben Chen, Kaizhi Qian, Gaowen Liu, Chuang Gan* · ([hanyangclarence.github](https://hanyangclarence.github.io/unimumo_demo/)) · ([UniMuMo](https://github.com/hanyangclarence/UniMuMo) - hanyangclarence) ![Star](https://img.shields.io/github/stars/hanyangclarence/UniMuMo.svg?style=social&label=Star)
+- [Notes on the Movie Gen Audio Model by @AIatMeta](https://x.com/reach_vb/status/1842196182677811553)
 - [**AudioEditor**](https://github.com/NKU-HLT/AudioEditor?tab=readme-ov-file) - NKU-HLT ![Star](https://img.shields.io/github/stars/NKU-HLT/AudioEditor.svg?style=social&label=Star)
-- [[2409.10819] EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion Transformer](https://arxiv.org/abs/2409.10819)
+- **EzAudio: Enhancing Text-to-Audio Generation with Efficient Diffusion
+  Transformer**, `arXiv, 2409.10819`, [arxiv](http://arxiv.org/abs/2409.10819v1), [pdf](http://arxiv.org/pdf/2409.10819v1.pdf), cication: [**-1**](None)
+
+	 *Jiarui Hai, Yong Xu, Hao Zhang, Chenxing Li, Helin Wang, Mounya Elhilali, Dong Yu*
 
 	 · ([haidog-yaqub.github](https://haidog-yaqub.github.io/EzAudio-Page/)) · ([EzAudio](https://github.com/haidog-yaqub/EzAudio) - haidog-yaqub) ![Star](https://img.shields.io/github/stars/haidog-yaqub/EzAudio.svg?style=social&label=Star)
 - **Draw an Audio: Leveraging Multi-Instruction for Video-to-Audio Synthesis**, `arXiv, 2409.06135`, [arxiv](http://arxiv.org/abs/2409.06135v1), [pdf](http://arxiv.org/pdf/2409.06135v1.pdf), cication: [**-1**](None)
@@ -196,6 +205,9 @@
     - [GitHub - lucidrains/audiolm-pytorch: Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch](https://github.com/lucidrains/audiolm-pytorch)
 
 ## Speech Generation
+- **Self-Supervised Audio-Visual Soundscape Stylization**, `arXiv, 2409.14340`, [arxiv](http://arxiv.org/abs/2409.14340v1), [pdf](http://arxiv.org/pdf/2409.14340v1.pdf), cication: [**-1**](None)
+
+	 *Tingle Li, Renhao Wang, Po-Yao Huang, Andrew Owens, Gopala Anumanchipalli* · ([avsoundscape](https://github.com/Tinglok/avsoundscape) - Tinglok) ![Star](https://img.shields.io/github/stars/Tinglok/avsoundscape.svg?style=social&label=Star) · ([tinglok.netlify](https://tinglok.netlify.app/files/avsoundscape/))
 - **VoxInstruct: Expressive Human Instruction-to-Speech Generation with
   Unified Multilingual Codec Language Modelling**, `arXiv, 2408.15676`, [arxiv](http://arxiv.org/abs/2408.15676v1), [pdf](http://arxiv.org/pdf/2408.15676v1.pdf), cication: [**-1**](None)
 
@@ -271,7 +283,9 @@
 	 *🔊 Text-Prompted Generative Audio Model*
 
 ## Audio Understanding 
-- [[2409.09401] Towards Diverse and Efficient Audio Captioning via Diffusion Models](https://arxiv.org/abs/2409.09401)
+- **Towards Diverse and Efficient Audio Captioning via Diffusion Models**, `arXiv, 2409.09401`, [arxiv](http://arxiv.org/abs/2409.09401v1), [pdf](http://arxiv.org/pdf/2409.09401v1.pdf), cication: [**-1**](None)
+
+	 *Manjie Xu, Chenxing Li, Xinyi Tu, Yong Ren, Ruibo Fu, Wei Liang, Dong Yu*
 - **WHISMA: A Speech-LLM to Perform Zero-shot Spoken Language Understanding**, `arXiv, 2408.16423`, [arxiv](http://arxiv.org/abs/2408.16423v1), [pdf](http://arxiv.org/pdf/2408.16423v1.pdf), cication: [**-1**](None)
 
 	 *Mohan Li, Cong-Thanh Do, Simon Keizer, Youmna Farag, Svetlana Stoyanchev, Rama Doddipatla*

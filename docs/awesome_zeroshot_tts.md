@@ -5,14 +5,34 @@
   - [References](#references)
 
 ## Gallery
-- [2404.05600](https://arxiv.org/pdf/2404.05600)
-- [[2409.12139] Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models](https://arxiv.org/abs/2409.12139)
+- **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow
+  Matching**, `arXiv, 2410.06885`, [arxiv](http://arxiv.org/abs/2410.06885v1), [pdf](http://arxiv.org/pdf/2410.06885v1.pdf), cication: [**-1**](None)
+
+	 *Yushen Chen, Zhikang Niu, Ziyang Ma, Keqi Deng, Chunhui Wang, Jian Zhao, Kai Yu, Xie Chen* · ([swivid.github](https://swivid.github.io/F5-TTS)) · ([F5-TTS](https://github.com/SWivid/F5-TTS?tab=readme-ov-file) - SWivid) ![Star](https://img.shields.io/github/stars/SWivid/F5-TTS.svg?style=social&label=Star)
+- **HALL-E: Hierarchical Neural Codec Language Model for Minute-Long
+  Zero-Shot Text-to-Speech Synthesis**, `arXiv, 2410.04380`, [arxiv](http://arxiv.org/abs/2410.04380v1), [pdf](http://arxiv.org/pdf/2410.04380v1.pdf), cication: [**-1**](None)
+
+	 *Yuto Nishimura, Takumi Hirose, Masanari Ohi, Hideki Nakayama, Nakamasa Inoue* · ([yutonishimura-v2.github](https://yutonishimura-v2.github.io/HALL-E_DEMO/))
+- **Zero-shot Cross-lingual Voice Transfer for TTS**, `arXiv, 2409.13910`, [arxiv](http://arxiv.org/abs/2409.13910v1), [pdf](http://arxiv.org/pdf/2409.13910v1.pdf), cication: [**-1**](None)
+
+	 *Fadi Biadsy, Youzheng Chen, Isaac Elias, Kyle Kastner, Gary Wang, Andrew Rosenberg, Bhuvana Ramabhadran* · ([google.github](http://google.github.io/tacotron/publications/zero_shot_voice_transfer))
+- **SpeechAlign: Aligning Speech Generation to Human Preferences**, `arXiv, 2404.05600`, [arxiv](http://arxiv.org/abs/2404.05600v1), [pdf](http://arxiv.org/pdf/2404.05600v1.pdf), cication: [**9**](https://scholar.google.com/scholar?cites=16097866084001723851&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Dong Zhang, Zhaowei Li, Shimin Li, Xin Zhang, Pengyu Wang, Yaqian Zhou, Xipeng Qiu*
+- **Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**, `arXiv, 2409.12139`, [arxiv](http://arxiv.org/abs/2409.12139v3), [pdf](http://arxiv.org/pdf/2409.12139v3.pdf), cication: [**-1**](None)
+
+	 *Sijing Chen, Yuan Feng, Laipeng He, Tianwei He, Wendi He, Yanni Hu, Bin Lin, Yiting Lin, Yu Pan, Pengfei Tan*
 
 	 · ([takinaudiollm.github](https://takinaudiollm.github.io/))
-- [[2409.09351] E1 TTS: Simple and Fast Non-Autoregressive TTS](https://arxiv.org/abs/2409.09351)
+- **E1 TTS: Simple and Fast Non-Autoregressive TTS**, `arXiv, 2409.09351`, [arxiv](http://arxiv.org/abs/2409.09351v1), [pdf](http://arxiv.org/pdf/2409.09351v1.pdf), cication: [**-1**](None)
+
+	 *Zhijun Liu, Shuai Wang, Pengcheng Zhu, Mengxiao Bi, Haizhou Li*
 
 	 · ([e1tts.github](https://e1tts.github.io/)) · ([e1tts.github.io](https://github.com/e1tts/e1tts.github.io/) - e1tts) ![Star](https://img.shields.io/github/stars/e1tts/e1tts.github.io.svg?style=social&label=Star)
-- [[2409.10058] StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion](https://arxiv.org/abs/2409.10058)
+- **StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis
+  with Distilled Time-Varying Style Diffusion**, `arXiv, 2409.10058`, [arxiv](http://arxiv.org/abs/2409.10058v1), [pdf](http://arxiv.org/pdf/2409.10058v1.pdf), cication: [**-1**](None)
+
+	 *Yinghao Aaron Li, Xilin Jiang, Cong Han, Nima Mesgarani*
 
 	 · ([StyleTTS-ZS](https://github.com/yl4579/StyleTTS-ZS) - yl4579) ![Star](https://img.shields.io/github/stars/yl4579/StyleTTS-ZS.svg?style=social&label=Star) · ([styletts-zs.github](https://styletts-zs.github.io/))
 - **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec

@@ -31,6 +31,13 @@
 	 *Yicheng Gu, Xueyao Zhang, Liumeng Xue, Zhizheng Wu* · ([Amphion](https://github.com/open-mmlab/Amphion/blob/main/models/vocoders/gan/discriminator/mssbcqtd.py) - open-mmlab) ![Star](https://img.shields.io/github/stars/open-mmlab/Amphion.svg?style=social&label=Star) · ([vocodexelysium.github](https://vocodexelysium.github.io/MS-SB-CQTD/))
 
 ## Emotional TTS
+- **EmoPro: A Prompt Selection Strategy for Emotional Expression in LM-based
+  Speech Synthesis**, `arXiv, 2409.18512`, [arxiv](http://arxiv.org/abs/2409.18512v1), [pdf](http://arxiv.org/pdf/2409.18512v1.pdf), cication: [**-1**](None)
+
+	 *Haoyu Wang, Chunyu Qiang, Tianrui Wang, Cheng Gong, Qiuyu Liu, Yu Jiang, Xiaobao Wang, Chenyang Wang, Chen Zhang* · ([whyrrrrun.github](https://whyrrrrun.github.io/EmoPro/))
+- **EmoKnob: Enhance Voice Cloning with Fine-Grained Emotion Control**, `arXiv, 2410.00316`, [arxiv](http://arxiv.org/abs/2410.00316v1), [pdf](http://arxiv.org/pdf/2410.00316v1.pdf), cication: [**-1**](None)
+
+	 *Haozhe Chen, Run Chen, Julia Hirschberg* · ([huggingface](https://huggingface.co/spaces/tonychenxyz/emo-knob))
 - **EmoSphere-TTS: Emotional Style and Intensity Modeling via Spherical
   Emotion Vector for Controllable Emotional Text-to-Speech**, `arXiv, 2406.07803`, [arxiv](http://arxiv.org/abs/2406.07803v1), [pdf](http://arxiv.org/pdf/2406.07803v1.pdf), cication: [**-1**](None)
 
@@ -199,7 +206,13 @@
     - [PromptTTS: controllable text-to-speech with text descriptions - Speech Research](https://speechresearch.github.io/prompttts/#promptspeech)
 
 ## Efficient TTS
-- [[2409.11003] Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge Distillation](https://arxiv.org/abs/2409.11003)
+- **Zero-Shot Text-to-Speech from Continuous Text Streams**, `arXiv, 2410.00767`, [arxiv](http://arxiv.org/abs/2410.00767v1), [pdf](http://arxiv.org/pdf/2410.00767v1.pdf), cication: [**-1**](None)
+
+	 *Trung Dang, David Aponte, Dung Tran, Tianyi Chen, Kazuhito Koishida*
+- **Single-stage TTS with Masked Audio Token Modeling and Semantic Knowledge
+  Distillation**, `arXiv, 2409.11003`, [arxiv](http://arxiv.org/abs/2409.11003v1), [pdf](http://arxiv.org/pdf/2409.11003v1.pdf), cication: [**-1**](None)
+
+	 *Gerard I. Gállego, Roy Fejgin, Chunghsin Yeh, Xiaoyu Liu, Gautam Bhattacharya*
 - **SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar
   Latent Transformer Diffusion Models**, `arXiv, 2406.02328`, [arxiv](http://arxiv.org/abs/2406.02328v2), [pdf](http://arxiv.org/pdf/2406.02328v2.pdf), cication: [**-1**](None)
 
@@ -252,6 +265,9 @@
 	 *Atli Thor Sigurgeirsson, Simon King*
 
 ## OpenTTS
+- [**tts-generation-webui**](https://github.com/rsxdalv/tts-generation-webui) - rsxdalv ![Star](https://img.shields.io/github/stars/rsxdalv/tts-generation-webui.svg?style=social&label=Star)
+
+	 *TTS Generation Web UI (Bark, MusicGen + AudioGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, MAGNet, StyleTTS2, MMS)*
 - [**Awesome-ChatTTS**](https://github.com/libukai/Awesome-ChatTTS) - libukai ![Star](https://img.shields.io/github/stars/libukai/Awesome-ChatTTS.svg?style=social&label=Star)
 
 	 *官方推荐的 ChatTTS 最佳入门指南，整理和汇总了常见问题和相关资源*
