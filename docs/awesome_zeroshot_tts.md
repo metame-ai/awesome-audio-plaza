@@ -9,6 +9,8 @@
   Matching**, `arXiv, 2410.06885`, [arxiv](http://arxiv.org/abs/2410.06885v1), [pdf](http://arxiv.org/pdf/2410.06885v1.pdf), cication: [**-1**](None)
 
 	 *Yushen Chen, Zhikang Niu, Ziyang Ma, Keqi Deng, Chunhui Wang, Jian Zhao, Kai Yu, Xie Chen* · ([swivid.github](https://swivid.github.io/F5-TTS)) · ([F5-TTS](https://github.com/SWivid/F5-TTS?tab=readme-ov-file) - SWivid) ![Star](https://img.shields.io/github/stars/SWivid/F5-TTS.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/spaces/mrfakename/E2-F5-TTS))
 - **HALL-E: Hierarchical Neural Codec Language Model for Minute-Long
   Zero-Shot Text-to-Speech Synthesis**, `arXiv, 2410.04380`, [arxiv](http://arxiv.org/abs/2410.04380v1), [pdf](http://arxiv.org/pdf/2410.04380v1.pdf), cication: [**-1**](None)
 
