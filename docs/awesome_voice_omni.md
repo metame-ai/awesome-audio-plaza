@@ -10,6 +10,9 @@
 	 *Wenqian Cui, Dianzhi Yu, Xiaoqi Jiao, Ziqiao Meng, Guangyan Zhang, Qichao Wang, Yiwen Guo, Irwin King*
 
 ## Papers
+- **Baichuan-Omni Technical Report**, `arXiv, 2410.08565`, [arxiv](http://arxiv.org/abs/2410.08565v1), [pdf](http://arxiv.org/pdf/2410.08565v1.pdf), cication: [**-1**](None)
+
+	 *Yadong Li, Haoze Sun, Mingan Lin, Tianpeng Li, Guosheng Dong, Tao Zhang, Bowen Ding, Wei Song, Zhenglin Cheng, Yuqi Huo* · ([bc-omni](https://github.com/westlake-baichuan-mllm/bc-omni) - westlake-baichuan-mllm) ![Star](https://img.shields.io/github/stars/westlake-baichuan-mllm/bc-omni.svg?style=social&label=Star)
 - **IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice
   Interaction Abilities**, `arXiv, 2410.08035`, [arxiv](http://arxiv.org/abs/2410.08035v1), [pdf](http://arxiv.org/pdf/2410.08035v1.pdf), cication: [**-1**](None)
 
@@ -71,6 +74,12 @@
 	 *Eugene Kharitonov, Ann Lee, Adam Polyak, Yossi Adi, Jade Copet, Kushal Lakhotia, Tu-Anh Nguyen, Morgane Rivière, Abdelrahman Mohamed, Emmanuel Dupoux*
 
 ## Projects
+- [🍓 Ichigo: Llama learns to talk - Homebrew](https://homebrew.ltd/blog/llama-learns-to-talk)
+
+	 · ([x](https://x.com/reach_vb/status/1845749495927062861))
+- [**ichigo**](https://github.com/homebrewltd/ichigo?tab=readme-ov-file) - homebrewltd ![Star](https://img.shields.io/github/stars/homebrewltd/ichigo.svg?style=social&label=Star)
+
+	 *Llama3.1 learns to Listen*
 - [**Westlake-Omni**](https://github.com/xinchen-ai/Westlake-Omni) - xinchen-ai ![Star](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg?style=social&label=Star)
 - [**LLaMA-Omni**](https://github.com/ictnlp/LLaMA-Omni) - ictnlp ![Star](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni.svg?style=social&label=Star)
 

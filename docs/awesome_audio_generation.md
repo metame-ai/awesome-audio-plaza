@@ -226,6 +226,8 @@
 - **SpiRit-LM: Interleaved Spoken and Written Language Model**, `arXiv, 2402.05755`, [arxiv](http://arxiv.org/abs/2402.05755v1), [pdf](http://arxiv.org/pdf/2402.05755v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=7368374930715826231&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Tu Anh Nguyen, Benjamin Muller, Bokai Yu, Marta R. Costa-jussa, Maha Elbayad, Sravya Popuri, Paul-Ambroise Duquenne, Robin Algayres, Ruslan Mavlyutov, Itai Gat*
+
+	 · ([spiritlm](https://github.com/facebookresearch/spiritlm) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/spiritlm.svg?style=social&label=Star)
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**, `arXiv, 2402.12226`, [arxiv](http://arxiv.org/abs/2402.12226v3), [pdf](http://arxiv.org/pdf/2402.12226v3.pdf), cication: [**-1**](None)
 
 	 *Jun Zhan, Junqi Dai, Jiasheng Ye, Yunhua Zhou, Dong Zhang, Zhigeng Liu, Xin Zhang, Ruibin Yuan, Ge Zhang, Linyang Li* · ([SpeechGPT](https://github.com/0nutation/SpeechGPT) - 0nutation) ![Star](https://img.shields.io/github/stars/0nutation/SpeechGPT.svg?style=social&label=Star)
@@ -433,4 +435,5 @@
 
 
 ## Product
-- [Fetching Title#nw4u](https://deepmind.google/discover/blog/generating-audio-for-video/)
+- [Fetching Title#8xc0](https://suno.com/blog/introducing-suno-scenes)
+- [Generating audio for video](https://deepmind.google/discover/blog/generating-audio-for-video/)
