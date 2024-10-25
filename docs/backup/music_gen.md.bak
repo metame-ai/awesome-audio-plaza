@@ -18,10 +18,8 @@
 
 ## Video to Music
 
-- **MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic
-  Synchronization**, `arXiv, 2410.12957`, [arxiv](http://arxiv.org/abs/2410.12957v1), [pdf](http://arxiv.org/pdf/2410.12957v1.pdf), cication: [**-1**](None)
-
-	 *Ruiqi Li, Siqi Zheng, Xize Cheng, ..., Shengpeng Ji, Zhou Zhao* · ([muvi-v2m.github](https://muvi-v2m.github.io/))
+- [Paper page - MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic  Synchronization](https://huggingface.co/papers/2410.12957)
+   - [muvi-v2m.github.io](https://muvi-v2m.github.io/)
 
 ## Datasets
 
