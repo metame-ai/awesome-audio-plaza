@@ -8,6 +8,7 @@
   - [Event Detection](#event-detection)
   - [Emotion Recognition](#emotion-recognition)
   - [Audio Separation](#audio-separation)
+  - [Diarization](#diarization)
   - [Tutorials](#tutorials)
   - [Toolkits](#toolkits)
   - [Datasets](#datasets)
@@ -29,12 +30,17 @@
 
 ## Event Detection
 
+- [CLIP-VAD: Exploiting Vision-Language Models for Voice Activity Detection](https://arxiv.org/abs/2410.14509)
 
 ## Emotion Recognition
 
 
 ## Audio Separation
 
+
+## Diarization
+
+- [**DiariZen**](https://github.com/BUTSpeechFIT/DiariZen) - BUTSpeechFIT ![Star](https://img.shields.io/github/stars/BUTSpeechFIT/DiariZen.svg?style=social&label=Star)
 
 ## Tutorials
 
@@ -45,9 +51,9 @@
 
 ## Datasets
 
+- [EmotionCaps: Enhancing Audio Captioning Through Emotion-Augmented Data Generation](https://arxiv.org/abs/2410.12028)
 
 ## Products
 
 
 ## Misc
-

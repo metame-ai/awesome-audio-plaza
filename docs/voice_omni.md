@@ -2,7 +2,9 @@
 
 - [Voice Omni](#voice-omni)
   - [Survey](#survey)
-  - [Voice Omni](#voice-omni)
+  - [Voice Omni](#voice-omni-1)
+  - [Duplex](#duplex)
+  - [Evaluation](#evaluation)
   - [Projects](#projects)
   - [Products](#products)
   - [Datasets](#datasets)
@@ -12,6 +14,7 @@
 
 ## Survey
 
+- [A Survey on Speech Large Language Models](https://arxiv.org/abs/2410.18908)
 
 ## Voice Omni
 
@@ -22,6 +25,22 @@
   Capabilities**, `arXiv, 2410.11190`, [arxiv](http://arxiv.org/abs/2410.11190v2), [pdf](http://arxiv.org/pdf/2410.11190v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14534896134025731094&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhifei Xie, Changqiao Wu* · ([mini-omni2](https://github.com/gpt-omni/mini-omni2) - gpt-omni) ![Star](https://img.shields.io/github/stars/gpt-omni/mini-omni2.svg?style=social&label=Star)
+
+## Duplex
+
+- [OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://arxiv.org/abs/2410.17799)
+
+	 · ([omniflatten.github](https://omniflatten.github.io/))
+- [Beyond Turn-Based Interfaces: Synchronous LLMs as Full-Duplex Dialogue Agents](https://arxiv.org/abs/2409.15594)
+
+	 · ([syncllm.cs.washington](https://syncllm.cs.washington.edu/))
+
+## Evaluation
+
+- [VoiceBench: Benchmarking LLM-Based Voice Assistants](https://arxiv.org/abs/2410.17196)
+
+	 · ([VoiceBench](https://github.com/MatthewCYM/VoiceBench) - MatthewCYM) ![Star](https://img.shields.io/github/stars/MatthewCYM/VoiceBench.svg?style=social&label=Star)
+- [Can Large Audio-Language Models Truly Hear? Tackling Hallucinations with Multi-Task Assessment and Stepwise Audio Reasoning](https://arxiv.org/abs/2410.16130)
 
 ## Projects
 
@@ -39,3 +58,4 @@
 
 ## Misc
 
+- [**s2s_endpoint**](https://huggingface.co/blog/s2s_endpoint) -  🤗

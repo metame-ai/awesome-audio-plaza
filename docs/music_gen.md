@@ -15,6 +15,9 @@
 
 ## Music Generation
 
+- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://arxiv.org/abs/2409.13832)
+
+	 · ([huggingface](https://huggingface.co/datasets/GTSinger/GTSinger)) · ([GTSinger](https://github.com/GTSinger/GTSinger) - GTSinger) ![Star](https://img.shields.io/github/stars/GTSinger/GTSinger.svg?style=social&label=Star)
 
 ## Video to Music
 
@@ -31,5 +34,6 @@
 
 ## Products
 
+- [New generative AI tools open the doors of music creation](https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/)
 
 ## Misc
