@@ -15,7 +15,9 @@
 
 ## Audio Encodec
 
-- [SNAC: Multi-Scale Neural Audio Codec](https://arxiv.org/abs/2410.14411)
+- **SNAC: Multi-Scale Neural Audio Codec**, `arXiv, 2410.14411`, [arxiv](http://arxiv.org/abs/2410.14411v1), [pdf](http://arxiv.org/pdf/2410.14411v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2595205872365589930&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hubert Siuzdak, Florian Grötschla, Luca A. Lanzendörfer*
 
 	 · ([snac](https://github.com/hubertsiuzdak/snac) - hubertsiuzdak) ![Star](https://img.shields.io/github/stars/hubertsiuzdak/snac.svg?style=social&label=Star)
 - **DM-Codec: Distilling Multimodal Representations for Speech Tokenization**, `arXiv, 2410.15017`, [arxiv](http://arxiv.org/abs/2410.15017v1), [pdf](http://arxiv.org/pdf/2410.15017v1.pdf), cication: [**-1**](None)
