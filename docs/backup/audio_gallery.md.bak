@@ -60,7 +60,7 @@
   moving sound source scenarios**, `arXiv, 2410.01481`, [arxiv](http://arxiv.org/abs/2410.01481v1), [pdf](http://arxiv.org/pdf/2410.01481v1.pdf), cication: [**-1**](None)
 
 	 *Kai Li, Wendi Sang, Chang Zeng, ..., Guo Chen, Xiaolin Hu* · ([cslikai](https://cslikai.cn/SonicSim/)) · ([SonicSim](https://github.com/JusperLee/SonicSim) - JusperLee) ![Star](https://img.shields.io/github/stars/JusperLee/SonicSim.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/7tZDu5nDBoG1h0YuXA1C2g))
-- [NCSSD dataset and collecting pipeline to handle TV shows.](https://huggingface.co/datasets/walkerhyf/NCSSD)  🤗
+- [NCSSD dataset and collecting pipeline to handle TV shows.](https://huggingface.co/datasets/walkerhyf/NCSSD)  🤗 
 - [电台直播](https://www.radio.cn/pc-portal/erji/radioStation.html) 
 - **EmotionCaps: Enhancing Audio Captioning Through Emotion-Augmented Data 
   Generation**, `arXiv, 2410.12028`, [arxiv](http://arxiv.org/abs/2410.12028v1), [pdf](http://arxiv.org/pdf/2410.12028v1.pdf), cication: [**-1**](None)

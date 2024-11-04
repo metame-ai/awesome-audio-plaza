@@ -29,8 +29,8 @@
 
 ## Products
 
-- [a new circular eye tracking device that uses ElevenLabs voices so people with ALS can generate speech with eye movement alone.](https://x.com/elevenlabsio/status/1850177441391854049) 
-- [Generate a unique voice from a text prompt alone.](https://x.com/elevenlabsio/status/1849083718838657186) 
+- [a new circular eye tracking device that uses ElevenLabs voices so people with ALS can generate speech with eye movement alone.](https://x.com/elevenlabsio/status/1850177441391854049)  𝕏
+- [Generate a unique voice from a text prompt alone.](https://x.com/elevenlabsio/status/1849083718838657186)  𝕏
 
 ## Datasets
 

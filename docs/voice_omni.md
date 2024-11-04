@@ -72,14 +72,14 @@
 
 ## Projects
 
-- [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b)  🤗
-- [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main)  🤗
+- [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b)  🤗 
+- [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main)  🤗 
 - [**GLM-4-Voice**](https://github.com/THUDM/GLM-4-Voice) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg?style=social&label=Star) 
-- [homebrewltd / mini-Ichigo-llama3.2-3B-s-instruct](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-instruct)  🤗
+- [homebrewltd / mini-Ichigo-llama3.2-3B-s-instruct](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-instruct)  🤗 
 
 ## Products
 
-- [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487) 
+- [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487)  𝕏 
 
 ## Datasets
 
@@ -89,7 +89,7 @@
 
 ## Misc
 
-- [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553) 
-- [Mini-Omni 2 understands image, audio and text inputs all via end-to-end voice conversations with users](https://x.com/reach_vb/status/1850895844167286859) 
+- [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)  𝕏 
+- [Mini-Omni 2 understands image, audio and text inputs all via end-to-end voice conversations with users](https://x.com/reach_vb/status/1850895844167286859)  𝕏 
 - :clapper: [dotAI 2024 - Neil Zeghidour - Multimodal language models](https://www.youtube.com/watch?v=UgpLM9gNkqs) 
 - [**s2s_endpoint**](https://huggingface.co/blog/s2s_endpoint) -  🤗 
