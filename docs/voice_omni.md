@@ -72,10 +72,10 @@
 
 ## Projects
 
-- 🤗 [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b) 
-- 🤗 [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main) 
+- [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b)  🤗
+- [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main)  🤗
 - [**GLM-4-Voice**](https://github.com/THUDM/GLM-4-Voice) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg?style=social&label=Star) 
-- 🤗 [homebrewltd / mini-Ichigo-llama3.2-3B-s-instruct](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-instruct) 
+- [homebrewltd / mini-Ichigo-llama3.2-3B-s-instruct](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-instruct)  🤗
 
 ## Products
 
