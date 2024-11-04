@@ -15,6 +15,9 @@
 
 ## Zero Shot TTS
 
+- :star2: 🤗 **Continuous Speech Synthesis using per-token Latent Diffusion**, `arXiv, 2410.16048`, [arxiv](http://arxiv.org/abs/2410.16048v1), [pdf](http://arxiv.org/pdf/2410.16048v1.pdf), cication: [**-1**](None)
+
+	 *Arnon Turetzky, Nimrod Shabtay, Slava Shechtman, ..., Ron Hoory, Avihu Dekel* · ([s3.us-south.objectstorage.softlayer](https://s3.us-south.objectstorage.softlayer.net/zk-wav-data/Webpages/PerTokenLatentDiffusion/index.html))
 - [MaskGCT:       Zero-Shot Text-to-Speech with Masked Generative Codec Transformer](https://maskgct.github.io/)
 - **Continuous Speech Synthesis using per-token Latent Diffusion**, `arXiv, 2410.16048`, [arxiv](http://arxiv.org/abs/2410.16048v1), [pdf](http://arxiv.org/pdf/2410.16048v1.pdf), cication: [**-1**](None)
 

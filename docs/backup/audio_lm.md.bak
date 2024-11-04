@@ -2,11 +2,11 @@
 
 - [Audio Language Model](#audio-language-model)
   - [Papers](#papers)
-  - [Misc](#misc)
   - [Survey](#survey)
   - [Evaluation](#evaluation)
   - [Projects](#projects)
   - [Toolkits](#toolkits)
+  - [Misc](#misc)
 
 
 ## Papers
@@ -16,16 +16,20 @@
 
 	 *Fan Bu, Yuhao Zhang, Xidong Wang, ..., Qun Liu, Haizhou Li*
 
-## Misc
-
-
 ## Survey
 
 
 ## Evaluation
 
+- [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)
+- [Paper page - MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark](https://huggingface.co/papers/2410.19168)
+   - [sakshi113.github.io](https://sakshi113.github.io/mmau_homepage/)
 
 ## Projects
 
 
 ## Toolkits
+
+
+## Misc
+

@@ -15,6 +15,13 @@
 
 ## Audio Encodec
 
+- **DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**, `arXiv, 2410.24177`, [arxiv](http://arxiv.org/abs/2410.24177v1), [pdf](http://arxiv.org/pdf/2410.24177v1.pdf), cication: [**-1**](None)
+
+	 *Heng-Jui Chang, Hongyu Gong, Changhan Wang, ..., James Glass, Yu-An Chung*
+- :star2: 🤗 **Continuous Speech Synthesis using per-token Latent Diffusion**, `arXiv, 2410.16048`, [arxiv](http://arxiv.org/abs/2410.16048v1), [pdf](http://arxiv.org/pdf/2410.16048v1.pdf), cication: [**-1**](None)
+
+	 *Arnon Turetzky, Nimrod Shabtay, Slava Shechtman, ..., Ron Hoory, Avihu Dekel* · ([s3.us-south.objectstorage.softlayer](https://s3.us-south.objectstorage.softlayer.net/zk-wav-data/Webpages/PerTokenLatentDiffusion/index.html))
+- [hertz-codec: a convolutional audio autoencoder that takes mono, 16kHz speech and transforms it into a 8 Hz latent representation at about 1kbps bitrate.](https://si.inc/hertz-dev/)
 - **SNAC: Multi-Scale Neural Audio Codec**, `arXiv, 2410.14411`, [arxiv](http://arxiv.org/abs/2410.14411v1), [pdf](http://arxiv.org/pdf/2410.14411v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2595205872365589930&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Hubert Siuzdak, Florian Grötschla, Luca A. Lanzendörfer*

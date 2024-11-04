@@ -28,11 +28,15 @@
 
 ## Whisper
 
+- [Whisper-ZeroA complete rework of Whisper ASR that eliminates hallucinations and drastically improves accuracy.](https://www.gladia.io/whisper-zero)
 
 ## Toolkits
 
 
 ## Products
 
+- [Next-gen Speech AI for next-level product experiences](https://www.assemblyai.com/universal-2)
+
+	 · ([x](https://x.com/svpino/status/1851670493667209664))
 
 ## Misc

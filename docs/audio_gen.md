@@ -27,6 +27,9 @@
 
 ## Speech Generation
 
+- [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/)
+
+	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)
 
 ## Conversion
 
@@ -44,3 +47,5 @@
 
 
 ## Misc
+## Misc
+- [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)

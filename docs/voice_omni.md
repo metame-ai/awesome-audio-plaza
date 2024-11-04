@@ -20,6 +20,12 @@
 
 ## Voice Omni
 
+- [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/)
+
+	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)
+- [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](https://arxiv.org/abs/2411.00774)
+
+	 · ([freeze-omni.github](https://freeze-omni.github.io/))
 - **Generative Expressive Conversational Speech Synthesis**, `arXiv, 2407.21491`, [arxiv](http://arxiv.org/abs/2407.21491v2), [pdf](http://arxiv.org/pdf/2407.21491v2.pdf), cication: [**-1**](None)
 
 	 *Rui Liu, Yifan Hu, Yi Ren, ..., Xiang Yin, Haizhou Li* · ([GPT-Talker](https://github.com/walker-hyf/GPT-Talker?tab=readme-ov-file) - walker-hyf) ![Star](https://img.shields.io/github/stars/walker-hyf/GPT-Talker.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/bF4qnMrxcDSbVYHi4jGF_A))
@@ -66,9 +72,10 @@
 
 ## Projects
 
-- [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main)
+- 🤗 [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b)
+- 🤗 [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main)
 - [**GLM-4-Voice**](https://github.com/THUDM/GLM-4-Voice) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg?style=social&label=Star)
-- [homebrewltd / mini-Ichigo-llama3.2-3B-s-instruct](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-instruct)
+- 🤗 [homebrewltd / mini-Ichigo-llama3.2-3B-s-instruct](https://huggingface.co/homebrewltd/mini-Ichigo-llama3.2-3B-s-instruct)
 
 ## Products
 
@@ -82,6 +89,7 @@
 
 ## Misc
 
+- [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)
 - [Mini-Omni 2 understands image, audio and text inputs all via end-to-end voice conversations with users](https://x.com/reach_vb/status/1850895844167286859)
-- [dotAI 2024 - Neil Zeghidour - Multimodal language models](https://www.youtube.com/watch?v=UgpLM9gNkqs)
+- :clapper: [dotAI 2024 - Neil Zeghidour - Multimodal language models](https://www.youtube.com/watch?v=UgpLM9gNkqs)
 - [**s2s_endpoint**](https://huggingface.co/blog/s2s_endpoint) -  🤗

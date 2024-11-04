@@ -15,7 +15,13 @@
 
 ## Audio Encodec
 
-- [SNAC: Multi-Scale Neural Audio Codec](https://arxiv.org/abs/2410.14411)
+- [DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models](https://arxiv.org/abs/2410.24177)
+- [Paper page - Continuous Speech Synthesis using per-token Latent Diffusion](https://huggingface.co/papers/2410.16048)|star|
+   - [s3.us-south.objectstorage.softlayer.net](https://s3.us-south.objectstorage.softlayer.net/zk-wav-data/Webpages/PerTokenLatentDiffusion/index.html)
+- [hertz-codec: a convolutional audio autoencoder that takes mono, 16kHz speech and transforms it into a 8 Hz latent representation at about 1kbps bitrate.](https://si.inc/hertz-dev/)
+- **SNAC: Multi-Scale Neural Audio Codec**, `arXiv, 2410.14411`, [arxiv](http://arxiv.org/abs/2410.14411v1), [pdf](http://arxiv.org/pdf/2410.14411v1.pdf), cication: [**2**](https://scholar.google.com/scholar?cites=2595205872365589930&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
+
+	 *Hubert Siuzdak, Florian Grötschla, Luca A. Lanzendörfer*
 
 	 · ([snac](https://github.com/hubertsiuzdak/snac) - hubertsiuzdak) ![Star](https://img.shields.io/github/stars/hubertsiuzdak/snac.svg?style=social&label=Star)
 - **DM-Codec: Distilling Multimodal Representations for Speech Tokenization**, `arXiv, 2410.15017`, [arxiv](http://arxiv.org/abs/2410.15017v1), [pdf](http://arxiv.org/pdf/2410.15017v1.pdf), cication: [**-1**](None)
