@@ -1,6 +1,6 @@
 # Audio Gen
 
-- [Audio Gen](#audio-gen)
+- [Audio Gen](#audio-gen) 
   - [Survey](#survey)
   - [Audio Generation](#audio-generation)
   - [Speech Generation](#speech-generation)
@@ -17,17 +17,17 @@
 
 ## Audio Generation
 
-- **FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio
+- **FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio 
   Generation**, `arXiv, 2410.12266`, [arxiv](http://arxiv.org/abs/2410.12266v1), [pdf](http://arxiv.org/pdf/2410.12266v1.pdf), cication: [**-1**](None)
 
 	 *Huadai Liu, Jialei Wang, Rongjie Huang, ..., Wei Xue, Zhou Zhao*
-- **Movie Gen: A Cast of Media Foundation Models**, `arXiv, 2410.13720`, [arxiv](http://arxiv.org/abs/2410.13720v1), [pdf](http://arxiv.org/pdf/2410.13720v1.pdf), cication: [**-1**](None)
+- **Movie Gen: A Cast of Media Foundation Models**, `arXiv, 2410.13720`, [arxiv](http://arxiv.org/abs/2410.13720v1), [pdf](http://arxiv.org/pdf/2410.13720v1.pdf), cication: [**-1**](None) 
 
 	 *Adam Polyak, Amit Zohar, Andrew Brown, ..., Vladan Petrovic, Yuming Du* · ([ai.meta](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/))
 
 ## Speech Generation
 
-- [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/)
+- [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/) 
 
 	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)
 
@@ -48,4 +48,4 @@
 
 ## Misc
 ## Misc
-- [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)
+- [Pushing the frontiers of audio generation](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/) 
