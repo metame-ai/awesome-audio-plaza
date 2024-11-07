@@ -23,7 +23,10 @@
 - [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/) 
 
 	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)
-- [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](https://arxiv.org/abs/2411.00774)
+- **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model
+  with Frozen LLM**, `arXiv, 2411.00774`, [arxiv](http://arxiv.org/abs/2411.00774v1), [pdf](http://arxiv.org/pdf/2411.00774v1.pdf), cication: [**-1**](None) 
+
+	 *Xiong Wang, Yangze Li, Chaoyou Fu, ..., Xing Sun, Long Ma*
 
 	 · ([freeze-omni.github](https://freeze-omni.github.io/))
 - **Generative Expressive Conversational Speech Synthesis**, `arXiv, 2407.21491`, [arxiv](http://arxiv.org/abs/2407.21491v2), [pdf](http://arxiv.org/pdf/2407.21491v2.pdf), cication: [**-1**](None) 

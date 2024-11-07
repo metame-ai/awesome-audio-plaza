@@ -37,6 +37,10 @@
 
 ## Projects
 
+- [**alltalk_tts**](https://github.com/erew123/alltalk_tts/tree/alltalkbeta) - erew123 ![Star](https://img.shields.io/github/stars/erew123/alltalk_tts.svg?style=social&label=Star)
+- [OuteTTS-0.1-350M is a novel text-to-speech synthesis model that leverages pure language modeling without external adapters or complex architectures](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)  🤗
+
+	 · ([outeai](https://www.outeai.com/blog/OuteTTS-0.1-350M)) · ([𝕏](https://x.com/OuteAI/status/1853373565204115883))
 
 ## Multilingual
 
