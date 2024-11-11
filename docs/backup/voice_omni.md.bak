@@ -14,16 +14,21 @@
 
 ## Survey
 
+- [Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model)
 - **A Survey on Speech Large Language Models**, `arXiv, 2410.18908`, [arxiv](http://arxiv.org/abs/2410.18908v2), [pdf](http://arxiv.org/pdf/2410.18908v2.pdf), cication: [**-1**](None) 
 
 	 *Jing Peng, Yucheng Wang, Yu Xi, ..., Xizhuo Zhang, Kai Yu*
 
 ## Voice Omni
 
+- [Align-SLM: Textless Spoken Language Models with Reinforcement Learning from AI Feedback](https://arxiv.org/abs/2411.01834)
 - [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/) 
 
 	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)
-- [Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](https://arxiv.org/abs/2411.00774)
+- **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model
+  with Frozen LLM**, `arXiv, 2411.00774`, [arxiv](http://arxiv.org/abs/2411.00774v1), [pdf](http://arxiv.org/pdf/2411.00774v1.pdf), cication: [**-1**](None) 
+
+	 *Xiong Wang, Yangze Li, Chaoyou Fu, ..., Xing Sun, Long Ma*
 
 	 · ([freeze-omni.github](https://freeze-omni.github.io/))
 - **Generative Expressive Conversational Speech Synthesis**, `arXiv, 2407.21491`, [arxiv](http://arxiv.org/abs/2407.21491v2), [pdf](http://arxiv.org/pdf/2407.21491v2.pdf), cication: [**-1**](None) 
@@ -72,6 +77,8 @@
 
 ## Projects
 
+- [Building a Voice-Enabled Calorie Tracking App with Groq and Gradio](https://github.com/bklieger-groq/gradio-groq-basics/blob/main/calorie-tracker/README.md)
+   - [x.com](https://x.com/BenjaminKlieger/status/1854266346290434501)
 - [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b)  🤗 
 - [KingNish / OpenGPT-4o](https://huggingface.co/spaces/KingNish/OpenGPT-4o/tree/main)  🤗 
 - [**GLM-4-Voice**](https://github.com/THUDM/GLM-4-Voice) - THUDM ![Star](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg?style=social&label=Star) 
@@ -89,6 +96,7 @@
 
 ## Misc
 
+- [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)
 - [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)  𝕏 
 - [Mini-Omni 2 understands image, audio and text inputs all via end-to-end voice conversations with users](https://x.com/reach_vb/status/1850895844167286859)  𝕏 
 - :clapper: [dotAI 2024 - Neil Zeghidour - Multimodal language models](https://www.youtube.com/watch?v=UgpLM9gNkqs) 
