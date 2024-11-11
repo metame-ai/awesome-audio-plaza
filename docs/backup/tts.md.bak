@@ -28,7 +28,10 @@
 
 ## Emotion
 
-- [EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector](https://arxiv.org/abs/2411.02625)
+- **EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via
+  Emotion-Adaptive Spherical Vector**, `arXiv, 2411.02625`, [arxiv](http://arxiv.org/abs/2411.02625v1), [pdf](http://arxiv.org/pdf/2411.02625v1.pdf), cication: [**-1**](None) 
+
+	 *Deok-Hyeon Cho, Hyung-Seok Oh, Seung-Bin Kim, ..., Seong-Whan Lee*
 
 ## VITS
 
@@ -38,8 +41,8 @@
 
 ## Projects
 
-- [**alltalk_tts**](https://github.com/erew123/alltalk_tts/tree/alltalkbeta) - erew123 ![Star](https://img.shields.io/github/stars/erew123/alltalk_tts.svg?style=social&label=Star)
-- [OuteTTS-0.1-350M is a novel text-to-speech synthesis model that leverages pure language modeling without external adapters or complex architectures](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)  🤗
+- [**alltalk_tts**](https://github.com/erew123/alltalk_tts/tree/alltalkbeta) - erew123 ![Star](https://img.shields.io/github/stars/erew123/alltalk_tts.svg?style=social&label=Star) 
+- [OuteTTS-0.1-350M is a novel text-to-speech synthesis model that leverages pure language modeling without external adapters or complex architectures](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)  🤗 
 
 	 · ([outeai](https://www.outeai.com/blog/OuteTTS-0.1-350M)) · ([𝕏](https://x.com/OuteAI/status/1853373565204115883))
 
@@ -51,4 +54,4 @@
 
 ## Misc
 ## Misc
-- [腾讯语音合成技术：模型优化与推理加速实践](https://mp.weixin.qq.com/s/knTWduT_Y_FH4LlKQ0SQ4A)
+- [腾讯语音合成技术：模型优化与推理加速实践](https://mp.weixin.qq.com/s/knTWduT_Y_FH4LlKQ0SQ4A) 

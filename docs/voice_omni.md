@@ -14,14 +14,14 @@
 
 ## Survey
 
-- [**Awesome-Speech-Language-Model**](https://github.com/ddlBoJack/Awesome-Speech-Language-Model) - ddlBoJack ![Star](https://img.shields.io/github/stars/ddlBoJack/Awesome-Speech-Language-Model.svg?style=social&label=Star)
+- [**Awesome-Speech-Language-Model**](https://github.com/ddlBoJack/Awesome-Speech-Language-Model) - ddlBoJack ![Star](https://img.shields.io/github/stars/ddlBoJack/Awesome-Speech-Language-Model.svg?style=social&label=Star) 
 - **A Survey on Speech Large Language Models**, `arXiv, 2410.18908`, [arxiv](http://arxiv.org/abs/2410.18908v2), [pdf](http://arxiv.org/pdf/2410.18908v2.pdf), cication: [**-1**](None) 
 
 	 *Jing Peng, Yucheng Wang, Yu Xi, ..., Xizhuo Zhang, Kai Yu*
 
 ## Voice Omni
 
-- **Align-SLM: Textless Spoken Language Models with Reinforcement Learning
+- **Align-SLM: Textless Spoken Language Models with Reinforcement Learning 
   from AI Feedback**, `arXiv, 2411.01834`, [arxiv](http://arxiv.org/abs/2411.01834v1), [pdf](http://arxiv.org/pdf/2411.01834v1.pdf), cication: [**-1**](None) 
 
 	 *Guan-Ting Lin, Prashanth Gurunath Shivakumar, Aditya Gourav, ..., Hung-yi Lee, Ivan Bulyko*
@@ -80,7 +80,7 @@
 
 ## Projects
 
-- [**gradio-groq-basics**](https://github.com/bklieger-groq/gradio-groq-basics/blob/main/calorie-tracker/README.md) - bklieger-groq ![Star](https://img.shields.io/github/stars/bklieger-groq/gradio-groq-basics.svg?style=social&label=Star)
+- [**gradio-groq-basics**](https://github.com/bklieger-groq/gradio-groq-basics/blob/main/calorie-tracker/README.md) - bklieger-groq ![Star](https://img.shields.io/github/stars/bklieger-groq/gradio-groq-basics.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/BenjaminKlieger/status/1854266346290434501))
 - [Fish Agent V0.1 3B is a groundbreaking Voice-to-Voice model capable of capturing and generating environmental audio information with unprecedented accuracy.](https://huggingface.co/fishaudio/fish-agent-v0.1-3b)  🤗 
@@ -100,7 +100,7 @@
 
 ## Misc
 
-- [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏
+- [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏 
 - [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)  𝕏 
 - [Mini-Omni 2 understands image, audio and text inputs all via end-to-end voice conversations with users](https://x.com/reach_vb/status/1850895844167286859)  𝕏 
 - :clapper: [dotAI 2024 - Neil Zeghidour - Multimodal language models](https://www.youtube.com/watch?v=UgpLM9gNkqs) 

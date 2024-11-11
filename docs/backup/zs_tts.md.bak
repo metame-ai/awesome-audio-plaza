@@ -15,7 +15,7 @@
 
 ## Zero Shot TTS
 
-- :star2: **Fish-Speech: Leveraging Large Language Models for Advanced Multilingual
+- :star2: **Fish-Speech: Leveraging Large Language Models for Advanced Multilingual 
   Text-to-Speech Synthesis**, `arXiv, 2411.01156`, [arxiv](http://arxiv.org/abs/2411.01156v1), [pdf](http://arxiv.org/pdf/2411.01156v1.pdf), cication: [**-1**](None) 
 
 	 *Shijia Liao, Yuxuan Wang, Tianyu Li, ..., Rongzhi Zhou, Yijin Xing* · ([fish-speech](https://github.com/fishaudio/fish-speech) - fishaudio) ![Star](https://img.shields.io/github/stars/fishaudio/fish-speech.svg?style=social&label=Star) · ([𝕏](https://x.com/FishAudio/status/1853655232779313408))
@@ -30,7 +30,7 @@
 
 ## Projects
 
-- [**F5-TTS**](https://github.com/lpscr/F5-TTS) - lpscr ![Star](https://img.shields.io/github/stars/lpscr/F5-TTS.svg?style=social&label=Star)
+- [**F5-TTS**](https://github.com/lpscr/F5-TTS) - lpscr ![Star](https://img.shields.io/github/stars/lpscr/F5-TTS.svg?style=social&label=Star) 
 
 	 *A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching*
 
