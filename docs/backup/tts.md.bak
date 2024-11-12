@@ -28,7 +28,7 @@
 
 ## Emotion
 
-- **EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via
+- **EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via 
   Emotion-Adaptive Spherical Vector**, `arXiv, 2411.02625`, [arxiv](http://arxiv.org/abs/2411.02625v1), [pdf](http://arxiv.org/pdf/2411.02625v1.pdf), cication: [**-1**](None) 
 
 	 *Deok-Hyeon Cho, Hyung-Seok Oh, Seung-Bin Kim, ..., Seong-Whan Lee*

@@ -80,6 +80,9 @@
 
 ## Projects
 
+- [**WavChat**](https://github.com/jishengpeng/WavChat) - jishengpeng ![Star](https://img.shields.io/github/stars/jishengpeng/WavChat.svg?style=social&label=Star)
+
+	 *A Survey of Spoken Dialogue Models*
 - [**gradio-groq-basics**](https://github.com/bklieger-groq/gradio-groq-basics/blob/main/calorie-tracker/README.md) - bklieger-groq ![Star](https://img.shields.io/github/stars/bklieger-groq/gradio-groq-basics.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/BenjaminKlieger/status/1854266346290434501))

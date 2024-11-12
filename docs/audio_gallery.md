@@ -39,6 +39,9 @@
 
 ## Audio Separation
 
+- [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star)
+
+	 *Speaker Voice Separation using Neural Nets* · ([arxiv](https://arxiv.org/abs/2003.01531.pdf))
 - [掌握音频分离黑科技，这几款工具让你的音频瞬间焕然一新！](https://mp.weixin.qq.com/s/r4hu1PJC4t1--3nYTPnUqg) 
 
 	 · ([vocal-separate](https://github.com/jianchang512/vocal-separate) - jianchang512) ![Star](https://img.shields.io/github/stars/jianchang512/vocal-separate.svg?style=social&label=Star) · ([bilibili](https://www.bilibili.com/video/BV16K411J74p/?spm_id_from=333.337.search-card.all.click&vd_source=2a590f08340930545c7bea183aed992c)) · ([ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui/) - Anjok07) ![Star](https://img.shields.io/github/stars/Anjok07/ultimatevocalremovergui.svg?style=social&label=Star)
@@ -56,6 +59,9 @@
 
 ## Datasets
 
+- [The Expresso dataset is a high-quality (48kHz) expressive speech dataset that includes both expressively rendered read speech](https://huggingface.co/datasets/ylacombe/expresso)  🤗
+
+	 · ([speechbot.github](https://speechbot.github.io/expresso/))
 - **SonicSim: A customizable simulation platform for speech processing in 
   moving sound source scenarios**, `arXiv, 2410.01481`, [arxiv](http://arxiv.org/abs/2410.01481v1), [pdf](http://arxiv.org/pdf/2410.01481v1.pdf), cication: [**-1**](None)
 
