@@ -18,7 +18,7 @@
 
 ## Survey
 
-- **Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for
+- **Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for 
   Measuring the Capabilities of Spoken Language Models with 180 Tasks**, `arXiv, 2411.05361`, [arxiv](http://arxiv.org/abs/2411.05361v1), [pdf](http://arxiv.org/pdf/2411.05361v1.pdf), cication: [**-1**](None) 
 
 	 *Chien-yu Huang, Wei-Chih Chen, Shu-wen Yang, ..., Shinji Watanabe, Hung-yi Lee*
