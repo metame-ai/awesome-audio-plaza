@@ -17,11 +17,11 @@
 
 ## Audio Generation
 
-- **Tell What You Hear From What You See -- Video to Audio Generation
+- **Tell What You Hear From What You See -- Video to Audio Generation 
   Through Text**, `arXiv, 2411.05679`, [arxiv](http://arxiv.org/abs/2411.05679v1), [pdf](http://arxiv.org/pdf/2411.05679v1.pdf), cication: [**-1**](None) 
 
 	 *Xiulong Liu, Kun Su, Eli Shlizerman*
-- **Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with
+- **Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with 
   Retrieval-Augmented Generation**, `arXiv, 2411.05141`, [arxiv](http://arxiv.org/abs/2411.05141v1), [pdf](http://arxiv.org/pdf/2411.05141v1.pdf), cication: [**-1**](None) 
 
 	 *Mu Yang, Bowen Shi, Matthew Le, ..., Wei-Ning Hsu, Andros Tjandra*

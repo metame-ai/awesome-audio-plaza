@@ -39,7 +39,7 @@
 
 ## Audio Separation
 
-- [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star)
+- [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star) 
 
 	 *Speaker Voice Separation using Neural Nets* · ([arxiv](https://arxiv.org/abs/2003.01531.pdf))
 - [掌握音频分离黑科技，这几款工具让你的音频瞬间焕然一新！](https://mp.weixin.qq.com/s/r4hu1PJC4t1--3nYTPnUqg) 
@@ -59,7 +59,7 @@
 
 ## Datasets
 
-- [The Expresso dataset is a high-quality (48kHz) expressive speech dataset that includes both expressively rendered read speech](https://huggingface.co/datasets/ylacombe/expresso)  🤗
+- [The Expresso dataset is a high-quality (48kHz) expressive speech dataset that includes both expressively rendered read speech](https://huggingface.co/datasets/ylacombe/expresso)  🤗 
 
 	 · ([speechbot.github](https://speechbot.github.io/expresso/))
 - **SonicSim: A customizable simulation platform for speech processing in 
