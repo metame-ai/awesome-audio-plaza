@@ -17,6 +17,8 @@
 
 ## Audio Generation
 
+- [Tell What You Hear From What You See -- Video to Audio Generation Through Text](https://arxiv.org/abs/2411.05679)
+- [Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation](https://arxiv.org/abs/2411.05141)
 - **FlashAudio: Rectified Flows for Fast and High-Fidelity Text-to-Audio 
   Generation**, `arXiv, 2410.12266`, [arxiv](http://arxiv.org/abs/2410.12266v1), [pdf](http://arxiv.org/pdf/2410.12266v1.pdf), cication: [**-1**](None)
 

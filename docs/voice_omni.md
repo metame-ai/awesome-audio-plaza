@@ -80,7 +80,11 @@
 
 ## Projects
 
-- [**WavChat**](https://github.com/jishengpeng/WavChat) - jishengpeng ![Star](https://img.shields.io/github/stars/jishengpeng/WavChat.svg?style=social&label=Star)
+- [**VideoChat**](https://github.com/Henry-23/VideoChat) - Henry-23 ![Star](https://img.shields.io/github/stars/Henry-23/VideoChat.svg?style=social&label=Star)
+- [**ultravox**](https://github.com/fixie-ai/ultravox) - fixie-ai ![Star](https://img.shields.io/github/stars/fixie-ai/ultravox.svg?style=social&label=Star)
+
+	 · ([demo.ultravox](https://demo.ultravox.ai/)) · ([huggingface](https://huggingface.co/fixie-ai/))
+- [**WavChat**](https://github.com/jishengpeng/WavChat) - jishengpeng ![Star](https://img.shields.io/github/stars/jishengpeng/WavChat.svg?style=social&label=Star) 
 
 	 *A Survey of Spoken Dialogue Models*
 - [**gradio-groq-basics**](https://github.com/bklieger-groq/gradio-groq-basics/blob/main/calorie-tracker/README.md) - bklieger-groq ![Star](https://img.shields.io/github/stars/bklieger-groq/gradio-groq-basics.svg?style=social&label=Star) 

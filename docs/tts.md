@@ -18,6 +18,9 @@
 
 ## TTS
 
+- **Debatts: Zero-Shot Debating Text-to-Speech Synthesis**, `arXiv, 2411.06540`, [arxiv](http://arxiv.org/abs/2411.06540v1), [pdf](http://arxiv.org/pdf/2411.06540v1.pdf), cication: [**-1**](None) 
+
+	 *Yiqiao Huang, Yuancheng Wang, Jiaqi Li, ..., Shunsi Zhang, Zhizheng Wu*
 - **Very Attentive Tacotron: Robust and Unbounded Length Generalization in 
   Autoregressive Transformer-Based Text-to-Speech**, `arXiv, 2410.22179`, [arxiv](http://arxiv.org/abs/2410.22179v1), [pdf](http://arxiv.org/pdf/2410.22179v1.pdf), cication: [**-1**](None)
 
@@ -41,6 +44,7 @@
 
 ## Projects
 
+- [**tts-generation-webui**](https://github.com/rsxdalv/tts-generation-webui) - rsxdalv ![Star](https://img.shields.io/github/stars/rsxdalv/tts-generation-webui.svg?style=social&label=Star)
 - [**alltalk_tts**](https://github.com/erew123/alltalk_tts/tree/alltalkbeta) - erew123 ![Star](https://img.shields.io/github/stars/erew123/alltalk_tts.svg?style=social&label=Star) 
 - [OuteTTS-0.1-350M is a novel text-to-speech synthesis model that leverages pure language modeling without external adapters or complex architectures](https://huggingface.co/OuteAI/OuteTTS-0.1-350M)  🤗 
 
@@ -53,5 +57,5 @@
 
 
 ## Misc
-## Misc
-- [腾讯语音合成技术：模型优化与推理加速实践](https://mp.weixin.qq.com/s/knTWduT_Y_FH4LlKQ0SQ4A) 
+
+- [对目前TTS领域的个人看法](https://mp.weixin.qq.com/s/4oWWkhV9uUDikVVWEzAfJw) 

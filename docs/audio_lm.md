@@ -18,9 +18,16 @@
 
 ## Survey
 
+- **Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for
+  Measuring the Capabilities of Spoken Language Models with 180 Tasks**, `arXiv, 2411.05361`, [arxiv](http://arxiv.org/abs/2411.05361v1), [pdf](http://arxiv.org/pdf/2411.05361v1.pdf), cication: [**-1**](None) 
+
+	 *Chien-yu Huang, Wei-Chih Chen, Shu-wen Yang, ..., Shinji Watanabe, Hung-yi Lee*
 
 ## Evaluation
 
+- **What Do Speech Foundation Models Not Learn About Speech?**, `arXiv, 2410.12948`, [arxiv](http://arxiv.org/abs/2410.12948v1), [pdf](http://arxiv.org/pdf/2410.12948v1.pdf), cication: [**-1**](None) 
+
+	 *Abdul Waheed, Hanin Atwany, Bhiksha Raj, ..., Rita Singh*
 - **Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models**, `arXiv, 2410.23861`, [arxiv](http://arxiv.org/abs/2410.23861v1), [pdf](http://arxiv.org/pdf/2410.23861v1.pdf), cication: [**-1**](None) 
 
 	 *Hao Yang, Lizhen Qu, Ehsan Shareghi, ..., Gholamreza Haffari*

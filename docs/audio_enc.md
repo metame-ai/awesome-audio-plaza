@@ -15,6 +15,9 @@
 
 ## Audio Encodec
 
+- **Towards Robust Speech Representation Learning for Thousands of Languages**, `arXiv, 2407.00837`, [arxiv](http://arxiv.org/abs/2407.00837v2), [pdf](http://arxiv.org/pdf/2407.00837v2.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=2625648481222182406&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
+
+	 *William Chen, Wangyou Zhang, Yifan Peng, ..., Karen Livescu, Shinji Watanabe* · ([wavlab](https://www.wavlab.org/activities/2024/xeus/))
 - **DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**, `arXiv, 2410.24177`, [arxiv](http://arxiv.org/abs/2410.24177v1), [pdf](http://arxiv.org/pdf/2410.24177v1.pdf), cication: [**-1**](None) 
 
 	 *Heng-Jui Chang, Hongyu Gong, Changhan Wang, ..., James Glass, Yu-An Chung*
