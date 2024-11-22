@@ -16,18 +16,28 @@
 
 ## ASR
 
+- 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks
+  with Large Language Models**, `arXiv, 2411.08742`, [arxiv](http://arxiv.org/abs/2411.08742v1), [pdf](http://arxiv.org/pdf/2411.08742v1.pdf), cication: [**-1**](None) 
+
+	 *Dingdong Wang, Mingyu Cui, Dongchao Yang, ..., Xueyuan Chen, Helen Meng*
 - **Moonshine: Speech Recognition for Live Transcription and Voice Commands**, `arXiv, 2410.15608`, [arxiv](http://arxiv.org/abs/2410.15608v2), [pdf](http://arxiv.org/pdf/2410.15608v2.pdf), cication: [**-1**](None) 
 
 	 *Nat Jeffries, Evan King, Manjunath Kudlur, ..., James Wang, Pete Warden* · ([moonshine](https://github.com/usefulsensors/moonshine?tab=readme-ov-file) - usefulsensors) ![Star](https://img.shields.io/github/stars/usefulsensors/moonshine.svg?style=social&label=Star)
 
 ## Projects
 
+- [**CrisperWhisper**](https://github.com/nyrahealth/CrisperWhisper/tree/develop) - nyrahealth ![Star](https://img.shields.io/github/stars/nyrahealth/CrisperWhisper.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/nyrahealth/CrisperWhisper))
 
 ## Datasets
 
 
 ## Whisper
 
+- **CrisperWhisper: Accurate Timestamps on Verbatim Speech Transcriptions**, `arXiv, 2408.16589`, [arxiv](http://arxiv.org/abs/2408.16589v1), [pdf](http://arxiv.org/pdf/2408.16589v1.pdf), cication: [**-1**](None) 
+
+	 *Laurin Wagner, Bernhard Thallinger, Mario Zusag* · ([huggingface](https://huggingface.co/nyrahealth/CrisperWhisper))
 - [Whisper-ZeroA complete rework of Whisper ASR that eliminates hallucinations and drastically improves accuracy.](https://www.gladia.io/whisper-zero) 
 
 ## Toolkits

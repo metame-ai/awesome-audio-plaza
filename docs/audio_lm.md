@@ -11,6 +11,10 @@
 
 ## Papers
 
+- 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks
+  with Large Language Models**, `arXiv, 2411.08742`, [arxiv](http://arxiv.org/abs/2411.08742v1), [pdf](http://arxiv.org/pdf/2411.08742v1.pdf), cication: [**-1**](None) 
+
+	 *Dingdong Wang, Mingyu Cui, Dongchao Yang, ..., Xueyuan Chen, Helen Meng*
 - **Roadmap towards Superhuman Speech Understanding using Large Language 
   Models**, `arXiv, 2410.13268`, [arxiv](http://arxiv.org/abs/2410.13268v1), [pdf](http://arxiv.org/pdf/2410.13268v1.pdf), cication: [**-1**](None)
 

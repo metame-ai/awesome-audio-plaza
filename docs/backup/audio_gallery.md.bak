@@ -59,6 +59,8 @@
 
 ## Datasets
 
+- [LAION-DISCO-12M](https://laion.ai/blog/laion-disco-12m/)
+   - [huggingface.co](https://huggingface.co/datasets/laion/LAION-DISCO-12M)
 - [The Expresso dataset is a high-quality (48kHz) expressive speech dataset that includes both expressively rendered read speech](https://huggingface.co/datasets/ylacombe/expresso)  🤗 
 
 	 · ([speechbot.github](https://speechbot.github.io/expresso/))
@@ -78,6 +80,7 @@
 
 ## Misc
 
+- [Vision Language Models Are Few-Shot Audio Spectrogram Classifiers](https://arxiv.org/abs/2411.12058)
 - [**llama-recipes**](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama) - meta-llama ![Star](https://img.shields.io/github/stars/meta-llama/llama-recipes.svg?style=social&label=Star) 
 
 	 *An Open Source version of NotebookLM*
