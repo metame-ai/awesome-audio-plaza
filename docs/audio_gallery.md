@@ -48,6 +48,7 @@
 
 ## Diarization
 
+- [**3D-Speaker**](https://github.com/modelscope/3D-Speaker/tree/main/egs/3dspeaker/sv-cam++) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/3D-Speaker.svg?style=social&label=Star)
 - [**DiariZen**](https://github.com/BUTSpeechFIT/DiariZen) - BUTSpeechFIT ![Star](https://img.shields.io/github/stars/BUTSpeechFIT/DiariZen.svg?style=social&label=Star) 
 
 ## Tutorials

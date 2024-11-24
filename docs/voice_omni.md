@@ -121,7 +121,7 @@
 
 ## Misc
 
-- [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star)
+- [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star) 
 - [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming@article{Xie2024MiniOmniLM,  title={Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming},  author={Zhifei Xie and Changqiao Wu},  journal={ArXiv},  year={2024},  volume={abs/2408.16725},  url={https://api.semanticscholar.org/CorpusID:272146286}}](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
 - [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏 
 - [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)  𝕏 

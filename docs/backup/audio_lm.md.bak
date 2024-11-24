@@ -11,7 +11,7 @@
 
 ## Papers
 
-- 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks
+- 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks 
   with Large Language Models**, `arXiv, 2411.08742`, [arxiv](http://arxiv.org/abs/2411.08742v1), [pdf](http://arxiv.org/pdf/2411.08742v1.pdf), cication: [**-1**](None) 
 
 	 *Dingdong Wang, Mingyu Cui, Dongchao Yang, ..., Xueyuan Chen, Helen Meng*

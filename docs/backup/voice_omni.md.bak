@@ -24,14 +24,14 @@
 
 ## Voice Omni
 
-- **Internalizing ASR with Implicit Chain of Thought for Efficient
+- **Internalizing ASR with Implicit Chain of Thought for Efficient 
   Speech-to-Speech Conversational LLM**, `arXiv, 2409.17353`, [arxiv](http://arxiv.org/abs/2409.17353v3), [pdf](http://arxiv.org/pdf/2409.17353v3.pdf), cication: [**-1**](None) 
 
 	 *Robin Shing-Hei Yuen, Timothy Tin-Long Tse, Jian Zhu*
 - **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt**, `arXiv, 2411.07111`, [arxiv](http://arxiv.org/abs/2411.07111v1), [pdf](http://arxiv.org/pdf/2411.07111v1.pdf), cication: [**-1**](None) 
 
 	 *Chih-Kai Yang, Yu-Kuan Fu, Chen-An Li, ..., Shu-wen Yang, Hung-yi Lee*
-- [freddyaboulton / llama-code-editor](https://huggingface.co/spaces/freddyaboulton/llama-code-editor/tree/main)  🤗
+- [freddyaboulton / llama-code-editor](https://huggingface.co/spaces/freddyaboulton/llama-code-editor/tree/main)  🤗 
 - **Align-SLM: Textless Spoken Language Models with Reinforcement Learning 
   from AI Feedback**, `arXiv, 2411.01834`, [arxiv](http://arxiv.org/abs/2411.01834v1), [pdf](http://arxiv.org/pdf/2411.01834v1.pdf), cication: [**-1**](None) 
 
@@ -91,7 +91,7 @@
 
 ## Projects
 
-- [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star)
+- [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 
 
 	 *A Flexible Multimodal Language Model Framework*
 - [**VideoChat**](https://github.com/Henry-23/VideoChat) - Henry-23 ![Star](https://img.shields.io/github/stars/Henry-23/VideoChat.svg?style=social&label=Star) 
@@ -121,7 +121,7 @@
 
 ## Misc
 
-- [🎉 TEN Agent with OpenAI Realtime API and RTC](https://github.com/TEN-framework/TEN-Agent)
+- [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star)
 - [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming@article{Xie2024MiniOmniLM,  title={Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming},  author={Zhifei Xie and Changqiao Wu},  journal={ArXiv},  year={2024},  volume={abs/2408.16725},  url={https://api.semanticscholar.org/CorpusID:272146286}}](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
 - [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏 
 - [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)  𝕏 
