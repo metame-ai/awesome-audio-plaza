@@ -16,7 +16,7 @@
 
 ## ASR
 
-- 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks
+- 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks 
   with Large Language Models**, `arXiv, 2411.08742`, [arxiv](http://arxiv.org/abs/2411.08742v1), [pdf](http://arxiv.org/pdf/2411.08742v1.pdf), cication: [**-1**](None) 
 
 	 *Dingdong Wang, Mingyu Cui, Dongchao Yang, ..., Xueyuan Chen, Helen Meng*
@@ -26,7 +26,7 @@
 
 ## Projects
 
-- [**CrisperWhisper**](https://github.com/nyrahealth/CrisperWhisper/tree/develop) - nyrahealth ![Star](https://img.shields.io/github/stars/nyrahealth/CrisperWhisper.svg?style=social&label=Star)
+- [**CrisperWhisper**](https://github.com/nyrahealth/CrisperWhisper/tree/develop) - nyrahealth ![Star](https://img.shields.io/github/stars/nyrahealth/CrisperWhisper.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/nyrahealth/CrisperWhisper))
 
@@ -50,3 +50,5 @@
 	 · ([x](https://x.com/svpino/status/1851670493667209664))
 
 ## Misc
+## Misc
+- [Robust ASR Error Correction with Conservative Data Filtering](https://huggingface.co/blog/mikelabs/robust-asr-error-correction-conservative-data-filt)  🤗
