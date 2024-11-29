@@ -24,11 +24,15 @@
 
 ## Voice Omni
 
+- **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and
+  Generation**, `arXiv, 2411.18138`, [arxiv](http://arxiv.org/abs/2411.18138v1), [pdf](http://arxiv.org/pdf/2411.18138v1.pdf), cication: [**-1**](None) 
+
+	 *Wenyi Yu, Siyin Wang, Xiaoyu Yang, ..., Yuxuan Wang, Chao Zhang*
 - **Internalizing ASR with Implicit Chain of Thought for Efficient 
   Speech-to-Speech Conversational LLM**, `arXiv, 2409.17353`, [arxiv](http://arxiv.org/abs/2409.17353v3), [pdf](http://arxiv.org/pdf/2409.17353v3.pdf), cication: [**-1**](None) 
 
 	 *Robin Shing-Hei Yuen, Timothy Tin-Long Tse, Jian Zhu*
-- **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt**, `arXiv, 2411.07111`, [arxiv](http://arxiv.org/abs/2411.07111v1), [pdf](http://arxiv.org/pdf/2411.07111v1.pdf), cication: [**-1**](None) 
+- 🌟 **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt**, `arXiv, 2411.07111`, [arxiv](http://arxiv.org/abs/2411.07111v1), [pdf](http://arxiv.org/pdf/2411.07111v1.pdf), cication: [**-1**](None) 
 
 	 *Chih-Kai Yang, Yu-Kuan Fu, Chen-An Li, ..., Shu-wen Yang, Hung-yi Lee*
 - [freddyaboulton / llama-code-editor](https://huggingface.co/spaces/freddyaboulton/llama-code-editor/tree/main)  🤗 
@@ -39,12 +43,14 @@
 - [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/) 
 
 	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)
-- **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model 
+- 🌟 **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model 
   with Frozen LLM**, `arXiv, 2411.00774`, [arxiv](http://arxiv.org/abs/2411.00774v1), [pdf](http://arxiv.org/pdf/2411.00774v1.pdf), cication: [**-1**](None) 
 
 	 *Xiong Wang, Yangze Li, Chaoyou Fu, ..., Xing Sun, Long Ma*
 
 	 · ([freeze-omni.github](https://freeze-omni.github.io/))
+
+	 · ([Freeze-Omni](https://github.com/VITA-MLLM/Freeze-Omni) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/Freeze-Omni.svg?style=social&label=Star)
 - **Generative Expressive Conversational Speech Synthesis**, `arXiv, 2407.21491`, [arxiv](http://arxiv.org/abs/2407.21491v2), [pdf](http://arxiv.org/pdf/2407.21491v2.pdf), cication: [**-1**](None) 
 
 	 *Rui Liu, Yifan Hu, Yi Ren, ..., Xiang Yin, Haizhou Li* · ([GPT-Talker](https://github.com/walker-hyf/GPT-Talker?tab=readme-ov-file) - walker-hyf) ![Star](https://img.shields.io/github/stars/walker-hyf/GPT-Talker.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/bF4qnMrxcDSbVYHi4jGF_A))
@@ -58,14 +64,14 @@
 - **Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant**, `arXiv, 2410.15316`, [arxiv](http://arxiv.org/abs/2410.15316v1), [pdf](http://arxiv.org/pdf/2410.15316v1.pdf), cication: [**-1**](None) 
 
 	 *Alan Dao, Dinh Bach Vu, Huy Hoang Ha* · ([ichigo.homebrew](https://ichigo.homebrew.ltd/)) · ([homebrew](https://homebrew.ltd/)) · ([ichigo](https://github.com/homebrewltd/ichigo) - homebrewltd) ![Star](https://img.shields.io/github/stars/homebrewltd/ichigo.svg?style=social&label=Star)
-- **Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex 
+- 🌟 **Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex 
   Capabilities**, `arXiv, 2410.11190`, [arxiv](http://arxiv.org/abs/2410.11190v2), [pdf](http://arxiv.org/pdf/2410.11190v2.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=14534896134025731094&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 
 	 *Zhifei Xie, Changqiao Wu* · ([mini-omni2](https://github.com/gpt-omni/mini-omni2) - gpt-omni) ![Star](https://img.shields.io/github/stars/gpt-omni/mini-omni2.svg?style=social&label=Star)
 
 ## Duplex
 
-- **OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation**, `arXiv, 2410.17799`, [arxiv](http://arxiv.org/abs/2410.17799v1), [pdf](http://arxiv.org/pdf/2410.17799v1.pdf), cication: [**-1**](None) 
+- 🌟 **OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation**, `arXiv, 2410.17799`, [arxiv](http://arxiv.org/abs/2410.17799v1), [pdf](http://arxiv.org/pdf/2410.17799v1.pdf), cication: [**-1**](None) 
 
 	 *Qinglin Zhang, Luyao Cheng, Chong Deng, ..., Hai Yu, Chaohong Tan*
 
@@ -122,7 +128,7 @@
 ## Misc
 
 - [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star) 
-- [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming@article{Xie2024MiniOmniLM,  title={Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming},  author={Zhifei Xie and Changqiao Wu},  journal={ArXiv},  year={2024},  volume={abs/2408.16725},  url={https://api.semanticscholar.org/CorpusID:272146286}}](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
+- [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
 - [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏 
 - [chatgpt voice demo with mini-omni 2 (multimodal)](https://x.com/freddy_alfonso_/status/1852071457406259553)  𝕏 
 - [Mini-Omni 2 understands image, audio and text inputs all via end-to-end voice conversations with users](https://x.com/reach_vb/status/1850895844167286859)  𝕏 

@@ -11,6 +11,12 @@
 
 ## Papers
 
+- **State-Space Large Audio Language Models**, `arXiv, 2411.15685`, [arxiv](http://arxiv.org/abs/2411.15685v1), [pdf](http://arxiv.org/pdf/2411.15685v1.pdf), cication: [**-1**](None) 
+
+	 *Saurabhchand Bhati, Yuan Gong, Leonid Karlinsky, ..., Rogerio Feris, James Glass*
+- 🌟 **Scaling Speech-Text Pre-training with Synthetic Interleaved Data**, `arXiv, 2411.17607`, [arxiv](http://arxiv.org/abs/2411.17607v1), [pdf](http://arxiv.org/pdf/2411.17607v1.pdf), cication: [**-1**](None) 
+
+	 *Aohan Zeng, Zhengxiao Du, Mingdao Liu, ..., Yuxiao Dong, Jie Tang*
 - 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks 
   with Large Language Models**, `arXiv, 2411.08742`, [arxiv](http://arxiv.org/abs/2411.08742v1), [pdf](http://arxiv.org/pdf/2411.08742v1.pdf), cication: [**-1**](None) 
 
@@ -46,3 +52,5 @@
 
 
 ## Misc
+## Misc
+- [Qwen2-Audio is a SOTA small-scale multimodal model (AudioLM) that handles audio and text inputs, allowing you to have voice interactions without ASR modules](https://huggingface.co/NexaAIDev/Qwen2-Audio-7B-GGUF)  🤗

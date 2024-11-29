@@ -26,12 +26,15 @@
 
 ## Projects
 
+- [WhisperNER is a unified model for automatic speech recognition (ASR) and named entity recognition (NER), with zero-shot capabilities.](https://github.com/aiola-lab/whisper-ner)
+   - [arxiv.org](https://arxiv.org/abs/2409.08107)
 - [**CrisperWhisper**](https://github.com/nyrahealth/CrisperWhisper/tree/develop) - nyrahealth ![Star](https://img.shields.io/github/stars/nyrahealth/CrisperWhisper.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/nyrahealth/CrisperWhisper))
 
 ## Datasets
 
+- [Libriheavy: a 50,000 hours ASR corpus with punctuation casing and context](https://arxiv.org/abs/2309.08105)
 
 ## Whisper
 
@@ -51,4 +54,4 @@
 
 ## Misc
 ## Misc
-- [Robust ASR Error Correction with Conservative Data Filtering](https://huggingface.co/blog/mikelabs/robust-asr-error-correction-conservative-data-filt)  🤗
+- [Robust ASR Error Correction with Conservative Data Filtering](https://huggingface.co/blog/mikelabs/robust-asr-error-correction-conservative-data-filt)  🤗 

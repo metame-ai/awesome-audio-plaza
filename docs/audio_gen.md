@@ -14,10 +14,13 @@
 
 ## Survey
 
-- [**awesome-voice-conversion**](https://github.com/JeffC0628/awesome-voice-conversion) - JeffC0628 ![Star](https://img.shields.io/github/stars/JeffC0628/awesome-voice-conversion.svg?style=social&label=Star)
+- [**awesome-voice-conversion**](https://github.com/JeffC0628/awesome-voice-conversion) - JeffC0628 ![Star](https://img.shields.io/github/stars/JeffC0628/awesome-voice-conversion.svg?style=social&label=Star) 
 
 ## Audio Generation
 
+- [Fugatto is a framework for audio synthesis and transformation given text instructions and optional audio inputs.](https://fugatto.github.io/) 
+
+	 · ([fugatto.github](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf))
 - **Tell What You Hear From What You See -- Video to Audio Generation 
   Through Text**, `arXiv, 2411.05679`, [arxiv](http://arxiv.org/abs/2411.05679v1), [pdf](http://arxiv.org/pdf/2411.05679v1.pdf), cication: [**-1**](None) 
 
