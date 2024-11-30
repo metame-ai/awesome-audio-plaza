@@ -24,7 +24,11 @@
 
 ## Voice Omni
 
-- [SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation](https://arxiv.org/abs/2411.18138)
+- [Paper page - Scaling Speech-Text Pre-training with Synthetic Interleaved Data](https://huggingface.co/papers/2411.17607)|star|
+- **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and
+  Generation**, `arXiv, 2411.18138`, [arxiv](http://arxiv.org/abs/2411.18138v1), [pdf](http://arxiv.org/pdf/2411.18138v1.pdf), cication: [**-1**](None) 
+
+	 *Wenyi Yu, Siyin Wang, Xiaoyu Yang, ..., Yuxuan Wang, Chao Zhang*
 - **Internalizing ASR with Implicit Chain of Thought for Efficient 
   Speech-to-Speech Conversational LLM**, `arXiv, 2409.17353`, [arxiv](http://arxiv.org/abs/2409.17353v3), [pdf](http://arxiv.org/pdf/2409.17353v3.pdf), cication: [**-1**](None) 
 
@@ -46,7 +50,8 @@
 	 *Xiong Wang, Yangze Li, Chaoyou Fu, ..., Xing Sun, Long Ma*
 
 	 · ([freeze-omni.github](https://freeze-omni.github.io/))
-	- [GitHub - VITA-MLLM/Freeze-Omni: ✨✨Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM](https://github.com/VITA-MLLM/Freeze-Omni)
+
+	 · ([Freeze-Omni](https://github.com/VITA-MLLM/Freeze-Omni) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/Freeze-Omni.svg?style=social&label=Star)
 - **Generative Expressive Conversational Speech Synthesis**, `arXiv, 2407.21491`, [arxiv](http://arxiv.org/abs/2407.21491v2), [pdf](http://arxiv.org/pdf/2407.21491v2.pdf), cication: [**-1**](None) 
 
 	 *Rui Liu, Yifan Hu, Yi Ren, ..., Xiang Yin, Haizhou Li* · ([GPT-Talker](https://github.com/walker-hyf/GPT-Talker?tab=readme-ov-file) - walker-hyf) ![Star](https://img.shields.io/github/stars/walker-hyf/GPT-Talker.svg?style=social&label=Star) · ([mp.weixin.qq](https://mp.weixin.qq.com/s/bF4qnMrxcDSbVYHi4jGF_A))

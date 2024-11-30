@@ -26,7 +26,7 @@
 
 ## Projects
 
-- [**whisper-ner**](https://github.com/aiola-lab/whisper-ner) - aiola-lab ![Star](https://img.shields.io/github/stars/aiola-lab/whisper-ner.svg?style=social&label=Star)
+- [**whisper-ner**](https://github.com/aiola-lab/whisper-ner) - aiola-lab ![Star](https://img.shields.io/github/stars/aiola-lab/whisper-ner.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2409.08107))
 - [**CrisperWhisper**](https://github.com/nyrahealth/CrisperWhisper/tree/develop) - nyrahealth ![Star](https://img.shields.io/github/stars/nyrahealth/CrisperWhisper.svg?style=social&label=Star) 
@@ -35,7 +35,7 @@
 
 ## Datasets
 
-- **Libriheavy: a 50,000 hours ASR corpus with punctuation casing and
+- **Libriheavy: a 50,000 hours ASR corpus with punctuation casing and 
   context**, `arXiv, 2309.08105`, [arxiv](http://arxiv.org/abs/2309.08105v2), [pdf](http://arxiv.org/pdf/2309.08105v2.pdf), cication: [**-1**](None) 
 
 	 *Wei Kang, Xiaoyu Yang, Zengwei Yao, ..., Long Lin, Daniel Povey*
