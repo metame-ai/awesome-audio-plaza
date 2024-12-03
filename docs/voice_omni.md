@@ -24,7 +24,7 @@
 
 ## Voice Omni
 
-- 🌟 [Paper page - Scaling Speech-Text Pre-training with Synthetic Interleaved Data](https://huggingface.co/papers/2411.17607)
+- 🌟 [Paper page - Scaling Speech-Text Pre-training with Synthetic Interleaved Data](https://huggingface.co/papers/2411.17607) 
 - **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and 
   Generation**, `arXiv, 2411.18138`, [arxiv](http://arxiv.org/abs/2411.18138v1), [pdf](http://arxiv.org/pdf/2411.18138v1.pdf), cication: [**-1**](None) 
 

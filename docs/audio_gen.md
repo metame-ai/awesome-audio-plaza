@@ -45,6 +45,10 @@
 
 ## Conversion
 
+- **CoDiff-VC: A Codec-Assisted Diffusion Model for Zero-shot Voice
+  Conversion**, `arXiv, 2411.18918`, [arxiv](http://arxiv.org/abs/2411.18918v2), [pdf](http://arxiv.org/pdf/2411.18918v2.pdf), cication: [**-1**](None) 
+
+	 *Yuke Li, Xinfa Zhu, Hanzhao Li, ..., Zhifei Li, Lei Xie*
 
 ## Audio Editting
 

@@ -39,6 +39,7 @@
 
 ## Audio Separation
 
+- [**ClearerVoice-Studio**](https://github.com/modelscope/ClearerVoice-Studio) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio.svg?style=social&label=Star)
 - [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star) 
 
 	 *Speaker Voice Separation using Neural Nets* · ([arxiv](https://arxiv.org/abs/2003.01531.pdf))
@@ -61,6 +62,10 @@
 
 ## Datasets
 
+- 🌟 **AudioSetCaps: An Enriched Audio-Caption Dataset using Automated
+  Generation Pipeline with Large Audio and Language Models**, `arXiv, 2411.18953`, [arxiv](http://arxiv.org/abs/2411.18953v1), [pdf](http://arxiv.org/pdf/2411.18953v1.pdf), cication: [**-1**](None) 
+
+	 *Jisheng Bai, Haohe Liu, Mou Wang, ..., Woon-Seng Gan, Jianfeng Chen* · ([AudioSetCaps](https://github.com/JishengBai/AudioSetCaps) - JishengBai) ![Star](https://img.shields.io/github/stars/JishengBai/AudioSetCaps.svg?style=social&label=Star)
 - [LAION-DISCO-12M](https://laion.ai/blog/laion-disco-12m/) 
 
 	 · ([huggingface](https://huggingface.co/datasets/laion/LAION-DISCO-12M))

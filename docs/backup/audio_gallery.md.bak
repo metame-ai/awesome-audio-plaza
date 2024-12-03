@@ -39,6 +39,7 @@
 
 ## Audio Separation
 
+- [MossFormer speech separator](https://github.com/modelscope/ClearerVoice-Studio)
 - [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star) 
 
 	 *Speaker Voice Separation using Neural Nets* · ([arxiv](https://arxiv.org/abs/2003.01531.pdf))
@@ -56,11 +57,13 @@
 
 ## Toolkits
 
-- [Speaker Verification with ECAPA-TDNN embeddings on Voxceleb](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)  🤗
+- [Speaker Verification with ECAPA-TDNN embeddings on Voxceleb](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)  🤗 
 - [**wavesurfer**](https://github.com/pengzhendong/wavesurfer) - pengzhendong ![Star](https://img.shields.io/github/stars/pengzhendong/wavesurfer.svg?style=social&label=Star) 
 
 ## Datasets
 
+- [AudioSetCaps: An Enriched Audio-Caption Dataset using Automated Generation Pipeline with Large Audio and Language Models](https://arxiv.org/abs/2411.18953)|star|
+   - [github.com](https://github.com/JishengBai/AudioSetCaps)
 - [LAION-DISCO-12M](https://laion.ai/blog/laion-disco-12m/) 
 
 	 · ([huggingface](https://huggingface.co/datasets/laion/LAION-DISCO-12M))

@@ -53,4 +53,4 @@
 
 ## Misc
 ## Misc
-- [Qwen2-Audio is a SOTA small-scale multimodal model (AudioLM) that handles audio and text inputs, allowing you to have voice interactions without ASR modules](https://huggingface.co/NexaAIDev/Qwen2-Audio-7B-GGUF)  🤗
+- [Qwen2-Audio is a SOTA small-scale multimodal model (AudioLM) that handles audio and text inputs, allowing you to have voice interactions without ASR modules](https://huggingface.co/NexaAIDev/Qwen2-Audio-7B-GGUF)  🤗 

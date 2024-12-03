@@ -15,6 +15,9 @@
 
 ## Audio Encodec
 
+- 🌟 **Scaling Transformers for Low-Bitrate High-Quality Speech Coding**, `arXiv, 2411.19842`, [arxiv](http://arxiv.org/abs/2411.19842v1), [pdf](http://arxiv.org/pdf/2411.19842v1.pdf), cication: [**-1**](None) 
+
+	 *Julian D Parker, Anton Smirnov, Jordi Pons, ..., Zach Evans, Xubo Liu* · ([stable-codec](https://github.com/Stability-AI/stable-codec) - Stability-AI) ![Star](https://img.shields.io/github/stars/Stability-AI/stable-codec.svg?style=social&label=Star)
 - **Towards Robust Speech Representation Learning for Thousands of Languages**, `arXiv, 2407.00837`, [arxiv](http://arxiv.org/abs/2407.00837v2), [pdf](http://arxiv.org/pdf/2407.00837v2.pdf), cication: [**4**](https://scholar.google.com/scholar?cites=2625648481222182406&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII) 
 
 	 *William Chen, Wangyou Zhang, Yifan Peng, ..., Karen Livescu, Shinji Watanabe* · ([wavlab](https://www.wavlab.org/activities/2024/xeus/))
