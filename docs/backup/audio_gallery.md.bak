@@ -39,7 +39,7 @@
 
 ## Audio Separation
 
-- [**ClearerVoice-Studio**](https://github.com/modelscope/ClearerVoice-Studio) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio.svg?style=social&label=Star)
+- [**ClearerVoice-Studio**](https://github.com/modelscope/ClearerVoice-Studio) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio.svg?style=social&label=Star) 
 - [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star) 
 
 	 *Speaker Voice Separation using Neural Nets* · ([arxiv](https://arxiv.org/abs/2003.01531.pdf))
@@ -62,7 +62,7 @@
 
 ## Datasets
 
-- 🌟 **AudioSetCaps: An Enriched Audio-Caption Dataset using Automated
+- 🌟 **AudioSetCaps: An Enriched Audio-Caption Dataset using Automated 
   Generation Pipeline with Large Audio and Language Models**, `arXiv, 2411.18953`, [arxiv](http://arxiv.org/abs/2411.18953v1), [pdf](http://arxiv.org/pdf/2411.18953v1.pdf), cication: [**-1**](None) 
 
 	 *Jisheng Bai, Haohe Liu, Mou Wang, ..., Woon-Seng Gan, Jianfeng Chen* · ([AudioSetCaps](https://github.com/JishengBai/AudioSetCaps) - JishengBai) ![Star](https://img.shields.io/github/stars/JishengBai/AudioSetCaps.svg?style=social&label=Star)
@@ -88,7 +88,7 @@
 
 ## Misc
 
-- [SUPERB is a collection of benchmarking resources to evaluate the capability of a universal shared representation for speech processing.](https://superbbenchmark.org/)
+- [SUPERB is a collection of benchmarking resources to evaluate the capability of a universal shared representation for speech processing.](https://superbbenchmark.org/) 
 - **Vision Language Models Are Few-Shot Audio Spectrogram Classifiers**, `arXiv, 2411.12058`, [arxiv](http://arxiv.org/abs/2411.12058v1), [pdf](http://arxiv.org/pdf/2411.12058v1.pdf), cication: [**-1**](None) 
 
 	 *Satvik Dixit, Laurie M. Heller, Chris Donahue*

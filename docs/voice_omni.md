@@ -24,7 +24,10 @@
 
 ## Voice Omni
 
-- **Advancing Speech Language Models by Scaling Supervised Fine-Tuning with
+- **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**, `arXiv, 2412.04917`, [arxiv](http://arxiv.org/abs/2412.04917v1), [pdf](http://arxiv.org/pdf/2412.04917v1.pdf), cication: [**-1**](None) 
+
+	 *Ze Yuan, Yanqing Liu, Shujie Liu, ..., Sheng Zhao* · ([cognitivespeech.github](https://cognitivespeech.github.io/flowomni))
+- **Advancing Speech Language Models by Scaling Supervised Fine-Tuning with 
   Over 60,000 Hours of Synthetic Speech Dialogue Data**, `arXiv, 2412.01078`, [arxiv](http://arxiv.org/abs/2412.01078v2), [pdf](http://arxiv.org/pdf/2412.01078v2.pdf), cication: [**-1**](None) 
 
 	 *Shuaijiang Zhao, Tingwei Guo, Bajian Xiang, ..., Wei Zou, Xiangang Li* · ([huggingface](https://huggingface.co/spaces/KE-Team/KE-Omni))
