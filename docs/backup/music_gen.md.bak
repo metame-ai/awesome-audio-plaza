@@ -15,7 +15,10 @@
 
 ## Music Generation
 
-- [MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models](https://arxiv.org/abs/2412.06660)
+- **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large
+  Language Models**, `arXiv, 2412.06660`, [arxiv](http://arxiv.org/abs/2412.06660v1), [pdf](http://arxiv.org/pdf/2412.06660v1.pdf), cication: [**-1**](None) 
+
+	 *Shansong Liu, Atin Sakkeer Hussain, Qilong Wu, ..., Chenshuo Sun, Ying Shan*
 - **GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music 
   Scores for All Singing Tasks**, `arXiv, 2409.13832`, [arxiv](http://arxiv.org/abs/2409.13832v4), [pdf](http://arxiv.org/pdf/2409.13832v4.pdf), cication: [**1**](https://scholar.google.com/scholar?cites=4877574257490327541&as_sdt=2005&sciodt=0,5&hl=en&oe=ASCII)
 

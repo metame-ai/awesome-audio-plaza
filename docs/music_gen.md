@@ -15,7 +15,7 @@
 
 ## Music Generation
 
-- **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large
+- **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large 
   Language Models**, `arXiv, 2412.06660`, [arxiv](http://arxiv.org/abs/2412.06660v1), [pdf](http://arxiv.org/pdf/2412.06660v1.pdf), cication: [**-1**](None) 
 
 	 *Shansong Liu, Atin Sakkeer Hussain, Qilong Wu, ..., Chenshuo Sun, Ying Shan*
