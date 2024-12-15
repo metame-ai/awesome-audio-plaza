@@ -28,7 +28,7 @@
 
 ## Survey
 
-- **Towards Controllable Speech Synthesis in the Era of Large Language
+- **Towards Controllable Speech Synthesis in the Era of Large Language 
   Models: A Survey**, `arXiv, 2412.06602`, [arxiv](http://arxiv.org/abs/2412.06602v1), [pdf](http://arxiv.org/pdf/2412.06602v1.pdf), cication: [**-1**](None) 
 
 	 *Tianxin Xie, Yan Rong, Pengfei Zhang, ..., Li Liu*

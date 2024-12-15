@@ -24,6 +24,13 @@
 
 ## Voice Omni
 
+- 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for
+  Long-term Streaming Video and Audio Interactions**, `arXiv, 2412.09596`, [arxiv](http://arxiv.org/abs/2412.09596v1), [pdf](http://arxiv.org/pdf/2412.09596v1.pdf), cication: [**-1**](None) 
+
+	 *Pan Zhang, Xiaoyi Dong, Yuhang Cao, ..., Dahua Lin, Jiaqi Wang* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/internlm/internlm-xcomposer2d5-ol-7b))
+- **Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition**, `arXiv, 2412.09501`, [arxiv](http://arxiv.org/abs/2412.09501v1), [pdf](http://arxiv.org/pdf/2412.09501v1.pdf), cication: [**-1**](None) 
+
+	 *Zhisheng Zhong, Chengyao Wang, Yuqi Liu, ..., Shu Liu, Jiaya Jia* · ([lyra-omni.github](https://lyra-omni.github.io/)) · ([103.170.5](https://103.170.5.190:17860/)) · ([Lyra](https://github.com/dvlab-research/Lyra) - dvlab-research) ![Star](https://img.shields.io/github/stars/dvlab-research/Lyra.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/zszhong/lyra-model-674ea5bb3b39ff8f15de75fc))
 - **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**, `arXiv, 2412.04917`, [arxiv](http://arxiv.org/abs/2412.04917v1), [pdf](http://arxiv.org/pdf/2412.04917v1.pdf), cication: [**-1**](None) 
 
 	 *Ze Yuan, Yanqing Liu, Shujie Liu, ..., Sheng Zhao* · ([cognitivespeech.github](https://cognitivespeech.github.io/flowomni))
@@ -135,6 +142,7 @@
 
 ## Misc
 
+- [OmniAudio is the world's fastest and most efficient audio-language model for on-device deployment](https://huggingface.co/NexaAIDev/OmniAudio-2.6B)  🤗
 - [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star) 
 - [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
 - [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏 
