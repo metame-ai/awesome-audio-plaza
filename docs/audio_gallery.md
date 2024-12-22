@@ -39,6 +39,9 @@
 
 ## Audio Separation
 
+- [Vocal Track Separation with Encoder-Decoder Architecture](https://keras.io/examples/audio/vocal_track_separation/) 
+
+	 · ([keras-io](https://github.com/keras-team/keras-io/blob/master/examples/audio/vocal_track_separation.py) - keras-team) ![Star](https://img.shields.io/github/stars/keras-team/keras-io.svg?style=social&label=Star)
 - [**ClearerVoice-Studio**](https://github.com/modelscope/ClearerVoice-Studio) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio.svg?style=social&label=Star) 
 - [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star) 
 

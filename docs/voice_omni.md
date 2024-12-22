@@ -24,7 +24,14 @@
 
 ## Voice Omni
 
-- 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for
+- **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**, `arXiv, 2412.04917`, [arxiv](http://arxiv.org/abs/2412.04917v1), [pdf](http://arxiv.org/pdf/2412.04917v1.pdf), cication: [**-1**](None) 
+
+	 *Ze Yuan, Yanqing Liu, Shujie Liu, ..., Sheng Zhao*
+- **AlignFormer: Modality Matching Can Achieve Better Zero-shot
+  Instruction-Following Speech-LLM**, `arXiv, 2412.01145`, [arxiv](http://arxiv.org/abs/2412.01145v1), [pdf](http://arxiv.org/pdf/2412.01145v1.pdf), cication: [**-1**](None) 
+
+	 *Ruchao Fan, Bo Ren, Yuxuan Hu, ..., Shujie Liu, Jinyu Li*
+- 🌟 **InternLM-XComposer2.5-OmniLive: A Comprehensive Multimodal System for 
   Long-term Streaming Video and Audio Interactions**, `arXiv, 2412.09596`, [arxiv](http://arxiv.org/abs/2412.09596v1), [pdf](http://arxiv.org/pdf/2412.09596v1.pdf), cication: [**-1**](None) 
 
 	 *Pan Zhang, Xiaoyi Dong, Yuhang Cao, ..., Dahua Lin, Jiaqi Wang* · ([InternLM-XComposer](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive) - InternLM) ![Star](https://img.shields.io/github/stars/InternLM/InternLM-XComposer.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/internlm/internlm-xcomposer2d5-ol-7b))
@@ -100,6 +107,7 @@
 
 ## Evaluation
 
+- [Evaluating Audio Reasoning with Big Bench Audio](https://huggingface.co/blog/big-bench-audio-release)  🤗
 - **VoiceBench: Benchmarking LLM-Based Voice Assistants**, `arXiv, 2410.17196`, [arxiv](http://arxiv.org/abs/2410.17196v1), [pdf](http://arxiv.org/pdf/2410.17196v1.pdf), cication: [**-1**](None) 
 
 	 *Yiming Chen, Xianghu Yue, Chen Zhang, ..., Robby T. Tan, Haizhou Li*
@@ -112,6 +120,7 @@
 
 ## Projects
 
+- [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star)
 - [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 
 
 	 *A Flexible Multimodal Language Model Framework*
@@ -142,7 +151,7 @@
 
 ## Misc
 
-- [OmniAudio is the world's fastest and most efficient audio-language model for on-device deployment](https://huggingface.co/NexaAIDev/OmniAudio-2.6B)  🤗
+- [OmniAudio is the world's fastest and most efficient audio-language model for on-device deployment](https://huggingface.co/NexaAIDev/OmniAudio-2.6B)  🤗 
 - [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star) 
 - [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
 - [Talk to AI with natural speech detection](https://x.com/BenjaminKlieger/status/1853899938561917355)  𝕏 

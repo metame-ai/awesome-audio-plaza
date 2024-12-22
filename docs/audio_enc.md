@@ -12,6 +12,7 @@
 
 ## Projects
 
+- [**S3Tokenizer**](https://github.com/xingchensong/S3Tokenizer) - xingchensong ![Star](https://img.shields.io/github/stars/xingchensong/S3Tokenizer.svg?style=social&label=Star)
 
 ## Audio Encodec
 
