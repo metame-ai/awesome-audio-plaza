@@ -39,8 +39,9 @@
 
 ## Audio Separation
 
-- [Vocal Track Separation with Encoder-Decoder Architecture](https://keras.io/examples/audio/vocal_track_separation/)
-   - [github.com](https://github.com/keras-team/keras-io/blob/master/examples/audio/vocal_track_separation.py)
+- [Vocal Track Separation with Encoder-Decoder Architecture](https://keras.io/examples/audio/vocal_track_separation/) 
+
+	 · ([keras-io](https://github.com/keras-team/keras-io/blob/master/examples/audio/vocal_track_separation.py) - keras-team) ![Star](https://img.shields.io/github/stars/keras-team/keras-io.svg?style=social&label=Star)
 - [**ClearerVoice-Studio**](https://github.com/modelscope/ClearerVoice-Studio) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/ClearerVoice-Studio.svg?style=social&label=Star) 
 - [**svoice**](https://github.com/facebookresearch/svoice) - facebookresearch ![Star](https://img.shields.io/github/stars/facebookresearch/svoice.svg?style=social&label=Star) 
 
@@ -90,6 +91,7 @@
 
 ## Misc
 
+- [VERSA (Versatile Evaluation of Speech and Audio) is a toolkit dedicated to collecting evaluation metrics in speech and audio quality.](https://github.com/shinjiwlab/versa)
 - [SUPERB is a collection of benchmarking resources to evaluate the capability of a universal shared representation for speech processing.](https://superbbenchmark.org/) 
 - **Vision Language Models Are Few-Shot Audio Spectrogram Classifiers**, `arXiv, 2411.12058`, [arxiv](http://arxiv.org/abs/2411.12058v1), [pdf](http://arxiv.org/pdf/2411.12058v1.pdf), cication: [**-1**](None) 
 

@@ -18,6 +18,10 @@
 
 ## Audio Generation
 
+- **Taming Multimodal Joint Training for High-Quality Video-to-Audio
+  Synthesis**, `arXiv, 2412.15322`, [arxiv](http://arxiv.org/abs/2412.15322v1), [pdf](http://arxiv.org/pdf/2412.15322v1.pdf), cication: [**-1**](None) 
+
+	 *Ho Kei Cheng, Masato Ishii, Akio Hayakawa, ..., Alexander Schwing, Yuki Mitsufuji* · ([huggingface](https://huggingface.co/spaces/hkchengrex/MMAudio)) · ([hkchengrex](https://hkchengrex.com/MMAudio)) · ([MMAudio](https://github.com/hkchengrex/MMAudio) - hkchengrex) ![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social&label=Star)
 - [Fugatto is a framework for audio synthesis and transformation given text instructions and optional audio inputs.](https://fugatto.github.io/) 
 
 	 · ([fugatto.github](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf))

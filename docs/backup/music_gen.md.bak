@@ -15,8 +15,10 @@
 
 ## Music Generation
 
-- [Paper page - Multimodal Music Generation with Explicit Bridges and Retrieval  Augmentation](https://huggingface.co/papers/2412.09428)
-   - [github.com](https://github.com/wbs2788/VMB)
+- **Multimodal Music Generation with Explicit Bridges and Retrieval
+  Augmentation**, `arXiv, 2412.09428`, [arxiv](http://arxiv.org/abs/2412.09428v1), [pdf](http://arxiv.org/pdf/2412.09428v1.pdf), cication: [**-1**](None) 
+
+	 *Baisen Wang, Le Zhuo, Zhaokai Wang, ..., Yue Liao, Si Liu* · ([VMB](https://github.com/wbs2788/VMB) - wbs2788) ![Star](https://img.shields.io/github/stars/wbs2788/VMB.svg?style=social&label=Star)
 - **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large 
   Language Models**, `arXiv, 2412.06660`, [arxiv](http://arxiv.org/abs/2412.06660v1), [pdf](http://arxiv.org/pdf/2412.06660v1.pdf), cication: [**-1**](None) 
 

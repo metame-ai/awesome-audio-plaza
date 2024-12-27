@@ -26,7 +26,7 @@
 
 ## Projects
 
-- [**transformers.js-examples**](https://github.com/huggingface/transformers.js-examples/tree/main/moonshine-web) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/transformers.js-examples.svg?style=social&label=Star)
+- [**transformers.js-examples**](https://github.com/huggingface/transformers.js-examples/tree/main/moonshine-web) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/transformers.js-examples.svg?style=social&label=Star) 
 - [**whisper-ner**](https://github.com/aiola-lab/whisper-ner) - aiola-lab ![Star](https://img.shields.io/github/stars/aiola-lab/whisper-ner.svg?style=social&label=Star) 
 
 	 · ([arxiv](https://arxiv.org/abs/2409.08107))

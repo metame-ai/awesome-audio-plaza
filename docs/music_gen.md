@@ -15,7 +15,7 @@
 
 ## Music Generation
 
-- **Multimodal Music Generation with Explicit Bridges and Retrieval
+- **Multimodal Music Generation with Explicit Bridges and Retrieval 
   Augmentation**, `arXiv, 2412.09428`, [arxiv](http://arxiv.org/abs/2412.09428v1), [pdf](http://arxiv.org/pdf/2412.09428v1.pdf), cication: [**-1**](None) 
 
 	 *Baisen Wang, Le Zhuo, Zhaokai Wang, ..., Yue Liao, Si Liu* · ([VMB](https://github.com/wbs2788/VMB) - wbs2788) ![Star](https://img.shields.io/github/stars/wbs2788/VMB.svg?style=social&label=Star)

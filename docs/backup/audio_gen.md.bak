@@ -18,6 +18,10 @@
 
 ## Audio Generation
 
+- [Paper page - Taming Multimodal Joint Training for High-Quality Video-to-Audio  Synthesis](https://huggingface.co/papers/2412.15322)
+   - [huggingface.co](https://huggingface.co/spaces/hkchengrex/MMAudio)
+   - [hkchengrex.com](https://hkchengrex.com/MMAudio)
+   - [github.com](https://github.com/hkchengrex/MMAudio)
 - [Fugatto is a framework for audio synthesis and transformation given text instructions and optional audio inputs.](https://fugatto.github.io/) 
 
 	 · ([fugatto.github](https://fugatto.github.io/FUGATTO_ICLR_2025.pdf))

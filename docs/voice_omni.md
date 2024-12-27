@@ -24,10 +24,14 @@
 
 ## Voice Omni
 
+- **SLAM-Omni: Timbre-Controllable Voice Interaction System with
+  Single-Stage Training**, `arXiv, 2412.15649`, [arxiv](http://arxiv.org/abs/2412.15649v1), [pdf](http://arxiv.org/pdf/2412.15649v1.pdf), cication: [**-1**](None) 
+
+	 *Wenxi Chen, Ziyang Ma, Ruiqi Yan, ..., Shujie Liu, Xie Chen* · ([slam-omni.github](https://slam-omni.github.io/))
 - **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**, `arXiv, 2412.04917`, [arxiv](http://arxiv.org/abs/2412.04917v1), [pdf](http://arxiv.org/pdf/2412.04917v1.pdf), cication: [**-1**](None) 
 
 	 *Ze Yuan, Yanqing Liu, Shujie Liu, ..., Sheng Zhao*
-- **AlignFormer: Modality Matching Can Achieve Better Zero-shot
+- **AlignFormer: Modality Matching Can Achieve Better Zero-shot 
   Instruction-Following Speech-LLM**, `arXiv, 2412.01145`, [arxiv](http://arxiv.org/abs/2412.01145v1), [pdf](http://arxiv.org/pdf/2412.01145v1.pdf), cication: [**-1**](None) 
 
 	 *Ruchao Fan, Bo Ren, Yuxuan Hu, ..., Shujie Liu, Jinyu Li*
@@ -107,7 +111,7 @@
 
 ## Evaluation
 
-- [Evaluating Audio Reasoning with Big Bench Audio](https://huggingface.co/blog/big-bench-audio-release)  🤗
+- [Evaluating Audio Reasoning with Big Bench Audio](https://huggingface.co/blog/big-bench-audio-release)  🤗 
 - **VoiceBench: Benchmarking LLM-Based Voice Assistants**, `arXiv, 2410.17196`, [arxiv](http://arxiv.org/abs/2410.17196v1), [pdf](http://arxiv.org/pdf/2410.17196v1.pdf), cication: [**-1**](None) 
 
 	 *Yiming Chen, Xianghu Yue, Chen Zhang, ..., Robby T. Tan, Haizhou Li*
@@ -120,7 +124,8 @@
 
 ## Projects
 
-- [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star)
+- [**openai-realtime-embedded-sdk**](https://github.com/openai/openai-realtime-embedded-sdk) - openai ![Star](https://img.shields.io/github/stars/openai/openai-realtime-embedded-sdk.svg?style=social&label=Star)
+- [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star) 
 - [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 
 
 	 *A Flexible Multimodal Language Model Framework*
@@ -141,6 +146,8 @@
 
 ## Products
 
+- [Introducing OCTAVE, a next-generation speech-language model.](https://x.com/hume_ai/status/1871263932742246513)  𝕏
+- [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  :clapper:
 - [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487)  𝕏 
 
 ## Datasets
@@ -151,6 +158,7 @@
 
 ## Misc
 
+- [声网刘斌：“Her”真正落地实现离不开RTE能力的支撑｜MEET 2025](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247769213&idx=2&sn=2fa5bd98d8e3eb4246a5ee74a5cd8595&chksm=e94b63006fa12a765db0fa3bd06422be070c414bf06795c9a10af729909a7bccef52872e05f6&scene=0&xtrack=1) 
 - [OmniAudio is the world's fastest and most efficient audio-language model for on-device deployment](https://huggingface.co/NexaAIDev/OmniAudio-2.6B)  🤗 
 - [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star) 
 - [Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming](https://www.semanticscholar.org/paper/Mini-Omni%3A-Language-Models-Can-Hear%2C-Talk-While-in-Xie-Wu/8625ab06f76caf36ab138bac20a3116ba5b298e6) 
