@@ -15,8 +15,9 @@
 
 ## Zero Shot TTS
 
-- [Paper page - Autoregressive Speech Synthesis with Next-Distribution Prediction](https://huggingface.co/papers/2412.16846)
-   - [zxf-icpc.github.io](https://zxf-icpc.github.io/kalle/)
+- **Autoregressive Speech Synthesis with Next-Distribution Prediction**, `arXiv, 2412.16846`, [arxiv](http://arxiv.org/abs/2412.16846v1), [pdf](http://arxiv.org/pdf/2412.16846v1.pdf), cication: [**-1**](None) 
+
+	 *Xinfa Zhu, Wenjie Tian, Lei Xie* · ([zxf-icpc.github](https://zxf-icpc.github.io/kalle/))
 - :star2: **Fish-Speech: Leveraging Large Language Models for Advanced Multilingual 
   Text-to-Speech Synthesis**, `arXiv, 2411.01156`, [arxiv](http://arxiv.org/abs/2411.01156v1), [pdf](http://arxiv.org/pdf/2411.01156v1.pdf), cication: [**-1**](None) 
 

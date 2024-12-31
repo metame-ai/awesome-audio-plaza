@@ -18,8 +18,9 @@
 
 ## TTS
 
-- [Paper page - Long-Form Speech Generation with Spoken Language Models](https://huggingface.co/papers/2412.18603)
-   - [google.github.io](https://google.github.io/tacotron/publications/speechssm/)
+- **Long-Form Speech Generation with Spoken Language Models**, `arXiv, 2412.18603`, [arxiv](http://arxiv.org/abs/2412.18603v1), [pdf](http://arxiv.org/pdf/2412.18603v1.pdf), cication: [**-1**](None) 
+
+	 *Se Jin Park, Julian Salazar, Aren Jansen, ..., Yong Man Ro, RJ Skerry-Ryan* · ([google.github](https://google.github.io/tacotron/publications/speechssm/))
 - **TouchTTS: An Embarrassingly Simple TTS Framework that Everyone Can Touch**, `arXiv, 2412.08237`, [arxiv](http://arxiv.org/abs/2412.08237v2), [pdf](http://arxiv.org/pdf/2412.08237v2.pdf), cication: [**-1**](None) 
 
 	 *Xingchen Song, Mengtao Xing, Changwei Ma, ..., Zhendong Peng, Zhiyong Wu*

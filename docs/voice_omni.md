@@ -24,7 +24,7 @@
 
 ## Voice Omni
 
-- **SLAM-Omni: Timbre-Controllable Voice Interaction System with
+- **SLAM-Omni: Timbre-Controllable Voice Interaction System with 
   Single-Stage Training**, `arXiv, 2412.15649`, [arxiv](http://arxiv.org/abs/2412.15649v1), [pdf](http://arxiv.org/pdf/2412.15649v1.pdf), cication: [**-1**](None) 
 
 	 *Wenxi Chen, Ziyang Ma, Ruiqi Yan, ..., Shujie Liu, Xie Chen* · ([slam-omni.github](https://slam-omni.github.io/))
@@ -124,7 +124,7 @@
 
 ## Projects
 
-- [**openai-realtime-embedded-sdk**](https://github.com/openai/openai-realtime-embedded-sdk) - openai ![Star](https://img.shields.io/github/stars/openai/openai-realtime-embedded-sdk.svg?style=social&label=Star)
+- [**openai-realtime-embedded-sdk**](https://github.com/openai/openai-realtime-embedded-sdk) - openai ![Star](https://img.shields.io/github/stars/openai/openai-realtime-embedded-sdk.svg?style=social&label=Star) 
 - [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star) 
 - [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 
 
@@ -146,8 +146,8 @@
 
 ## Products
 
-- [Introducing OCTAVE, a next-generation speech-language model.](https://x.com/hume_ai/status/1871263932742246513)  𝕏
-- [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  :clapper:
+- [Introducing OCTAVE, a next-generation speech-language model.](https://x.com/hume_ai/status/1871263932742246513)  𝕏 
+- [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  :clapper: 
 - [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487)  𝕏 
 
 ## Datasets
