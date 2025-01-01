@@ -18,8 +18,11 @@
 
 ## Audio Generation
 
-- [Voxtlm: unified decoder-only models for consolidating speech recognition/synthesis and speech/text continuation tasks](https://arxiv.org/abs/2309.07937)
-- **Taming Multimodal Joint Training for High-Quality Video-to-Audio
+- **Voxtlm: unified decoder-only models for consolidating speech
+  recognition/synthesis and speech/text continuation tasks**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.07937v3), [pdf](http://arxiv.org/pdf/2309.07937v3.pdf), cication: [**-1**](None) 
+
+	 *Soumi Maiti, Yifan Peng, Shukjae Choi, ..., Xuankai Chang, Shinji Watanabe*
+- **Taming Multimodal Joint Training for High-Quality Video-to-Audio 
   Synthesis**, `arXiv, 2412.15322`, [arxiv](http://arxiv.org/abs/2412.15322v1), [pdf](http://arxiv.org/pdf/2412.15322v1.pdf), cication: [**-1**](None) 
 
 	 *Ho Kei Cheng, Masato Ishii, Akio Hayakawa, ..., Alexander Schwing, Yuki Mitsufuji* · ([huggingface](https://huggingface.co/spaces/hkchengrex/MMAudio)) · ([hkchengrex](https://hkchengrex.com/MMAudio)) · ([MMAudio](https://github.com/hkchengrex/MMAudio) - hkchengrex) ![Star](https://img.shields.io/github/stars/hkchengrex/MMAudio.svg?style=social&label=Star)

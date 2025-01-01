@@ -91,7 +91,7 @@
 
 ## Misc
 
-- [**versa**](https://github.com/shinjiwlab/versa) - shinjiwlab ![Star](https://img.shields.io/github/stars/shinjiwlab/versa.svg?style=social&label=Star)
+- [**versa**](https://github.com/shinjiwlab/versa) - shinjiwlab ![Star](https://img.shields.io/github/stars/shinjiwlab/versa.svg?style=social&label=Star) 
 - [SUPERB is a collection of benchmarking resources to evaluate the capability of a universal shared representation for speech processing.](https://superbbenchmark.org/) 
 - **Vision Language Models Are Few-Shot Audio Spectrogram Classifiers**, `arXiv, 2411.12058`, [arxiv](http://arxiv.org/abs/2411.12058v1), [pdf](http://arxiv.org/pdf/2411.12058v1.pdf), cication: [**-1**](None) 
 

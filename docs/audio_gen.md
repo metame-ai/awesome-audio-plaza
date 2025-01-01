@@ -18,7 +18,7 @@
 
 ## Audio Generation
 
-- **Voxtlm: unified decoder-only models for consolidating speech
+- **Voxtlm: unified decoder-only models for consolidating speech 
   recognition/synthesis and speech/text continuation tasks**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.07937v3), [pdf](http://arxiv.org/pdf/2309.07937v3.pdf), cication: [**-1**](None) 
 
 	 *Soumi Maiti, Yifan Peng, Shukjae Choi, ..., Xuankai Chang, Shinji Watanabe*
