@@ -18,6 +18,10 @@
 
 ## Audio Generation
 
+- **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow
+  Matching and Clap-Ranked Preference Optimization**, `arXiv, 2412.21037`, [arxiv](http://arxiv.org/abs/2412.21037v1), [pdf](http://arxiv.org/pdf/2412.21037v1.pdf), cication: [**-1**](None) 
+
+	 *Chia-Yu Hung, Navonil Majumder, Zhifeng Kong, ..., Bryan Catanzaro, Soujanya Poria* · ([tangoflux.github](https://tangoflux.github.io/))
 - **Voxtlm: unified decoder-only models for consolidating speech 
   recognition/synthesis and speech/text continuation tasks**, `icassp 2024-2024 ieee international conference on acoustics …, 2024`, [arxiv](http://arxiv.org/abs/2309.07937v3), [pdf](http://arxiv.org/pdf/2309.07937v3.pdf), cication: [**-1**](None) 
 
