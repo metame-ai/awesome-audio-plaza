@@ -15,6 +15,8 @@
 
 ## Zero Shot TTS
 
+- [Paper page - CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language  Models](https://huggingface.co/papers/2412.10117)|star|
+   - [funaudiollm.github.io](https://funaudiollm.github.io/cosyvoice2)
 - **Autoregressive Speech Synthesis with Next-Distribution Prediction**, `arXiv, 2412.16846`, [arxiv](http://arxiv.org/abs/2412.16846v1), [pdf](http://arxiv.org/pdf/2412.16846v1.pdf), cication: [**-1**](None) 
 
 	 *Xinfa Zhu, Wenjie Tian, Lei Xie* · ([zxf-icpc.github](https://zxf-icpc.github.io/kalle/))
