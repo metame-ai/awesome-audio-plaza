@@ -18,7 +18,7 @@
 
 ## Audio Generation
 
-- **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow
+- **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow 
   Matching and Clap-Ranked Preference Optimization**, `arXiv, 2412.21037`, [arxiv](http://arxiv.org/abs/2412.21037v1), [pdf](http://arxiv.org/pdf/2412.21037v1.pdf), cication: [**-1**](None) 
 
 	 *Chia-Yu Hung, Navonil Majumder, Zhifeng Kong, ..., Bryan Catanzaro, Soujanya Poria* · ([tangoflux.github](https://tangoflux.github.io/))
