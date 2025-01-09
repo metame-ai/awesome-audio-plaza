@@ -24,6 +24,9 @@
 
 ## Voice Omni
 
+- [GPT-4o](https://nonint.com/2024/05/14/gpt-4o/)
+- [Paper page - VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction](https://huggingface.co/papers/2501.01957)
+   - [github.com](https://github.com/VITA-MLLM/VITA)
 - **SLAM-Omni: Timbre-Controllable Voice Interaction System with 
   Single-Stage Training**, `arXiv, 2412.15649`, [arxiv](http://arxiv.org/abs/2412.15649v1), [pdf](http://arxiv.org/pdf/2412.15649v1.pdf), cication: [**-1**](None) 
 

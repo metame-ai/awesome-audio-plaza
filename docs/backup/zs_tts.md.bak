@@ -15,7 +15,7 @@
 
 ## Zero Shot TTS
 
-- 🌟 **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language
+- 🌟 **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language 
   Models**, `arXiv, 2412.10117`, [arxiv](http://arxiv.org/abs/2412.10117v3), [pdf](http://arxiv.org/pdf/2412.10117v3.pdf), cication: [**-1**](None) 
 
 	 *Zhihao Du, Yuxuan Wang, Qian Chen, ..., Zhijie Yan, Jingren Zhou* · ([funaudiollm.github](https://funaudiollm.github.io/cosyvoice2))

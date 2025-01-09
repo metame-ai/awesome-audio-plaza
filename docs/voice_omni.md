@@ -24,6 +24,10 @@
 
 ## Voice Omni
 
+- [GPT-4o](https://nonint.com/2024/05/14/gpt-4o/) 
+- **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, `arXiv, 2501.01957`, [arxiv](http://arxiv.org/abs/2501.01957v1), [pdf](http://arxiv.org/pdf/2501.01957v1.pdf), cication: [**-1**](None) 
+
+	 *Chaoyou Fu, Haojia Lin, Xiong Wang, ..., Caifeng Shan, Ran He* · ([VITA](https://github.com/VITA-MLLM/VITA) - VITA-MLLM) ![Star](https://img.shields.io/github/stars/VITA-MLLM/VITA.svg?style=social&label=Star)
 - **SLAM-Omni: Timbre-Controllable Voice Interaction System with 
   Single-Stage Training**, `arXiv, 2412.15649`, [arxiv](http://arxiv.org/abs/2412.15649v1), [pdf](http://arxiv.org/pdf/2412.15649v1.pdf), cication: [**-1**](None) 
 
