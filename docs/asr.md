@@ -16,6 +16,10 @@
 
 ## ASR
 
+- **Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured
+  State-Space Models**, `arXiv, 2501.02832`, [arxiv](http://arxiv.org/abs/2501.02832v3), [pdf](http://arxiv.org/pdf/2501.02832v3.pdf), cication: [**-1**](None) 
+
+	 *Syed Abdul Gaffar Shakhadri, Kruthika KR, Kartik Basavaraj Angadi*
 - 🌟 **A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks 
   with Large Language Models**, `arXiv, 2411.08742`, [arxiv](http://arxiv.org/abs/2411.08742v1), [pdf](http://arxiv.org/pdf/2411.08742v1.pdf), cication: [**-1**](None) 
 

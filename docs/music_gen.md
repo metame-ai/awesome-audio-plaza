@@ -12,7 +12,7 @@
 
 ## Survey
 
-- [**FM4Music**](https://github.com/nicolaus625/FM4Music) - nicolaus625 ![Star](https://img.shields.io/github/stars/nicolaus625/FM4Music.svg?style=social&label=Star)
+- [**FM4Music**](https://github.com/nicolaus625/FM4Music) - nicolaus625 ![Star](https://img.shields.io/github/stars/nicolaus625/FM4Music.svg?style=social&label=Star) 
 
 	 *A Survey*
 
