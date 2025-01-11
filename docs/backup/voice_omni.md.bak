@@ -24,7 +24,10 @@
 
 ## Voice Omni
 
-- [Paper page - OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment  across Language with Real-time Self-Aware Emotional Speech Synthesis](https://huggingface.co/papers/2501.04561)
+- **OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment
+  across Language with Real-time Self-Aware Emotional Speech Synthesis**, `arXiv, 2501.04561`, [arxiv](http://arxiv.org/abs/2501.04561v2), [pdf](http://arxiv.org/pdf/2501.04561v2.pdf), cication: [**-1**](None) 
+
+	 *Run Luo, Ting-En Lin, Haonan Zhang, ..., Hamid Alinejad-Rokny, Fei Huang*
 - [GPT-4o](https://nonint.com/2024/05/14/gpt-4o/) 
 - **VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**, `arXiv, 2501.01957`, [arxiv](http://arxiv.org/abs/2501.01957v1), [pdf](http://arxiv.org/pdf/2501.01957v1.pdf), cication: [**-1**](None) 
 
@@ -163,7 +166,7 @@
 
 ## Misc
 
-- [OpenAI Realtime API: The Missing Manual](https://www.latent.space/p/realtime-api)
+- [OpenAI Realtime API: The Missing Manual](https://www.latent.space/p/realtime-api) 
 - [声网刘斌：“Her”真正落地实现离不开RTE能力的支撑｜MEET 2025](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247769213&idx=2&sn=2fa5bd98d8e3eb4246a5ee74a5cd8595&chksm=e94b63006fa12a765db0fa3bd06422be070c414bf06795c9a10af729909a7bccef52872e05f6&scene=0&xtrack=1) 
 - [OmniAudio is the world's fastest and most efficient audio-language model for on-device deployment](https://huggingface.co/NexaAIDev/OmniAudio-2.6B)  🤗 
 - [**TEN-Agent**](https://github.com/TEN-framework/TEN-Agent) - TEN-framework ![Star](https://img.shields.io/github/stars/TEN-framework/TEN-Agent.svg?style=social&label=Star) 
