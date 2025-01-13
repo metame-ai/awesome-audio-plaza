@@ -16,7 +16,7 @@
 
 ## ASR
 
-- **Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured
+- **Samba-ASR: State-Of-The-Art Speech Recognition Leveraging Structured 
   State-Space Models**, `arXiv, 2501.02832`, [arxiv](http://arxiv.org/abs/2501.02832v3), [pdf](http://arxiv.org/pdf/2501.02832v3.pdf), cication: [**-1**](None) 
 
 	 *Syed Abdul Gaffar Shakhadri, Kruthika KR, Kartik Basavaraj Angadi*

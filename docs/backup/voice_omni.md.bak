@@ -24,7 +24,7 @@
 
 ## Voice Omni
 
-- **OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment
+- **OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment 
   across Language with Real-time Self-Aware Emotional Speech Synthesis**, `arXiv, 2501.04561`, [arxiv](http://arxiv.org/abs/2501.04561v2), [pdf](http://arxiv.org/pdf/2501.04561v2.pdf), cication: [**-1**](None) 
 
 	 *Run Luo, Ting-En Lin, Haonan Zhang, ..., Hamid Alinejad-Rokny, Fei Huang*
