@@ -16,6 +16,7 @@
 
 ## Audio Encodec
 
+- [mhubert-base-25hz](https://huggingface.co/slprl/mhubert-base-25hz)
 - 🌟 **Scaling Transformers for Low-Bitrate High-Quality Speech Coding**, `arXiv, 2411.19842`, [arxiv](http://arxiv.org/abs/2411.19842v1), [pdf](http://arxiv.org/pdf/2411.19842v1.pdf), cication: [**-1**](None) 
 
 	 *Julian D Parker, Anton Smirnov, Jordi Pons, ..., Zach Evans, Xubo Liu* · ([stable-codec](https://github.com/Stability-AI/stable-codec) - Stability-AI) ![Star](https://img.shields.io/github/stars/Stability-AI/stable-codec.svg?style=social&label=Star)
