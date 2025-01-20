@@ -11,7 +11,10 @@
 
 ## Papers
 
-- [Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language Model](https://arxiv.org/abs/2501.07246)
+- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language
+  Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
+
+	 *Ziyang Ma, Zhuo Chen, Yuping Wang, ..., Eng Siong Chng, Xie Chen*
 - **State-Space Large Audio Language Models**, `arXiv, 2411.15685`, [arxiv](http://arxiv.org/abs/2411.15685v1), [pdf](http://arxiv.org/pdf/2411.15685v1.pdf), cication: [**-1**](None) 
 
 	 *Saurabhchand Bhati, Yuan Gong, Leonid Karlinsky, ..., Rogerio Feris, James Glass*

@@ -11,7 +11,7 @@
 
 ## Papers
 
-- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language
+- **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language 
   Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
 
 	 *Ziyang Ma, Zhuo Chen, Yuping Wang, ..., Eng Siong Chng, Xie Chen*
