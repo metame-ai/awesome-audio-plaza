@@ -27,7 +27,7 @@
 - 🌟 **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**, `arXiv, 2501.06282`, [arxiv](http://arxiv.org/abs/2501.06282v1), [pdf](http://arxiv.org/pdf/2501.06282v1.pdf), cication: [**-1**](None) 
 
 	 *Qian Chen, Yafeng Chen, Yanni Chen, ..., Chong Zhang, Jinren Zhou* · ([funaudiollm.github](https://funaudiollm.github.io/minmo/))
-- [A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone](https://huggingface.co/openbmb/MiniCPM-o-2_6)  🤗
+- [A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone](https://huggingface.co/openbmb/MiniCPM-o-2_6)  🤗 
 - **OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment 
   across Language with Real-time Self-Aware Emotional Speech Synthesis**, `arXiv, 2501.04561`, [arxiv](http://arxiv.org/abs/2501.04561v2), [pdf](http://arxiv.org/pdf/2501.04561v2.pdf), cication: [**-1**](None) 
 
@@ -136,7 +136,7 @@
 
 ## Projects
 
-- 🌟 [**MiniCPM-o**](https://github.com/OpenBMB/MiniCPM-o) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star)
+- 🌟 [**MiniCPM-o**](https://github.com/OpenBMB/MiniCPM-o) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star) 
 - [**openai-realtime-embedded-sdk**](https://github.com/openai/openai-realtime-embedded-sdk) - openai ![Star](https://img.shields.io/github/stars/openai/openai-realtime-embedded-sdk.svg?style=social&label=Star) 
 - [**Infini-Megrez**](https://github.com/infinigence/Infini-Megrez) - infinigence ![Star](https://img.shields.io/github/stars/infinigence/Infini-Megrez.svg?style=social&label=Star) 
 - [**AnyModal**](https://github.com/ritabratamaiti/AnyModal) - ritabratamaiti ![Star](https://img.shields.io/github/stars/ritabratamaiti/AnyModal.svg?style=social&label=Star) 

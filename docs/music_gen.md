@@ -18,6 +18,10 @@
 
 ## Music Generation
 
+- **XMusic: Towards a Generalized and Controllable Symbolic Music Generation
+  Framework**, `arXiv, 2501.08809`, [arxiv](http://arxiv.org/abs/2501.08809v1), [pdf](http://arxiv.org/pdf/2501.08809v1.pdf), cication: [**-1**](None) 
+
+	 *Sida Tian, Can Zhang, Wei Yuan, ..., Wei Tan, Wenjie Zhu* · ([xmusic-project.github](https://xmusic-project.github.io/))
 - **Multimodal Music Generation with Explicit Bridges and Retrieval 
   Augmentation**, `arXiv, 2412.09428`, [arxiv](http://arxiv.org/abs/2412.09428v1), [pdf](http://arxiv.org/pdf/2412.09428v1.pdf), cication: [**-1**](None) 
 

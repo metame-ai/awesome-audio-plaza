@@ -18,6 +18,8 @@
 
 ## Music Generation
 
+- [Paper page - XMusic: Towards a Generalized and Controllable Symbolic Music Generation  Framework](https://huggingface.co/papers/2501.08809)
+   - [xmusic-project.github.io](https://xmusic-project.github.io/)
 - **Multimodal Music Generation with Explicit Bridges and Retrieval 
   Augmentation**, `arXiv, 2412.09428`, [arxiv](http://arxiv.org/abs/2412.09428v1), [pdf](http://arxiv.org/pdf/2412.09428v1.pdf), cication: [**-1**](None) 
 
