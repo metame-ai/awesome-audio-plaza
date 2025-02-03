@@ -11,6 +11,10 @@
 
 ## Papers
 
+- **OSUM: Advancing Open Speech Understanding Models with Limited Resources
+  in Academia**, `arXiv, 2501.13306`, [arxiv](http://arxiv.org/abs/2501.13306v1), [pdf](http://arxiv.org/pdf/2501.13306v1.pdf), cication: [**-1**](None) 
+
+	 *Xuelong Geng, Kun Wei, Qijie Shao, ..., Li Zhang, Lei Xie*
 - **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language 
   Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
 

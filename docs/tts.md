@@ -50,6 +50,7 @@
 
 ## Projects
 
+- [LLaSA: Scaling Train-Time and Test-Time Compute for LLaMA-based Speech Synthesis](https://huggingface.co/HKUSTAudio/Llasa-1B)  🤗
 - [OuteTTS 0.3 1B & 500M](https://x.com/reach_vb/status/1879647151145590905)  𝕏 
 - [**tts-generation-webui**](https://github.com/rsxdalv/tts-generation-webui) - rsxdalv ![Star](https://img.shields.io/github/stars/rsxdalv/tts-generation-webui.svg?style=social&label=Star) 
 - [**alltalk_tts**](https://github.com/erew123/alltalk_tts/tree/alltalkbeta) - erew123 ![Star](https://img.shields.io/github/stars/erew123/alltalk_tts.svg?style=social&label=Star) 
