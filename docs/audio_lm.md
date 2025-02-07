@@ -11,7 +11,10 @@
 
 ## Papers
 
-- **OSUM: Advancing Open Speech Understanding Models with Limited Resources
+- **High-Fidelity Simultaneous Speech-To-Speech Translation**, `arXiv, 2502.03382`, [arxiv](http://arxiv.org/abs/2502.03382v1), [pdf](http://arxiv.org/pdf/2502.03382v1.pdf), cication: [**-1**](None) 
+
+	 *Tom Labiausse, Laurent Mazaré, Edouard Grave, ..., Alexandre Défossez, Neil Zeghidour* · ([hibiki](https://github.com/kyutai-labs/hibiki) - kyutai-labs) ![Star](https://img.shields.io/github/stars/kyutai-labs/hibiki.svg?style=social&label=Star) · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1ij35u7/hibiki_by_kyutai_a_simultaneous_speechtospeech/))
+- **OSUM: Advancing Open Speech Understanding Models with Limited Resources 
   in Academia**, `arXiv, 2501.13306`, [arxiv](http://arxiv.org/abs/2501.13306v1), [pdf](http://arxiv.org/pdf/2501.13306v1.pdf), cication: [**-1**](None) 
 
 	 *Xuelong Geng, Kun Wei, Qijie Shao, ..., Li Zhang, Lei Xie*

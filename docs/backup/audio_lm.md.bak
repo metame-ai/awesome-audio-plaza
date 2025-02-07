@@ -11,7 +11,13 @@
 
 ## Papers
 
-- [OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia](https://arxiv.org/abs/2501.13306)
+- [Paper page - High-Fidelity Simultaneous Speech-To-Speech Translation](https://huggingface.co/papers/2502.03382)
+   - [github.com](https://github.com/kyutai-labs/hibiki)
+   - [www.reddit.com](https://www.reddit.com/r/LocalLLaMA/comments/1ij35u7/hibiki_by_kyutai_a_simultaneous_speechtospeech/)
+- **OSUM: Advancing Open Speech Understanding Models with Limited Resources
+  in Academia**, `arXiv, 2501.13306`, [arxiv](http://arxiv.org/abs/2501.13306v1), [pdf](http://arxiv.org/pdf/2501.13306v1.pdf), cication: [**-1**](None) 
+
+	 *Xuelong Geng, Kun Wei, Qijie Shao, ..., Li Zhang, Lei Xie*
 - **Audio-CoT: Exploring Chain-of-Thought Reasoning in Large Audio Language 
   Model**, `arXiv, 2501.07246`, [arxiv](http://arxiv.org/abs/2501.07246v1), [pdf](http://arxiv.org/pdf/2501.07246v1.pdf), cication: [**-1**](None) 
 

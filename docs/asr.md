@@ -16,7 +16,7 @@
 
 ## ASR
 
-- **FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition
+- **FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition 
   Models from Encoder-Decoder to LLM Integration**, `arXiv, 2501.14350`, [arxiv](http://arxiv.org/abs/2501.14350v1), [pdf](http://arxiv.org/pdf/2501.14350v1.pdf), cication: [**-1**](None) 
 
 	 *Kai-Tuo Xu, Feng-Long Xie, Xu Tang, ..., Yao Hu* · ([FireRedASR](https://github.com/FireRedTeam/FireRedASR) - FireRedTeam) ![Star](https://img.shields.io/github/stars/FireRedTeam/FireRedASR.svg?style=social&label=Star)
