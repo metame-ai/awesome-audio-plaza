@@ -136,7 +136,7 @@
 
 ## Projects
 
-- 🌟 [**SpeechGPT-2.0-preview**](https://github.com/OpenMOSS/SpeechGPT-2.0-preview) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/SpeechGPT-2.0-preview.svg?style=social&label=Star)
+- 🌟 [**SpeechGPT-2.0-preview**](https://github.com/OpenMOSS/SpeechGPT-2.0-preview) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/SpeechGPT-2.0-preview.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/dongzha35524835/status/1883721464639344984))
 - 🌟 [**MiniCPM-o**](https://github.com/OpenBMB/MiniCPM-o) - OpenBMB ![Star](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg?style=social&label=Star) 
