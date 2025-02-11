@@ -18,7 +18,7 @@
 
 ## Music Generation
 
-- [YuE is a groundbreaking series of open-source foundation models designed for music generation](https://huggingface.co/m-a-p/YuE-s2-1B-general)  🤗
+- [YuE is a groundbreaking series of open-source foundation models designed for music generation](https://huggingface.co/m-a-p/YuE-s2-1B-general)  🤗 
 - **XMusic: Towards a Generalized and Controllable Symbolic Music Generation 
   Framework**, `arXiv, 2501.08809`, [arxiv](http://arxiv.org/abs/2501.08809v1), [pdf](http://arxiv.org/pdf/2501.08809v1.pdf), cication: [**-1**](None) 
 
