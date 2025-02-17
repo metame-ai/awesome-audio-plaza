@@ -24,6 +24,12 @@
 
 ## Voice Omni
 
+- [Paper page - Baichuan-Omni-1.5 Technical Report](https://huggingface.co/papers/2501.15368)
+   - [github.com](https://github.com/baichuan-inc/Baichuan-Omni-1.5)
+- [Paper page - Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive  Modality Alignment](https://huggingface.co/papers/2502.04328)
+   - [ola-omni.github.io](https://ola-omni.github.io/)
+   - [github.com](https://github.com/Ola-Omni/Ola)
+   - [huggingface.co](https://huggingface.co/THUdyh/Ola-7b)
 - 🌟 **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**, `arXiv, 2501.06282`, [arxiv](http://arxiv.org/abs/2501.06282v1), [pdf](http://arxiv.org/pdf/2501.06282v1.pdf), cication: [**-1**](None) 
 
 	 *Qian Chen, Yafeng Chen, Yanni Chen, ..., Chong Zhang, Jinren Zhou* · ([funaudiollm.github](https://funaudiollm.github.io/minmo/))

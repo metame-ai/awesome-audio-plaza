@@ -24,6 +24,13 @@
 
 ## Voice Omni
 
+- **Baichuan-Omni-1.5 Technical Report**, `arXiv, 2501.15368`, [arxiv](http://arxiv.org/abs/2501.15368v1), [pdf](http://arxiv.org/pdf/2501.15368v1.pdf), cication: [**-1**](None) 
+
+	 *Yadong Li, Jun Liu, Tao Zhang, ..., Zenan Zhou, Weipeng Chen* · ([Baichuan-Omni-1.5](https://github.com/baichuan-inc/Baichuan-Omni-1.5) - baichuan-inc) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star)
+- **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive
+  Modality Alignment**, `arXiv, 2502.04328`, [arxiv](http://arxiv.org/abs/2502.04328v2), [pdf](http://arxiv.org/pdf/2502.04328v2.pdf), cication: [**-1**](None) 
+
+	 *Zuyan Liu, Yuhao Dong, Jiahui Wang, ..., Jiwen Lu, Yongming Rao* · ([ola-omni.github](https://ola-omni.github.io/)) · ([Ola](https://github.com/Ola-Omni/Ola) - Ola-Omni) ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUdyh/Ola-7b))
 - 🌟 **MinMo: A Multimodal Large Language Model for Seamless Voice Interaction**, `arXiv, 2501.06282`, [arxiv](http://arxiv.org/abs/2501.06282v1), [pdf](http://arxiv.org/pdf/2501.06282v1.pdf), cication: [**-1**](None) 
 
 	 *Qian Chen, Yafeng Chen, Yanni Chen, ..., Chong Zhang, Jinren Zhou* · ([funaudiollm.github](https://funaudiollm.github.io/minmo/))

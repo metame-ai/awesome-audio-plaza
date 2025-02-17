@@ -15,7 +15,9 @@
 
 ## Zero Shot TTS
 
-- 🌟 [Zonos-v0.1 is a leading open-weight text-to-speech model, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid)  🤗
+- [Paper page - Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based  Speech Synthesis](https://huggingface.co/papers/2502.04128)
+   - [github.com](https://github.com/zhenye234/LLaSA_training)
+- 🌟 [Zonos-v0.1 is a leading open-weight text-to-speech model, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.](https://huggingface.co/Zyphra/Zonos-v0.1-hybrid)  🤗 
 - 🌟 **CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language 
   Models**, `arXiv, 2412.10117`, [arxiv](http://arxiv.org/abs/2412.10117v3), [pdf](http://arxiv.org/pdf/2412.10117v3.pdf), cication: [**-1**](None) 
 
@@ -49,6 +51,8 @@
 
 ## Datasets
 
+- [Paper page - Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for  Speech Generation](https://huggingface.co/papers/2501.15907)
+   - [huggingface.co](https://huggingface.co/datasets/amphion/Emilia-Dataset.)
 
 ## Toolkits
 
