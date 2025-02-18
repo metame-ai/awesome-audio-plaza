@@ -15,7 +15,7 @@
 
 ## Zero Shot TTS
 
-- **Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based
+- **Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based 
   Speech Synthesis**, `arXiv, 2502.04128`, [arxiv](http://arxiv.org/abs/2502.04128v1), [pdf](http://arxiv.org/pdf/2502.04128v1.pdf), cication: [**-1**](None) 
 
 	 *Zhen Ye, Xinfa Zhu, Chi-Min Chan, ..., Yike Guo, Wei Xue* · ([LLaSA_training](https://github.com/zhenye234/LLaSA_training) - zhenye234) ![Star](https://img.shields.io/github/stars/zhenye234/LLaSA_training.svg?style=social&label=Star)
@@ -53,7 +53,7 @@
 
 ## Datasets
 
-- **Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for
+- **Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for 
   Speech Generation**, `arXiv, 2501.15907`, [arxiv](http://arxiv.org/abs/2501.15907v1), [pdf](http://arxiv.org/pdf/2501.15907v1.pdf), cication: [**-1**](None) 
 
 	 *Haorui He, Zengqiang Shang, Chaoren Wang, ..., Pengyuan Zhang, Zhizheng Wu* · ([huggingface](https://huggingface.co/datasets/amphion/Emilia-Dataset.))

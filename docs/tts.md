@@ -50,6 +50,7 @@
 
 ## Projects
 
+- [Step-Audio-TTS-3B](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B)  🤗
 - [LLaSA: Scaling Train-Time and Test-Time Compute for LLaMA-based Speech Synthesis](https://huggingface.co/HKUSTAudio/Llasa-1B)  🤗 
 - [OuteTTS 0.3 1B & 500M](https://x.com/reach_vb/status/1879647151145590905)  𝕏 
 - [**tts-generation-webui**](https://github.com/rsxdalv/tts-generation-webui) - rsxdalv ![Star](https://img.shields.io/github/stars/rsxdalv/tts-generation-webui.svg?style=social&label=Star) 
