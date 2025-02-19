@@ -27,7 +27,7 @@
 - **Baichuan-Omni-1.5 Technical Report**, `arXiv, 2501.15368`, [arxiv](http://arxiv.org/abs/2501.15368v1), [pdf](http://arxiv.org/pdf/2501.15368v1.pdf), cication: [**-1**](None) 
 
 	 *Yadong Li, Jun Liu, Tao Zhang, ..., Zenan Zhou, Weipeng Chen* · ([Baichuan-Omni-1.5](https://github.com/baichuan-inc/Baichuan-Omni-1.5) - baichuan-inc) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star)
-- **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive
+- **Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive 
   Modality Alignment**, `arXiv, 2502.04328`, [arxiv](http://arxiv.org/abs/2502.04328v2), [pdf](http://arxiv.org/pdf/2502.04328v2.pdf), cication: [**-1**](None) 
 
 	 *Zuyan Liu, Yuhao Dong, Jiahui Wang, ..., Jiwen Lu, Yongming Rao* · ([ola-omni.github](https://ola-omni.github.io/)) · ([Ola](https://github.com/Ola-Omni/Ola) - Ola-Omni) ![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/THUdyh/Ola-7b))
@@ -143,8 +143,9 @@
 
 ## Projects
 
-- [Step-Audio is the first production-ready open-source framework for intelligent speech interaction](https://github.com/stepfun-ai/Step-Audio)|star|
-   - [github.com](https://github.com/stepfun-ai/Step-Audio/blob/main/assets/Step-Audio.pdf)
+- 🌟 [**Step-Audio**](https://github.com/stepfun-ai/Step-Audio) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio.svg?style=social&label=Star)
+
+	 · ([Step-Audio](https://github.com/stepfun-ai/Step-Audio/blob/main/assets/Step-Audio.pdf) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio.svg?style=social&label=Star)
 - 🌟 [**SpeechGPT-2.0-preview**](https://github.com/OpenMOSS/SpeechGPT-2.0-preview) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/SpeechGPT-2.0-preview.svg?style=social&label=Star) 
 
 	 · ([𝕏](https://x.com/dongzha35524835/status/1883721464639344984))

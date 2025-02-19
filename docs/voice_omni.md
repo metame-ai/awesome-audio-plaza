@@ -143,7 +143,7 @@
 
 ## Projects
 
-- 🌟 [**Step-Audio**](https://github.com/stepfun-ai/Step-Audio) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio.svg?style=social&label=Star)
+- 🌟 [**Step-Audio**](https://github.com/stepfun-ai/Step-Audio) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio.svg?style=social&label=Star) 
 
 	 · ([Step-Audio](https://github.com/stepfun-ai/Step-Audio/blob/main/assets/Step-Audio.pdf) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio.svg?style=social&label=Star)
 - 🌟 [**SpeechGPT-2.0-preview**](https://github.com/OpenMOSS/SpeechGPT-2.0-preview) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/SpeechGPT-2.0-preview.svg?style=social&label=Star) 
