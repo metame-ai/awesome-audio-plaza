@@ -51,6 +51,10 @@
 
 ## Speech Generation
 
+- [Metis: A Foundation Speech Generation Model  with Masked Generative Pre-training](https://metis-demo.github.io/) 
+- **Recent Advances in Discrete Speech Tokens: A Review**, `arXiv, 2502.06490`, [arxiv](http://arxiv.org/abs/2502.06490v2), [pdf](http://arxiv.org/pdf/2502.06490v2.pdf), cication: [**-1**](None) 
+
+	 *Yiwei Guo, Zhihan Li, Hankun Wang, ..., Shujie Liu, Kai Yu*
 - [Introducing hertz-dev, the first open-source base model for conversational audio generation](https://si.inc/hertz-dev/) 
 
 	 · ([x](https://x.com/si_pbc/status/1853184307063660723)) · ([hertz-dev](https://github.com/Standard-Intelligence/hertz-dev?tab=readme-ov-file) - Standard-Intelligence) ![Star](https://img.shields.io/github/stars/Standard-Intelligence/hertz-dev.svg?style=social&label=Star)

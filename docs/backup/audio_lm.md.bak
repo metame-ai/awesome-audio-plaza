@@ -11,6 +11,13 @@
 
 ## Papers
 
+- [Paper page - video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model](https://huggingface.co/papers/2502.11775)
+   - [github.com](https://github.com/BriansIDP/video-SALMONN-o1)
+- [Paper page - Soundwave: Less is More for Speech-Text Alignment in LLMs](https://huggingface.co/papers/2502.12900)|star|
+   - [github.com](https://github.com/FreedomIntelligence/Soundwave.)
+- [Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound](https://arxiv.org/abs/2502.05139)
+   - [github.com](https://github.com/facebookresearch/audiobox-aesthetics)
+   - [ai.meta.com](https://ai.meta.com/research/publications/meta-audiobox-aesthetics-unified-automatic-quality-assessment-for-speech-music-and-sound/)
 - **High-Fidelity Simultaneous Speech-To-Speech Translation**, `arXiv, 2502.03382`, [arxiv](http://arxiv.org/abs/2502.03382v1), [pdf](http://arxiv.org/pdf/2502.03382v1.pdf), cication: [**-1**](None) 
 
 	 *Tom Labiausse, Laurent Mazaré, Edouard Grave, ..., Alexandre Défossez, Neil Zeghidour* · ([hibiki](https://github.com/kyutai-labs/hibiki) - kyutai-labs) ![Star](https://img.shields.io/github/stars/kyutai-labs/hibiki.svg?style=social&label=Star) · ([reddit](https://www.reddit.com/r/LocalLLaMA/comments/1ij35u7/hibiki_by_kyutai_a_simultaneous_speechtospeech/))
@@ -39,6 +46,7 @@
 
 ## Survey
 
+- [Audio-Language Models for Audio-Centric Tasks: A survey](https://arxiv.org/abs/2501.15177)
 - **Towards Controllable Speech Synthesis in the Era of Large Language 
   Models: A Survey**, `arXiv, 2412.06602`, [arxiv](http://arxiv.org/abs/2412.06602v1), [pdf](http://arxiv.org/pdf/2412.06602v1.pdf), cication: [**-1**](None) 
 
@@ -62,6 +70,7 @@
 
 ## Projects
 
+- [OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia](https://github.com/ASLP-lab/OSUM)
 
 ## Toolkits
 
