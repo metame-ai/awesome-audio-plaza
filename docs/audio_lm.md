@@ -17,7 +17,7 @@
 - 🌟 **Soundwave: Less is More for Speech-Text Alignment in LLMs**, `arXiv, 2502.12900`, [arxiv](http://arxiv.org/abs/2502.12900v1), [pdf](http://arxiv.org/pdf/2502.12900v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Zhang, Zhiheng Liu, Fan Bu, ..., Benyou Wang, Haizhou Li* · ([Soundwave.](https://github.com/FreedomIntelligence/Soundwave.) - FreedomIntelligence) ![Star](https://img.shields.io/github/stars/FreedomIntelligence/Soundwave..svg?style=social&label=Star)
-- **Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for
+- **Meta Audiobox Aesthetics: Unified Automatic Quality Assessment for 
   Speech, Music, and Sound**, `arXiv, 2502.05139`, [arxiv](http://arxiv.org/abs/2502.05139v1), [pdf](http://arxiv.org/pdf/2502.05139v1.pdf), cication: [**-1**](None) 
 
 	 *Andros Tjandra, Yi-Chiao Wu, Baishan Guo, ..., Ann Lee, Wei-Ning Hsu* · ([audiobox-aesthetics](https://github.com/facebookresearch/audiobox-aesthetics) - facebookresearch) ![Star](https://img.shields.io/github/stars/facebookresearch/audiobox-aesthetics.svg?style=social&label=Star) · ([ai.meta](https://ai.meta.com/research/publications/meta-audiobox-aesthetics-unified-automatic-quality-assessment-for-speech-music-and-sound/))
@@ -75,7 +75,7 @@
 
 ## Projects
 
-- [**OSUM**](https://github.com/ASLP-lab/OSUM) - ASLP-lab ![Star](https://img.shields.io/github/stars/ASLP-lab/OSUM.svg?style=social&label=Star)
+- [**OSUM**](https://github.com/ASLP-lab/OSUM) - ASLP-lab ![Star](https://img.shields.io/github/stars/ASLP-lab/OSUM.svg?style=social&label=Star) 
 
 	 *Advancing Open Speech Understanding Models with Limited Resources in Academia*
 

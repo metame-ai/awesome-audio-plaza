@@ -50,7 +50,9 @@
 
 ## Projects
 
-- [Overview of the Amphion Toolkit (v0.2)](https://arxiv.org/abs/2501.15442)
+- **Overview of the Amphion Toolkit (v0.2)**, `arXiv, 2501.15442`, [arxiv](http://arxiv.org/abs/2501.15442v2), [pdf](http://arxiv.org/pdf/2501.15442v2.pdf), cication: [**-1**](None) 
+
+	 *Jiaqi Li, Xueyao Zhang, Yuancheng Wang, ..., Junan Zhang, Zhizheng Wu*
 - [Step-Audio-TTS-3B](https://huggingface.co/stepfun-ai/Step-Audio-TTS-3B)  🤗 
 - [LLaSA: Scaling Train-Time and Test-Time Compute for LLaMA-based Speech Synthesis](https://huggingface.co/HKUSTAudio/Llasa-1B)  🤗 
 - [OuteTTS 0.3 1B & 500M](https://x.com/reach_vb/status/1879647151145590905)  𝕏 
