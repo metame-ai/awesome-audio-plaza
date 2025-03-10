@@ -15,6 +15,10 @@
 
 ## Zero Shot TTS
 
+- **IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot
+  Text-To-Speech System**, `arXiv, 2502.05512`, [arxiv](http://arxiv.org/abs/2502.05512v1), [pdf](http://arxiv.org/pdf/2502.05512v1.pdf), cication: [**-1**](None) 
+
+	 *Wei Deng, Siyi Zhou, Jingchen Shu, ..., Jinchao Wang, Lu Wang* · ([index-tts](https://github.com/index-tts/index-tts?tab=readme-ov-file) - index-tts) ![Star](https://img.shields.io/github/stars/index-tts/index-tts.svg?style=social&label=Star)
 - [IndexTTS: An Industrial-Level Controllable and Efficient Zero-Shot Text-To-Speech System](https://index-tts.github.io/) 
 - **Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based 
   Speech Synthesis**, `arXiv, 2502.04128`, [arxiv](http://arxiv.org/abs/2502.04128v1), [pdf](http://arxiv.org/pdf/2502.04128v1.pdf), cication: [**-1**](None) 
@@ -43,6 +47,9 @@
 
 ## Projects
 
+- [**Spark-TTS**](https://github.com/SparkAudio/Spark-TTS) - SparkAudio ![Star](https://img.shields.io/github/stars/SparkAudio/Spark-TTS.svg?style=social&label=Star)
+
+	 *An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens* · ([sparkaudio.github](https://sparkaudio.github.io/spark-tts/))
 - [**F5-TTS**](https://github.com/lpscr/F5-TTS) - lpscr ![Star](https://img.shields.io/github/stars/lpscr/F5-TTS.svg?style=social&label=Star) 
 
 	 *A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching*

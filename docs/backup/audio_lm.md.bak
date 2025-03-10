@@ -11,6 +11,12 @@
 
 ## Papers
 
+- [Paper page - Slamming: Training a Speech Language Model on One GPU in a Day](https://huggingface.co/papers/2502.15814)|star|
+   - [pages.cs.huji.ac.il](https://pages.cs.huji.ac.il/adiyoss-lab/slamming/)
+   - [arxiv.org](https://arxiv.org/abs/2502.15814)
+   - [github.com](https://github.com/slp-rl/slamkit)
+- [Paper page - Audio-FLAN: A Preliminary Release](https://huggingface.co/papers/2502.16584)
+   - [github.com](https://github.com/lmxue/Audio-FLAN)
 - **video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**, `arXiv, 2502.11775`, [arxiv](http://arxiv.org/abs/2502.11775v1), [pdf](http://arxiv.org/pdf/2502.11775v1.pdf), cication: [**-1**](None) 
 
 	 *Guangzhi Sun, Yudong Yang, Jimin Zhuang, ..., Zejun MA, Chao Zhang* · ([video-SALMONN-o1](https://github.com/BriansIDP/video-SALMONN-o1) - BriansIDP) ![Star](https://img.shields.io/github/stars/BriansIDP/video-SALMONN-o1.svg?style=social&label=Star)

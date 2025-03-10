@@ -18,6 +18,9 @@
 
 ## Music Generation
 
+- [Paper page - SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song  Generation](https://huggingface.co/papers/2502.13128)
+   - [liuzh-19.github.io](https://liuzh-19.github.io/SongGen/)
+   - [github.com](https://github.com/LiuZH-19/SongGen)
 - [YuE:  Open Music Foundation Models for Full-Song Generation](https://map-yue.github.io/) 
 
 	 · ([YuE](https://github.com/multimodal-art-projection/YuE) - multimodal-art-projection) ![Star](https://img.shields.io/github/stars/multimodal-art-projection/YuE.svg?style=social&label=Star)

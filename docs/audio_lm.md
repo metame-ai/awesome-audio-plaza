@@ -11,6 +11,12 @@
 
 ## Papers
 
+- 🌟 **Slamming: Training a Speech Language Model on One GPU in a Day**, `arXiv, 2502.15814`, [arxiv](http://arxiv.org/abs/2502.15814v1), [pdf](http://arxiv.org/pdf/2502.15814v1.pdf), cication: [**-1**](None) 
+
+	 *Gallil Maimon, Avishai Elmakies, Yossi Adi* · ([pages.cs.huji.ac](https://pages.cs.huji.ac.il/adiyoss-lab/slamming/)) · ([arxiv](https://arxiv.org/abs/2502.15814)) · ([slamkit](https://github.com/slp-rl/slamkit) - slp-rl) ![Star](https://img.shields.io/github/stars/slp-rl/slamkit.svg?style=social&label=Star)
+- **Audio-FLAN: A Preliminary Release**, `arXiv, 2502.16584`, [arxiv](http://arxiv.org/abs/2502.16584v1), [pdf](http://arxiv.org/pdf/2502.16584v1.pdf), cication: [**-1**](None) 
+
+	 *Liumeng Xue, Ziya Zhou, Jiahao Pan, ..., Yike Guo, Wei Xue* · ([Audio-FLAN](https://github.com/lmxue/Audio-FLAN) - lmxue) ![Star](https://img.shields.io/github/stars/lmxue/Audio-FLAN.svg?style=social&label=Star)
 - **video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**, `arXiv, 2502.11775`, [arxiv](http://arxiv.org/abs/2502.11775v1), [pdf](http://arxiv.org/pdf/2502.11775v1.pdf), cication: [**-1**](None) 
 
 	 *Guangzhi Sun, Yudong Yang, Jimin Zhuang, ..., Zejun MA, Chao Zhang* · ([video-SALMONN-o1](https://github.com/BriansIDP/video-SALMONN-o1) - BriansIDP) ![Star](https://img.shields.io/github/stars/BriansIDP/video-SALMONN-o1.svg?style=social&label=Star)

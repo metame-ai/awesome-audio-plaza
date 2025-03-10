@@ -24,6 +24,9 @@
 
 ## Voice Omni
 
+- 🌟 [Phi-4-multimodal-instruct is a lightweight open multimodal foundationmodel that leverages the language, vision, and speech research](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)  🤗
+
+	 · ([models](https://github.com/marketplace/models/azureml/Phi-4-multimodal-instruct/playground) - marketplace) ![Star](https://img.shields.io/github/stars/marketplace/models.svg?style=social&label=Star)
 - **Baichuan-Omni-1.5 Technical Report**, `arXiv, 2501.15368`, [arxiv](http://arxiv.org/abs/2501.15368v1), [pdf](http://arxiv.org/pdf/2501.15368v1.pdf), cication: [**-1**](None) 
 
 	 *Yadong Li, Jun Liu, Tao Zhang, ..., Zenan Zhou, Weipeng Chen* · ([Baichuan-Omni-1.5](https://github.com/baichuan-inc/Baichuan-Omni-1.5) - baichuan-inc) ![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star)
@@ -172,6 +175,7 @@
 
 ## Products
 
+- [Perplexity Voice Mode](https://x.com/AravSrinivas/status/1894792092284789173)  𝕏
 - [Introducing OCTAVE, a next-generation speech-language model.](https://x.com/hume_ai/status/1871263932742246513)  𝕏 
 - [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  :clapper: 
 - [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487)  𝕏 

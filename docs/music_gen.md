@@ -18,6 +18,10 @@
 
 ## Music Generation
 
+- **SongGen: A Single Stage Auto-regressive Transformer for Text-to-Song
+  Generation**, `arXiv, 2502.13128`, [arxiv](http://arxiv.org/abs/2502.13128v1), [pdf](http://arxiv.org/pdf/2502.13128v1.pdf), cication: [**-1**](None) 
+
+	 *Zihan Liu, Shuangrui Ding, Zhixiong Zhang, ..., Dahua Lin, Jiaqi Wang* · ([liuzh-19.github](https://liuzh-19.github.io/SongGen/)) · ([SongGen](https://github.com/LiuZH-19/SongGen) - LiuZH-19) ![Star](https://img.shields.io/github/stars/LiuZH-19/SongGen.svg?style=social&label=Star)
 - [YuE:  Open Music Foundation Models for Full-Song Generation](https://map-yue.github.io/) 
 
 	 · ([YuE](https://github.com/multimodal-art-projection/YuE) - multimodal-art-projection) ![Star](https://img.shields.io/github/stars/multimodal-art-projection/YuE.svg?style=social&label=Star)
