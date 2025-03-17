@@ -62,7 +62,7 @@
 
 ## Products
 
-- [Speech to Text model: ElevenLabs Scribe v1.](https://x.com/matistanis/status/1894824212382257427)  𝕏
+- [Speech to Text model: ElevenLabs Scribe v1.](https://x.com/matistanis/status/1894824212382257427)  𝕏 
 - [Next-gen Speech AI for next-level product experiences](https://www.assemblyai.com/universal-2) 
 
 	 · ([x](https://x.com/svpino/status/1851670493667209664))

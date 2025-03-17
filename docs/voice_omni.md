@@ -24,7 +24,13 @@
 
 ## Voice Omni
 
-- 🌟 [Phi-4-multimodal-instruct is a lightweight open multimodal foundationmodel that leverages the language, vision, and speech research](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)  🤗
+- **Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**, `arXiv, 2502.17239`, [arxiv](http://arxiv.org/abs/2502.17239v1), [pdf](http://arxiv.org/pdf/2502.17239v1.pdf), cication: [**-1**](None) 
+
+	 *Tianpeng Li, Jun Liu, Tao Zhang, ..., Zenan Zhou, Weipeng Chen* · ([baichuan-audio](https://github.com/baichuan-inc/baichuan-audio?tab=readme-ov-file) - baichuan-inc) ![Star](https://img.shields.io/github/stars/baichuan-inc/baichuan-audio.svg?style=social&label=Star)
+- 🌟 **LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**, `arXiv, 2503.04724`, [arxiv](http://arxiv.org/abs/2503.04724v1), [pdf](http://arxiv.org/pdf/2503.04724v1.pdf), cication: [**-1**](None) 
+
+	 *Sambal Shikhar, Mohammed Irfan Kurpath, Sahal Shaji Mullappilly, ..., Salman Khan, Hisham Cholakkal* · ([LLMVoX](https://github.com/mbzuai-oryx/LLMVoX) - mbzuai-oryx) ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LLMVoX.svg?style=social&label=Star)
+- 🌟 [Phi-4-multimodal-instruct is a lightweight open multimodal foundationmodel that leverages the language, vision, and speech research](https://huggingface.co/microsoft/Phi-4-multimodal-instruct)  🤗 
 
 	 · ([models](https://github.com/marketplace/models/azureml/Phi-4-multimodal-instruct/playground) - marketplace) ![Star](https://img.shields.io/github/stars/marketplace/models.svg?style=social&label=Star)
 - **Baichuan-Omni-1.5 Technical Report**, `arXiv, 2501.15368`, [arxiv](http://arxiv.org/abs/2501.15368v1), [pdf](http://arxiv.org/pdf/2501.15368v1.pdf), cication: [**-1**](None) 
@@ -133,6 +139,10 @@
 
 ## Evaluation
 
+- **S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following
+  with Paralinguistic Information**, `arXiv, 2503.05085`, [arxiv](http://arxiv.org/abs/2503.05085v1), [pdf](http://arxiv.org/pdf/2503.05085v1.pdf), cication: [**-1**](None) 
+
+	 *Feng Jiang, Zhiyu Lin, Fan Bu, ..., Benyou Wang, Haizhou Li*
 - [Evaluating Audio Reasoning with Big Bench Audio](https://huggingface.co/blog/big-bench-audio-release)  🤗 
 - **VoiceBench: Benchmarking LLM-Based Voice Assistants**, `arXiv, 2410.17196`, [arxiv](http://arxiv.org/abs/2410.17196v1), [pdf](http://arxiv.org/pdf/2410.17196v1.pdf), cication: [**-1**](None) 
 
@@ -175,7 +185,7 @@
 
 ## Products
 
-- [Perplexity Voice Mode](https://x.com/AravSrinivas/status/1894792092284789173)  𝕏
+- [Perplexity Voice Mode](https://x.com/AravSrinivas/status/1894792092284789173)  𝕏 
 - [Introducing OCTAVE, a next-generation speech-language model.](https://x.com/hume_ai/status/1871263932742246513)  𝕏 
 - [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  :clapper: 
 - [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487)  𝕏 

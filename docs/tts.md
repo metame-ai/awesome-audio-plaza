@@ -18,8 +18,8 @@
 
 ## TTS
 
-- [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://huggingface.co/datasets/amphion/Emilia-Dataset)  🤗
-- [Hume AI dropped a text-to-speech LLM that understands emotional context](https://x.com/adcock_brett/status/1896245193801629923)  𝕏
+- [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://huggingface.co/datasets/amphion/Emilia-Dataset)  🤗 
+- [Hume AI dropped a text-to-speech LLM that understands emotional context](https://x.com/adcock_brett/status/1896245193801629923)  𝕏 
 - **Long-Form Speech Generation with Spoken Language Models**, `arXiv, 2412.18603`, [arxiv](http://arxiv.org/abs/2412.18603v1), [pdf](http://arxiv.org/pdf/2412.18603v1.pdf), cication: [**-1**](None) 
 
 	 *Se Jin Park, Julian Salazar, Aren Jansen, ..., Yong Man Ro, RJ Skerry-Ryan* · ([google.github](https://google.github.io/tacotron/publications/speechssm/))
@@ -52,7 +52,10 @@
 
 ## Projects
 
-- [**fastrtc**](https://github.com/freddyaboulton/fastrtc) - freddyaboulton ![Star](https://img.shields.io/github/stars/freddyaboulton/fastrtc.svg?style=social&label=Star)
+- [**csm**](https://github.com/SesameAILabs/csm) - SesameAILabs ![Star](https://img.shields.io/github/stars/SesameAILabs/csm.svg?style=social&label=Star)
+
+	 · ([huggingface](https://huggingface.co/sesame/csm_1b))
+- [**fastrtc**](https://github.com/freddyaboulton/fastrtc) - freddyaboulton ![Star](https://img.shields.io/github/stars/freddyaboulton/fastrtc.svg?style=social&label=Star) 
 - **Overview of the Amphion Toolkit (v0.2)**, `arXiv, 2501.15442`, [arxiv](http://arxiv.org/abs/2501.15442v2), [pdf](http://arxiv.org/pdf/2501.15442v2.pdf), cication: [**-1**](None) 
 
 	 *Jiaqi Li, Xueyao Zhang, Yuancheng Wang, ..., Junan Zhang, Zhizheng Wu*
