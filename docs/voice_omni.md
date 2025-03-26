@@ -24,6 +24,9 @@
 
 ## Voice Omni
 
+- **Vision-Speech Models: Teaching Speech Models to Converse about Images**, `arXiv, 2503.15633`, [arxiv](http://arxiv.org/abs/2503.15633v1), [pdf](http://arxiv.org/pdf/2503.15633v1.pdf), cication: [**-1**](None) 
+
+	 *Amélie Royer, Moritz Böhle, Gabriel de Marmiesse, ..., Alexandre Défossez, Patrick Pérez* · ([kyutai](https://kyutai.org/moshivis)) · ([moshivis](https://github.com/kyutai-labs/moshivis) - kyutai-labs) ![Star](https://img.shields.io/github/stars/kyutai-labs/moshivis.svg?style=social&label=Star)
 - **Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction**, `arXiv, 2502.17239`, [arxiv](http://arxiv.org/abs/2502.17239v1), [pdf](http://arxiv.org/pdf/2502.17239v1.pdf), cication: [**-1**](None) 
 
 	 *Tianpeng Li, Jun Liu, Tao Zhang, ..., Zenan Zhou, Weipeng Chen* · ([baichuan-audio](https://github.com/baichuan-inc/baichuan-audio?tab=readme-ov-file) - baichuan-inc) ![Star](https://img.shields.io/github/stars/baichuan-inc/baichuan-audio.svg?style=social&label=Star)
@@ -139,7 +142,7 @@
 
 ## Evaluation
 
-- **S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following
+- **S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following 
   with Paralinguistic Information**, `arXiv, 2503.05085`, [arxiv](http://arxiv.org/abs/2503.05085v1), [pdf](http://arxiv.org/pdf/2503.05085v1.pdf), cication: [**-1**](None) 
 
 	 *Feng Jiang, Zhiyu Lin, Fan Bu, ..., Benyou Wang, Haizhou Li*
