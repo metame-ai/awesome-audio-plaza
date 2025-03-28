@@ -21,7 +21,7 @@
 - **YuE: Scaling Open Foundation Models for Long-Form Music Generation**, `arXiv, 2503.08638`, [arxiv](http://arxiv.org/abs/2503.08638v1), [pdf](http://arxiv.org/pdf/2503.08638v1.pdf), cication: [**-1**](None) 
 
 	 *Ruibin Yuan, Hanfeng Lin, Shuyue Guo, ..., Xu Tan, Yike Guo*
-- **DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End
+- **DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End 
   Full-Length Song Generation with Latent Diffusion**, `arXiv, 2503.01183`, [arxiv](http://arxiv.org/abs/2503.01183v1), [pdf](http://arxiv.org/pdf/2503.01183v1.pdf), cication: [**-1**](None) 
 
 	 *Ziqian Ning, Huakang Chen, Yuepeng Jiang, ..., Jixun Yao, Lei Xie* · ([huggingface](https://huggingface.co/spaces/ASLP-lab/DiffRhythm)) · ([arxiv](https://arxiv.org/abs/2503.01183)) · ([DiffRhythm](https://github.com/ASLP-lab/DiffRhythm) - ASLP-lab) ![Star](https://img.shields.io/github/stars/ASLP-lab/DiffRhythm.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/ASLP-lab/DiffRhythm-base))

@@ -15,7 +15,7 @@
 
 ## Zero Shot TTS
 
-- **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with
+- **Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with 
   Single-Stream Decoupled Speech Tokens**, `arXiv, 2503.01710`, [arxiv](http://arxiv.org/abs/2503.01710v1), [pdf](http://arxiv.org/pdf/2503.01710v1.pdf), cication: [**-1**](None) 
 
 	 *Xinsheng Wang, Mingqi Jiang, Ziyang Ma, ..., Yike Guo, Wei Xue* · ([Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - SparkAudio) ![Star](https://img.shields.io/github/stars/SparkAudio/Spark-TTS.svg?style=social&label=Star)
@@ -51,7 +51,7 @@
 
 ## Projects
 
-- [**csm-voice-cloning**](https://github.com/isaiahbjork/csm-voice-cloning) - isaiahbjork ![Star](https://img.shields.io/github/stars/isaiahbjork/csm-voice-cloning.svg?style=social&label=Star)
+- [**csm-voice-cloning**](https://github.com/isaiahbjork/csm-voice-cloning) - isaiahbjork ![Star](https://img.shields.io/github/stars/isaiahbjork/csm-voice-cloning.svg?style=social&label=Star) 
 - [**Spark-TTS**](https://github.com/SparkAudio/Spark-TTS) - SparkAudio ![Star](https://img.shields.io/github/stars/SparkAudio/Spark-TTS.svg?style=social&label=Star) 
 
 	 *An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens* · ([sparkaudio.github](https://sparkaudio.github.io/spark-tts/))

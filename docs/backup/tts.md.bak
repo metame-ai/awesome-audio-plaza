@@ -52,7 +52,7 @@
 
 ## Projects
 
-- [**csm**](https://github.com/SesameAILabs/csm) - SesameAILabs ![Star](https://img.shields.io/github/stars/SesameAILabs/csm.svg?style=social&label=Star)
+- [**csm**](https://github.com/SesameAILabs/csm) - SesameAILabs ![Star](https://img.shields.io/github/stars/SesameAILabs/csm.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/sesame/csm_1b))
 - [**fastrtc**](https://github.com/freddyaboulton/fastrtc) - freddyaboulton ![Star](https://img.shields.io/github/stars/freddyaboulton/fastrtc.svg?style=social&label=Star) 

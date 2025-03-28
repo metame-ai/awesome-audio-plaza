@@ -11,11 +11,11 @@
 
 ## Papers
 
-- **Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding
+- **Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding 
   and Expert Reasoning Abilities**, `arXiv, 2503.03983`, [arxiv](http://arxiv.org/abs/2503.03983v1), [pdf](http://arxiv.org/pdf/2503.03983v1.pdf), cication: [**-1**](None) 
 
 	 *Sreyan Ghosh, Zhifeng Kong, Sonal Kumar, ..., Dinesh Manocha, Bryan Catanzaro* · ([huggingface](https://huggingface.co/spaces/nvidia/audio-flamingo-2)) · ([audio-flamingo](https://github.com/NVIDIA/audio-flamingo) - NVIDIA) ![Star](https://img.shields.io/github/stars/NVIDIA/audio-flamingo.svg?style=social&label=Star)
-- **Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study
+- **Reinforcement Learning Outperforms Supervised Fine-Tuning: A Case Study 
   on Audio Question Answering**, `arXiv, 2503.11197`, [arxiv](http://arxiv.org/abs/2503.11197v1), [pdf](http://arxiv.org/pdf/2503.11197v1.pdf), cication: [**-1**](None) 
 
 	 *Gang Li, Jizhong Liu, Heinrich Dinkel, ..., Junbo Zhang, Jian Luan* · ([r1-aqa](https://github.com/xiaomi/r1-aqa) - xiaomi) ![Star](https://img.shields.io/github/stars/xiaomi/r1-aqa.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/mispeech/r1-aqa.))
