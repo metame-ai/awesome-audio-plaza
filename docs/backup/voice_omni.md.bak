@@ -24,15 +24,9 @@
 
 ## Voice Omni
 
-- [Paper page - Qwen2.5-Omni Technical Report](https://huggingface.co/papers/2503.20215)|star|
-   - [chat.qwenlm.ai](https://chat.qwenlm.ai)
-   - [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-omni/)
-   - [github.com](https://github.com/QwenLM/Qwen2.5-Omni)
-   - [huggingface.co](https://huggingface.co/Qwen/Qwen2.5-Omni-7B)
-   - [huggingface.co](https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo)
-   - [modelscope.cn](https://modelscope.cn/models/Qwen/Qwen2.5-Omni-7B)
-   - [help.aliyun.com](https://help.aliyun.com/zh/model-studio/user-guide/qwen-omni)
-   - [modelscope.cn](https://modelscope.cn/studios/Qwen/Qwen2.5-Omni-Demo)
+- 🌟 **Qwen2.5-Omni Technical Report**, `arXiv, 2503.20215`, [arxiv](http://arxiv.org/abs/2503.20215v1), [pdf](http://arxiv.org/pdf/2503.20215v1.pdf), cication: [**-1**](None) 
+
+	 *Jin Xu, Zhifang Guo, Jinzheng He, ..., Yunfei Chu, Junyang Lin* · ([chat.qwenlm](https://chat.qwenlm.ai)) · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2.5-omni/)) · ([Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Qwen/Qwen2.5-Omni-7B)) · ([huggingface](https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo)) · ([modelscope](https://modelscope.cn/models/Qwen/Qwen2.5-Omni-7B)) · ([help.aliyun](https://help.aliyun.com/zh/model-studio/user-guide/qwen-omni)) · ([modelscope](https://modelscope.cn/studios/Qwen/Qwen2.5-Omni-Demo))
 - **Vision-Speech Models: Teaching Speech Models to Converse about Images**, `arXiv, 2503.15633`, [arxiv](http://arxiv.org/abs/2503.15633v1), [pdf](http://arxiv.org/pdf/2503.15633v1.pdf), cication: [**-1**](None) 
 
 	 *Amélie Royer, Moritz Böhle, Gabriel de Marmiesse, ..., Alexandre Défossez, Patrick Pérez* · ([kyutai](https://kyutai.org/moshivis)) · ([moshivis](https://github.com/kyutai-labs/moshivis) - kyutai-labs) ![Star](https://img.shields.io/github/stars/kyutai-labs/moshivis.svg?style=social&label=Star)

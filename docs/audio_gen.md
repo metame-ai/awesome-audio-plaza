@@ -18,6 +18,9 @@
 
 ## Audio Generation
 
+- **AudioX: Diffusion Transformer for Anything-to-Audio Generation**, `arXiv, 2503.10522`, [arxiv](http://arxiv.org/abs/2503.10522v1), [pdf](http://arxiv.org/pdf/2503.10522v1.pdf), cication: [**-1**](None) 
+
+	 *Zeyue Tian, Yizhu Jin, Zhaoyang Liu, ..., Wei Xue, Yike Guo* · ([zeyuet.github](https://zeyuet.github.io/AudioX/))
 - **TangoFlux: Super Fast and Faithful Text to Audio Generation with Flow 
   Matching and Clap-Ranked Preference Optimization**, `arXiv, 2412.21037`, [arxiv](http://arxiv.org/abs/2412.21037v1), [pdf](http://arxiv.org/pdf/2412.21037v1.pdf), cication: [**-1**](None) 
 

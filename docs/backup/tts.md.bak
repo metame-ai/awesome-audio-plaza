@@ -52,6 +52,8 @@
 
 ## Projects
 
+- [Paper page - MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for  Zero-Shot Speech Synthesis](https://huggingface.co/papers/2502.18924)
+   - [sditdemo.github.io](https://sditdemo.github.io/sditdemo/.)
 - [**csm**](https://github.com/SesameAILabs/csm) - SesameAILabs ![Star](https://img.shields.io/github/stars/SesameAILabs/csm.svg?style=social&label=Star) 
 
 	 · ([huggingface](https://huggingface.co/sesame/csm_1b))
