@@ -52,7 +52,7 @@
 
 ## Projects
 
-- **MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for
+- **MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for 
   Zero-Shot Speech Synthesis**, `arXiv, 2502.18924`, [arxiv](http://arxiv.org/abs/2502.18924v4), [pdf](http://arxiv.org/pdf/2502.18924v4.pdf), cication: [**-1**](None) 
 
 	 *Ziyue Jiang, Yi Ren, Ruiqi Li, ..., Xiang Yin, Zhou Zhao* · ([sditdemo.github](https://sditdemo.github.io/sditdemo/.))
