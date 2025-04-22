@@ -18,6 +18,10 @@
 
 ## TTS
 
+- **F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group
+  Relative Policy Optimization**, `arXiv, 2504.02407`, [arxiv](http://arxiv.org/abs/2504.02407v2), [pdf](http://arxiv.org/pdf/2504.02407v2.pdf), cication: [**-1**](None) 
+
+	 *Xiaohui Sun, Ruitong Xiao, Jianye Mo, ..., Qun Yu, Baoxun Wang* · ([frontierlabs.github](https://frontierlabs.github.io/F5R))
 - [Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation](https://huggingface.co/datasets/amphion/Emilia-Dataset)  🤗 
 - [Hume AI dropped a text-to-speech LLM that understands emotional context](https://x.com/adcock_brett/status/1896245193801629923)  𝕏 
 - **Long-Form Speech Generation with Spoken Language Models**, `arXiv, 2412.18603`, [arxiv](http://arxiv.org/abs/2412.18603v1), [pdf](http://arxiv.org/pdf/2412.18603v1.pdf), cication: [**-1**](None) 
