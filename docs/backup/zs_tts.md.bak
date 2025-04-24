@@ -15,7 +15,7 @@
 
 ## Zero Shot TTS
 
-- **F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group
+- **F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group 
   Relative Policy Optimization**, `arXiv, 2504.02407`, [arxiv](http://arxiv.org/abs/2504.02407v2), [pdf](http://arxiv.org/pdf/2504.02407v2.pdf), cication: [**-1**](None) 
 
 	 *Xiaohui Sun, Ruitong Xiao, Jianye Mo, ..., Qun Yu, Baoxun Wang* · ([frontierlabs.github](https://frontierlabs.github.io/F5R))
