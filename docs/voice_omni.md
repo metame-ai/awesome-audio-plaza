@@ -24,6 +24,9 @@
 
 ## Voice Omni
 
+- **Kimi-Audio Technical Report**, `arXiv, 2504.18425`, [arxiv](http://arxiv.org/abs/2504.18425v1), [pdf](http://arxiv.org/pdf/2504.18425v1.pdf), cication: [**-1**](None) 
+
+	 *KimiTeam, Ding Ding, Zeqian Ju, ..., Yutong Zhang, Zaida Zhou* · ([Kimi-Audio.](https://github.com/MoonshotAI/Kimi-Audio.) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-Audio..svg?style=social&label=Star)
 - 🌟 **Qwen2.5-Omni Technical Report**, `arXiv, 2503.20215`, [arxiv](http://arxiv.org/abs/2503.20215v1), [pdf](http://arxiv.org/pdf/2503.20215v1.pdf), cication: [**-1**](None) 
 
 	 *Jin Xu, Zhifang Guo, Jinzheng He, ..., Yunfei Chu, Junyang Lin* · ([chat.qwenlm](https://chat.qwenlm.ai)) · ([qwenlm.github](https://qwenlm.github.io/blog/qwen2.5-omni/)) · ([Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) - QwenLM) ![Star](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Omni.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/Qwen/Qwen2.5-Omni-7B)) · ([huggingface](https://huggingface.co/spaces/Qwen/Qwen2.5-Omni-7B-Demo)) · ([modelscope](https://modelscope.cn/models/Qwen/Qwen2.5-Omni-7B)) · ([help.aliyun](https://help.aliyun.com/zh/model-studio/user-guide/qwen-omni)) · ([modelscope](https://modelscope.cn/studios/Qwen/Qwen2.5-Omni-Demo))

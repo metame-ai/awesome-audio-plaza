@@ -16,6 +16,9 @@
 
 ## ASR
 
+- **LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**, `arXiv, 2504.16030`, [arxiv](http://arxiv.org/abs/2504.16030v1), [pdf](http://arxiv.org/pdf/2504.16030v1.pdf), cication: [**-1**](None) 
+
+	 *Joya Chen, Ziyun Zeng, Yiqi Lin, ..., Zejun Ma, Mike Zheng Shou* · ([showlab.github](https://showlab.github.io/livecc)) · ([huggingface](https://huggingface.co/spaces/chenjoya/LiveCC)) · ([livecc](https://github.com/showlab/livecc) - showlab) ![Star](https://img.shields.io/github/stars/showlab/livecc.svg?style=social&label=Star)
 - **FireRedASR: Open-Source Industrial-Grade Mandarin Speech Recognition 
   Models from Encoder-Decoder to LLM Integration**, `arXiv, 2501.14350`, [arxiv](http://arxiv.org/abs/2501.14350v1), [pdf](http://arxiv.org/pdf/2501.14350v1.pdf), cication: [**-1**](None) 
 
@@ -34,6 +37,7 @@
 
 ## Projects
 
+- [**meeting-minutes**](https://github.com/Zackriya-Solutions/meeting-minutes) - Zackriya-Solutions ![Star](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes.svg?style=social&label=Star)
 - [**RealtimeSTT**](https://github.com/KoljaB/RealtimeSTT) - KoljaB ![Star](https://img.shields.io/github/stars/KoljaB/RealtimeSTT.svg?style=social&label=Star) 
 - [**transformers.js-examples**](https://github.com/huggingface/transformers.js-examples/tree/main/moonshine-web) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/transformers.js-examples.svg?style=social&label=Star) 
 - [**whisper-ner**](https://github.com/aiola-lab/whisper-ner) - aiola-lab ![Star](https://img.shields.io/github/stars/aiola-lab/whisper-ner.svg?style=social&label=Star) 

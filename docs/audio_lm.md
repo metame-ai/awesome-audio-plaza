@@ -11,6 +11,10 @@
 
 ## Papers
 
+- **SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction
+  Fine-Tuning**, `arXiv, 2504.09081`, [arxiv](http://arxiv.org/abs/2504.09081v2), [pdf](http://arxiv.org/pdf/2504.09081v2.pdf), cication: [**-1**](None) 
+
+	 *Prabhat Pandey, Rupak Vignesh Swaminathan, K V Vijay Girish, ..., Grant P. Strimel, Andreas Schwarz* · ([huggingface](https://huggingface.co/datasets/amazon-agi/SIFT-50M))
 - **Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding 
   and Expert Reasoning Abilities**, `arXiv, 2503.03983`, [arxiv](http://arxiv.org/abs/2503.03983v1), [pdf](http://arxiv.org/pdf/2503.03983v1.pdf), cication: [**-1**](None) 
 
