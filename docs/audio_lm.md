@@ -11,6 +11,9 @@
 
 ## Papers
 
+- **Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?**, `arXiv, 2505.09439`, [arxiv](http://arxiv.org/abs/2505.09439v1), [pdf](http://arxiv.org/pdf/2505.09439v1.pdf), cication: [**-1**](None) 
+
+	 *Andrew Rouditchenko, Saurabhchand Bhati, Edson Araujo, ..., Rogerio Feris, James Glass* · ([𝕏](https://x.com/arouditchenko/status/1922977115856576610))
 - **SIFT-50M: A Large-Scale Multilingual Dataset for Speech Instruction 
   Fine-Tuning**, `arXiv, 2504.09081`, [arxiv](http://arxiv.org/abs/2504.09081v2), [pdf](http://arxiv.org/pdf/2504.09081v2.pdf), cication: [**-1**](None) 
 

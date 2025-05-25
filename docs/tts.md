@@ -18,6 +18,10 @@
 
 ## TTS
 
+- 🌟 **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable
+  Speaker Encoder**, `arXiv, 2505.07916`, [arxiv](http://arxiv.org/abs/2505.07916v1), [pdf](http://arxiv.org/pdf/2505.07916v1.pdf), cication: [**-1**](None) 
+
+	 *Bowen Zhang, Congchao Guo, Geng Yang, ..., Yuan Lu, Yucen He* · ([minimax-ai.github](https://minimax-ai.github.io/tts_tech_report))
 - **F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group 
   Relative Policy Optimization**, `arXiv, 2504.02407`, [arxiv](http://arxiv.org/abs/2504.02407v2), [pdf](http://arxiv.org/pdf/2504.02407v2.pdf), cication: [**-1**](None) 
 

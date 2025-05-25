@@ -60,6 +60,7 @@
 
 ## Toolkits
 
+- [**mlx-audio**](https://github.com/Blaizzy/mlx-audio) - Blaizzy ![Star](https://img.shields.io/github/stars/Blaizzy/mlx-audio.svg?style=social&label=Star)
 - [Speaker Verification with ECAPA-TDNN embeddings on Voxceleb](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb)  🤗 
 - [**wavesurfer**](https://github.com/pengzhendong/wavesurfer) - pengzhendong ![Star](https://img.shields.io/github/stars/pengzhendong/wavesurfer.svg?style=social&label=Star) 
 

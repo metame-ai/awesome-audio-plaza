@@ -24,6 +24,19 @@
 
 ## Voice Omni
 
+- **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient
+  Large Speech-Language Model**, `arXiv, 2505.03739`, [arxiv](http://arxiv.org/abs/2505.03739v1), [pdf](http://arxiv.org/pdf/2505.03739v1.pdf), cication: [**-1**](None) 
+
+	 *Zuwei Long, Yunhang Shen, Chaoyou Fu, ..., Rongrong Ji, Xing Sun*
+- **Voila: Voice-Language Foundation Models for Real-Time Autonomous
+  Interaction and Voice Role-Play**, `arXiv, 2505.02707`, [arxiv](http://arxiv.org/abs/2505.02707v1), [pdf](http://arxiv.org/pdf/2505.02707v1.pdf), cication: [**-1**](None) 
+
+	 *Yemin Shi, Yu Shu, Siwei Dong, ..., Jingwen Li, Zhiting Hu* · ([voila.maitrix](https://voila.maitrix.org)) · ([huggingface](https://huggingface.co/collections/maitrix-org/voila-67e0d96962c19f221fc73fa5)) · ([Voila](https://github.com/maitrix-org/Voila) - maitrix-org) ![Star](https://img.shields.io/github/stars/maitrix-org/Voila.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/spaces/maitrix-org/Voila-demo))
+- **LLaMA-Omni2: LLM-based Real-time Spoken Chatbot with Autoregressive
+  Streaming Speech Synthesis**, `arXiv, 2505.02625`, [arxiv](http://arxiv.org/abs/2505.02625v1), [pdf](http://arxiv.org/pdf/2505.02625v1.pdf), cication: [**-1**](None) 
+
+	 *Qingkai Fang, Yan Zhou, Shoutao Guo, ..., Shaolei Zhang, Yang Feng* · ([LLaMA-Omni2](https://github.com/ictnlp/LLaMA-Omni2) - ictnlp) ![Star](https://img.shields.io/github/stars/ictnlp/LLaMA-Omni2.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/collections/ICTNLP/llama-omni-67fdfb852c60470175e36e9c))
+- [【生成式AI時代下的機器學習(2025)】第十二講：語言模型如何學會說話 — 概述語音語言模型發展歷程](https://www.youtube.com/watch?v=ip3XnTpcxoA)  :clapper:
 - **Kimi-Audio Technical Report**, `arXiv, 2504.18425`, [arxiv](http://arxiv.org/abs/2504.18425v1), [pdf](http://arxiv.org/pdf/2504.18425v1.pdf), cication: [**-1**](None) 
 
 	 *KimiTeam, Ding Ding, Zeqian Ju, ..., Yutong Zhang, Zaida Zhou* · ([Kimi-Audio.](https://github.com/MoonshotAI/Kimi-Audio.) - MoonshotAI) ![Star](https://img.shields.io/github/stars/MoonshotAI/Kimi-Audio..svg?style=social&label=Star)
