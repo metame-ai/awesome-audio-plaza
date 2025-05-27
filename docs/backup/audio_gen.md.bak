@@ -18,9 +18,9 @@
 
 ## Audio Generation
 
-- [Paper page - Fast Text-to-Audio Generation with Adversarial Post-Training](https://huggingface.co/papers/2505.08175)
-   - [huggingface.co](https://huggingface.co/stabilityai/stable-audio-open-small)
-   - [arc-text2audio.github.io](https://arc-text2audio.github.io/web/)
+- **Fast Text-to-Audio Generation with Adversarial Post-Training**, `arXiv, 2505.08175`, [arxiv](http://arxiv.org/abs/2505.08175v3), [pdf](http://arxiv.org/pdf/2505.08175v3.pdf), cication: [**-1**](None) 
+
+	 *Zachary Novack, Zach Evans, Zack Zukowski, ..., Taylor Berg-Kirkpatrick, Jordi Pons* · ([huggingface](https://huggingface.co/stabilityai/stable-audio-open-small)) · ([arc-text2audio.github](https://arc-text2audio.github.io/web/))
 - **AudioX: Diffusion Transformer for Anything-to-Audio Generation**, `arXiv, 2503.10522`, [arxiv](http://arxiv.org/abs/2503.10522v1), [pdf](http://arxiv.org/pdf/2503.10522v1.pdf), cication: [**-1**](None) 
 
 	 *Zeyue Tian, Yizhu Jin, Zhaoyang Liu, ..., Wei Xue, Yike Guo* · ([zeyuet.github](https://zeyuet.github.io/AudioX/))
@@ -57,7 +57,9 @@
 
 ## Speech Generation
 
-- [Paper page - WavReward: Spoken Dialogue Models With Generalist Reward Evaluators](https://huggingface.co/papers/2505.09558)
+- **WavReward: Spoken Dialogue Models With Generalist Reward Evaluators**, `arXiv, 2505.09558`, [arxiv](http://arxiv.org/abs/2505.09558v1), [pdf](http://arxiv.org/pdf/2505.09558v1.pdf), cication: [**-1**](None) 
+
+	 *Shengpeng Ji, Tianle Liang, Yangzhuo Li, ..., Junyang Lin, Zhou Zhao*
 - [Metis: A Foundation Speech Generation Model  with Masked Generative Pre-training](https://metis-demo.github.io/) 
 - **Recent Advances in Discrete Speech Tokens: A Review**, `arXiv, 2502.06490`, [arxiv](http://arxiv.org/abs/2502.06490v2), [pdf](http://arxiv.org/pdf/2502.06490v2.pdf), cication: [**-1**](None) 
 
