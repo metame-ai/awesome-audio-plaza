@@ -18,7 +18,7 @@
 
 ## TTS
 
-- 🌟 **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable
+- 🌟 **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable 
   Speaker Encoder**, `arXiv, 2505.07916`, [arxiv](http://arxiv.org/abs/2505.07916v1), [pdf](http://arxiv.org/pdf/2505.07916v1.pdf), cication: [**-1**](None) 
 
 	 *Bowen Zhang, Congchao Guo, Geng Yang, ..., Yuan Lu, Yucen He* · ([minimax-ai.github](https://minimax-ai.github.io/tts_tech_report))
