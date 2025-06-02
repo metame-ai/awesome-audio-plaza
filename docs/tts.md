@@ -60,6 +60,9 @@
 
 ## Projects
 
+- [**UniTTS**](https://github.com/IDEA-Emdoor-Lab/UniTTS) - IDEA-Emdoor-Lab ![Star](https://img.shields.io/github/stars/IDEA-Emdoor-Lab/UniTTS.svg?style=social&label=Star)
+
+	 *An end-to-end TTS system without decoupling of acoustic and semantic information*
 - 🌟 [**dia**](https://github.com/nari-labs/dia) - nari-labs ![Star](https://img.shields.io/github/stars/nari-labs/dia.svg?style=social&label=Star) 
 - **MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for 
   Zero-Shot Speech Synthesis**, `arXiv, 2502.18924`, [arxiv](http://arxiv.org/abs/2502.18924v4), [pdf](http://arxiv.org/pdf/2502.18924v4.pdf), cication: [**-1**](None) 

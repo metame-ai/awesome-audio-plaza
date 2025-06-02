@@ -15,6 +15,10 @@
 
 ## Zero Shot TTS
 
+- **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and
+  Post-training**, `arXiv, 2505.17589`, [arxiv](http://arxiv.org/abs/2505.17589v2), [pdf](http://arxiv.org/pdf/2505.17589v2.pdf), cication: [**-1**](None) 
+
+	 *Zhihao Du, Changfeng Gao, Yuxuan Wang, ..., Wen Wang, Jieping Ye*
 - **F5R-TTS: Improving Flow-Matching based Text-to-Speech with Group 
   Relative Policy Optimization**, `arXiv, 2504.02407`, [arxiv](http://arxiv.org/abs/2504.02407v2), [pdf](http://arxiv.org/pdf/2504.02407v2.pdf), cication: [**-1**](None) 
 
@@ -55,6 +59,7 @@
 
 ## Projects
 
+- 🌟 [**chatterbox**](https://github.com/resemble-ai/chatterbox) - resemble-ai ![Star](https://img.shields.io/github/stars/resemble-ai/chatterbox.svg?style=social&label=Star)
 - [**csm-voice-cloning**](https://github.com/isaiahbjork/csm-voice-cloning) - isaiahbjork ![Star](https://img.shields.io/github/stars/isaiahbjork/csm-voice-cloning.svg?style=social&label=Star) 
 - [**Spark-TTS**](https://github.com/SparkAudio/Spark-TTS) - SparkAudio ![Star](https://img.shields.io/github/stars/SparkAudio/Spark-TTS.svg?style=social&label=Star) 
 
