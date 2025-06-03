@@ -18,6 +18,7 @@
 
 ## TTS
 
+- [Autoregressive transformer models have proven highly effective for synthesizing speech from text.](https://huggingface.co/PlayHT/PlayDiffusion)  🤗
 - 🌟 **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable 
   Speaker Encoder**, `arXiv, 2505.07916`, [arxiv](http://arxiv.org/abs/2505.07916v1), [pdf](http://arxiv.org/pdf/2505.07916v1.pdf), cication: [**-1**](None) 
 
@@ -60,7 +61,7 @@
 
 ## Projects
 
-- [**UniTTS**](https://github.com/IDEA-Emdoor-Lab/UniTTS) - IDEA-Emdoor-Lab ![Star](https://img.shields.io/github/stars/IDEA-Emdoor-Lab/UniTTS.svg?style=social&label=Star)
+- [**UniTTS**](https://github.com/IDEA-Emdoor-Lab/UniTTS) - IDEA-Emdoor-Lab ![Star](https://img.shields.io/github/stars/IDEA-Emdoor-Lab/UniTTS.svg?style=social&label=Star) 
 
 	 *An end-to-end TTS system without decoupling of acoustic and semantic information*
 - 🌟 [**dia**](https://github.com/nari-labs/dia) - nari-labs ![Star](https://img.shields.io/github/stars/nari-labs/dia.svg?style=social&label=Star) 

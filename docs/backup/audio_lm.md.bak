@@ -11,8 +11,10 @@
 
 ## Papers
 
-- [Paper page - AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large  Language Models](https://huggingface.co/papers/2505.16211)
-   - [github.com](https://github.com/JusperLee/AudioTrust.)
+- **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large
+  Language Models**, `arXiv, 2505.16211`, [arxiv](http://arxiv.org/abs/2505.16211v1), [pdf](http://arxiv.org/pdf/2505.16211v1.pdf), cication: [**-1**](None) 
+
+	 *Kai Li, Can Shen, Yile Liu, ..., Wei Dong, Xinfeng Li* · ([AudioTrust.](https://github.com/JusperLee/AudioTrust.) - JusperLee) ![Star](https://img.shields.io/github/stars/JusperLee/AudioTrust..svg?style=social&label=Star)
 - **Omni-R1: Do You Really Need Audio to Fine-Tune Your Audio LLM?**, `arXiv, 2505.09439`, [arxiv](http://arxiv.org/abs/2505.09439v1), [pdf](http://arxiv.org/pdf/2505.09439v1.pdf), cication: [**-1**](None) 
 
 	 *Andrew Rouditchenko, Saurabhchand Bhati, Edson Araujo, ..., Rogerio Feris, James Glass* · ([𝕏](https://x.com/arouditchenko/status/1922977115856576610))
