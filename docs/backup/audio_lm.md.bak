@@ -11,7 +11,7 @@
 
 ## Papers
 
-- **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large
+- **AudioTrust: Benchmarking the Multifaceted Trustworthiness of Audio Large 
   Language Models**, `arXiv, 2505.16211`, [arxiv](http://arxiv.org/abs/2505.16211v1), [pdf](http://arxiv.org/pdf/2505.16211v1.pdf), cication: [**-1**](None) 
 
 	 *Kai Li, Can Shen, Yile Liu, ..., Wei Dong, Xinfeng Li* · ([AudioTrust.](https://github.com/JusperLee/AudioTrust.) - JusperLee) ![Star](https://img.shields.io/github/stars/JusperLee/AudioTrust..svg?style=social&label=Star)
