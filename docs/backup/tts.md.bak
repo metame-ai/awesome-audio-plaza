@@ -18,7 +18,7 @@
 
 ## TTS
 
-- [Autoregressive transformer models have proven highly effective for synthesizing speech from text.](https://huggingface.co/PlayHT/PlayDiffusion)  🤗
+- [Autoregressive transformer models have proven highly effective for synthesizing speech from text.](https://huggingface.co/PlayHT/PlayDiffusion)  🤗 
 - 🌟 **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable 
   Speaker Encoder**, `arXiv, 2505.07916`, [arxiv](http://arxiv.org/abs/2505.07916v1), [pdf](http://arxiv.org/pdf/2505.07916v1.pdf), cication: [**-1**](None) 
 
