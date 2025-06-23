@@ -18,6 +18,9 @@
 
 ## Survey
 
+- **Discrete Audio Tokens: More Than a Survey!**, `arXiv, 2506.10274`, [arxiv](http://arxiv.org/abs/2506.10274v2), [pdf](http://arxiv.org/pdf/2506.10274v2.pdf), cication: [**-1**](None) 
+
+	 *Pooneh Mousavi, Gallil Maimon, Adel Moumen, ..., Yossi Adi, Mirco Ravanelli*
 
 ## Detection
 

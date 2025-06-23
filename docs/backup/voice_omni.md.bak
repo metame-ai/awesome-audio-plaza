@@ -24,6 +24,8 @@
 
 ## Voice Omni
 
+- [Paper page - Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language  Model](https://huggingface.co/papers/2506.08967)
+- [Paper page - Stream-Omni: Simultaneous Multimodal Interactions with Large  Language-Vision-Speech Model](https://huggingface.co/papers/2506.13642)
 - **VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient 
   Large Speech-Language Model**, `arXiv, 2505.03739`, [arxiv](http://arxiv.org/abs/2505.03739v1), [pdf](http://arxiv.org/pdf/2505.03739v1.pdf), cication: [**-1**](None) 
 
