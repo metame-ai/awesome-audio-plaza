@@ -24,11 +24,11 @@
 
 ## Voice Omni
 
-- **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language
+- **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language 
   Model**, `arXiv, 2506.08967`, [arxiv](http://arxiv.org/abs/2506.08967v2), [pdf](http://arxiv.org/pdf/2506.08967v2.pdf), cication: [**-1**](None) 
 
 	 *Ailin Huang, Bingxin Li, Bruce Wang, ..., Shuchang Zhou, Chen Hu*
-- **Stream-Omni: Simultaneous Multimodal Interactions with Large
+- **Stream-Omni: Simultaneous Multimodal Interactions with Large 
   Language-Vision-Speech Model**, `arXiv, 2506.13642`, [arxiv](http://arxiv.org/abs/2506.13642v1), [pdf](http://arxiv.org/pdf/2506.13642v1.pdf), cication: [**-1**](None) 
 
 	 *Shaolei Zhang, Shoutao Guo, Qingkai Fang, ..., Yan Zhou, Yang Feng*

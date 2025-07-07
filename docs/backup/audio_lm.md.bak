@@ -11,7 +11,7 @@
 
 ## Papers
 
-- **FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal
+- **FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal 
   Contextual Fusion**, `arXiv, 2506.01111`, [arxiv](http://arxiv.org/abs/2506.01111v1), [pdf](http://arxiv.org/pdf/2506.01111v1.pdf), cication: [**-1**](None) 
 
 	 *Shunian Chen, Xinyuan Xie, Zheshu Chen, ..., Qilin Sun, Benyou Wang*
