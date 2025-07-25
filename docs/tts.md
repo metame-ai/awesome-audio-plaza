@@ -61,6 +61,9 @@
 
 ## Projects
 
+- [**MOSS-TTSD**](https://github.com/OpenMOSS/MOSS-TTSD) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/MOSS-TTSD.svg?style=social&label=Star)
+
+	 *Text to Spoken Dialogue Generation*
 - [**UniTTS**](https://github.com/IDEA-Emdoor-Lab/UniTTS) - IDEA-Emdoor-Lab ![Star](https://img.shields.io/github/stars/IDEA-Emdoor-Lab/UniTTS.svg?style=social&label=Star) 
 
 	 *An end-to-end TTS system without decoupling of acoustic and semantic information*
