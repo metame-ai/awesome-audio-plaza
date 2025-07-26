@@ -15,7 +15,10 @@
 
 ## Zero Shot TTS
 
-- [IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech](https://arxiv.org/abs/2506.21619)
+- **IndexTTS2: A Breakthrough in Emotionally Expressive and
+  Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**, `arXiv, 2506.21619`, [arxiv](http://arxiv.org/abs/2506.21619v1), [pdf](http://arxiv.org/pdf/2506.21619v1.pdf), cication: [**-1**](None) 
+
+	 *Siyi Zhou, Yiquan Zhou, Yi He, ..., Wei Deng, Jingchen Shu*
 - **CosyVoice 3: Towards In-the-wild Speech Generation via Scaling-up and 
   Post-training**, `arXiv, 2505.17589`, [arxiv](http://arxiv.org/abs/2505.17589v2), [pdf](http://arxiv.org/pdf/2505.17589v2.pdf), cication: [**-1**](None) 
 
