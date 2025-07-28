@@ -11,6 +11,10 @@
 
 ## Papers
 
+- [Paper page - Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large  Audio Language Models](https://huggingface.co/papers/2507.08128)
+   - [research.nvidia.com](https://research.nvidia.com/labs/adlr/AF3/)
+- [Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice](https://arxiv.org/abs/2507.17527)
+- [Paper page - Voxtral](https://huggingface.co/papers/2507.13264)
 - **FusionAudio-1.2M: Towards Fine-grained Audio Captioning with Multimodal 
   Contextual Fusion**, `arXiv, 2506.01111`, [arxiv](http://arxiv.org/abs/2506.01111v1), [pdf](http://arxiv.org/pdf/2506.01111v1.pdf), cication: [**-1**](None) 
 

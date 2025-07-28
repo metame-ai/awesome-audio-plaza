@@ -24,6 +24,9 @@
 
 ## Voice Omni
 
+- [Paper page - Step-Audio 2 Technical Report](https://huggingface.co/papers/2507.16632)
+   - [github.com](https://github.com/stepfun-ai/Step-Audio2)
+- [Paper page - STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for  Spoken Language Models](https://huggingface.co/papers/2507.15375)
 - **Step-Audio-AQAA: a Fully End-to-End Expressive Large Audio Language 
   Model**, `arXiv, 2506.08967`, [arxiv](http://arxiv.org/abs/2506.08967v2), [pdf](http://arxiv.org/pdf/2506.08967v2.pdf), cication: [**-1**](None) 
 

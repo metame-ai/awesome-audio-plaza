@@ -61,6 +61,9 @@
 
 ## Projects
 
+- 🌟 [**higgs-audio**](https://github.com/boson-ai/higgs-audio) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/higgs-audio.svg?style=social&label=Star)
+
+	 *Redefining Expressiveness in Audio Generation*
 - [**MOSS-TTSD**](https://github.com/OpenMOSS/MOSS-TTSD) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/MOSS-TTSD.svg?style=social&label=Star) 
 
 	 *Text to Spoken Dialogue Generation*

@@ -15,7 +15,7 @@
 
 ## Zero Shot TTS
 
-- **IndexTTS2: A Breakthrough in Emotionally Expressive and
+- **IndexTTS2: A Breakthrough in Emotionally Expressive and 
   Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**, `arXiv, 2506.21619`, [arxiv](http://arxiv.org/abs/2506.21619v1), [pdf](http://arxiv.org/pdf/2506.21619v1.pdf), cication: [**-1**](None) 
 
 	 *Siyi Zhou, Yiquan Zhou, Yi He, ..., Wei Deng, Jingchen Shu*
