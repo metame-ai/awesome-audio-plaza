@@ -11,11 +11,11 @@
 
 ## Papers
 
-- **Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large
+- **Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large 
   Audio Language Models**, `arXiv, 2507.08128`, [arxiv](http://arxiv.org/abs/2507.08128v1), [pdf](http://arxiv.org/pdf/2507.08128v1.pdf), cication: [**-1**](None) 
 
 	 *Arushi Goel, Sreyan Ghosh, Jaehyeon Kim, ..., Rafael Valle, Bryan Catanzaro* · ([research.nvidia](https://research.nvidia.com/labs/adlr/AF3/))
-- **Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech
+- **Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech 
   Translation with Your Voice**, `arXiv, 2507.17527`, [arxiv](http://arxiv.org/abs/2507.17527v2), [pdf](http://arxiv.org/pdf/2507.17527v2.pdf), cication: [**-1**](None) 
 
 	 *Shanbo Cheng, Yu Bao, Zhichao Huang, ..., Yuxuan Wang, Yonghui Wu*

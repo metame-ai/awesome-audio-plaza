@@ -61,7 +61,8 @@
 
 ## Projects
 
-- 🌟 [**higgs-audio**](https://github.com/boson-ai/higgs-audio) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/higgs-audio.svg?style=social&label=Star)
+- [**tts**](https://github.com/inworld-ai/tts) - inworld-ai ![Star](https://img.shields.io/github/stars/inworld-ai/tts.svg?style=social&label=Star)
+- 🌟 [**higgs-audio**](https://github.com/boson-ai/higgs-audio) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/higgs-audio.svg?style=social&label=Star) 
 
 	 *Redefining Expressiveness in Audio Generation*
 - [**MOSS-TTSD**](https://github.com/OpenMOSS/MOSS-TTSD) - OpenMOSS ![Star](https://img.shields.io/github/stars/OpenMOSS/MOSS-TTSD.svg?style=social&label=Star) 

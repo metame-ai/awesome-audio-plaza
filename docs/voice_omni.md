@@ -27,7 +27,7 @@
 - **Step-Audio 2 Technical Report**, `arXiv, 2507.16632`, [arxiv](http://arxiv.org/abs/2507.16632v2), [pdf](http://arxiv.org/pdf/2507.16632v2.pdf), cication: [**-1**](None) 
 
 	 *Boyong Wu, Chao Yan, Chen Hu, ..., Xiangyu Zhang, Yibo Zhu* · ([Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio2.svg?style=social&label=Star)
-- **STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for
+- **STITCH: Simultaneous Thinking and Talking with Chunked Reasoning for 
   Spoken Language Models**, `arXiv, 2507.15375`, [arxiv](http://arxiv.org/abs/2507.15375v1), [pdf](http://arxiv.org/pdf/2507.15375v1.pdf), cication: [**-1**](None) 
 
 	 *Cheng-Han Chiang, Xiaofei Wang, Linjie Li, ..., Hung-yi Lee, Lijuan Wang*
