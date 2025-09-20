@@ -63,7 +63,9 @@
 
 ## Projects
 
-- [IndexTTS2: A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech](https://github.com/index-tts/index-tts)
+- [**index-tts**](https://github.com/index-tts/index-tts) - index-tts ![Star](https://img.shields.io/github/stars/index-tts/index-tts.svg?style=social&label=Star)
+
+	 *A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech*
 - 🌟 [**chatterbox**](https://github.com/resemble-ai/chatterbox) - resemble-ai ![Star](https://img.shields.io/github/stars/resemble-ai/chatterbox.svg?style=social&label=Star) 
 - [**csm-voice-cloning**](https://github.com/isaiahbjork/csm-voice-cloning) - isaiahbjork ![Star](https://img.shields.io/github/stars/isaiahbjork/csm-voice-cloning.svg?style=social&label=Star) 
 - [**Spark-TTS**](https://github.com/SparkAudio/Spark-TTS) - SparkAudio ![Star](https://img.shields.io/github/stars/SparkAudio/Spark-TTS.svg?style=social&label=Star) 

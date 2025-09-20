@@ -14,7 +14,7 @@
 - **Representing Speech Through Autoregressive Prediction of Cochlear Tokens**, `arXiv, 2508.11598`, [arxiv](http://arxiv.org/abs/2508.11598v1), [pdf](http://arxiv.org/pdf/2508.11598v1.pdf), cication: [**-1**](None) 
 
 	 *Greta Tuckute, Klemen Kotar, Evelina Fedorenko, ..., Daniel L. K. Yamins*
-- **EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for
+- **EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for 
   Speech-to-Speech LLMs**, `arXiv, 2509.09174`, [arxiv](http://arxiv.org/abs/2509.09174v1), [pdf](http://arxiv.org/pdf/2509.09174v1.pdf), cication: [**-1**](None) 
 
 	 *Yuhao Zhang, Yuhao Du, Zhanchen Dai, ..., Benyou Wang, Haizhou Li*

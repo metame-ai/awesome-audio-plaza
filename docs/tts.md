@@ -61,14 +61,14 @@
 
 ## Projects
 
-- [**VibeVoice**](https://github.com/microsoft/VibeVoice) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/VibeVoice.svg?style=social&label=Star)
+- [**VibeVoice**](https://github.com/microsoft/VibeVoice) - microsoft ![Star](https://img.shields.io/github/stars/microsoft/VibeVoice.svg?style=social&label=Star) 
 
 	 *A Frontier Long Conversational Text-to-Speech Model*
-- [**marvis-tts**](https://github.com/Marvis-Labs/marvis-tts) - Marvis-Labs ![Star](https://img.shields.io/github/stars/Marvis-Labs/marvis-tts.svg?style=social&label=Star)
+- [**marvis-tts**](https://github.com/Marvis-Labs/marvis-tts) - Marvis-Labs ![Star](https://img.shields.io/github/stars/Marvis-Labs/marvis-tts.svg?style=social&label=Star) 
 - 🌟 **VibeVoice Technical Report**, `arXiv, 2508.19205`, [arxiv](http://arxiv.org/abs/2508.19205v1), [pdf](http://arxiv.org/pdf/2508.19205v1.pdf), cication: [**-1**](None) 
 
 	 *Zhiliang Peng, Jianwei Yu, Wenhui Wang, ..., Yan Xia, Furu Wei*
-- **AudioStory: Generating Long-Form Narrative Audio with Large Language
+- **AudioStory: Generating Long-Form Narrative Audio with Large Language 
   Models**, `arXiv, 2508.20088`, [arxiv](http://arxiv.org/abs/2508.20088v1), [pdf](http://arxiv.org/pdf/2508.20088v1.pdf), cication: [**-1**](None) 
 
 	 *Yuxin Guo, Teng Wang, Yuying Ge, ..., Wei Zou, Ying Shan*

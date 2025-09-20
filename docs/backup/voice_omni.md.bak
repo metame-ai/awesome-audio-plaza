@@ -24,7 +24,9 @@
 
 ## Voice Omni
 
-- [EgoMem: Lifelong Memory Agent for Full-duplex Omnimodal Models](https://arxiv.org/abs/2509.11914)
+- **EgoMem: Lifelong Memory Agent for Full-duplex Omnimodal Models**, `arXiv, 2509.11914`, [arxiv](http://arxiv.org/abs/2509.11914v1), [pdf](http://arxiv.org/pdf/2509.11914v1.pdf), cication: [**-1**](None) 
+
+	 *Yiqun Yao, Naitong Yu, Xiang Li, ..., Aixin Sun, Yequan Wang*
 - **Step-Audio 2 Technical Report**, `arXiv, 2507.16632`, [arxiv](http://arxiv.org/abs/2507.16632v2), [pdf](http://arxiv.org/pdf/2507.16632v2.pdf), cication: [**-1**](None) 
 
 	 *Boyong Wu, Chao Yan, Chen Hu, ..., Xiangyu Zhang, Yibo Zhu* · ([Step-Audio2](https://github.com/stepfun-ai/Step-Audio2) - stepfun-ai) ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio2.svg?style=social&label=Star)
