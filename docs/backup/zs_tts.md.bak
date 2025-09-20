@@ -63,7 +63,7 @@
 
 ## Projects
 
-- [**index-tts**](https://github.com/index-tts/index-tts) - index-tts ![Star](https://img.shields.io/github/stars/index-tts/index-tts.svg?style=social&label=Star)
+- [**index-tts**](https://github.com/index-tts/index-tts) - index-tts ![Star](https://img.shields.io/github/stars/index-tts/index-tts.svg?style=social&label=Star) 
 
 	 *A Breakthrough in Emotionally Expressive and Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech*
 - 🌟 [**chatterbox**](https://github.com/resemble-ai/chatterbox) - resemble-ai ![Star](https://img.shields.io/github/stars/resemble-ai/chatterbox.svg?style=social&label=Star) 
