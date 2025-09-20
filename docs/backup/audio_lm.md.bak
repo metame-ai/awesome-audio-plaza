@@ -11,6 +11,8 @@
 
 ## Papers
 
+- [Paper page - Representing Speech Through Autoregressive Prediction of Cochlear Tokens](https://huggingface.co/papers/2508.11598)
+- [Paper page - EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for  Speech-to-Speech LLMs](https://huggingface.co/papers/2509.09174)
 - **Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large 
   Audio Language Models**, `arXiv, 2507.08128`, [arxiv](http://arxiv.org/abs/2507.08128v1), [pdf](http://arxiv.org/pdf/2507.08128v1.pdf), cication: [**-1**](None) 
 

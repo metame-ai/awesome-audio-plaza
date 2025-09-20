@@ -61,6 +61,10 @@
 
 ## Projects
 
+- [🎙️ VibeVoice: A Frontier Long Conversational Text-to-Speech Model](https://github.com/microsoft/VibeVoice)
+- [Marvis is a cutting-edge conversational speech model designed to enable real-time voice cloning and streaming text-to-speech synthesis.](https://github.com/Marvis-Labs/marvis-tts)
+- [Paper page - VibeVoice Technical Report](https://huggingface.co/papers/2508.19205)|star|
+- [Paper page - AudioStory: Generating Long-Form Narrative Audio with Large Language  Models](https://huggingface.co/papers/2508.20088)
 - [**tts**](https://github.com/inworld-ai/tts) - inworld-ai ![Star](https://img.shields.io/github/stars/inworld-ai/tts.svg?style=social&label=Star) 
 - 🌟 [**higgs-audio**](https://github.com/boson-ai/higgs-audio) - boson-ai ![Star](https://img.shields.io/github/stars/boson-ai/higgs-audio.svg?style=social&label=Star) 
 
