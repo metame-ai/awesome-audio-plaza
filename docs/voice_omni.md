@@ -232,6 +232,7 @@
 - [Introducing OCTAVE, a next-generation speech-language model.](https://x.com/hume_ai/status/1871263932742246513)  𝕏 
 - [Project Astra: Exploring a Universal AI Assistant with Greg Wayne](https://www.youtube.com/watch?v=ctWfv4WUp2I)  :clapper: 
 - [voice AI hackathon](https://x.com/hingeloss/status/1851260286415593487)  𝕏 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 
 ## Datasets
 
