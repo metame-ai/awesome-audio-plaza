@@ -68,6 +68,8 @@
 
 ## Products
 
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrumental tracks using AI
+
 - [New generative AI tools open the doors of music creation](https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/) 
 
 ## Misc
