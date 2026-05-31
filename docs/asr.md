@@ -35,8 +35,18 @@
 
 	 *Nat Jeffries, Evan King, Manjunath Kudlur, ..., James Wang, Pete Warden* · ([moonshine](https://github.com/usefulsensors/moonshine?tab=readme-ov-file) - usefulsensors) ![Star](https://img.shields.io/github/stars/usefulsensors/moonshine.svg?style=social&label=Star)
 
+- **FunASR: A Fundamental End-to-End Speech Recognition Toolkit**, `arXiv, 2305.11013`, [arxiv](http://arxiv.org/abs/2305.11013), [pdf](http://arxiv.org/pdf/2305.11013.pdf), cication: [**-1**](None) 
+
+	 *Zhifu Gao, Zerui Li, Jiaming Wang, ..., Shiliang Zhang, Jian Wu* · ([FunASR](https://github.com/modelscope/FunASR) - modelscope) ![Star](https://img.shields.io/github/stars/modelscope/FunASR.svg?style=social&label=Star) · ([funasr.com](https://www.funasr.com))
+- **SenseVoice: Multilingual Speech Understanding with Non-Autoregressive Architecture**, [github](https://github.com/FunAudioLLM/SenseVoice) 
+
+	 *FunAudioLLM, Tongyi Lab* · ([SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - FunAudioLLM) ![Star](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice.svg?style=social&label=Star) · ([huggingface](https://huggingface.co/FunAudioLLM/SenseVoiceSmall))
+
 ## Projects
 
+- [**FunASR**](https://github.com/modelscope/FunASR) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/FunASR.svg?style=social&label=Star) 
+- [**SenseVoice**](https://github.com/FunAudioLLM/SenseVoice) - FunAudioLLM ![Star](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice.svg?style=social&label=Star) 
+- [**FunClip**](https://github.com/modelscope/FunClip) - modelscope ![Star](https://img.shields.io/github/stars/modelscope/FunClip.svg?style=social&label=Star) 
 - [**meeting-minutes**](https://github.com/Zackriya-Solutions/meeting-minutes) - Zackriya-Solutions ![Star](https://img.shields.io/github/stars/Zackriya-Solutions/meeting-minutes.svg?style=social&label=Star) 
 - [**RealtimeSTT**](https://github.com/KoljaB/RealtimeSTT) - KoljaB ![Star](https://img.shields.io/github/stars/KoljaB/RealtimeSTT.svg?style=social&label=Star) 
 - [**transformers.js-examples**](https://github.com/huggingface/transformers.js-examples/tree/main/moonshine-web) - huggingface ![Star](https://img.shields.io/github/stars/huggingface/transformers.js-examples.svg?style=social&label=Star) 
@@ -63,6 +73,7 @@
 
 ## Toolkits
 
+- [**FunASR**](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 50+ languages, VAD, punctuation, speaker diarization, emotion detection. OpenAI-compatible API server. ![Star](https://img.shields.io/github/stars/modelscope/FunASR.svg?style=social&label=Star)
 
 ## Products
 
